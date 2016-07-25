@@ -12,7 +12,11 @@ Para o projeto multidisciplinar foi necessário a integração entre os estudant
 
 [Métodos de Desenvolvimento de _Software_][mds] é uma disciplina que trabalha no estudante conhecimentos relativos a diferentes modelos de ciclo de vida para um projeto _software_. Faz com que o estudante seja estimulado a compreender os diferentes aspectos de cada modelo, identificando suas características e quando usar um em detrimento de outro.
 
-Sendo assim, o projeto visa utilizar ambas as disciplinas com o intuito de produzir um _software_, onde os estudantes são estimulados a utilizar não apenas o conhecimento adquirido nas disciplinas, mas em toda a sua caminhada pela faculdade até o momento.
+Sendo assim, o projeto visa utilizar ambas as disciplinas com o intuito de produzir um _software_, onde os estudantes são estimulados a utilizar não apenas o conhecimento adquirido nas disciplinas, mas em toda a sua caminhada pela faculdade até o momento. Os estudantes se dividem em grupos, mesclando estudantes que estejam cursando ambas as disciplinas. Cada grupo seleciona um tema e deve chegar ao fim do semestre com um _software_. A produção desse _software_ é acompanhada pelo professor e por um equipe de monitores, afim de auxiliar os grupos.
+
+Outro ponto importante é que durante o desenvolvimento dos projetos de cada grupo, em um dado momento, o modelo de produção de _software_ deve ser alterado. Os grupos iniciam a produção utilizando metodologias tradicionais (PMBOK/RUP) e, na metade do semestre, os modelos metodológicos de desenvolvimento a serem adotados passam a ser os ágeis (SCRUM/XP). Dessa forma, o estudante tem a possibilidade de vivenciar ambas as metodologias.
+
+
 
 [fga]: https://fga.unb.br/
 [carla]: https://fga.unb.br/carla.rocha
