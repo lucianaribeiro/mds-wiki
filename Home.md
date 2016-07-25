@@ -3,4 +3,16 @@ Bem-vindo às disciplinas de Gestão de Portfólios e Projetos de _Software_ e M
 
 Desde meados de ####(ano) essas duas disciplinas passaram a fazer parte de um projeto multidisciplinar. Esse consiste em criar um ambiente de produção de _software_ a partir da interação entre os estudantes de GPP (Gestão de Portfólios e Projetos de _Software_) e MDS (Métodos de Desenvolvimento de _Software_). Por meio desse ambiente, os estudantes passaram a ter uma experiência mais completa de todo o processo de produção de _software_. Isso permitiu também que os estudantes experimentassem os conhecimentos adquiridos em um nível mais prático, conferindo conhecimento prático ainda na faculdade.
 
-Essa metodologia de ensino das duas disciplinas foi iniciado pelo professor Hilmer Neri, na FGA (Faculdade Gama), na Universidade de Brasília. Atualmente, essas duas disciplinas são ministradas pela professora Carla Rocha, que adotou a metodologia multidisciplinar de GPP e MDS.
+Essa metodologia de ensino das duas disciplinas foi iniciada pelo professor Hilmer Neri, na FGA (Faculdade Gama), na Universidade de Brasília. Atualmente, essas duas disciplinas são ministradas pela professora Carla Rocha, que adotou a metodologia multidisciplinar de GPP e MDS.
+
+## Um Pouco da Metodologia
+Para o projeto multidisciplinar foi necessário a integração entre os estudantes da disciplina de [GPP][gpp] e [MDS][mds].
+
+[Gestão de Portfólios e Projetos de _software_][gpp] é uma disciplina que visa dar ao estudante uma gama de conhecimentos e técnicas, com o intuito de permitir a boa gestão estratégica de projetos de _software_. Isso transpassa a gestão de escopo, tempo, custos, qualidade e diversos outros contextos do projeto.
+
+[Métodos de Desenvolvimento de _Software_][mds] é uma disciplina que trabalha no estudante conhecimentos relativos a diferentes modelos de ciclo de vida para um projeto _software_. Faz com que o estudante seja estimulado a compreender os diferentes aspectos de cada modelo, identificando suas características e quando usar um em detrimento de outro.
+
+Sendo assim, o projeto visa utilizar ambas as disciplinas com o intuito de produzir um _software_, onde os estudantes são estimulados a utilizar não apenas o conhecimento adquirido nas disciplinas, mas em toda a sua caminhada pela faculdade até o momento.
+
+[gpp]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Gest%C3%A3o-de-Portf%C3%B3lios-e-Projetos-de-Software
+[mds]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/M%C3%A9todos-de-Desenvolvimento-de-Software
