@@ -1,9 +1,9 @@
-##### [Introdução][home]
-[Motivação][motivation]
+##### 1. [Introdução][home]
+1.1 [Motivação][motivation]
 
-[Um Pouco da Metodologia][brief-methodology]
-##### [Métodos de Desenvolvimento de Software][mds]
-##### [Gestão de Portfólio e Projetos de Software][gpp]
+1.2 [Um Pouco da Metodologia][brief-methodology]
+##### 2. [Métodos de Desenvolvimento de Software][mds]
+##### 3. [Gestão de Portfólio e Projetos de Software][gpp]
 
 [home]: https://github.com/fga-gpp-mds/00-Disciplina/wiki
 [gpp]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Gest%C3%A3o-de-Portf%C3%B3lios-e-Projetos-de-Software
