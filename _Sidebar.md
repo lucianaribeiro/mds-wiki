@@ -1,6 +1,6 @@
 ##### [Introdução][home]
-###### [Motivação][motivation]
-###### [Um Pouco da Metodologia][brief-methodology]
+[Motivação][motivation]
+[Um Pouco da Metodologia][brief-methodology]
 ##### [Métodos de Desenvolvimento de Software][mds]
 ##### [Gestão de Portfólio e Projetos de Software][gpp]
 
