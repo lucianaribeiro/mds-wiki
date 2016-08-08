@@ -10,3 +10,5 @@ A primeira semana de aula é dedicada a organização da disciplina, dos grupos,
 * O nome dos componentes de cada grupo, tema do grupo, tecnologia, coaches, deve estar disponível em (cada grupo deve preencher seus próprios dados):
 
 [https://docs.google.com/spreadsheets/d/1MWOjCp5DL3u2YN79yDvYXDlXTTdEWb3XoTPhBWfPMMY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1MWOjCp5DL3u2YN79yDvYXDlXTTdEWb3XoTPhBWfPMMY/edit?usp=sharing)
+
+## Tarefas GPP
