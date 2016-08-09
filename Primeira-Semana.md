@@ -17,6 +17,8 @@ A primeira semana de aula é dedicada a organização da disciplina, dos grupos,
 
 [https://docs.google.com/spreadsheets/d/1im-DhuzjdFtgxQHyEDK6CydqjaxYSQ3bzE6GoFlClgo/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1im-DhuzjdFtgxQHyEDK6CydqjaxYSQ3bzE6GoFlClgo/edit?usp=sharing)
 
+* Chamada Virtual
+[https://docs.google.com/spreadsheets/d/1GlJB7rFt9V6npXqb8s8lScYEOrPfb7fZtPIPklPBHP0/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1GlJB7rFt9V6npXqb8s8lScYEOrPfb7fZtPIPklPBHP0/edit?usp=sharing)
 
 ## Tarefa MDS (Primeira semana)
 
