@@ -1,5 +1,6 @@
 ##### [Introdução][home]
 [Motivação][motivation]
+
 [Primeira Semana][Primeira-Semana]
 
 [Um Pouco da Metodologia][brief-methodology]
