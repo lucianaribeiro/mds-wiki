@@ -23,3 +23,6 @@ A primeira semana de aula é dedicada a organização da disciplina, dos grupos,
 * A tarefa, descrita pelo professor no primeiro dia de aula, deve ser registrada em:
 
 [https://docs.google.com/spreadsheets/d/1srmRVovNyhJnXh0chPNYh47z8IHmX6vad3pafOsEt_o/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1srmRVovNyhJnXh0chPNYh47z8IHmX6vad3pafOsEt_o/edit?usp=sharing)
+
+* Chamada Virtual
+[https://docs.google.com/spreadsheets/d/1GlJB7rFt9V6npXqb8s8lScYEOrPfb7fZtPIPklPBHP0/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1GlJB7rFt9V6npXqb8s8lScYEOrPfb7fZtPIPklPBHP0/edit?usp=sharing)
