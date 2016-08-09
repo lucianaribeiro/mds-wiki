@@ -11,4 +11,15 @@ A primeira semana de aula é dedicada a organização da disciplina, dos grupos,
 
 [https://docs.google.com/spreadsheets/d/1MWOjCp5DL3u2YN79yDvYXDlXTTdEWb3XoTPhBWfPMMY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1MWOjCp5DL3u2YN79yDvYXDlXTTdEWb3XoTPhBWfPMMY/edit?usp=sharing)
 
-## Tarefas GPP
+## Tarefas GPP (Primeira semana)
+
+* A tarefa, descrita pelo professor no primeiro dia de aula, deve ser registrada em:
+
+[https://docs.google.com/spreadsheets/d/1im-DhuzjdFtgxQHyEDK6CydqjaxYSQ3bzE6GoFlClgo/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1im-DhuzjdFtgxQHyEDK6CydqjaxYSQ3bzE6GoFlClgo/edit?usp=sharing)
+
+
+## Tarefa MDS (Primeira semana)
+
+* A tarefa, descrita pelo professor no primeiro dia de aula, deve ser registrada em:
+
+[https://docs.google.com/spreadsheets/d/1srmRVovNyhJnXh0chPNYh47z8IHmX6vad3pafOsEt_o/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1srmRVovNyhJnXh0chPNYh47z8IHmX6vad3pafOsEt_o/edit?usp=sharing)
