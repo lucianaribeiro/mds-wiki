@@ -1,14 +1,14 @@
 ## Bem vindo a GPP
 
-# O que é projeto?
+### O que é projeto?
 
-# Qual o papel do gerente de projeto?
+### Qual o papel do gerente de projeto?
 
-# O que gerentes de projetos bem sucedidos fazem?
+### O que gerentes de projetos bem sucedidos fazem?
 
 A partir do texto:
 
 http://sloanreview.mit.edu/article/what-successful-project-managers-do/
 
-# Quais são os principais motivos do fracasso de projetos?
+### Quais são os principais motivos do fracasso de projetos?
 
