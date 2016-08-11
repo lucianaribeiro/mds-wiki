@@ -10,4 +10,10 @@ Temas propostos para o semestre de 2016.2
 
 5. Monitoramento de consumo de energia - Energia - **web**
 
-6.  
+6.  Portal FGA - **Mobile**
+
+7. Radar Parlamentar - **Mobile**  - https://github.com/radar-parlamentar/radar
+
+8.
+
+9.
