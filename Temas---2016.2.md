@@ -14,6 +14,6 @@ Temas propostos para o semestre de 2016.2
 
 7. Radar Parlamentar - **Mobile**  - https://github.com/radar-parlamentar/radar - Cliente: Equipe Radar
 
-8.
+8. Wikilegis - **Mobile**  http://wikilegis.labhackercd.net/
 
-9.
+9. Fomento de desenvolvimento de apps civicos - tcu
