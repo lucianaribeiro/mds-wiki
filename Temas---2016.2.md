@@ -8,7 +8,7 @@ Temas propostos para o semestre de 2016.2
 
 4. Sistema de Apoio à Atividade Parlamentar (SAAP) -  https://colab.interlegis.leg.br/wiki/ProjetoSaap - Restrição: **python/Django** - Clientes: Interlegis
 
-5. Monitoramento de consumo de energia - Energia - **web** - Clientes: Professora Loana e Aluno Brenddon
+5. Monitoramento de consumo de energia - Energia - **web** - Clientes: Professora Loana e Aluno Brenddon - https://gitlab.com/brenddongontijo/SME-UnB -- brenddongontijo@gmail.com
 
 6.  Portal FGA - **Mobile** - Ionic (já possui um primeiro protótipo) - Cliente: equipe portal
 
