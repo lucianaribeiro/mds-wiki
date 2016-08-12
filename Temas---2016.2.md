@@ -1,10 +1,10 @@
 Temas propostos para o semestre de 2016.2
 
-1.  Jardim Botânico - **Mobile** - Cliente: Jardim Botânico
+1.  Jardim Botânico - **Mobile** - Cliente: Jardim Botânico -- Vania Araujo Soares <vaniasoares.jbb@gmail.com>
 
 2.  Jardim Botânico - **Web** - Cliente: Jardim Botânico -- Vania Araujo Soares <vaniasoares.jbb@gmail.com>
 
-3. Alocação de espaço UnB - **web** - Clientes: Coordenação FGA
+3. Alocação de espaço UnB - **web** - Clientes: Coordenação FGA -- rocha.carla@gmail.com
 
 4. Sistema de Apoio à Atividade Parlamentar (SAAP) -  https://colab.interlegis.leg.br/wiki/ProjetoSaap - Restrição: **python/Django** - Clientes: Interlegis
 
