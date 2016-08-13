@@ -16,4 +16,6 @@ Temas propostos para o semestre de 2016.2
 
 8. Wikilegis - **Mobile**  http://wikilegis.labhackercd.net/
 
-9. Fomento de desenvolvimento de apps civicos - tcu - http://portal.tcu.gov.br/inovatcu/projetos/programa-reconhe-ser-trabalhos-inovadores-desenvolvimento-de-aplicativos-moveis-no-tcu.shtml
+9. Fomento de desenvolvimento de apps civicos - tcu (não é implementar apps para androids) - 
+
+10. Cidade democratica - https://github.com/cidadedemocratica/cidadedemocratica (www.cidadedemocratica.org.br) - clientes: Henrique Parra Parra Filho <henrique@cidadedemocratica.org.br>, Ricardo Poppi <ricabras@gmail.com>
