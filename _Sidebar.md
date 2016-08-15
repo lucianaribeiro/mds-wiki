@@ -10,8 +10,9 @@
 ##### [Métodos de Desenvolvimento de Software][mds]
 ##### [Gestão de Portfólio e Projetos de Software][gpp]
 
-##### [Semestre 2016.2]
+##### [Semestre 2016.2][2016.2-themes]
 [Temas][2016.2-themes]
+
 [Primeira Semana][2016.2-first-week]
 
 [home]: https://github.com/fga-gpp-mds/00-Disciplina/wiki
