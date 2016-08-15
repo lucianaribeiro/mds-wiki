@@ -14,7 +14,7 @@ Temas propostos para o semestre de 2016.2
 
 7. Radar Parlamentar - **Mobile**  - https://github.com/radar-parlamentar/radar - Cliente: Equipe Radar
 
-8. Wikilegis - **Mobile**  http://wikilegis.labhackercd.net/
+8. Wikilegis - **Mobile**  http://wikilegis.labhackercd.net/ - Clientes: labhacker camara dos deputados (Matheus Fernandes, aluno FGA)
 
 9. Fomento de desenvolvimento de apps civicos - tcu (não é implementar apps para androids) - 
 
