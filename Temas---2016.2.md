@@ -18,4 +18,4 @@ Temas propostos para o semestre de 2016.2
 
 9. Fomento de desenvolvimento de apps civicos - tcu (não é implementar apps para androids) - 
 
-10. Cidade democratica - https://github.com/cidadedemocratica/cidadedemocratica (www.cidadedemocratica.org.br) - clientes: Henrique Parra Parra Filho <henrique@cidadedemocratica.org.br>, Ricardo Poppi <ricabras@gmail.com>
+10. Cidade democratica - https://github.com/cidadedemocratica/cidadedemocratica (www.cidadedemocratica.org.br) - clientes: Henrique Parra Parra Filho <henrique@cidadedemocratica.org.br>, Ricardo Poppi <ricabras@gmail.com> -- https://docs.google.com/document/d/1Jcune7l4QcPhXwJw6WxXkBu4pyDh4xPUQHoOA6Rr6Jw/edit?usp=sharing
