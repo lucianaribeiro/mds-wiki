@@ -10,11 +10,6 @@
 ##### [Métodos de Desenvolvimento de Software][mds]
 ##### [Gestão de Portfólio e Projetos de Software][gpp]
 
-##### [Semestre 2016.2][2016.2-themes]
-[Temas][2016.2-themes]
-
-[Primeira Semana][2016.2-first-week]
-
 [home]: https://github.com/fga-gpp-mds/00-Disciplina/wiki
 [gpp]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Gest%C3%A3o-de-Portf%C3%B3lios-e-Projetos-de-Software
 [mds]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/M%C3%A9todos-de-Desenvolvimento-de-Software
@@ -24,6 +19,3 @@
 
 [Primeira-Semana]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Primeira-Semana
 [Projetos]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Temas---2016.2
-
-[2016.2-themes]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Temas---2016.2
-[2016.2-first-week]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Primeira-Semana
