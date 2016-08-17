@@ -9,9 +9,9 @@
 
 # [Métodos de Desenvolvimento de Software][mds]
 ## "Material Técnico"
-### "Python/Django": [https://github.com/fga-gpp-mds/00-Disciplina/wiki/Python-Django]
-### "Ruby on Rails": [https://github.com/fga-gpp-mds/00-Disciplina/wiki/Rails]
-### "Android": [https://github.com/fga-gpp-mds/00-Disciplina/wiki/Android]
+### [Python/Django][python]
+### [Ruby on Rails][rails] 
+### [Android][android]
 # [Gestão de Portfólio e Projetos de Software][gpp]
 
 [home]: https://github.com/fga-gpp-mds/00-Disciplina/wiki
@@ -23,3 +23,6 @@
 
 [Primeira-Semana]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Primeira-Semana
 [Projetos]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Temas---2016.2
+[python]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Python-Django
+[rails]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Rails
+[android]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Android
