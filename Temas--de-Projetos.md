@@ -44,4 +44,5 @@ Portal FGA - **Mobile** - Ionic (já possui um primeiro protótipo) - Cliente: e
 
  Fomento de desenvolvimento de apps civicos - tcu (não é implementar apps para androids) - 
 ***
-
+ 
+Floss coach - http://www.flosscoach.com/ - integração com github - Cliente: Camilla
