@@ -22,7 +22,7 @@
 [brief-methodology]: https://github.com/fga-gpp-mds/00-Disciplina/wiki#um-pouco-da-metodologia
 
 [Primeira-Semana]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Primeira-Semana
-[Projetos]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Temas---2016.2
+[Projetos]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Temas--de-Projetos
 [python]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Python-Django
 [rails]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Rails
 [android]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Android
