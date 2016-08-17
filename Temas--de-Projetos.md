@@ -1,6 +1,8 @@
 Temas propostos para o semestre de 2016.2
 
-1. **Grupo 02** Jardim Botânico - **Mobile** - Cliente: Jardim Botânico -- Vania Araujo Soares <vaniasoares.jbb@gmail.com>
+1. **Grupo 02** 
+***
+Jardim Botânico - **Mobile** - Cliente: Jardim Botânico -- Vania Araujo Soares <vaniasoares.jbb@gmail.com>
 
 2. **Grupo 06** Jardim Botânico - **Web** - Cliente: Jardim Botânico -- Vania Araujo Soares <vaniasoares.jbb@gmail.com>
 
