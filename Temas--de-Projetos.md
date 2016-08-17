@@ -16,18 +16,26 @@ Aulas interativas - Clientes: ??
 
 Observatório de sustentabilidade -  Cliente: Lacis Professora Vitória
 ***
+**Grupo 05** 
+
+Alocação de espaço UnB - **web** - Clientes: Coordenação FGA -- rocha.carla@gmail.com
+***
 **Grupo 06** 
 
 Jardim Botânico - **Web** - Cliente: Jardim Botânico -- Vania Araujo Soares <vaniasoares.jbb@gmail.com>
+***
+**Grupo 07** 
+
+Monitoramento de consumo de energia - Energia - **web** - Clientes: Professora Loana e Aluno Brenddon - https://gitlab.com/brenddongontijo/SME-UnB -- brenddongontijo@gmail.com
+***
+**Grupo 08**
+
+ Cidade democratica - https://github.com/cidadedemocratica/cidadedemocratica (www.cidadedemocratica.org.br) - clientes: Henrique Parra Parra Filho <henrique@cidadedemocratica.org.br>, Ricardo Poppi <ricabras@gmail.com> -- https://docs.google.com/document/d/1Jcune7l4QcPhXwJw6WxXkBu4pyDh4xPUQHoOA6Rr6Jw/edit?usp=sharing
 ***
 
 **Grupo 09** 
 
 Sistema de Apoio à Atividade Parlamentar (SAAP) -  https://colab.interlegis.leg.br/wiki/ProjetoSaap - Restrição: **python/Django** - Clientes: Interlegis
-***
-**Grupo 07** 
-
-Monitoramento de consumo de energia - Energia - **web** - Clientes: Professora Loana e Aluno Brenddon - https://gitlab.com/brenddongontijo/SME-UnB -- brenddongontijo@gmail.com
 ***
 Portal FGA - **Mobile** - Ionic (já possui um primeiro protótipo) - Cliente: equipe portal -  webmaster.fga@gmail.com
 ***
@@ -35,9 +43,5 @@ Portal FGA - **Mobile** - Ionic (já possui um primeiro protótipo) - Cliente: e
 ***
 
  Fomento de desenvolvimento de apps civicos - tcu (não é implementar apps para androids) - 
-***
- **Grupo 08**
-
- Cidade democratica - https://github.com/cidadedemocratica/cidadedemocratica (www.cidadedemocratica.org.br) - clientes: Henrique Parra Parra Filho <henrique@cidadedemocratica.org.br>, Ricardo Poppi <ricabras@gmail.com> -- https://docs.google.com/document/d/1Jcune7l4QcPhXwJw6WxXkBu4pyDh4xPUQHoOA6Rr6Jw/edit?usp=sharing
 ***
 
