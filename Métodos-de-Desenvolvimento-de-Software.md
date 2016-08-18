@@ -1,6 +1,9 @@
 ## Bem vindo a MDS
 
 ### O que é Processo de Desenvolvimento de Software
+  Para Pressman um processo é um conjunto de atividades, ações e tarefas realizadas na 
+criação de algum produto de trabalho (work product). Uma atividade esforça­se para atingir 
+um objetivo amplo (por exemplo, comunicar­se com os interessados) e é utilizada independentemente do campo de aplicação, do tamanho do projeto, da complexidade de esforços ou do grau de rigor com que a engenharia de software será aplicada. 
 
 ### O que é modelo de processo de software
 
