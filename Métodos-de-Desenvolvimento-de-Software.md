@@ -9,6 +9,11 @@ Na engenharia de software, um processo não é uma prescrição rígida de como 
 
 ### O que é modelo de processo de software
 
+É uma representação abstrata de um processo de software. Cada modelo representa um processo a partir de uma perspectiva particular.
+Modelos de processo de software são utilizados para explicar diferentes abordagens do desenvolvimento de software. Definem a sequência em que as atividades do processo serão realizadas.
+Não são descrições definitivas de processo de software, mas sim abstrações úteis, que podem ser usadas em diferentes abordagens.
+
+
 ### Fases do ciclo de vida de software
 
 #### Objetivos de cada fase do ciclo de vida de software
