@@ -32,11 +32,11 @@ Não são descrições definitivas de processo de software, mas sim abstrações
 
     - Design dos algoritmos e estruturas de dado: Visa determinar, de maneira independente da linguagem de programação adotada, as soluções algorítmicas e as estruturas de dados associadas.
 
-A fase de Design ou Projeto, é a fase final do processo de planejamento e resulta no documento de arquitetura.
+    A fase de Design ou Projeto, é a fase final do processo de planejamento e resulta no documento de arquitetura.
 
-- Implementação: Envolve as atividades de codificação, compilação, integração. Traduzindo a parte de design em linguagem de programação.
+- Implementação: Envolve as atividades de codificação, compilação, integração e testes. A codificação visa traduzir o design em um programa, utilizando linguagens e ferramentas adequadas. A codificação deve refletir a estrutura e o comportamento descrito no design. Os componentes arquiteturais devem ser codificados de forma independente e depois integrados. Os testes podem ser iniciados durante a fase de implementação. A depuração de erros ocorre durante a programação utilizando algumas técnicas e ferramentas. É fundamental um controle e gerenciamento de versões para que se tenha um controle correto de tudo o que está sendo codificado.
 
-- Verificação e Validação: Compreende em toda a parte de testes e verificar se as funcionalidades do programa atendem a todos os requisitos formulados na primeira fase. Os testes são para correção, desempenho e confiabilidade, garantindo a qualidade do software.
+- Verificação e Validação: Destinam-se a mostrar que o sistema está de acordo com a especificação e que ele atende às expectativas de clientes e usuários. A validação visa assegurar se o programa está fazendo aquilo que foi definido na sua especificação. A verificação visa verificar se o programa está correto, isto é, não possui erros de execução. Os testes são para correção, desempenho e confiabilidade, garantindo a qualidade do software.
 
 - Manutenção: A parte de manutenção envolve melhorar o software a demanda do(s) cliente(s), seja por falhas do programa ou simplesmente por melhorias que o cliente precisa.
 
