@@ -16,6 +16,13 @@ Não são descrições definitivas de processo de software, mas sim abstrações
 
 ### Fases do ciclo de vida de software
 
+- Levantamento de Requisitos: define as funcionalidades e as necessidades, resultando no escopo e no documento de visão. Podemos separar os requisitos em três categoria: Funcionais (são relacionados às funcionalidades do software), Não Funcionais (são relacionados às necessidades do software) e Inversos (são as funções que não devem apresentar).
+     - Design: propor e arquitetar uma solução, a parte final do processo de planejamento. Resulta no documento de arquitetura.
+     - Implementação: envolve as atividades de codificação, compilação, integração. Traduzindo a parte de design em linguagem de programação.
+     - Verificação e Validação: Compreende em toda a parte de testes e verificar se as funcionalidades do programa atendem a todos os requisitos formulados na primeira fase. Os testes são para correção, desempenho e confiabilidade, garantindo a qualidade do software.
+     - Manutenção: A parte de manutenção envolve melhorar o software a demanda do(s) cliente(s), seja por falhas do programa ou simplesmente por melhorias que o cliente precisa.
+
+
 #### Objetivos de cada fase do ciclo de vida de software
 
 ### Estudo de caso da influencia do modelo de processo no sucesso de um projeto 
