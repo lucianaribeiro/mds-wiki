@@ -16,29 +16,29 @@ Não são descrições definitivas de processo de software, mas sim abstrações
 
 ### Fases do ciclo de vida de software
 
-- Levantamento de Requisitos: Define as funcionalidades e as necessidades do produto, resultando no escopo e no documento de visão. Podemos separar os requisitos em três categoria:
+- **Levantamento de Requisitos:** Define as funcionalidades e as necessidades do produto, resultando no escopo e no documento de visão. Podemos separar os requisitos em três categoria:
 
-    - Funcionais: São os requisitos relacionados às funcionalidades do software;
-    - Não Funcionais: São os requisitos relacionados às necessidades do software;
-    - Inversos: São os requisitos que definem o que o software não pode fazer.
+    - **Funcionais:** São os requisitos relacionados às funcionalidades do software;
+    - **Não Funcionais:** São os requisitos relacionados às necessidades do software;
+    - **Inversos:** São os requisitos que definem o que o software não pode fazer.
 
-- Design/Projeto: A atividade de design compreende todo o esforço de concepção e modelagem que têm por objetivo descrever como o software será implementado. O design inclui:
+- **Design/Projeto:** A atividade de design compreende todo o esforço de concepção e modelagem que têm por objetivo descrever como o software será implementado. O design inclui:
 
-    - O design conceitual: Que envolve a elaboração das ideias e conceitos básicos que determinam os elementos fundamentais do software em questão. O design conceitual têm influência na interface do usuário e na arquitetura do software.
+    - **O design conceitual:** Que envolve a elaboração das ideias e conceitos básicos que determinam os elementos fundamentais do software em questão. O design conceitual têm influência na interface do usuário e na arquitetura do software.
 
-    - O design da interface do usuário: Envolve a elaboração da maneira como o usuário pode interagir para realizar suas tarefas, a escolha dos objetos de interfaces , o layout de janelas e telas, etc. A interface deve garantir a boa usabilidade do software.
+    - **O design da interface do usuário:** Envolve a elaboração da maneira como o usuário pode interagir para realizar suas tarefas, a escolha dos objetos de interfaces , o layout de janelas e telas, etc. A interface deve garantir a boa usabilidade do software.
 
-    - O design da arquitetura do software: Deve elaborar uma visão macroscópica do software em termos de componentes que interagem entre si.
+    - **O design da arquitetura do software:** Deve elaborar uma visão macroscópica do software em termos de componentes que interagem entre si.
 
-    - Design dos algoritmos e estruturas de dado: Visa determinar, de maneira independente da linguagem de programação adotada, as soluções algorítmicas e as estruturas de dados associadas.
+    - **Design dos algoritmos e estruturas de dado:** Visa determinar, de maneira independente da linguagem de programação adotada, as soluções algorítmicas e as estruturas de dados associadas.
 
     A fase de Design ou Projeto, é a fase final do processo de planejamento e resulta no documento de arquitetura.
 
-- Implementação: Envolve as atividades de codificação, compilação, integração e testes. A codificação visa traduzir o design em um programa, utilizando linguagens e ferramentas adequadas. A codificação deve refletir a estrutura e o comportamento descrito no design. Os componentes arquiteturais devem ser codificados de forma independente e depois integrados. Os testes podem ser iniciados durante a fase de implementação. A depuração de erros ocorre durante a programação utilizando algumas técnicas e ferramentas. É fundamental um controle e gerenciamento de versões para que se tenha um controle correto de tudo o que está sendo codificado.
+- **Implementação:** Envolve as atividades de codificação, compilação, integração e testes. A codificação visa traduzir o design em um programa, utilizando linguagens e ferramentas adequadas. A codificação deve refletir a estrutura e o comportamento descrito no design. Os componentes arquiteturais devem ser codificados de forma independente e depois integrados. Os testes podem ser iniciados durante a fase de implementação. A depuração de erros ocorre durante a programação utilizando algumas técnicas e ferramentas. É fundamental um controle e gerenciamento de versões para que se tenha um controle correto de tudo o que está sendo codificado.
 
-- Verificação e Validação: Destinam-se a mostrar que o sistema está de acordo com a especificação e que ele atende às expectativas de clientes e usuários. A validação visa assegurar se o programa está fazendo aquilo que foi definido na sua especificação. A verificação visa verificar se o programa está correto, isto é, não possui erros de execução. Os testes são para correção, desempenho e confiabilidade, garantindo a qualidade do software.
+- **Verificação e Validação:** Destinam-se a mostrar que o sistema está de acordo com a especificação e que ele atende às expectativas de clientes e usuários. A validação visa assegurar se o programa está fazendo aquilo que foi definido na sua especificação. A verificação visa verificar se o programa está correto, isto é, não possui erros de execução. Os testes são para correção, desempenho e confiabilidade, garantindo a qualidade do software.
 
-- Manutenção: A parte de manutenção envolve melhorar o software a demanda do(s) cliente(s), seja por falhas do programa ou simplesmente por melhorias que o cliente precisa.
+- **Manutenção:** A parte de manutenção envolve melhorar o software a demanda do(s) cliente(s), seja por falhas do programa ou simplesmente por melhorias que o cliente precisa.
 
 
 #### Objetivos de cada fase do ciclo de vida de software
