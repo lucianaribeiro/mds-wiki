@@ -52,7 +52,7 @@ O ubuntu make é uma ferramenta de linha de comando a qual permite baixar e atua
 
     umake android
 
-**2)** Após o termino do download, basta executar o programa Android Studio presente na máquina. Este irá realizar o download do kit de desenolvimento
+**2)** Após o termino do download, basta executar o programa Android Studio presente na máquina. Este irá realizar o download do kit de desenvolvimento
 Android. Quando finalizado, o Android Studio estará pronto para ser utilizado.
 
 # DOJO de linguagem (material didático)
