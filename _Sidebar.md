@@ -7,8 +7,8 @@
 
 [Um Pouco da Metodologia][brief-methodology]
 
-# [Métodos de Desenvolvimento de Software][mds]
-### Material Técnico
+# 1. [Métodos de Desenvolvimento de Software][mds]
+### 2. Material Técnico
 ### [Python/Django][python]
 ### [Ruby on Rails][rails] 
 ### [Android][android]
