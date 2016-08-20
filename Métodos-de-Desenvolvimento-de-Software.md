@@ -22,6 +22,11 @@ Não são descrições definitivas de processo de software, mas sim abstrações
     - **Não Funcionais:** São os requisitos relacionados às necessidades do software;
     - **Inversos:** São os requisitos que definem o que o software não pode fazer.
 
+       
+       O objetivo de levantar requisitos é guiar o desenvolvimento para que o sistema correto seja feito. Para isso, é necessário descrever as condições e capacidades do sistema bem o suficiente,
+de forma a ter um acordo entre cliente e os desenvolvedores do sistema, no quesito do que o sistema deve ou não fazer. O grande desafio dessa etapa é que o cliente, mesmo que não seja um especialista da área de computação, deve ser capaz de ler e entender os resultados da captura de requisitos. O resultado do levantamento de requisitos também ajuda o gestor do projeto a planejar o cronograma do projeto(JACOBSON,2007).
+      
+
 - **Design/Projeto:** A atividade de design compreende todo o esforço de concepção e modelagem que têm por objetivo descrever como o software será implementado. O design inclui:
 
     - **O design conceitual:** Que envolve a elaboração das ideias e conceitos básicos que determinam os elementos fundamentais do software em questão. O design conceitual têm influência na interface do usuário e na arquitetura do software.
@@ -47,3 +52,7 @@ Não são descrições definitivas de processo de software, mas sim abstrações
 
 resumo do texto (e podem sugerir outros casos): 
 [A partir do texto:  http://sloanreview.mit.edu/article/what-successful-project-managers-do/](A partir do texto:  http://sloanreview.mit.edu/article/what-successful-project-managers-do/)
+
+##Referências
+
+Jacobson, I., Booch, G., Rumbaugh, J., Rumbaugh, J., & Booch, G. **The unified software development process**. Reading: Addison-wesley, 2007.
