@@ -1,8 +1,7 @@
 # Configuração de Ambiente
 *Android* é o sistema operacional de código aberto desenvolvido pela *Google*, para ser utilizado majoritariamente em despositivos com tela touchscreen, como
 smarthphones ou tablets. A criação de aplicativos para este sistema é feita em _Java_ utilizando-se de um kit de desenvolvimento (SDK)
- específico. Além disso, normalmente se utiliza uma IDE específica, o *Android Studio*.
-
+ específico. Além disso, normalmente se utiliza uma IDE específica, o *Android Studio*. É de extrema **importância** que todos os integrantes da equipe tenham a mesma configuração de ambiente para que não haja incompatibilidade entre versões diferentes das ferramentas usadas, que podem comprometer o desenvolvimento do software.
 Configurar o ambiente do Android Studio requer alguns passos.
 
 Linux (64-bits):
