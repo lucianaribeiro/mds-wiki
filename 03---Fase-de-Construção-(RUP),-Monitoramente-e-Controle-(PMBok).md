@@ -22,6 +22,13 @@
 * Política de Branches - Tutorial/boas práticas
 
 ## Quais as disciplinas no RUP são executadas
+* Modelagem de Negócios
+* Requisitos
+* Análise e Projeto
+* Implementação
+* Teste
+* Implantação 
+
 
 ## Quais os artefatos são gerados do RUP?
 
