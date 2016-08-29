@@ -79,6 +79,7 @@ Por exemplo, não abrange questões como:
 * Orçamento Geral: definição, alocação, etc
 * Gestão de Contratos: com fornecedores, clientes, etc
 
+Fonte: [IBM Rational Unified Process](https://pt.wikipedia.org/wiki/IBM_Rational_Unified_Process)
 ## Fases/Iterações do RUP
 
 ## Papéis
