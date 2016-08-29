@@ -53,6 +53,8 @@ de forma a ter um acordo entre cliente e os desenvolvedores do sistema, no quesi
 
 - **Levantamento de Requisitos** : Essa fase tem como objetivo unificar a visão do cliente e dos desenvolvedores. Para que isso aconteça, são analisados diversos fatores, como por exemplo as funcionalidades que o produto deve possuir, além do objetivo final do produto. Essas análises são feitas de maneira que os desenvolvedores tenham uma visão detalhada do que deve ser produzido.
 
+- **Design Geral** : Essa fase consiste no detalhamento de como o software será desenvolvido, ou seja, a linguagem que será utilizada, assim como a arquitetura que o projeto deverá seguir. Feito isso, espera-se que todos os desenvolvedores tenham visões semelhantes do que deve ser produzido, assim como a maneira que essa produção deve ocorrer. Essa etapa é crucial, pois sem ela, é possível que o projeto inteiro falhe por divergências de visões entre os desenvolvedores.
+
 ### Estudo de caso da influencia do modelo de processo no sucesso de um projeto 
 
 resumo do texto (e podem sugerir outros casos): 
