@@ -46,7 +46,12 @@ de forma a ter um acordo entre cliente e os desenvolvedores do sistema, no quesi
 - **Manutenção:** A parte de manutenção envolve melhorar o software a demanda do(s) cliente(s), seja por falhas do programa ou simplesmente por melhorias que o cliente precisa.
 
 
+![](http://static.commentcamarche.net/pt.kioskea.net/faq/images/7kUwNTrgQL7rMNKd-s-.png)
+
+
 #### Objetivos de cada fase do ciclo de vida de software
+
+- **Levantamento de Requisitos** : Essa fase tem como objetivo unificar a visão do cliente e dos desenvolvedores. Para que isso aconteça, são analisados diversos fatores, como por exemplo as funcionalidades que o produto deve possuir, além do objetivo final do produto. Essas análises são feitas de maneira que os desenvolvedores tenham uma visão detalhada do que deve ser produzido.
 
 ### Estudo de caso da influencia do modelo de processo no sucesso de um projeto 
 
