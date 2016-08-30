@@ -1,6 +1,6 @@
 # Configuração de Ambiente  
 
-Django é um framework de alto nível voltado para Web Python. Tem comomo objetivo promover um desenvolvimento rápido e limpo, atigindo prazos e expectativas com qualidade.  
+Django é um framework de alto nível voltado para Web Python. Tem como objetivo promover um desenvolvimento rápido e limpo, atingindo prazos e expectativas com qualidade.  
 Como algumas aplicações são baseadas em python, é preferencial que, a instalação das dependências do Django seja feita em um ambiente virtual que será o escopo de atuação do framework e demais atualizações de dependências.  
 
 Para configurar corretamente siga os passos abaixo direto no seu terminal:  
@@ -15,7 +15,7 @@ Caso não tenha essa ou nenhuma versão instalada, execute:
 **Ubuntu**  
       ``$ sudo apt-get install python3.4``  
 
-Feito isso, vamos agora instalar o ambiente virutal (**virtualenv**).  
+Feito isso, vamos agora instalar o ambiente virtual (**virtualenv**).  
 
 **Passo 3**  
 Primeiro vamos verificar se possui uma versão do virtualenv através do comando:  
@@ -47,6 +47,14 @@ Para finalizar essa etapa, seu terminal deve-se parecer com algo assim:
 Agora dentro da virtualenv basta instalar o Django:  
 	``(ambvirtual) ~$ pip install django``  
 
+OBS.: caso não possua o pip instalado em sua máquina, execute o comando:  
+        ``apt-get install python-pip``  
+
+E para ter a versão mais recente, execute:   
+        ``pip install -U pip``
+ou 
+        ``pip install --upgrade pip`` 
+ 
 Pronto! Seu ambiente para desenvolvimento Django está configurado.    
 
 
