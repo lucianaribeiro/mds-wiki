@@ -19,6 +19,8 @@
 
 [Fase Transição(RUP), Finalização(PMBOK)] [04-fase]
 
+[RUP(Rational Unified Process)] [rup]
+
 # Material Técnico
 [Python/Django][python]
 
@@ -37,6 +39,7 @@
 [02-fase]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/02---Fase-Elabora%C3%A7%C3%A3o-(RUP)-Planejamento-(PMBok)
 [03-fase]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/03---Fase-de-Constru%C3%A7%C3%A3o-(RUP),-Monitoramente-e-Controle-(PMBok)
 [04-fase]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/04---Fase-Transi%C3%A7%C3%A3o-(RUP),-Finaliza%C3%A7%C3%A3o-(PMBok)
+[rup]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/RUP-(Rational-Unified-Process)
 
 [motivation]: https://github.com/fga-gpp-mds/00-Disciplina/wiki#motiva%C3%A7%C3%A3o
 [brief-methodology]: https://github.com/fga-gpp-mds/00-Disciplina/wiki#um-pouco-da-metodologia
