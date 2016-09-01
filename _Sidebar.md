@@ -16,7 +16,7 @@
 ### [Python/Django][python]
 ### [Ruby on Rails][rails] 
 ### [Android][android]
-### [Tutoriais][tutoriaismateriais]
+### [Tutoriais e Materiais][tutoriaismateriais]
 # [Gestão de Portfólio e Projetos de Software][gpp]
 
 [home]: https://github.com/fga-gpp-mds/00-Disciplina/wiki
