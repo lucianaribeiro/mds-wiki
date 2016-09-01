@@ -76,8 +76,8 @@ e o arquivo principal de Url's. Os principais são:
 * Arquivo de Url's: urls.py
 * Arquivo de gerenciamento do projeto: manage.py
 
-A árvore de diretórios neste momento irá ser representada da seguinte forma:
-.
+A árvore de diretórios neste momento irá ser representada da seguinte forma:<br><br>
+.<br>
 ├── [4.0K]  my_twitter/<br>
 │   ├── [   0]  __init__.py<br>
 │   ├── [3.0K]  settings.py<br>
