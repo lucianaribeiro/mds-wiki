@@ -34,6 +34,10 @@ O trabalho de GPP's nesta fase é fazer toda a parte de preparação do projeto,
 
 ### Quais os templates usados para gerar os artefatos do PMbok 
 ### Quais os templates usados para gerar os artefatos do RUP?
+Os templates usados costumam ser os da IBM. Por exemplo: 
+
+IBM Knowledge Center: Gerenciando e Compondo os Requisitos - Trabalhando no Web Client - Definindo Requisitos - Documento de Visão / Rational Team Concert. Disponível em: <http://www.ibm.com/support/knowledgecenter/SSCP65_4.0.7/com.ibm.rational.rrm.help.doc/topics/r_vision_doc.html?lang=pt-br>
+
 ### Quais os papéis desempenhados por GPP nessa fase? - descreva
 ### Quais os papéis desempenhados por MDS nessa fase? descreva 
 ### Quais são principais critérios de avaliação para passagem de fase? (RUP)
