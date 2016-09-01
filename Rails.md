@@ -2,12 +2,12 @@
 ## Instalando Ruby on Rails no Ubuntu
 ### Usando RVM (Ruby Version Manager)
 
-Utilizada para facilitar a mudança entre as versões do Ruby e gerenciar as gemas, muito popular e bem suportada pela comunidade. Convenientemente a RVM pode ser utilizada para instalar o Ruby.
+O RVM é uma ferramenta muito popular e bem suportada pela comunidade, utilizada para facilitar a mudança entre as versões do Ruby e gerenciar as gemas. Ele . Convenientemente a RVM pode ser utilizada para instalar o Ruby.
 
 ### Preparação do sistema
 
-Será necessária uma preparação prévia para a instalação do Ruby on Rails na sua máquina. 
-Será necessário acesso de superusuário (root) para atualizar os softwares do sistema.
+Para a instalação do Ruby on Rails, é necessário uma preparação prévia na sua máquina. 
+Também é necessário ter acesso de superusuário (root) para atualizar os softwares do sistema.
 Primeiramente atualize o gerenciador de pacotes:
 
 `$ sudo apt-get update`
