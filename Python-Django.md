@@ -78,12 +78,12 @@ e o arquivo principal de Url's. Os principais são:
 
 A árvore de diretórios neste momento irá ser representada da seguinte forma:
 .
-├── [4.0K]  my_twitter/
-│   ├── [   0]  __init__.py
-│   ├── [3.0K]  settings.py
-│   ├── [ 767]  urls.py
-│   └── [ 398]  wsgi.py
-└── [ 808]  manage.py*
+├── [4.0K]  my_twitter/<br>
+│   ├── [   0]  __init__.py<br>
+│   ├── [3.0K]  settings.py<br>
+│   ├── [ 767]  urls.py<br>
+│   └── [ 398]  wsgi.py<br>
+└── [ 808]  manage.py*<br>
 
 
 # DOJO de testes (material didático)
