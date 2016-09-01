@@ -15,14 +15,23 @@ O trabalho de GPP's nesta fase é fazer toda a parte de preparação do projeto,
 
 ### Quais os processos do RUP são executados - ilustre
 ### Detalhe as atividades realizadas por MDS nessa fase
-### Quais as disciplinas no RUP são executadas
-    * Modelagem de negócios
-    * Requisitos
-    * Análise e Design
-    * Implementação
-    * Teste
-    * Implantação
+### Quais as disciplinas no RUP são executadas?
+ >  * Modelagem de negócios.
+ >  * Requisitos.
+ >  * Análise e Design.
+ >  * Implementação.
+ >  * Teste.
+ >  * Implantação.
+
 ### Quais os artefatos são gerados do RUP?
+ >  * Documento de Visão.
+ >  * Documento de Arquitetura.
+ >  * Diagrama de Casos de Uso.
+ >  * Diagrama de Classes.
+ >  * Especificação dos Casos de Uso.
+ >  * Especificação dos Casos de Teste.
+ >  * Relatório dos Casos de Teste.
+
 ### Quais os templates usados para gerar os artefatos do PMbok 
 ### Quais os templates usados para gerar os artefatos do RUP?
 ### Quais os papéis desempenhados por GPP nessa fase? - descreva
