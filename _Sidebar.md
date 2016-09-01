@@ -9,14 +9,14 @@
 
 [Um Pouco da Metodologia][brief-methodology]
 ***
-# 2 . Fases Rup
+# Fases Rup
 
-### 1. [Fase Iniciação] [01-fase]
-### 2. [Fase Elaboração(RUP) Planejamento(PMBOK)] [02-fase]
-### 3. [Fase de Construção(RUP), Monitoramente e Controle(PMBOK)] [03-fase]
-### 4. [Fase Transição(RUP), Finalização(PMBOK)] [04-fase]
+### [Fase Iniciação] [01-fase]
+### [Fase Elaboração(RUP) Planejamento(PMBOK)] [02-fase]
+### [Fase de Construção(RUP), Monitoramente e Controle(PMBOK)] [03-fase]
+### [Fase Transição(RUP), Finalização(PMBOK)] [04-fase]
 
-# 3. Material Técnico
+# Material Técnico
 ### [Python/Django][python]
 ### [Ruby on Rails][rails] 
 ### [Android][android]
