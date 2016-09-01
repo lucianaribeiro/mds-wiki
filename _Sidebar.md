@@ -36,4 +36,4 @@
 [python]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Python-Django
 [rails]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Rails
 [android]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Android
-[materiaistutoriais] https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutoriais-e-Materiais
+[tutoriaismateriais]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutoriais-e-Materiais
