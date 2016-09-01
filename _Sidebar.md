@@ -12,14 +12,20 @@
 # Fases Rup
 
 [Fase Iniciação] [01-fase]
+
 [Fase Elaboração(RUP) Planejamento(PMBOK)] [02-fase]
+
 [Fase de Construção(RUP), Monitoramente e Controle(PMBOK)] [03-fase]
+
 [Fase Transição(RUP), Finalização(PMBOK)] [04-fase]
 
 # Material Técnico
 [Python/Django][python]
+
 [Ruby on Rails][rails] 
+
 [Android][android]
+
 [Tutoriais e Materiais][tutoriaismateriais]
 
 # [Gestão de Portfólio e Projetos de Software][gpp]
