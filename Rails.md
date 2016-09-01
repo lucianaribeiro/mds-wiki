@@ -92,8 +92,8 @@ Por exemplo, se for necessária a versão do Rails 3.2.18:
 
 Fonte de informação: [Site RAILSAPPS](http://railsapps.github.io/installrubyonrails-ubuntu.html)
 # DOJO de linguagem (material didático)
-
-
+## Codecademy
+https://www.codecademy.com/pt-BR/learn/ruby
 
 # DOJO de testes (material didático)
 
