@@ -12,10 +12,16 @@ Descrever a fase de elaboração/Planejamento do projeto GPP/MDS.
 
 ## Quais as disciplinas no RUP são executadas
 
-* Documento de arquitetura - objetivo e template
-* Arquitetura MVC - Tutorial (Rails, django, android)
-* Caso de Uso - Tutorial
-*UML - Tutorial
+
+* Modelagem de Negócios
+* Requisitos de Software
+* Análise e Design
+* Implementação
+* Teste
+* Implantação
+* Gerencia de Configuração e mudança
+* Gerenciamento de Projeto
+* Gerencia de Configuração de Ambiente
 
 ## Quais os artefatos são gerados do RUP?
 *Objetivo de cada artefato e tutorial
