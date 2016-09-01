@@ -39,6 +39,7 @@ Desenvolvimento e concepção do documento de especificação suplementar, que �
  * Melhoria do processo
  * Gerenciar mudanças organizacionais, aplicando engenharia de processos.
  * Configurar Ambiente de desenvolvimento 
+ * Gerenciamento de Riscos.
 
 ## Quais os papéis desempenhados por MDS nessa fase? descreva 
 
