@@ -39,6 +39,8 @@ Desenvolvimento e concepção do documento de especificação suplementar, que �
 
 ## Quais os templates usados para gerar os artefatos do RUP?
 
+* Os templates servem como um ‘modelo’ do artefato a ser usado em sua criação, sendo assim ligados à ferramenta que será usada. Por exemplo, um template do Microsoft Word pode ser usado como gabarito de um artefato que seja um documento ou relatório sendo que um relatório consiste em informações que são extraídas de um ou vários artefatos. 
+
 ## Quais os papéis desempenhados por GPP nessa fase? - descreva
  * Configuração do processo
  * Implementação do processo
