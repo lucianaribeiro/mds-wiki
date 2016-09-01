@@ -3,6 +3,8 @@ Bem-vindo às disciplinas de Gestão de Portfólios e Projetos de _Software_ e M
 
 Desde meados de ####(ano) essas duas disciplinas passaram a fazer parte de um projeto multidisciplinar. Esse consiste em criar um ambiente de produção de _software_ a partir da interação entre os estudantes de GPP (Gestão de Portfólios e Projetos de _Software_) e MDS (Métodos de Desenvolvimento de _Software_). Por meio desse ambiente, os estudantes passaram a ter uma experiência mais completa de todo o processo de produção de _software_. Isso permitiu também que os estudantes experimentassem os conhecimentos adquiridos em um nível mais prático, conferindo conhecimento prático ainda na faculdade.
 
+A disciplina de MDS busca uma compreensão, mesmo que inicialmente de forma mais superficial, de duas metodologias especificas, o RUP e a metodologia ágil. Aplicando os conceitos por trás das duas metodologias os alunos aprendem nos primeiros meses o RUP, uma metodologia muito utilizada em empresas atualmente pois consegue manter uma organização maior em projetos grandes, e nos meses finais a metodologia ágil, também muito utilizada e que, por possuir foco maior na programação de fato, produz um resultado mais rapidamente sendo ideal em  projetos menores.
+
 Essa metodologia de ensino das duas disciplinas foi iniciada pelo professor [Hilmer Neri][hilmer], na [FGA][fga] (Faculdade Gama), na Universidade de Brasília. Atualmente, essas duas disciplinas são ministradas pela professora [Carla Rocha][carla], que adotou a metodologia multidisciplinar de GPP e MDS.
 
 ## Motivação
