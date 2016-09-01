@@ -1,6 +1,6 @@
 Descrever a fase de iniciação do projeto GPP/MDS.
 
-- Quais os processos do PMBok são executados - ilustre
+# Quais os processos do PMBok são executados - ilustre
 -- Detalhe as atividades realizadas por GPP nessa fase
 - Quais os processos do RUP são executados - ilustre
 -- Detalhe as atividades realizadas por MDS nessa fase
