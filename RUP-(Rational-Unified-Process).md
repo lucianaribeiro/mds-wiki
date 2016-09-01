@@ -1,4 +1,5 @@
 ## O que é?
+ O RUP (Rational Unified Process) é um processo de desenvolvimento de software. Ele engloba as ações necessárias para transformar um conjunto de requisitos do cliente em um sistema de software combinando os ciclos de vida iterativo, incremental e verificando a qualidade do mesmo de forma que cada entrega do software em um ciclo agrega mais valor ao produto em relação ao ciclo anterior.
 
 ## Valores do RUP
 
