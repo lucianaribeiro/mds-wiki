@@ -28,11 +28,11 @@ Descrever a fase de elaboração/Planejamento do projeto GPP/MDS.
 ## Quais os templates usados para gerar os artefatos do RUP?
 
 ## Quais os papéis desempenhados por GPP nessa fase? - descreva
-*Configuração do processo
-*Implementação do processo
-*Melhoria do processo
-*Gerenciar mudanças organizacionais, aplicando engenharia de processos.
-*Configurar Ambiente de desenvolvimento 
+ * Configuração do processo
+ * Implementação do processo
+ * Melhoria do processo
+ * Gerenciar mudanças organizacionais, aplicando engenharia de processos.
+ * Configurar Ambiente de desenvolvimento 
 
 ## Quais os papéis desempenhados por MDS nessa fase? descreva 
 
