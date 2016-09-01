@@ -59,6 +59,8 @@ Pronto! Seu ambiente para desenvolvimento Django está configurado.
 
 
 # DOJO de linguagem (material didático)
+Agora que o ambiente está instalado, vamos criar um projeto Django,
+quer irá gerar uma estrutura inicial com alguns arquivos básicos do projeto.
 
 
 
