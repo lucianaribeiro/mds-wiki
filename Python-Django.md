@@ -65,6 +65,25 @@ quer irá gerar uma estrutura inicial com alguns arquivos básicos do projeto.
 ## Criando um projeto Django
 Dentro do ambiente virtual, basta executar o comando django-admin para utilizar
 a interface que o Django disponibiliza. Iremos criar o projeto chamado my_twitter.
+`django-admin startproject my_twitter`
+
+Este comando irá criar uma pasta chamada my_twitter contendo vários arquivos e uma pasta.
+Esta pasta representa o app principal do projeto, onde contém o arquivo de configuração
+e o arquivo principal de Url's. Os principais são:
+
+* Pasta com o nome do projeto: my_twitter
+* Arquivo de configuração: settings.py 
+* Arquivo de Url's: urls.py
+* Arquivo de gerenciamento do projeto: manage.py
+
+A árvore de diretórios neste momento irá ser representada da seguinte forma:
+.
+├── [4.0K]  my_twitter/
+│   ├── [   0]  __init__.py
+│   ├── [3.0K]  settings.py
+│   ├── [ 767]  urls.py
+│   └── [ 398]  wsgi.py
+└── [ 808]  manage.py*
 
 
 # DOJO de testes (material didático)
