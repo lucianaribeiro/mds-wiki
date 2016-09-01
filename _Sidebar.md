@@ -9,7 +9,7 @@
 
 [Um Pouco da Metodologia][brief-methodology]
 ***
-# Fases Rup
+# Fases Rup e PMBOK
 
 [Fase Iniciação] [01-fase]
 
