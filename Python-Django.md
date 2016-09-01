@@ -62,6 +62,9 @@ Pronto! Seu ambiente para desenvolvimento Django está configurado.
 Agora que o ambiente está instalado, vamos criar um projeto Django,
 quer irá gerar uma estrutura inicial com alguns arquivos básicos do projeto.
 
+## Criando um projeto Django
+Dentro do ambiente virtual, basta executar o comando django-admin para utilizar
+a interface que o Django disponibiliza. Iremos criar o projeto chamado my_twitter.
 
 
 # DOJO de testes (material didático)
