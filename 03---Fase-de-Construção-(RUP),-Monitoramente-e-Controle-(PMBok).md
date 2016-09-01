@@ -41,7 +41,7 @@ Os principais artefatos gerados nessa fase são:
 Os artefatos produzidos nessa fase envolvem o documento de arquitetura além da própria base arquitetural, o refinamento dos requisitos, do ducumento de visão e a concepção inical do modelo de casos de uso. Neste instante são apresentados, o Baseline completo do projeto, os elementos da equipe de desenvolvimento, entre outros.
 
 ####Fase de Construção: 
-Nesse momento o maior artefato que será obtido é o próprio sistema. Lembrando que podem ainda ser produzidos materiais para treinamento e, se necessário, documentação para os usuários. Existem ainda outras atividades que podem ocorrer em paralelo, como a identificação e correção de defeitos. 
+A codificação ocorre predominantemente nessa fase. Nesse momento o maior artefato que será obtido é o próprio sistema, ou seja, ocorre a construção do sistema de software com foco no desenvolvimento de componentes e outros recursos necessarios. Lembrando que podem ainda ser produzidos materiais para treinamento e, se necessário, documentação para os usuários. Existem ainda outras atividades que podem ocorrer em paralelo, como a identificação e correção de defeitos. 
 
 ####Fase de Transição: 
 Quando chegamos aqui devemos verificar se o usuário está satisfeito e se atendemos os custos e funcionalidades pretendidas. Os artefatos produzidos serão a própria aplicação e materiais de suporte para o usuário. No final dessa fase deve-se tirar uma conclusão geral do projeto, obtendo os pontos positivos e negativos os quais devem ser utilizados durante a concepção de projetos futuros, que seria o artefato _PostMortem_.
