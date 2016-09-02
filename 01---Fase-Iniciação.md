@@ -19,7 +19,7 @@ O trabalho de MDS na fase de iniciação é fazer a primeira versão de toda a p
 
 > * Definir linguagem de programação e ambiente.
 > * Realizar estudos de como utilizar linguagem e ambiente escolhidos.
-> * Fazer a melhora dos documentos a partir do feedback do coach e de gpp.
+> * Entregar documentos para feedback do coach e de gpp.
 
 ### Quais as disciplinas no RUP são executadas?
  >  * Modelagem de negócios.
