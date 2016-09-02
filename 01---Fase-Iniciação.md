@@ -43,6 +43,9 @@ O trabalho de MDS na fase de iniciação é fazer a primeira versão de toda a p
 
 >IBM Knowledge Center: Gerenciando e Compondo os Requisitos - Trabalhando no Web Client - Definindo Requisitos - Documento de Visão / Rational Team Concert. Disponível em: <http://www.ibm.com/support/knowledgecenter/SSCP65_4.0.7/com.ibm.rational.rrm.help.doc/topics/r_vision_doc.html?lang=pt-br>
 
+Outra referência de templates do RUP, são os contidos no site da Funpar que são os mesmos do whtreex. Disponível em:
+<http://www.funpar.ufpr.br:8080/rup/process/artifact/ovu_arts.htm>
+
 ### Quais os papéis desempenhados por GPP nessa fase? - descreva
 ### Quais os papéis desempenhados por MDS nessa fase? descreva  
 Nesta fase de iniciação a equipe de Desenvolvimento se mantém focada em projetar um documental (documento de visão) que possa garantir uma definição de escopo, respeitando os padrões desejados pelo cliente e que consiga ser implementável pela equipe. Preocupa-se também em, pensar maneiras de modelar o sistema da melhor forma, afim de proporcionar um ferramenta de auxílio durante o desenvolvimento da solução do problema proposto.  
