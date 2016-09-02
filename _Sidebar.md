@@ -28,6 +28,8 @@
 
 [Android][android]
 
+[Ionic][ionic]
+
 [[Configurar Ambiente, Automação de deploy (chake)]]
 
 [Tutoriais e Materiais][tutoriaismateriais]
@@ -52,4 +54,5 @@
 [python]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Python-Django
 [rails]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Rails
 [android]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Android
+[ionic]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Ionic
 [tutoriaismateriais]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutoriais-e-Materiais
