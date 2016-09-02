@@ -84,4 +84,40 @@ Fonte: [IBM Rational Unified Process](https://pt.wikipedia.org/wiki/IBM_Rational
 ## Fases/Iterações do RUP
 
 ## Papéis
+O RUP tem alguns papéis genéricos como os de analista, desenvolvedor, testador e gerente. Cada um desses papéis genéricos tem outros papéis mais detalhados, somente o papel de testador que a única atividade existente é a de testador. Abaixo temos os papéis genéricos e os detalhados de cada um.
 
+**Analistas:**
+* Analista de sistema
+* Designer de negócios
+* Revisor do modelo de negócios
+* Analista do processo de negócios
+* Revisor de requisitos
+* Especificar de requisitos
+* Analista de teste
+* Designer de interface de usuário
+
+**Desenvolvedores:**
+* Designer de cápsula
+* Revisor de código
+* Designer de banco de dados
+* Implementador
+* Integrador
+* Arquiteto de software
+* Revisor de arquitetura
+* Revisor de desgin
+* Designer
+* Designer de teste
+
+**Testadores:**
+* Testador
+
+**Gerentes:**
+* Engenheiro de processo
+* Gerente de projeto
+* Gerente de controle de mudança
+* Gerente de configuração
+* Gerente de implantação
+* Revisor do projeto
+* Gerente de testes
+
+Fonte: [http://www.funpar.ufpr.br:8080/rup/process/workers/ovu_works.htm](http://www.funpar.ufpr.br:8080/rup/process/workers/ovu_works.htm)
