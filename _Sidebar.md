@@ -28,7 +28,7 @@
 
 [Android][android]
 
-[[COnfigurar Ambiente, Automação de deploy (chake)]]
+[[Configurar Ambiente, Automação de deploy (chake)]]
 
 [Tutoriais e Materiais][tutoriaismateriais]
 
