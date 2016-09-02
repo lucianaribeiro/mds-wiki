@@ -28,6 +28,8 @@
 
 [Android][android]
 
+[[COnfigurar Ambiente, Automação de deploy (chake)]]
+
 [Tutoriais e Materiais][tutoriaismateriais]
 
 # [Gestão de Portfólio e Projetos de Software][gpp]
