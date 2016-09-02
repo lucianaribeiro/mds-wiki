@@ -24,13 +24,15 @@
 # Material Técnico
 [Python/Django][python]
 
-[Ruby on Rails][rails] 
+[Ruby on Rails][rails]
 
 [Android][android]
 
 [Ionic][ionic]
 
 [[Configurar Ambiente, Automação de deploy (chake)]]
+
+[Integração Contínua com o Travis-CI](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Integração-Cont%C3%ADnua-Travis-CI)
 
 [Tutoriais e Materiais][tutoriaismateriais]
 
