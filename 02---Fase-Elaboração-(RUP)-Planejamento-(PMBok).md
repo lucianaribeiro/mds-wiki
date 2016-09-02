@@ -1,6 +1,6 @@
 Descrever a fase de elaboração/Planejamento do projeto GPP/MDS.
 
-## Fase de Elaboração (RUP)/ Planejamento (PMBok)
+# Fase de Elaboração (RUP)/ Planejamento (PMBok)
 
 Em um mapeamento direto das fases do RUP com relação aos grupos do PMBok, nota-se que ambos são equivalentes, como é observado no caso da fase de elaboração do RUP ser correspondente ao grupo de processos de planejamento do PMBok. Enquanto o PMBok possui um foco maior em sua etapa de planejamento, o RUP não cobre todos os aspectos de gerência de projetos de software, como recursos humanos, o que não quer dizer que não que dizer que existam algumas atividades técnicas relacionados ao próprio produto de software desempenhadas por um gerente de projeto.
 
@@ -69,4 +69,8 @@ Desenvolvimento e concepção do documento de especificação suplementar, que �
 
 ## Quais são principais critérios de avaliação para passagem de fase? (PMBOK)
 
- 
+## Referências
+
+[Como o RUP e o PMBOK se complementam na gestão de projetos de software](http://www.techoje.com.br/site/techoje/categoria/detalhe_artigo/1466)
+[Rational Unified Process](https://www.ibm.com/developerworks/rational/library/content/03July/1000/1251/1251_bestpractices_TP026B.pdf)
+[Escritório de Projetos - Grupo de Processos de Planejamento](http://escritoriodeprojetos.com.br/grupo-de-processos-de-planejamento)
