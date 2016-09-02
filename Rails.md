@@ -2,7 +2,7 @@
 ## Instalando Ruby on Rails no Ubuntu
 ### Usando RVM (Ruby Version Manager)
 
-O RVM é uma ferramenta muito popular e bem suportada pela comunidade, utilizada para facilitar a mudança entre as versões do Ruby e gerenciar as gemas. Ele . Convenientemente a RVM pode ser utilizada para instalar o Ruby.
+O RVM é uma ferramenta muito popular e bem suportada pela comunidade, utilizada para facilitar a mudança entre as versões do Ruby e gerenciar as gemas. Convenientemente o RVM pode ser utilizado para instalar o Ruby.
 
 ### Preparação do sistema
 
@@ -93,14 +93,17 @@ Por exemplo, se for necessária a versão do Rails 3.2.18:
 Fonte de informação: [Site RAILSAPPS](http://railsapps.github.io/installrubyonrails-ubuntu.html)
 # DOJO de linguagem (material didático)
 ## Codecademy
-### Ruby
-https://www.codecademy.com/pt-BR/learn/ruby
-### Rails
-https://www.codecademy.com/pt-BR/learn/learn-rails
-### Rails Authentication
-https://www.codecademy.com/pt-BR/learn/rails-auth
+> ### Ruby
+> https://www.codecademy.com/pt-BR/learn/ruby
+> ### Rails
+> https://www.codecademy.com/pt-BR/learn/learn-rails
+> ### Rails Authentication
+> https://www.codecademy.com/pt-BR/learn/rails-auth
+
 ## Caelum
-https://www.caelum.com.br/apostila-ruby-on-rails/ruby-on-rails/
+> ### Ruby on Rails
+> https://www.caelum.com.br/apostila-ruby-on-rails/ruby-on-rails/
+
 # DOJO de testes (material didático)
 
 
