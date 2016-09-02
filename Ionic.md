@@ -1,7 +1,10 @@
 # Configuração de Ambiente
 
-# DOJO de linguagem (material didático)
 
+# DOJO de linguagem (material didático)
+## Ionic Framework
+## AngularJS
+## Rails como servidor
 
 
 # DOJO de testes (material didático)
