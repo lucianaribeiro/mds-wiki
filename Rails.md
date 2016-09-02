@@ -104,6 +104,9 @@ Fonte de informação: [Site RAILSAPPS](http://railsapps.github.io/installrubyon
 > ### Ruby on Rails
 > https://www.caelum.com.br/apostila-ruby-on-rails/ruby-on-rails/
 
+> ### Ruby Gems
+> https://rubygems.org/
+
 # DOJO de testes (material didático)
 
 
