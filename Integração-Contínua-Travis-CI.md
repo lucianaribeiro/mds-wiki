@@ -24,6 +24,6 @@ Escolha a linguagem que deseja utilizar [aqui](https://docs.travis-ci.com/user/g
   Também é possível validar o seu .travis.yml [neste link](http://lint.travis-ci.org).
 
 4. Feito isso, o arquivo deve ter sido criado/validado e devidamente "commitado" para o seu repositório.
-5. O resultado final deverá ser semelhante a este:
+5. O resultado final deverá ser semelhante a este: [Imagem - Resultado.](http://imgur.com/LI2hfJM)
 
 Este foi um exemplo bem simples de como utilizar a integração contínua com o travis-ci, o arquivo .travis.yml pode ser personalizado de acordo com as necessidades do seu projeto.
