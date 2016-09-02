@@ -15,13 +15,18 @@ O trabalho de GPP's nesta fase é fazer toda a parte de preparação do projeto,
 
 ### Quais os processos do RUP são executados - ilustre
 ### Detalhe as atividades realizadas por MDS nessa fase
+O trabalho de MDS na fase de iniciação é fazer a primeira versão de toda a parte de documentação do projeto como documento de visão, arquitetura, diagrama de casos de uso entre outros. Além de toda primeira versão dos documentos prontos, deve-se:
+
+> * Definir linguagem de programação e ambiente.
+> * Realizar estudos de como utilizar linguagem e ambiente escolhidos.
+> * Fazer a melhora dos documentos a partir do feedback do coach e de gpp.
+
 ### Quais as disciplinas no RUP são executadas?
  >  * Modelagem de negócios.
  >  * Requisitos.
  >  * Análise e Design.
  >  * Implementação.
  >  * Teste.
- >  * Implantação.
 
 ### Quais os artefatos são gerados do RUP?
  >  * Documento de Visão.
