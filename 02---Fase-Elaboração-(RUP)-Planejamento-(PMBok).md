@@ -72,5 +72,7 @@ Desenvolvimento e concepção do documento de especificação suplementar, que �
 ## Referências
 
 [Como o RUP e o PMBOK se complementam na gestão de projetos de software](http://www.techoje.com.br/site/techoje/categoria/detalhe_artigo/1466)
+
 [Rational Unified Process](https://www.ibm.com/developerworks/rational/library/content/03July/1000/1251/1251_bestpractices_TP026B.pdf)
+
 [Escritório de Projetos - Grupo de Processos de Planejamento](http://escritoriodeprojetos.com.br/grupo-de-processos-de-planejamento)
