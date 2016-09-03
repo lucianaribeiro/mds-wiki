@@ -3,6 +3,15 @@
 
 ## Valores do RUP
 
+RUP é baseado em um conjunto de princípios de desenvolvimento de software e melhores práticas, por exemplo:
+
+1. Desenvolvimento de software iterativo
+2. Gerenciamento de requisitos
+3. Uso de arquitetura baseada em componente
+4. Modelagem visual de software
+5. Verificação da qualidade do software
+6. Controle de alteração no software
+
 ## Disciplinas do RUP
 
 ### Seis Disciplinas de Engenharia de Software
