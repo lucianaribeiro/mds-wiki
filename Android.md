@@ -1,3 +1,14 @@
+[Configuração de Ambiente](#configuração-de-ambiente)
+
+[DOJO de linguagem](#dojo-de-linguagem)
+
+[DOJO de testes ](#dojo-de-testes)
+
+[Repositórios educativos](#repositórios-educativos)
+
+[Material didático produzido na disciplina ](#material-didático-produzido-na-disciplina)
+
+-----
 # Configuração de Ambiente
 *Android* é o sistema operacional de código aberto desenvolvido pela *Google*, para ser utilizado majoritariamente em despositivos com tela touchscreen, como
 smarthphones ou tablets. A criação de aplicativos para este sistema é feita em _Java_ utilizando-se de um kit de desenvolvimento (SDK)
@@ -54,14 +65,14 @@ O ubuntu make é uma ferramenta de linha de comando a qual permite baixar e atua
 **2)** Após o termino do download, basta executar o programa Android Studio presente na máquina. Este irá realizar o download do kit de desenvolvimento
 Android. Quando finalizado, o Android Studio estará pronto para ser utilizado.
 
-# DOJO de linguagem (material didático)
+# DOJO de linguagem 
+(material didático)
 
-
-
-# DOJO de testes (material didático)
-
+# DOJO de testes 
+(material didático)
 
 # Repositórios educativos
 
 
-# Material didático produzido na disciplina (times, coaches, etc)
+# Material didático produzido na disciplina 
+(times, coaches, etc)
