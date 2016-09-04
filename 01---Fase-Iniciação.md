@@ -47,6 +47,17 @@ Outra referência de templates do RUP, são os contidos no site da Funpar que s�
 <http://www.funpar.ufpr.br:8080/rup/process/artifact/ovu_arts.htm>
 
 ### Quais os papéis desempenhados por GPP nessa fase? - descreva
+<p align = "justify" >Entre os papéis desenvolvidos por GPP nesta fase temos:
+> * Elaborar cronograma inicial.
+> * Definir tecnologias.
+> * Treinamento sobre linguagem e ambiente.
+> * Iniciar gestão de configuração de software.
+> * Elaborar termo de abertura do projeto.
+> * Elaborar registro de partes interessadas.
+> * Elicitar requisitos dos clientes.
+> * Refinar e priorizar os requisitos.
+
+
 ### Quais os papéis desempenhados por MDS nessa fase? descreva  
 <p align = "justify" >Nesta fase de iniciação a equipe de Desenvolvimento se mantém focada em projetar um documental (documento de visão) que possa garantir uma definição de escopo, respeitando os padrões desejados pelo cliente e que consiga ser implementável pela equipe. Preocupa-se também em, pensar maneiras de modelar o sistema da melhor forma, afim de proporcionar um ferramenta de auxílio durante o desenvolvimento da solução do problema proposto.  
 ### Quais são principais critérios de avaliação para passagem de fase? (RUP)
