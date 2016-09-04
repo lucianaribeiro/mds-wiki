@@ -15,7 +15,7 @@ O trabalho de GPP's nesta fase é fazer toda a parte de preparação do projeto,
 
 ### Quais os processos do RUP são executados - ilustre
 ### Detalhe as atividades realizadas por MDS nessa fase
-O trabalho de MDS na fase de iniciação é fazer a primeira versão de toda a parte de documentação do projeto como documento de visão, arquitetura, diagrama de casos de uso entre outros. Além de toda primeira versão dos documentos prontos, deve-se:
+<p align = "justify" >O trabalho de MDS na fase de iniciação é fazer a primeira versão de toda a parte de documentação do projeto como documento de visão, arquitetura, diagrama de casos de uso entre outros. Além de toda primeira versão dos documentos prontos, deve-se:
 
 > * Definir linguagem de programação e ambiente.
 > * Realizar estudos de como utilizar linguagem e ambiente escolhidos.
@@ -48,9 +48,9 @@ Outra referência de templates do RUP, são os contidos no site da Funpar que s�
 
 ### Quais os papéis desempenhados por GPP nessa fase? - descreva
 ### Quais os papéis desempenhados por MDS nessa fase? descreva  
-Nesta fase de iniciação a equipe de Desenvolvimento se mantém focada em projetar um documental (documento de visão) que possa garantir uma definição de escopo, respeitando os padrões desejados pelo cliente e que consiga ser implementável pela equipe. Preocupa-se também em, pensar maneiras de modelar o sistema da melhor forma, afim de proporcionar um ferramenta de auxílio durante o desenvolvimento da solução do problema proposto.  
+<p align = "justify" >Nesta fase de iniciação a equipe de Desenvolvimento se mantém focada em projetar um documental (documento de visão) que possa garantir uma definição de escopo, respeitando os padrões desejados pelo cliente e que consiga ser implementável pela equipe. Preocupa-se também em, pensar maneiras de modelar o sistema da melhor forma, afim de proporcionar um ferramenta de auxílio durante o desenvolvimento da solução do problema proposto.  
 ### Quais são principais critérios de avaliação para passagem de fase? (RUP)
 
-O principal critério para passagem na fase de iniciação é que se tenha um escopo de projeto bem definido, onde haja concordância entre os stakeholders - as partes interessadas - e o planejamento do projeto. Para que se possa abstrair todo o conjunto de ideias que constituem o escopo do projeto e formar algo mais sólido, na fase de Iniciação, assim como nas demais fases, deve-se gerar uma *baseline*, ou seja, *um artefato estável*. Podemos dizer que no contexto da disciplina, a *baseline* gerada na fase de Iniciação é o *Documento de Visão*.
+<p align = "justify" >O principal critério para passagem na fase de iniciação é que se tenha um escopo de projeto bem definido, onde haja concordância entre os stakeholders - as partes interessadas - e o planejamento do projeto. Para que se possa abstrair todo o conjunto de ideias que constituem o escopo do projeto e formar algo mais sólido, na fase de Iniciação, assim como nas demais fases, deve-se gerar uma *baseline*, ou seja, *um artefato estável*. Podemos dizer que no contexto da disciplina, a *baseline* gerada na fase de Iniciação é o *Documento de Visão*.
 
 ### Quais são principais critérios de avaliação para passagem de fase? (PMBOK)
