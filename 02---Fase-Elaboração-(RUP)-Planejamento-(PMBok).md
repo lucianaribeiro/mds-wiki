@@ -16,6 +16,27 @@ Segundo o próprio PMBok, o grupo de processos de planejamento consiste dos proc
 ##  Quais os processos do PMBok são executados - ilustre
 *  (GPP)Detalhe as atividades realizadas por GPP nessa fase
 * (GPP) Como construir uma EAP (Estrutura analítica de Projeto) - Tutorial
+
+<p align="justify">Segundo o PMBOK, "A EAP é a decomposição hierárquica do escopo total do trabalho a ser executado pela equipe do projeto a fim de alcançar os objetivos do projeto e criar as entregas exigidas", ou seja, ela nada mais é que uma representação gráfica que ilustra a divisão e subdivisão de todo o escopo do seu projeto em pacotes de trabalho entregáveis.</p>
+
+<p align="justify">O pacote de trabalho é o trabalho definido no nível mais baixo da EAP para o qual o custo e a duração podem ser estimados e gerenciados, ele pode assumir diferentes tamanhos e detalhamentos dependendo do contexto do projeto, se for um projeto pequeno é possível usar pacotes de trabalho a um nível muito detalhado, como atividades, por exemplo, já para um projeto grande, com muitas atividades, é inviável, logo estas atividades são agrupadas para formar pacotes de trabalho maiores.</p>
+
+<p align="justify">Agora sabendo o que é EAP e o que são os pacotes de trabalho, vamos aos passos para alocar os pacotes de trabalho de forma a criar uma EAP:</p>
+
+1º Passo: **Identificação e análise das entregas e seu trabalho relacionado**
+<p align="justify">Identifique quais são as entregas do seu projeto e quais trabalhos estão relacionadas à esta entrega, mesmo indiretamente. <i>Nem sempre o trabalho estará diretamente ligada à entrega</i>, por exemplo, se você precisa entregar uma "Definição da Arquitetura do Sistema", treinamentos sobre Diagramas de Classe serão úteis para esta entrega, logo, podem fazer parte dela. Além disso, é <i>importante mapear todos os pacotes de trabalho com algum entregável</i>, pois assim fica claro como aquela atividade está agregando valor para o cliente, visto que ela agrega valor à uma entrega necessária para ele, caso contrário, se você não consegue atribuir a atividade à uma entrega, pode ser que ela não esteja contribuindo para nenhuma delas, e logo, não agregando valor para o cliente.</p>
+
+2º Passo: **Estruturação e organização da EAP**
+<p align="justify">Uma vez identificadas as entregas e seu trabalho relacionado você consegue estruturar os níveis mais altos da EAP (Em preto na Figura 1). Não há um gabarito para esta estruturação,<i> o importante é que seja algo claro para o seu cliente</i>, você pode estruturar usando fases do ciclo de vida do projeto (Figura 1), áreas do projeto, entregas principais, dentre outros.</p>
+
+![Exemplo de EAP com fases do ciclo de vida no segundo nível](http://wpm.wdfiles.com/local--files/tecnica%3Adecomposicao/EAP2.GIF)
+<p align="center"><b>Figura 1</b> - Exemplo de EAP estruturada pelas fases do cliclo de vida do projeto</p>
+
+3º Passo: **Decomposição dos níveis mais altos da EAP em componentes detalhados em menor nível**
+<p align="justify">Com os níveis mais altos da EAP definidos, você pode fazer a decomposição desses níves em componentes mais detalhados, como dito no início deste tópico, o quão detalhado é uma variável que depende do contexto do projeto, mas busque mantê-los claros para o cliente, estimáveis e gerenciáveis. <i>Certifique-se de não utilizar verbos no infinitivo para o nome dos pacotes de trabalho</i>, como "Fazer Documento de Visão", lembre-se de que são entregáveis, o ato de fazer a atividade não é entregável, e sim o resultado, o produto dela.</p>
+
+<p align="justify">Depois destes passos é importante se reunir com a equipe para validar se o grau de composição das entregas está adequado, e também com o cliente, para certificar-se de que as entregas fazem sentido para ele, se tudo isto está certo, provavelmente a EAP também estará.</p>
+
 * (GPP) Como construir um cronograma - Tutorial
 * (GPP) Finalidade de cada plano e template
 
