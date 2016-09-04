@@ -90,6 +90,7 @@ Os principais artefatos gerados nesta fase foram:
  * <p align="justify">Desenvolvedor: A função de um desenvolvedor é a codificação de um _software_.
 
 ## Quais são principais critérios de avaliação para passagem de fase? (RUP)
+<p>A passagem de fase ocorre quando existe uma entrega de artefato, ou seja, uma interação com o cliente, de maneira que ele fique ciente de como o projeto está sendo levado e dos avanços que estão sendo feitos. Por exemplo, uma passagem de fase é a entrega do documento de visão, que marca o fim da fase de iniciação.</p>
 
 
 ## Quais são principais critérios de avaliação para passagem de fase? (PMBOK)
