@@ -62,7 +62,7 @@ Descrever a fase de elaboração/Planejamento do projeto GPP/MDS.
 
 Os principais artefatos gerados nesta fase foram:
 
-<p align="justify">O Documento de Arquitetura: este documento é responsável por apresentar a definição arquitetural escolhida para a criação do _software_ . Tem, também, como objetivo proporcionar aos desenvolvedores uma maior compreensão do sistema expondo as decisões tomadas com base nos requisitos.
+<p align="justify">Documento de Arquitetura: este documento é responsável por apresentar a definição arquitetural escolhida para a criação do _software_ . Tem, também, como objetivo proporcionar aos desenvolvedores uma maior compreensão do sistema expondo as decisões tomadas com base nos requisitos.
 
 <p align="justify">Desenvolvimento e concepção do documento de caso de uso, que é o documento que consiste em descrever o sistema através da diagramação do sistema. Neste documento é onde ocorre a identificação dos atores do sistema e quais são as suas possíveis ações dentro do sistema. Com a construção deste documento a visualização do sistema fica mais clara para a modelagem do sistema, facilitando o levantamento de requisistos.
 
@@ -86,6 +86,8 @@ Os principais artefatos gerados nesta fase foram:
  * Gerenciamento de Riscos.
 
 ## Quais os papéis desempenhados por MDS nessa fase? descreva 
+ * <p align="justify">Arquiteto de _Software_: A principal função de um arquiteto de _software_ é a definição da arquitetura que será usada no projeto, em MDS a arquitetura é pré-definida, _MVC(Model-View-Controller)_. No entanto outros fatores, como restrições, diagramas _UML_,metas arquiteturais e de desempenho, também fazem parte de suas responsabilidades. Essas e outras especificações devem estar descritas no Documento de Arquitetura.
+ * <p align="justify">Desenvolvedor: A função de um desenvolvedor é a codificação de um _software_.
 
 ## Quais são principais critérios de avaliação para passagem de fase? (RUP)
 
