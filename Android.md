@@ -68,6 +68,11 @@ Android. Quando finalizado, o Android Studio estará pronto para ser utilizado.
 # DOJO de linguagem 
 (material didático)
 
+**1)** Curso da plataforma Udacity sobre android:
+
+> https://www.udacity.com/courses/android
+
+Plataforma Udacity: [Udacity](https://www.udacity.com)
 # DOJO de testes 
 (material didático)
 
