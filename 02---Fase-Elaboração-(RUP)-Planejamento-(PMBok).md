@@ -60,11 +60,13 @@ Segundo o próprio PMBok, o grupo de processos de planejamento consiste dos proc
 ## Quais os artefatos são gerados do RUP?
 *Objetivo de cada artefato e tutorial
 
-Os principais artefatos realizados nesta fase foram:
+Os principais artefatos gerados nesta fase foram:
 
-Desenvolvimento e concepção do documento de caso de uso, que é o documento que consiste em descrever o sistema através da diagramação do sistema. Neste documento é onde ocorre a identificação dos atores do sistema e quais são as suas possíveis ações dentro do sistema. Com a construção deste documento a visualização do sistema fica mais clara para a modelagem do sistema, facilitando o levantamento de requisistos.
+<p align="justify">O Documento de Arquitetura: este documento é responsável por apresentar a definição arquitetural escolhida para a criação do _software_ . Tem, também, como objetivo proporcionar aos desenvolvedores uma maior compreensão do sistema expondo as decisões tomadas com base nos requisitos.
 
-Desenvolvimento e concepção do documento de especificação suplementar, que é um documento que tem a principal finalidade de levantar os requisitos não funcionais que não é tão detalhado no documento de visão.
+<p align="justify">Desenvolvimento e concepção do documento de caso de uso, que é o documento que consiste em descrever o sistema através da diagramação do sistema. Neste documento é onde ocorre a identificação dos atores do sistema e quais são as suas possíveis ações dentro do sistema. Com a construção deste documento a visualização do sistema fica mais clara para a modelagem do sistema, facilitando o levantamento de requisistos.
+
+<p align="justify">Desenvolvimento e concepção do documento de especificação suplementar, que é um documento que tem a principal finalidade de levantar os requisitos não funcionais que não é tão detalhado no documento de visão.
 
 
 ## Quais os templates usados para gerar os artefatos do PMbok 
@@ -73,7 +75,7 @@ Desenvolvimento e concepção do documento de especificação suplementar, que �
 
 ## Quais os templates usados para gerar os artefatos do RUP?
 
-* Os templates servem como um ‘modelo’ do artefato a ser usado em sua criação, sendo assim ligados à ferramenta que será usada. Por exemplo, um template do Microsoft Word pode ser usado como gabarito de um artefato que seja um documento ou relatório sendo que um relatório consiste em informações que são extraídas de um ou vários artefatos. 
+* <p align="justify">Os templates servem como um ‘modelo’ do artefato a ser usado em sua criação, sendo assim ligados à ferramenta que será usada. Por exemplo, um template do Microsoft Word pode ser usado como gabarito de um artefato que seja um documento ou relatório sendo que um relatório consiste em informações que são extraídas de um ou vários artefatos. 
 
 ## Quais os papéis desempenhados por GPP nessa fase? - descreva
  * Configuração do processo
