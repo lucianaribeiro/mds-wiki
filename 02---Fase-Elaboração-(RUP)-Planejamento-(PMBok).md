@@ -2,15 +2,15 @@ Descrever a fase de elaboração/Planejamento do projeto GPP/MDS.
 
 # Fase de Elaboração (RUP)/ Planejamento (PMBok)
 
-Em um mapeamento direto das fases do RUP com relação aos grupos do PMBok, nota-se que ambos são equivalentes, como é observado no caso da fase de elaboração do RUP ser correspondente ao grupo de processos de planejamento do PMBok. Enquanto o PMBok possui um foco maior em sua etapa de planejamento, o RUP não cobre todos os aspectos de gerência de projetos de software, como recursos humanos, o que não quer dizer que não que dizer que existam algumas atividades técnicas relacionados ao próprio produto de software desempenhadas por um gerente de projeto.
+<p align="justify">Em um mapeamento direto das fases do RUP com relação aos grupos do PMBok, nota-se que ambos são equivalentes, como é observado no caso da fase de elaboração do RUP ser correspondente ao grupo de processos de planejamento do PMBok. Enquanto o PMBok possui um foco maior em sua etapa de planejamento, o RUP não cobre todos os aspectos de gerência de projetos de software, como recursos humanos, o que não quer dizer que não que dizer que existam algumas atividades técnicas relacionados ao próprio produto de software desempenhadas por um gerente de projeto.
 
 ### Fase de Elaboração (RUP)
 
-Segundo o RUP, o propósito da fase de elaboração é analisar o domínio do problema, estabelecer uma base sólida de arquitetura, desenvolver um plano para o projeto e eliminar os elementos de maior risco do projeto, resolvendo questões como "O plano do projeto é confiável?" e "Os custos são admissíveis", em outras palavras, está fase tem por finalidade eliminar os principais riscos e definir uma arquitetura estável para o projeto. 
+<p align="justify">Segundo o RUP, o propósito da fase de elaboração é analisar o domínio do problema, estabelecer uma base sólida de arquitetura, desenvolver um plano para o projeto e eliminar os elementos de maior risco do projeto, resolvendo questões como "O plano do projeto é confiável?" e "Os custos são admissíveis", em outras palavras, está fase tem por finalidade eliminar os principais riscos e definir uma arquitetura estável para o projeto. 
 
 ### Planejamento (PMBok)
 
-Segundo o próprio PMBok, o grupo de processos de planejamento consiste dos processos realizados para estabelecer o escopo total do esforço empregado no projeto, definir e refinar os objetivos e desenvolver o curso de ação necessário para alcançar esses objetivos. Ou seja, a fase de planejamento definirá mais precisamente o escopo, custo e prazo do projeto, assim como estabelecer uma organização das atividades e fornecer um controle do projeto, no qual será demandado caso venham a ocorrer mudanças significativas durante o projeto.
+<p align="justify">Segundo o próprio PMBok, o grupo de processos de planejamento consiste dos processos realizados para estabelecer o escopo total do esforço empregado no projeto, definir e refinar os objetivos e desenvolver o curso de ação necessário para alcançar esses objetivos. Ou seja, a fase de planejamento definirá mais precisamente o escopo, custo e prazo do projeto, assim como estabelecer uma organização das atividades e fornecer um controle do projeto, no qual será demandado caso venham a ocorrer mudanças significativas durante o projeto.
 
 
 ##  Quais os processos do PMBok são executados - ilustre
