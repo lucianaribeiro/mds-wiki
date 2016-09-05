@@ -50,6 +50,7 @@ Descrever a fase de elaboração/Planejamento do projeto GPP/MDS.
 * **Gerenciamento das partes interessadas do projeto**
 * Planejar o gerenciamento das partes interessadas
 
+
 *  (GPP)Detalhe as atividades realizadas por GPP nessa fase
 * (GPP) Como construir uma EAP (Estrutura analítica de Projeto) - Tutorial
 
