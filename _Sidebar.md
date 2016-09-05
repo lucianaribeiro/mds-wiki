@@ -1,14 +1,20 @@
-# [Introdução][home]
-[Métodos de Desenvolvimento de Software][mds]
+# [Home][home]
+
+[Introdução](https://github.com/fga-gpp-mds/00-Disciplina/wiki#introdu%C3%A7%C3%A3o)
 
 [Motivação][motivation]
+
+[Um Pouco da Metodologia][brief-methodology]
 
 [Primeira Semana][Primeira-Semana]
 
 [Projetos 2016.2][Projetos]
+# Disciplinas
 
-[Um Pouco da Metodologia][brief-methodology]
-***
+[Métodos de Desenvolvimento de Software][mds]
+
+[Gestão de Portfólio e Projetos de Software][gpp]
+
 # Fases Rup e PMBOK
 
 [Fase Iniciação] [01-fase]
@@ -35,8 +41,6 @@
 [Integração Contínua com o Travis-CI](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Integração-Cont%C3%ADnua-Travis-CI)
 
 [Tutoriais e Materiais][tutoriaismateriais]
-
-# [Gestão de Portfólio e Projetos de Software][gpp]
 
 [home]: https://github.com/fga-gpp-mds/00-Disciplina/wiki
 [gpp]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Gest%C3%A3o-de-Portf%C3%B3lios-e-Projetos-de-Software
