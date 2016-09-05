@@ -71,4 +71,6 @@ Quando chegamos aqui devemos verificar se o usuário está satisfeito e se atend
 
 ## Quais são principais critérios de avaliação para passagem de fase? (PMBOK)
 
- 
+# Referências
+
+[Rational Unified Process (RUP): Papéis e Atividades](http://www.funpar.ufpr.br:8080/rup/process/workers/ovu_works.htm) 
