@@ -6,8 +6,7 @@
 
 [ Um pouco da Metodologia](#um-pouco-da-metodologia)
 
---
-
+------
 ## Introdução
 Bem-vindo às disciplinas de Gestão de Portfólios e Projetos de _Software_ e Métodos de Desenvolvimento de _Software_.
 
