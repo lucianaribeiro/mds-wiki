@@ -70,3 +70,8 @@ Papel responsável por delimitar o sistema.
 <p align = "justify" >O principal critério para passagem na fase de iniciação é que se tenha um escopo de projeto bem definido, onde haja concordância entre os stakeholders - as partes interessadas - e o planejamento do projeto. Para que se possa abstrair todo o conjunto de ideias que constituem o escopo do projeto e formar algo mais sólido, na fase de Iniciação, assim como nas demais fases, deve-se gerar uma *baseline*, ou seja, *um artefato estável*. Podemos dizer que no contexto da disciplina, a *baseline* gerada na fase de Iniciação é o *Documento de Visão*.
 
 ### Quais são principais critérios de avaliação para passagem de fase? (PMBOK)
+
+
+## Referências
+
+[Rational Unified Process (RUP): Papéis e Atividades](http://www.funpar.ufpr.br:8080/rup/process/workers/ovu_works.htm)
