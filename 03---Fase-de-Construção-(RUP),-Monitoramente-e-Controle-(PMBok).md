@@ -36,14 +36,29 @@ Controlar os Custos tem como objetivo monitorar o status do projeto para atualiz
 
 * **Gerenciamento da qualidade do projeto**
 * Controlar a qualidade
+
+Os principais objetivos são monitorar resultados específicos do projeto com o objetivo de verificar se eles estão conforme os padrões relevantes da qualidade e identificar formar de eliminar causas de resultados insatisfatórios. Isso ajuda a ter uma segurança de que as medições estão dentro das especificações, conscientizar equipe de projeto sobre os resultados, fornecer subsídio para ações corretivas e fornecer feedback para garantia da Qualidade.
+
 * **Gerenciamento das comunicações do projeto**
 * Controlar as comunicações
+
+Garantir que as necessidades de informação das partes interessadas sejam atendidas. Tendo um feedback em relação a qualidade das informações disponibilizadas e adaptar as novas demandas de informação.
+
+
 * **Gerenciamento dos riscos do projeto**
 * Controlar os riscos
+
+Controlar os riscos envolve acompanhar os riscos identificados, implementar os planos de respostas aos riscos, monitorar os riscos residuais, identificar novos riscos e avaliar a eficácia do processo de riscos durante o ciclo de vida do projeto.
+
 * **Gerenciamento das aquisições do projeto**
 * Controlar as aquisições
+
+Assegurar que as partes atendam aos requisitos estabelecidos no contrato. Gerenciando as relações de aquisição, monitorar o desempenho do contrato e fazendo mudanças e correções conforme necessário.
+
 * **Gerenciamento das partes interessadas do projeto**
 * Controlar o engajamento das partes interessadas
+
+Controlar o engajamento das partes interessadas tem como objetivo monitorar os relacionamentos entre as partes interessadas e ajustar as estratégias para motivar as partes interessadas eliminando resistências e aumentando o suporte ao projeto.
 ______
 
 * Quais são as variáveis monitoradas nessa fase
