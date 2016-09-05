@@ -76,6 +76,9 @@ Papel responsável por delimitar o sistema.
 
 ### Quais são principais critérios de avaliação para passagem de fase? (PMBOK)
 
+<p align = "justify" >Exceto em casos em que há paralelismo entre as fases, uma transição entre fases é realizada quando uma fase é concluída. Uma fase é concluída quando os seus produtos de trabalho (representa algo resultante da fase) forem revisados e aprovados, além de ser necessário uma análise se é necessário mais alguma atividade. Os critérios de aceitação das fases é definida pela gerência do projeto. Pode ocorrer uma transição entre fases sem que ocorra a revisão e aprovação se os riscos não forem significativos. 
+
+
 
 ## Referências
 
