@@ -1,4 +1,3 @@
-# Primeira Semana
 A primeira semana de aula é dedicada a organização da disciplina, dos grupos, definição do tema de cada projeto, e criar o ambiente e ritmo de trabalho necessário para o semestre!!
 
 ## Definição dos grupos
