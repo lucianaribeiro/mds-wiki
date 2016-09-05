@@ -99,9 +99,19 @@ Por exemplo, não abrange questões como:
 
 Fonte: [IBM Rational Unified Process](https://pt.wikipedia.org/wiki/IBM_Rational_Unified_Process)
 ## Fases/Iterações do RUP
-<p align = "justify" >Para exemplificar as fases/iterações do RUP, o gráfico conhecido como "gráfico de baleias" é utilizado.Ele traz um panorama de como um projeto é executado no RUP, levando em consideração as disciplinas, iterações e fases.
+<p align = "justify" >Para exemplificar as fases/iterações do RUP, o gráfico conhecido como "gráfico de baleias" é utilizado.Ele traz um panorama de como um projeto é executado no RUP, levando em consideração as disciplinas, iterações e fases. Observando as curvas do gráfico, é possível notar que em cada fase são abordadas todas as disciplinas.
 
 !["Gráfico de Baleias"](https://upload.wikimedia.org/wikipedia/pt/0/07/Fases_do_RUP_-_portugues.jpg)
+
+No RUP, o Engenheiro de Processo é responsável por adaptar o processo de desenvolvimento de software para atender o projeto. Para isso, este papel define o tamanho de cada iteração e quantas iterações existirão por cada fase. Nas matérias de GPP e MDS, a equipe de GPP de cada projeto ficou a cargo deste papel. Algumas equipes por exemplo, utilizaram iterações com extensão de duas semanas, com as fases de iniciação e elaboração sendo compostas apenas de uma iteração, enquanto a fase de construção constituída por mais iterações.
+
+### Iniciação
+
+### Elaboração
+
+### Construção
+
+### Transição
 
 ## Papéis
 <p align = "justify" >O RUP tem alguns papéis genéricos como os de analista, desenvolvedor, testador e gerente. Cada um desses papéis genéricos tem outros papéis mais detalhados, somente o papel de testador que a única atividade existente é a de testador. Abaixo temos os papéis genéricos e os detalhados de cada um.
