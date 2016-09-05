@@ -1,7 +1,29 @@
 # Descrever a fase de Construção RUP e Monitoramento e Controle do projeto GPP/MDS
 
 ##  (GPP) Quais os processos do PMBok são executados - ilustre
-* Detalhe as atividades realizadas por GPP nessa fase
+
+* **Gerenciamento da integração do projeto**
+* Monitorar e controlar o trabalho do projeto
+* Realizar o controle integrado de mudanças
+* **Gerenciamento do escopo do projeto**
+* Validar o escopo
+* Controlar o escopo
+* **Gerenciamento do tempo do projeto**
+* Controlar o Cronograma
+* **Gerenciamento dos custos do projeto**
+* Controlar os custos
+* **Gerenciamento da qualidade do projeto**
+* Controlar a qualidade
+* **Gerenciamento das comunicações do projeto**
+* Controlar as comunicações
+* **Gerenciamento dos riscos do projeto**
+* Controlar os riscos
+* **Gerenciamento das aquisições do projeto**
+* Controlar as aquisições
+* **Gerenciamento das partes interessadas do projeto**
+* Controlar o engajamento das partes interessadas
+______
+
 * Quais são as variáveis monitoradas nessa fase
 * Em quais planos está o detalhamento do monitoramento e controle dessas variáveis
 * Como definir as métricas de qualidade de código a serem monitoradas/controladas- Tutorial
