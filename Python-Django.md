@@ -59,8 +59,29 @@ Pronto! Seu ambiente para desenvolvimento Django está configurado.
 
 
 # DOJO de linguagem (material didático)
-Agora que o ambiente está instalado, vamos criar um projeto Django,
-quer irá gerar uma estrutura inicial com alguns arquivos básicos do projeto.
+Agora que o ambiente está instalado, antes de criar um projeto Django,
+vamos discutir sobre: como o Django funciona? Qual é a sua arquitetura?
+Como o código pode ser modularizado?
+
+## Arquitetura Django
+O Django trabalha com uma arquitetura semelhante a tão famosa Model, View,
+Controller (MVC), já bem estabelecida do Ruby on Rails e formando base da
+maioria dos projetos Java Web. Porém, o Django utiliza-se de nomenclaturas
+diferentes para representar seus semelhantes nas linguagens a pouco citadas:
+Model, View, Template. Carinhosamente apelidados, de forma cômica, de MTV.
+
+### Model
+As models são responsáveis pelas abstrações dos objetos da vida real no código.
+Lembra-se das classes, com atributos e métodos? Pois bem, se encaixam aqui.
+Elas se encarregarão de dar as caras e funcionalidades para as futuras instâncias
+dos objetos. A seguir, será demostrado um exemplo de uma model. Não se atente, por
+enquanto, à sintaxe. Foque nos atributos declarados e nos métodos def.
+
+``` python
+class Person(models.Model):
+    first_name = models.CharField(max_length=30)
+    last_name = models.CharField(max_length=30)
+```
 
 ## Criando um projeto Django
 Dentro do ambiente virtual, basta executar o comando django-admin para utilizar
