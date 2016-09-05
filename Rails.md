@@ -109,6 +109,11 @@ Fonte de informação: [Site RAILSAPPS](http://railsapps.github.io/installrubyon
 
 # DOJO de testes (material didático)
 
+> ### Code school
+> https://www.codeschool.com/courses/testing-with-rspec
+
+> ### Usando o RSpec para testar sua aplicação Rails - Modelos
+> https://nandovieira.com.br/usando-o-rspec-para-testar-sua-aplicacao-rails-modelos
 
 # Repositórios educativos
 
