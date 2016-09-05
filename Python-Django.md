@@ -87,6 +87,8 @@ class Person(models.Model):
 ```
 ### View
 
+É a camada lógica do sistema, ela contém os métodos de acesso as Models e as Templates. Funciona como uma ponte entre as outras duas camadas. As requisições são tratadas pelo próprio Django e não pela View.
+ 
 ### Template
 
 ## Criando um projeto Django
@@ -120,3 +122,7 @@ A árvore de diretórios neste momento irá ser representada da seguinte forma:<
 
 
 # Material didático produzido na disciplina (times, coaches, etc)
+
+# Referências
+
+[The Django Book, Chapter 5.](http://www.djangobook.com/en/2.0/chapter05.html)
