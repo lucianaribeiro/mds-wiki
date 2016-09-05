@@ -1,6 +1,6 @@
 # [Home][home]
 
-[Introdução](https://github.com/fga-gpp-mds/00-Disciplina/wiki#introdu%C3%A7%C3%A3o)
+[Introdução][Intro]
 
 [Motivação][motivation]
 
@@ -51,6 +51,7 @@
 [04-fase]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/04---Fase-Transi%C3%A7%C3%A3o-(RUP),-Finaliza%C3%A7%C3%A3o-(PMBok)
 [rup]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/RUP-(Rational-Unified-Process)
 
+[Intro]: https://github.com/fga-gpp-mds/00-Disciplina/wiki#introdu%C3%A7%C3%A3o
 [motivation]: https://github.com/fga-gpp-mds/00-Disciplina/wiki#motiva%C3%A7%C3%A3o
 [brief-methodology]: https://github.com/fga-gpp-mds/00-Disciplina/wiki#um-pouco-da-metodologia
 
