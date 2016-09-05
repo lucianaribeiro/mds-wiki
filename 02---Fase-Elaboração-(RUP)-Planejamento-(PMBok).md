@@ -59,15 +59,15 @@ Descrever a fase de elaboração/Planejamento do projeto GPP/MDS.
 * Gerencia de Configuração de Ambiente
 
 ## Quais os artefatos são gerados do RUP?
-*Objetivo de cada artefato e tutorial
+* Objetivo de cada artefato e tutorial
 
 Os principais artefatos gerados nesta fase foram:
 
-<p align="justify">Documento de Arquitetura: este documento é responsável por apresentar a definição arquitetural escolhida para a criação do _software_ . Tem, também, como objetivo proporcionar aos desenvolvedores uma maior compreensão do sistema expondo as decisões tomadas com base nos requisitos.
+<p align="justify">Documento de Arquitetura: este documento é responsável por apresentar a definição arquitetural escolhida para a criação do _software_ . Tem, também, como objetivo proporcionar aos desenvolvedores uma maior compreensão do sistema expondo as decisões tomadas com base nos requisitos.</p>
 
-<p align="justify">Desenvolvimento e concepção do documento de caso de uso, que é o documento que consiste em descrever o sistema através da diagramação do sistema. Neste documento é onde ocorre a identificação dos atores do sistema e quais são as suas possíveis ações dentro do sistema. Com a construção deste documento a visualização do sistema fica mais clara para a modelagem do sistema, facilitando o levantamento de requisistos.
+<p align="justify">Desenvolvimento e concepção do documento de caso de uso, que é o documento que consiste em descrever o sistema através da diagramação do sistema. Neste documento é onde ocorre a identificação dos atores do sistema e quais são as suas possíveis ações dentro do sistema. Com a construção deste documento a visualização do sistema fica mais clara para a modelagem do sistema, facilitando o levantamento de requisistos.</p>
 
-<p align="justify">Desenvolvimento e concepção do documento de especificação suplementar, que é um documento que tem a principal finalidade de levantar os requisitos não funcionais que não é tão detalhado no documento de visão.
+<p align="justify">Desenvolvimento e concepção do documento de especificação suplementar, que é um documento que tem a principal finalidade de levantar os requisitos não funcionais que não é tão detalhado no documento de visão.</p>
 
 
 ## Quais os templates usados para gerar os artefatos do PMbok 
@@ -79,6 +79,8 @@ Os principais artefatos gerados nesta fase foram:
 * <p align="justify">Os templates servem como um ‘modelo’ do artefato a ser usado em sua criação, sendo assim ligados à ferramenta que será usada. Por exemplo, um template do Microsoft Word pode ser usado como gabarito de um artefato que seja um documento ou relatório sendo que um relatório consiste em informações que são extraídas de um ou vários artefatos. 
 
 ## Quais os papéis desempenhados por GPP nessa fase? - descreva
+
+
  * Configuração do processo
  * Implementação do processo
  * Melhoria do processo
@@ -87,8 +89,25 @@ Os principais artefatos gerados nesta fase foram:
  * Gerenciamento de Riscos.
 
 ## Quais os papéis desempenhados por MDS nessa fase? descreva 
- * <p align="justify">Arquiteto de _Software_: A principal função de um arquiteto de _software_ é a definição da arquitetura que será usada no projeto, em MDS a arquitetura é pré-definida, _MVC(Model-View-Controller)_. No entanto outros fatores, como restrições, diagramas _UML_,metas arquiteturais e de desempenho, também fazem parte de suas responsabilidades. Essas e outras especificações devem estar descritas no Documento de Arquitetura.
- * <p align="justify">Desenvolvedor: A função de um desenvolvedor é a codificação de um _software_.
+
+
+### Arquiteto de Software
+<p align="justify"> A principal função de um arquiteto de _software_ é a definição da arquitetura que será usada no projeto, em MDS a arquitetura é pré-definida, _MVC(Model-View-Controller)_. No entanto outros fatores, como restrições, diagramas _UML_,metas arquiteturais e de desempenho, também fazem parte de suas responsabilidades. Essas e outras especificações devem estar descritas no Documento de Arquitetura.</p>
+   * Atividades: Priorizar casos de uso, análise arquitetural.
+   * Artefato: Documento de Arquitetura de Software
+
+### Desenvolvedor
+ A função de um desenvolvedor é a codificação de um _software_.
+
+### Analista de Teste
+ Papel responsável por identificar quais os testes necessários para o sistema
+   * Atividades: Identificar objetivos do teste, definir detalhes do teste, identificar ideias do teste
+   * Artefato: Especificação do caso de teste
+
+### Analista de sistema
+ Papel responsável por estabelecer atores e casos de uso.
+   * Atividades: Encontrar atores e casos de uso, estruturar o modelo de caso de uso
+   * Artefato: Modelo de caso de uso
 
 ## Quais são principais critérios de avaliação para passagem de fase? (RUP)
 <p>A passagem de fase ocorre quando existe uma entrega de artefato, ou seja, uma interação com o cliente, de maneira que ele fique ciente de como o projeto está sendo levado e dos avanços que estão sendo feitos. Por exemplo, uma passagem de fase é a entrega do documento de visão, que marca o fim da fase de iniciação.</p>
@@ -103,3 +122,5 @@ Os principais artefatos gerados nesta fase foram:
 [Rational Unified Process](https://www.ibm.com/developerworks/rational/library/content/03July/1000/1251/1251_bestpractices_TP026B.pdf)
 
 [Escritório de Projetos - Grupo de Processos de Planejamento](http://escritoriodeprojetos.com.br/grupo-de-processos-de-planejamento)
+
+[Rational Unified Process (RUP): Papéis e Atividades](http://www.funpar.ufpr.br:8080/rup/process/workers/ovu_works.htm)
