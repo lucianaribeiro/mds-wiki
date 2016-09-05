@@ -68,11 +68,44 @@ Android. Quando finalizado, o Android Studio estará pronto para ser utilizado.
 # DOJO de linguagem 
 (material didático)
 
-**1)** Curso da plataforma Udacity sobre android:
+**1)** Curso completo da plataforma [Udacity](https://www.udacity.com) sobre _Android_:
 
-> https://www.udacity.com/courses/android
+* **Tais cursos apresentados nesta plataforma são bastante completos e de alta qualidade, contudo bastante extensos. Logo, demanda-se uma quantia considerável de tempo para completá-los com eficácia e obter o resultado esperado.**
 
-Plataforma Udacity: [Udacity](https://www.udacity.com)
+        https://www.udacity.com/courses/android
+
+**2)** Sugestões de aprendizado direcionado na plataforma [Udacity](https://www.udacity.com):
+
+* **Indicado para um desenvolvimento aceitável em _Android_:**
+ 
+  Desenvolvimento intermediário de _Android_ (_Gradle, Layout, Intent,_ Banco de Dados, Testes e outros):
+
+      https://br.udacity.com/course/developing-android-apps--ud853/
+
+  Material _Design_ para _Android_:
+    
+      https://br.udacity.com/course/material-design-for-android-developers--ud862/
+
+* **Indicado como um complemento, mas fortemente recomendado para um desenvolvimento aceitável em _Android_:**
+ 
+  Desenvolvimento inicial de _Android_ (_XML_ e básico do _Framework_):
+
+      https://br.udacity.com/course/android-development-for-beginners--ud837/
+
+  _Login_ do _Google_ para _Android_:
+    
+      https://br.udacity.com/course/add-google-sign-in-to-your-android-apps--ud876-5/
+
+* **Indicado para quem deseja aprofundar-se em _Android_:**
+ 
+  Desenvolvimento avançado de _Android_ (_Libraries, localization,_ Material _Design_):
+
+      https://www.udacity.com/course/advanced-android-app-development--ud855
+
+  Outros tópicos (Sistemas de controle, menu, _layout_, entrada e saída):
+    
+      https://br.udacity.com/course/how-to-create-anything-in-android--ud802/
+
 # DOJO de testes 
 (material didático)
 
