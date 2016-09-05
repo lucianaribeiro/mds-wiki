@@ -1,6 +1,10 @@
 Descrever a fase de iniciação do projeto GPP/MDS.
 
 ### Quais os processos do PMBok são executados - ilustre
+
+* Desenvolver o termo de abertura do projeto
+* Identificar as partes interessadas
+
 ### Detalhe as atividades realizadas por GPP nessa fase
 O trabalho de GPP's nesta fase é fazer toda a parte de preparação do projeto, de modo que seja analisada a viabilidade de projeto. Além disso capacitar a equipe e o ambiente de trabalho, deve-se:
 
