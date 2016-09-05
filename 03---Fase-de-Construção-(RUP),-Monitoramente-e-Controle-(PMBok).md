@@ -56,6 +56,16 @@ Quando chegamos aqui devemos verificar se o usuário está satisfeito e se atend
 
 ## Quais os papéis desempenhados por MDS nessa fase? descreva 
 
+### Implementador
+ Papel responsável por desenvolver e testar unidades menores do projeto, para posterior integração com o sistema.
+   * Atividades: Implementar componente, realizar teste unitário, corrigir defeito.
+   * Artefato: Componente, componente de teste.
+
+### Testador
+ Papel responsável por conduzir testes e registrar seus resultados.
+   * Atividades: Implementar teste, analisar falha de teste.
+   * Artefato: Relatório de Execução de testes.
+
 ## Quais são principais critérios de avaliação para passagem de fase? (RUP)
 
 
