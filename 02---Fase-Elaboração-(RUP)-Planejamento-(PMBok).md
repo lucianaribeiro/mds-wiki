@@ -92,14 +92,16 @@ Os principais artefatos gerados nesta fase foram:
 
 
 ### Arquiteto de Software
-<p align="justify"> A principal função de um arquiteto de _software_ é a definição da arquitetura que será usada no projeto, em MDS a arquitetura é pré-definida, _MVC(Model-View-Controller)_. No entanto outros fatores, como restrições, diagramas _UML_,metas arquiteturais e de desempenho, também fazem parte de suas responsabilidades. Essas e outras especificações devem estar descritas no Documento de Arquitetura.</p>
-   * Atividades: Priorizar casos de uso, análise arquitetural.
+<p align="justify"> A principal função de um arquiteto de software é a definição da arquitetura que será usada no projeto, em MDS a arquitetura é pré-definida, MVC(Model-View-Controller). No entanto outros fatores, como restrições, diagramas UML,metas arquiteturais e de desempenho, também fazem parte de suas responsabilidades. Essas e outras especificações devem estar descritas no Documento de Arquitetura.</p>
+
+   * Atividades: Priorizar casos de uso, análise arquitetural e requisitos.
    * Artefato: Documento de Arquitetura de Software
 
 ### Desenvolvedor
- A função de um desenvolvedor é a codificação de um _software_.
+ A função de um desenvolvedor é a codificação de um software.
 
 ### Analista de Teste
+
  Papel responsável por identificar quais os testes necessários para o sistema
    * Atividades: Identificar objetivos do teste, definir detalhes do teste, identificar ideias do teste
    * Artefato: Especificação do caso de teste
