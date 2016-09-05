@@ -20,6 +20,7 @@ O trabalho de GPP's nesta fase é fazer toda a parte de preparação do projeto,
 > * Definir linguagem de programação e ambiente.
 > * Realizar estudos de como utilizar linguagem e ambiente escolhidos.
 > * Entregar documentos para feedback do coach e de gpp.
+> * Alinhar e nivelar o conhecimento da equipe.
 
 ### Quais as disciplinas no RUP são executadas?
  >  * Modelagem de negócios.
