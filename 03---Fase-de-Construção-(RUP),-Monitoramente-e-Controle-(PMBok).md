@@ -34,8 +34,10 @@
 ####Fase de Iniciação: 
 Os principais artefatos gerados nessa fase são:
 - Documento de Arquitetura de Software.
-- Visão do projeto.
+- Documento deVisão do projeto.
 É importante lembrar que esses artefatos não estão finalizados, isso quer dizer que vamos continuar trabalhando neles de maneira gradativa até o final do projeto - em todas as iterações. Nessa fase é importante também definir os casos de uso mais marcantes finalmente obtendo as funcionalidades-chave da aplicação. É através dos artefatos gerados nessa fase que se realizará o ajuste de quantas iterações o processo terá, além de fornecerem uma base para a lapidação do projeto.
+- Documento de especificação de suplementar.
+- Documento de casos de Teste
 
 ####Fase de Elaboração: 
 Os artefatos produzidos nessa fase envolvem o documento de arquitetura além da própria base arquitetural, o refinamento dos requisitos, do ducumento de visão e a concepção inical do modelo de casos de uso. Neste instante são apresentados, o Baseline completo do projeto, os elementos da equipe de desenvolvimento, entre outros.
