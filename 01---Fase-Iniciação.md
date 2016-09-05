@@ -59,7 +59,12 @@ Outra referência de templates do RUP, são os contidos no site da Funpar que s�
 
 
 ### Quais os papéis desempenhados por MDS nessa fase? descreva  
-<p align = "justify" >Nesta fase de iniciação a equipe de Desenvolvimento se mantém focada em projetar um documental (documento de visão) que possa garantir uma definição de escopo, respeitando os padrões desejados pelo cliente e que consiga ser implementável pela equipe. Preocupa-se também em, pensar maneiras de modelar o sistema da melhor forma, afim de proporcionar um ferramenta de auxílio durante o desenvolvimento da solução do problema proposto.  
+<p align = "justify" >Nesta fase de iniciação a equipe de Desenvolvimento se mantém focada em projetar um documental (documento de visão) que possa garantir uma definição de escopo, respeitando os padrões desejados pelo cliente e que consiga ser implementável pela equipe. Preocupa-se também em, pensar maneiras de modelar o sistema da melhor forma, afim de proporcionar um ferramenta de auxílio durante o desenvolvimento da solução do problema proposto.
+#### Analista de Sistema 
+Papel responsável por delimitar o sistema.
+* Atividades: Desenvolver visão, identificar solicitações dos principais envolvidos.
+* Artefato: Documento de visão.
+ 
 ### Quais são principais critérios de avaliação para passagem de fase? (RUP)
 
 <p align = "justify" >O principal critério para passagem na fase de iniciação é que se tenha um escopo de projeto bem definido, onde haja concordância entre os stakeholders - as partes interessadas - e o planejamento do projeto. Para que se possa abstrair todo o conjunto de ideias que constituem o escopo do projeto e formar algo mais sólido, na fase de Iniciação, assim como nas demais fases, deve-se gerar uma *baseline*, ou seja, *um artefato estável*. Podemos dizer que no contexto da disciplina, a *baseline* gerada na fase de Iniciação é o *Documento de Visão*.
