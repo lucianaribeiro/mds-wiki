@@ -4,23 +4,34 @@
 
 * **Gerenciamento da integração do projeto**
 * Monitorar e controlar o trabalho do projeto
+
 Segundo o Guia PMBOK®, monitorar e controlar o trabalho do projeto é o processo de acompanhamento, revisão e ajuste do progresso para que os objetivos de desempenho definidos no plano de gerenciamento sejam alcançados. Nesse processo realiza-se a coleta, medição e disseminação de informações sobre desempenho e avaliação de medições e tendências para efetuar melhorias no processo. De forma a avaliar a saúde do seu projeto durante todo o projeto, identificar áreas que exigem atenção especial, recomendar ações para corrigir ou evitar os desvios e garantir a qualidade (saúde) do projeto através do monitoramento, check-list e contingência prevista.
+
 * Realizar o controle integrado de mudanças
+
 Realizar o controle integrado de mudanças é considerado um dos processos mais importantes para garantir o sucesso do projeto e envolve as etapas de solicitação de mudança, revisão do impacto dos custos e benefícios gerados pela mudança, aprovação, replanejamento contemplando a mudança, execução, controle e monitoramento da mudança e encerramento da entrega ou resultado contemplando a mudança.
 
 As mudanças são necessárias, principalmente, para acatar as novas expectativas das partes interessadas, entretanto, é algo delicado, deve-se analisar o impacto gerado pela mudança e não somente preocupar-se em tentar superar as expectativas do cliente. Além de garantir que as mudanças aprovadas sejam benéficas ao projeto e que seus benefícios sejam maiores do que os custos envolvidos e agregam valor aos objetivos do projeto.
+
 * **Gerenciamento do escopo do projeto**
 * Validar o escopo
+
 Validar o escopo (ou Verificar o Escopo como era chamado na quarta edição do Guia PMBOK®) é o processo de formalizar a aceitação dos produtos do projeto.
+
 * Controlar o escopo
+
 Controlar o Escopo é o processo de monitorar o status do escopo do projeto e do produto e gerenciar as alterações na linha de base de escopo.
+
 * **Gerenciamento do tempo do projeto**
 * Controlar o Cronograma
+
 Controlar o cronograma é atualizar o progresso do projeto, monitorar as variações entre o real com o planejado (linha de base) e gerenciar as mudanças ocorridas.
 
 Quando for visualizado desvios entre o real e o planejado, deve-se procurar identificar a causa do desvio e tomar as ações corretivas e preventivas necessárias. Para reduzir a ocorrência disso é necessário fazer um bom levantamento dos riscos do projeto no planejamento e revisitá-los sempre que houver mudanças ou aumento na ocorrência dos desvios.
+
 * **Gerenciamento dos custos do projeto**
 * Controlar os custos
+
 Controlar os Custos tem como objetivo monitorar o status do projeto para atualizar o orçamento e gerenciar alterações na linha de base dos custos.
 
 * **Gerenciamento da qualidade do projeto**
