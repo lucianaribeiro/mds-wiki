@@ -91,6 +91,9 @@ Por exemplo, se for necessária a versão do Rails 3.2.18:
 `$ rails -v`
 
 Fonte de informação: [Site RAILSAPPS](http://railsapps.github.io/installrubyonrails-ubuntu.html)
+
+# Arquitetura MVC Ruby on Rails
+
 # DOJO de linguagem (material didático)
 ## Codecademy
 > ### Ruby
