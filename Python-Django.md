@@ -81,7 +81,13 @@ enquanto, à sintaxe. Foque nos atributos declarados e nos métodos def.
 class Person(models.Model):
     first_name = models.CharField(max_length=30)
     last_name = models.CharField(max_length=30)
+
+    def speak(self):
+        print("Hello World!")
 ```
+### View
+
+### Template
 
 ## Criando um projeto Django
 Dentro do ambiente virtual, basta executar o comando django-admin para utilizar
