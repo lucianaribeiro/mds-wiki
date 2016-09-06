@@ -48,7 +48,7 @@ O trabalho de GPP's nesta fase é fazer toda a parte de preparação do projeto,
 
 >IBM Knowledge Center: Gerenciando e Compondo os Requisitos - Trabalhando no Web Client - Definindo Requisitos - Documento de Visão / Rational Team Concert. Disponível em: <http://www.ibm.com/support/knowledgecenter/SSCP65_4.0.7/com.ibm.rational.rrm.help.doc/topics/r_vision_doc.html?lang=pt-br>
 
-Outra referência de templates do RUP, são os contidos no site da Funpar que são os mesmos do whtreex. Disponível em:
+>Outra referência de templates do RUP, são os contidos no site da Funpar que são os mesmos do whtreex. Disponível em:
 <http://www.funpar.ufpr.br:8080/rup/process/artifact/ovu_arts.htm>
 
 ### Quais os papéis desempenhados por GPP nessa fase? - descreva
