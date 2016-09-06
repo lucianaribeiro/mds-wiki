@@ -36,24 +36,24 @@ RUP é baseado em um conjunto de princípios de desenvolvimento de <i>software</
 
 #### Disciplina de Análise e Projeto(<i>"Design"</i>)
 
-<p align = "justify" >O objetivo da análise e projeto é mostrar como o sistema vai ser realizado. O objetivo é construir um sistema que:
+<p align = "justify" >A Análise e Projeto busca mostrar como o sistema será realizado. O objetivo é construir um sistema que:
 
-* Execute, em um ambiente de execução específico, as tarefas e funções especificadas nas descrições de casos de uso;
+* Execute, em um ambiente de execução determinado, as tarefas e funções especificadas nas descrições de casos de uso;
 * Cumpra todas as suas necessidades;
-* Seja fácil de manter quando ocorrerem mudanças de requisitos funcionais;
+* Seja fácil de manter quando ocorrerem mudanças nos requisitos funcionais;
 
-<p align = "justify" >Resultados de projeto em um modelo de análise e projeto tem, opcionalmente, um modelo de análise. O modelo de design serve como uma abstração do código-fonte, isto é, o projeto atua como um modelo de "gabarito" de como o código-fonte é estruturado e escrito. O modelo de projeto consiste em classes de design estruturado em pacotes e subsistemas com interfaces bem definidas, representando o que irá se tornar componentes da aplicação. Ele também contém descrições de como os objetos dessas classes colaboram para desempenhar casos de uso do projeto.
+<p align = "justify" >Resultados de projeto em um modelo de análise e projeto têm, opcionalmente, um modelo de análise. O modelo de design serve como uma abstração do código-fonte, isto é, o projeto atua como uma espécie de "gabarito" de como o código-fonte será estruturado e escrito. O modelo de projeto consiste em classes de design estruturado em pacotes e subsistemas com interfaces bem definidas, representando o que irá se tornar componentes da aplicação. Ele também contém descrições de como os objetos dessas classes colaboram para desempenhar casos de uso do projeto.
 
 #### Disciplina de Implementação
 
-Os efeitos da implementação são:
+Os efeitos da Implementação são:
 
-* Para definir a organização do código, em termos de subsistemas de implementação organizadas em camadas
-* Para implementar classes e objetos em termos de componentes (arquivos-fonte, binários, executáveis e outros)
-* Para testar os componentes desenvolvidos como unidades
-* Integrar os resultados produzidos por implementadores individuais (ou equipes), em um sistema executável
+* Definir a organização do código em termos de subsistemas de implementação organizados em camadas
+* Implementar classes e objetos em termos de componentes (arquivos-fonte, binários e executáveis entre outros)
+* Testar os componentes desenvolvidos como unidades
+* Integrar os resultados produzidos por implementadores individuais (ou equipes) em um sistema executável
 
-<p align = "justify" >Sistemas são realizados através da aplicação de componentes. O processo descreve como reutilizar componentes existentes ou implementar novos componentes com responsabilidades bem definidas, tornando o sistema mais fácil de manter e aumentar as possibilidades de reutilização.
+<p align = "justify" >Sistemas são criados através da aplicação de componentes. O processo descreve como reutilizar componentes existentes ou implementar novos componentes com responsabilidades bem definidas, tornando o sistema mais fácil de manter e aumentando as possibilidades de reutilização.
 
 #### Disciplina de Teste
 
