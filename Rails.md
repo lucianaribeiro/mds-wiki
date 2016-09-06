@@ -94,6 +94,14 @@ Fonte de informação: [Site RAILSAPPS](http://railsapps.github.io/installrubyon
 
 # Arquitetura MVC Ruby on Rails
 
+1 - MODEL: Contém dados ou Informações sobre a aplicação, além do estado da mesma, juntamente com as regras do negócio;
+
+2 - VIEW: Interface para ver e modificar os dados/informações. É passiva – o que quer dizer que não processa nada;
+
+3 - CONTROLLER: Realiza operações ou manipulações nos dados/informações interagindo com a Model e interpreta os eventos realizados na View.
+
+A _Model_ representará as informações ou dados abstraídos do mundo real, de modo que esta também não depende da _Controller_ ou _View_. A _View_ mostrará o dados contidos na _Model_ e pode também obter e/ou atualizar os dados da mesma e envia as ações executadas pelo usuário para a _Controller_. A _Controller_ proverá os dados contidos na _Model_ para a _View_, além de interpretar as ações do usuário – como clicar em um botão, funciona como um _link_ entre o usuário e o próprio sistema em si.
+
 # DOJO de linguagem (material didático)
 ## Codecademy
 > ### Ruby
