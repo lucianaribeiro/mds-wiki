@@ -2,7 +2,7 @@ Descrever a fase de elaboração/Planejamento do projeto GPP/MDS.
 
 # Fase de Elaboração (RUP)/ Planejamento (PMBok)
 
-<p align="justify">Em um mapeamento direto das fases do RUP com relação aos grupos do PMBok, nota-se que ambos são equivalentes, como é observado no caso da fase de elaboração do RUP ser correspondente ao grupo de processos de planejamento do PMBok. Enquanto o PMBok possui um foco maior em sua etapa de planejamento, o RUP não cobre todos os aspectos de gerência de projetos de software, como recursos humanos, o que não quer dizer que não que dizer que existam algumas atividades técnicas relacionados ao próprio produto de software desempenhadas por um gerente de projeto.</p>
+<p align="justify">Em um mapeamento direto das fases do RUP com relação aos grupos do PMBok, nota-se que ambos são equivalentes, como é observado no caso da fase de elaboração do RUP ser correspondente ao grupo de processos de planejamento do PMBok. Enquanto o PMBok possui um foco maior em sua etapa de planejamento, o RUP não cobre todos os aspectos de gerência de projetos de <i>software</i>, como recursos humanos, o que não quer dizer que não que dizer que existam algumas atividades técnicas relacionados ao próprio produto de <i>software</i> desempenhadas por um gerente de projeto.</p>
 
 ### Fase de Elaboração (RUP)
 
@@ -67,10 +67,10 @@ Descrever a fase de elaboração/Planejamento do projeto GPP/MDS.
 <p align="justify">Uma vez identificadas as entregas e seu trabalho relacionado você consegue estruturar os níveis mais altos da EAP (Em preto na Figura 1). Não há um gabarito para esta estruturação,<i> o importante é que seja algo claro para o seu cliente</i>, você pode estruturar usando fases do ciclo de vida do projeto (Figura 1), áreas do projeto, entregas principais, dentre outros.</p>
 
 ![Exemplo de EAP com fases do ciclo de vida no segundo nível](http://wpm.wdfiles.com/local--files/tecnica%3Adecomposicao/EAP2.GIF)
-<p align="center"><b>Figura 1</b> - Exemplo de EAP estruturada pelas fases do cliclo de vida do projeto</p>
+<p align="center"><b>Figura 1</b> - Exemplo de EAP estruturada pelas fases do ciclo de vida do projeto</p>
 
 3º Passo: **Decomposição dos níveis mais altos da EAP em componentes detalhados em menor nível**
-<p align="justify">Com os níveis mais altos da EAP definidos, você pode fazer a decomposição desses níves em componentes mais detalhados, como dito no início deste tópico, o quão detalhado é uma variável que depende do contexto do projeto, mas busque mantê-los claros para o cliente, estimáveis e gerenciáveis. <i>Certifique-se de não utilizar verbos no infinitivo para o nome dos pacotes de trabalho</i>, como "Fazer Documento de Visão", lembre-se de que são entregáveis, o ato de fazer a atividade não é entregável, e sim o resultado, o produto dela.</p>
+<p align="justify">Com os níveis mais altos da EAP definidos, você pode fazer a decomposição desses níveis em componentes mais detalhados, como dito no início deste tópico, o quão detalhado é uma variável que depende do contexto do projeto, mas busque mantê-los claros para o cliente, estimáveis e gerenciáveis. <i>Certifique-se de não utilizar verbos no infinitivo para o nome dos pacotes de trabalho</i>, como "Fazer Documento de Visão", lembre-se de que são entregáveis, o ato de fazer a atividade não é entregável, e sim o resultado, o produto dela.</p>
 
 <p align="justify">Depois destes passos é importante se reunir com a equipe para validar se o grau de composição das entregas está adequado, e também com o cliente, para certificar-se de que as entregas fazem sentido para ele, se tudo isto está certo, provavelmente a EAP também estará.</p>
 
@@ -85,7 +85,7 @@ Descrever a fase de elaboração/Planejamento do projeto GPP/MDS.
 
 
 * Modelagem de Negócios
-* Requisitos de Software
+* Requisitos de <i>Software</i>
 * Análise e Design
 * Implementação
 * Teste
@@ -99,9 +99,9 @@ Descrever a fase de elaboração/Planejamento do projeto GPP/MDS.
 
 Os principais artefatos gerados nesta fase foram:
 
-<p align="justify">Documento de Arquitetura: este documento é responsável por apresentar a definição arquitetural escolhida para a criação do _software_ . Tem, também, como objetivo proporcionar aos desenvolvedores uma maior compreensão do sistema expondo as decisões tomadas com base nos requisitos.</p>
+<p align="justify">Documento de Arquitetura: este documento é responsável por apresentar a definição arquitetural escolhida para a criação do <i>software</i>. Tem, também, como objetivo proporcionar aos desenvolvedores uma maior compreensão do sistema expondo as decisões tomadas com base nos requisitos.</p>
 
-<p align="justify">Desenvolvimento e concepção do documento de caso de uso, que é o documento que consiste em descrever o sistema através da diagramação do sistema. Neste documento é onde ocorre a identificação dos atores do sistema e quais são as suas possíveis ações dentro do sistema. Com a construção deste documento a visualização do sistema fica mais clara para a modelagem do sistema, facilitando o levantamento de requisistos.</p>
+<p align="justify">Desenvolvimento e concepção do documento de caso de uso, que é o documento que consiste em descrever o sistema através da diagramação do sistema. Neste documento é onde ocorre a identificação dos atores do sistema e quais são as suas possíveis ações dentro do sistema. Com a construção deste documento a visualização do sistema fica mais clara para a modelagem do sistema, facilitando o levantamento de requisitos.</p>
 
 <p align="justify">Desenvolvimento e concepção do documento de especificação suplementar, que é um documento que tem a principal finalidade de levantar os requisitos não funcionais que não é tão detalhado no documento de visão.</p>
 
@@ -127,14 +127,14 @@ Os principais artefatos gerados nesta fase foram:
 ## Quais os papéis desempenhados por MDS nessa fase? descreva 
 
 
-### Arquiteto de Software
-<p align="justify"> A principal função de um arquiteto de software é a definição da arquitetura que será usada no projeto, em MDS a arquitetura é pré-definida, MVC(Model-View-Controller). No entanto outros fatores, como restrições, diagramas UML,metas arquiteturais e de desempenho, também fazem parte de suas responsabilidades. Essas e outras especificações devem estar descritas no Documento de Arquitetura.</p>
+### Arquiteto de <i>Software</i>
+<p align="justify"> A principal função de um arquiteto de <i>software</i> é a definição da arquitetura que será usada no projeto, em MDS a arquitetura é pré-definida, <i>MVC(Model-View-Controller)</i>. No entanto outros fatores, como restrições, diagramas UML,metas arquiteturais e de desempenho, também fazem parte de suas responsabilidades. Essas e outras especificações devem estar descritas no Documento de Arquitetura.</p>
 
    * Atividades: Priorizar casos de uso, análise arquitetural e requisitos.
-   * Artefato: Documento de Arquitetura de Software
+   * Artefato: Documento de Arquitetura de <i>Software</i>
 
 ### Desenvolvedor
- A função de um desenvolvedor é a codificação de um software.
+ A função de um desenvolvedor é a codificação de um <i>software</i>.
 
 ### Analista de Teste
 
