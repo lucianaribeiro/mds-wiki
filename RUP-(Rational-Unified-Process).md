@@ -50,14 +50,14 @@ Os efeitos da Implementação são:
 
 * Definir a organização do código em termos de subsistemas de implementação organizados em camadas
 * Implementar classes e objetos em termos de componentes (arquivos-fonte, binários e executáveis, entre outros)
-* Testar os componentes desenvolvidos como unidades
+* Testar, como unidades, os componentes desenvolvidos
 * Integrar os resultados produzidos por implementadores individuais (ou equipes) em um sistema executável
 
 <p align = "justify" >Sistemas são criados através da aplicação de componentes. O processo descreve como reutilizar componentes existentes ou implementar novos componentes com responsabilidades bem definidas, tornando o sistema mais fácil de manter e aumentando as possibilidades de reutilização.
 
 #### Disciplina de Teste
 
-As finalidades da disciplina de teste são:
+As finalidades da isciplina de Teste são:
 
 * Verificar a interação entre objetos
 * Verificar a integração adequada de todos os componentes do <i>software</i>
@@ -65,11 +65,11 @@ As finalidades da disciplina de teste são:
 * Identificar e garantir que os defeitos são abordados antes da implantação do <i>software</i>
 * Garantir que todos os defeitos são corrigidos, reanalisados e fechados
 
-<p align = "justify" >O <i>Rational Unified Process</i> propõe uma abordagem iterativa, o que significa que deve-se testar todo o projeto. Isto permite encontrar defeitos tão cedo quanto possível, o que reduz radicalmente o custo de reparar o defeito. Os testes são realizados ao longo de quatro dimensões da qualidade:confiabilidade, funcionalidade, desempenho da aplicação, e o desempenho do sistema. Para cada uma destas dimensões da qualidade, o processo descreve como passar pelo teste do ciclo de planejamento, projeto, implementação, execução e avaliação.
+<p align = "justify" >O <i>Rational Unified Process</i> propõe uma abordagem iterativa, o que significa que deve-se testar todo o projeto. Isto permite encontrar defeitos tão cedo quanto possível, o que reduz radicalmente o custo para reparar o defeito. Os testes são realizados ao longo de quatro dimensões da qualidade: confiabilidade, funcionalidade, desempenho da aplicação e desempenho do sistema. Para cada uma destas dimensões da qualidade, o processo descreve como passar pelo teste do ciclo de planejamento, projeto, implementação, execução e avaliação.
 
 #### Disciplina de Implantação
 
-<p align = "justify" >O objetivo da implantação é o de produzir com sucesso lançamentos de produtos e entregar o <i>software</i> para seus usuários finais. Ele cobre uma vasta gama de atividades, incluindo a produção de releases externos do <i>software</i>, a embalagem do <i>software</i> e aplicativos de negócios, distribuição do <i>software</i>, instalação do <i>software</i> e prestação de ajuda e assistência aos usuários. Embora as atividades de implantação estejam principalmente centradas em torno da fase de transição, muitas das atividades devem ser incluídas nas fases anteriores para se preparar para a implantação, no final da fase de construção. Os processos <i>("workflows")</i> de "Implantação e Ambiente" do RUP contêm menos detalhes do que outros <i>workflows</i>.
+<p align = "justify" >O objetivo da Implantação é o de produzir com sucesso lançamentos de produtos e entregar o <i>software</i> para seus usuários finais. Ela cobre uma vasta gama de atividades, incluindo a produção de <i>releases</i> externas do <i>software</i>, a embalagem do <i>software</i> e aplicativos de negócios, distribuição do <i>software</i>, instalação do <i>software</i> e s prestação de assistência aos usuários. Embora as atividades de implantação estejam principalmente centradas em torno da fase de transição, muitas delas devem ser incluídas nas fases anteriores para se preparar para a implantação, no final da fase de construção. Os processos ("<i>workflows</i>") de "Implantação e Ambiente" do RUP contêm menos detalhes do que outros <i>workflows</i>.
 
 ### Três Disciplinas de Apoio/Suporte
 
