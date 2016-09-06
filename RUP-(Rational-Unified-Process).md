@@ -49,7 +49,7 @@ RUP é baseado em um conjunto de princípios de desenvolvimento de <i>software</
 Os efeitos da Implementação são:
 
 * Definir a organização do código em termos de subsistemas de implementação organizados em camadas
-* Implementar classes e objetos em termos de componentes (arquivos-fonte, binários e executáveis entre outros)
+* Implementar classes e objetos em termos de componentes (arquivos-fonte, binários e executáveis, entre outros)
 * Testar os componentes desenvolvidos como unidades
 * Integrar os resultados produzidos por implementadores individuais (ou equipes) em um sistema executável
 
