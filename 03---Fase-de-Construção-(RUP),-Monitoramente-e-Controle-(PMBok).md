@@ -42,7 +42,7 @@ Os principais objetivos são monitorar resultados específicos do projeto com o 
 * **Gerenciamento das comunicações do projeto**
 * Controlar as comunicações
 
-Garantir que as necessidades de informação das partes interessadas sejam atendidas. Tendo um feedback em relação a qualidade das informações disponibilizadas e adaptar as novas demandas de informação.
+Garantir que as necessidades de informação das partes interessadas sejam atendidas. Tendo um <i>feedback</i> em relação a qualidade das informações disponibilizadas e adaptar as novas demandas de informação.
 
 
 * **Gerenciamento dos riscos do projeto**
@@ -71,14 +71,14 @@ ______
 
 ## Detalhe as atividades realizadas por MDS nessa fase
 * Relatório de casos de testes - Tutorial
-* Boas práticas de desenvolvimento - Tutorial/boas práticas - ruby, python, android
+* Boas práticas de desenvolvimento - Tutorial/boas práticas - <i>ruby, python, android</i>
 * Como garantir a rastreabilidade no projeto - Tutorial/Boas práticas
 
 ## (GPP) Configurando Ambiente
 * Integração contínua - Tutorial 
-* Testes de aceitação automatizados - Tutoriais (rails, django, android) 
-* Testes unitários - Tutoriais (rails, django, android) 
-* Política de Branches - Tutorial/boas práticas
+* Testes de aceitação automatizados - Tutoriais <i>(rails, django, android)</i> 
+* Testes unitários - Tutoriais <i>(rails, django, android)</i> 
+* Política de <i>Branches</i> - Tutorial/boas práticas
 
 ## Quais as disciplinas no RUP são executadas
 * Modelagem de Negócios
@@ -92,17 +92,17 @@ ______
 ## Quais os artefatos são gerados do RUP?
 ####Fase de Iniciação: 
 Os principais artefatos gerados nessa fase são:
-- Documento de Arquitetura de Software.
-- Documento deVisão do projeto.
+- Documento de Arquitetura de <i>Software</i>.
+- Documento de Visão do projeto.
 É importante lembrar que esses artefatos não estão finalizados, isso quer dizer que vamos continuar trabalhando neles de maneira gradativa até o final do projeto - em todas as iterações. Nessa fase é importante também definir os casos de uso mais marcantes finalmente obtendo as funcionalidades-chave da aplicação. É através dos artefatos gerados nessa fase que se realizará o ajuste de quantas iterações o processo terá, além de fornecerem uma base para a lapidação do projeto.
 - Documento de especificação de suplementar.
 - Documento de casos de Teste
 
 ####Fase de Elaboração: 
-Os artefatos produzidos nessa fase envolvem o documento de arquitetura além da própria base arquitetural, o refinamento dos requisitos, do ducumento de visão e a concepção inical do modelo de casos de uso. Neste instante são apresentados, o Baseline completo do projeto, os elementos da equipe de desenvolvimento, entre outros.
+Os artefatos produzidos nessa fase envolvem o documento de arquitetura além da própria base arquitetural, o refinamento dos requisitos, do documento de visão e a concepção inicial do modelo de casos de uso. Neste instante são apresentados, o <i>Baseline</i> completo do projeto, os elementos da equipe de desenvolvimento, entre outros.
 
 ####Fase de Construção: 
-A codificação ocorre predominantemente nessa fase. Nesse momento o maior artefato que será obtido é o próprio sistema, ou seja, ocorre a construção do sistema de software com foco no desenvolvimento de componentes e outros recursos necessarios. Lembrando que podem ainda ser produzidos materiais para treinamento e, se necessário, documentação para os usuários. Existem ainda outras atividades que podem ocorrer em paralelo, como a identificação e correção de defeitos. 
+A codificação ocorre predominantemente nessa fase. Nesse momento o maior artefato que será obtido é o próprio sistema, ou seja, ocorre a construção do sistema de <i>software</i> com foco no desenvolvimento de componentes e outros recursos necessários. Lembrando que podem ainda ser produzidos materiais para treinamento e, se necessário, documentação para os usuários. Existem ainda outras atividades que podem ocorrer em paralelo, como a identificação e correção de defeitos. 
 
 ####Fase de Transição: 
 Quando chegamos aqui devemos verificar se o usuário está satisfeito e se atendemos os custos e funcionalidades pretendidas. Os artefatos produzidos serão a própria aplicação e materiais de suporte para o usuário. No final dessa fase deve-se tirar uma conclusão geral do projeto, obtendo os pontos positivos e negativos os quais devem ser utilizados durante a concepção de projetos futuros, que seria o artefato _PostMortem_.
