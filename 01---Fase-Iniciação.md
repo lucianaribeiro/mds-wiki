@@ -19,7 +19,7 @@ O trabalho de GPP's nesta fase é fazer toda a parte de preparação do projeto,
 
 ### Quais os processos do RUP são executados - ilustre
 ### Detalhe as atividades realizadas por MDS nessa fase
-<p align = "justify" >O trabalho de MDS na fase de iniciação é fazer a primeira versão de toda a parte de documentação do projeto como documento de visão, arquitetura, diagrama de casos de uso entre outros. Além de toda primeira versão dos documentos prontos, deve-se:
+<p align = "justify" >O trabalho de MDS na fase de iniciação é fazer a primeira versão do documento de visão. Além da primeira versão do documentos de visão, deve-se:
 
 > * Definir linguagem de programação e ambiente.
 > * Realizar estudos de como utilizar linguagem e ambiente escolhidos.
