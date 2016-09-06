@@ -11,7 +11,7 @@ O trabalho de GPP's nesta fase é fazer toda a parte de preparação do projeto,
 > * Elaborar cronograma inicial.
 > * Definir tecnologias.
 > * Treinamento sobre linguagem e ambiente.
-> * Iniciar gestão de configuração de software.
+> * Iniciar gestão de configuração de _software_.
 > * Elaborar termo de abertura do projeto.
 > * Elaborar registro de partes interessadas.
 > * Elicitar requisitos dos clientes.
@@ -72,7 +72,7 @@ Papel responsável por delimitar o sistema.
  
 ### Quais são principais critérios de avaliação para passagem de fase? (RUP)
 
-<p align = "justify" >O principal critério para passagem na fase de iniciação é que se tenha um escopo de projeto bem definido, onde haja concordância entre os stakeholders - as partes interessadas - e o planejamento do projeto. Para que se possa abstrair todo o conjunto de ideias que constituem o escopo do projeto e formar algo mais sólido, na fase de Iniciação, assim como nas demais fases, deve-se gerar uma *baseline*, ou seja, *um artefato estável*. Podemos dizer que no contexto da disciplina, a *baseline* gerada na fase de Iniciação é o *Documento de Visão*.
+<p align = "justify" >O principal critério para passagem na fase de iniciação é que se tenha um escopo de projeto bem definido, onde haja concordância entre os _stakeholders_ - as partes interessadas - e o planejamento do projeto. Para que se possa abstrair todo o conjunto de ideias que constituem o escopo do projeto e formar algo mais sólido, na fase de Iniciação, assim como nas demais fases, deve-se gerar uma *baseline*, ou seja, *um artefato estável*. Podemos dizer que no contexto da disciplina, a *baseline* gerada na fase de Iniciação é o *Documento de Visão*.
 
 ### Quais são principais critérios de avaliação para passagem de fase? (PMBOK)
 
