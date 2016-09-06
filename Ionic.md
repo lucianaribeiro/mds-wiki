@@ -17,6 +17,9 @@ O ionic nada mais é do que uma pilha de componentes e outros frameworks. Estes 
 
 
 ## AngularJS
+AngularJs é um framework do JavaScript que foi criado em 2012 e atualmente se encontra na versão 2.0. É uma extensão do HTML com novos atributos e é perfeito para aplicações de página única.      
+Seu objetivo é aumentar aplicativos que podem ser acessados por um navegador web, foi construído sob o padrão model-view-view-model (MVVM), em um esforço para facilitar tanto o desenvolvimento quanto o teste dos aplicativos.
+
 ## Rails como servidor
 
 
