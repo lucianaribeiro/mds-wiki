@@ -7,7 +7,7 @@
 
 Segundo o Guia PMBOK®, monitorar e controlar o trabalho do projeto é o processo de acompanhamento, revisão e ajuste do progresso para que os objetivos de desempenho definidos no plano de gerenciamento sejam alcançados. Nesse processo realiza-se a coleta, medição e disseminação de informações sobre desempenho e avaliação de medições e tendências para efetuar melhorias no processo. De forma a avaliar a saúde do seu projeto durante todo o projeto, identificar áreas que exigem atenção especial, recomendar ações para corrigir ou evitar os desvios e garantir a qualidade (saúde) do projeto através do monitoramento, check-list e contingência prevista.
 
-	* Realizar o controle integrado de mudanças
+   * Realizar o controle integrado de mudanças
 
 Realizar o controle integrado de mudanças é considerado um dos processos mais importantes para garantir o sucesso do projeto e envolve as etapas de solicitação de mudança, revisão do impacto dos custos e benefícios gerados pela mudança, aprovação, replanejamento contemplando a mudança, execução, controle e monitoramento da mudança e encerramento da entrega ou resultado contemplando a mudança.
 
@@ -18,7 +18,7 @@ As mudanças são necessárias, principalmente, para acatar as novas expectativa
 
 Validar o escopo (ou Verificar o Escopo como era chamado na quarta edição do Guia PMBOK®) é o processo de formalizar a aceitação dos produtos do projeto.
 
-	* Controlar o escopo
+   * Controlar o escopo
 
 Controlar o Escopo é o processo de monitorar o status do escopo do projeto e do produto e gerenciar as alterações na linha de base de escopo.
 
