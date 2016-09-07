@@ -22,14 +22,10 @@ Segundo o Guia PMBOK®, desenvolver o plano de gerenciamento de projeto é o pro
 * **Gerenciamento do escopo do projeto**
    * Planejar o gerenciamento do escopo
 
-Planejar o gerenciamento do escopo define e documenta como a equipe do projeto irá definir, validar e controlar o escopo.
+Planejar o gerenciamento do escopo define e documenta como a equipe do projeto definirá, validará e controlará o escopo.
    * Coletar os requisitos
 
-Coletar os requisitos é o o processo de definir e documentar as necessidades das partes interessadas para atingir os objetivos dos projetos.
-
-Os requisitos devem ser obtidos, analisados e registrados em detalhes suficientes para serem medidos durante a execução do projeto.
-Os requisitos serão a base para construção da EAP.
-O planejamento de custos, tempo e qualidade será construído com base nos requisitos.
+Coletar os requisitos é o o processo de definir e documentar as necessidades das partes interessadas para atingir os objetivos dos projetos. Os requisitos devem ser obtidos, analisados e registrados em detalhes suficientes para serem medidos durante a execução do projeto além disso eles servem como base para a elaboração da EAP, assim como o planejamento de custos, tempo e qualidade.
    * Definir o escopo
 
 Definir o Escopo é desenvolver uma descrição detalhada do projeto e do produto.
@@ -51,7 +47,7 @@ Sequenciar as Atividades tem como objetivo, identificar e documentar as relaçõ
 Estimar os recursos da atividade é estimar todos os recursos necessários para a execução de cada atividade determinando o tipo e a quantidade de material, pessoas, equipamentos ou suprimentos.
    * Estimar as durações das atividades
 
-Estimar a duração da atividade é estimar a quantidade de períodos de trabalho necessários para completar cada atividade considerando os recursos estimados no processo Estimar os Recursos das Atividades.
+Estimar a duração da atividade é estimar a quantidade de períodos de trabalho necessários para terminar cada atividade considerando os recursos que foram estimados no processo Estimar os Recursos das Atividades.
    * Desenvolver o Cronograma
 
 Desenvolver o Cronograma é um processo iterativo que envolve analisar a sequência das atividades, sua duração, seus requerimentos de recursos e suas restrições para criar o cronograma do projeto e determinar as datas de início e término de cada atividade.
@@ -62,8 +58,7 @@ Desenvolver o Cronograma é um processo iterativo que envolve analisar a sequên
 Planejar o gerenciamento dos custos estabelece as políticas, procedimentos e documentação para planejar, gerenciar, executar e controlar os custos do projeto.
    * Estimar os custos
 
-Estimar os Custos tem como objetivo desenvolver uma estimativa dos custos dos recursos necessários para executar as atividades do projeto.
-Custo é a remuneração dos fatores de produção (mão-de-obra, capital, máquinas, instalações, materiais e serviços) utilizados na preparação e execução de um processo produtivo.
+Estimar os Custos tem como objetivo desenvolver uma estimativa dos custos dos recursos necessários para executar as atividades do projeto. Custo é a remuneração dos fatores de produção (mão-de-obra, capital, máquinas, instalações, materiais e serviços) utilizados na preparação e execução de um processo produtivo.
    * Determinar o orçamento
 
 Determinar o orçamento agrega os custos estimados das atividades para estabelecer uma linha de base.
@@ -85,7 +80,7 @@ Segundo o Guia PMBOK®, planejar o gerenciamento das comunicações é o process
 * **Gerenciamento dos riscos do projeto**
    * Planejar o gerenciamento dos riscos
 
-Identificar os riscos tem como objetivo determinar quais risco podem afetar o projeto e documentar suas características.
+Planejar o gerenciamento dos riscos tem como objetivo definir como conduzir as atividades de gerenciamento de riscos para o projeto.
    * Identificar os riscos
 
 Identificar os riscos tem como objetivo determinar quais risco podem afetar o projeto e documentar suas características.
