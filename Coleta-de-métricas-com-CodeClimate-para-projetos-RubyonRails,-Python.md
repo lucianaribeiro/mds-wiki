@@ -34,6 +34,16 @@ Passo a Passo de como adicionar o CodeCLimate ao projeto.
 
 5 - Prencher formulário com o caminho/nome do projeto, Exemplo nicacioneto/colchonet
 
-Após seguir todos os passos o CodeClimat já estará funcionando e analisando o projeto, após a análise, será disponibilizado um índice de qualidade do projeto.
+Após seguir todos os passos o CodeClimate já estará funcionando e analisando o projeto, após a análise, será disponibilizado um índice de qualidade do projeto.
 
 O CodeClimate oferece suporte as linguagens
+
+* CSS
+* Go
+* JavaScript
+* PHP
+* Python
+* Ruby
+
+Para mais informações acesse a documentação oficial
+https://docs.codeclimate.com
