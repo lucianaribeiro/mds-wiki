@@ -21,7 +21,7 @@
 * obtenção do consentimento dos envolvidos de que as baselines de implantação são consistentes com os critérios de avaliação da visão  
   
 ###Atividades básicas
----  
+**A Completar** 
 
 ##Finalização (PMBoK)  
   
