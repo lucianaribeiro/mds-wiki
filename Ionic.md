@@ -2,12 +2,15 @@
 
 # Arquitetura MVC
 
-A arquitetura MVC é definida pela existência Models, Views e Controllers.
+A proposta da arquitetura MVC é fazer uma divisão em 3 camadas sobrepostas, de uma forma que o usuário só irá interagir com uma delas, no caso a View. Cada parte tem um valor diferente.
 
 * Modelos (models) - Armazenamento de dados, definição dos estados das camadas e interpretação de requisições.
 * Visão (views) - Controle de layout e definição de design. A visão é controlada pelo Ionic e o Firebase.
 * Controles (controllers) - Tráfego de informações entre todas as camadas, principalmente entre o Ruby on Rails e o Ionic Framework
 
+A camada View é de responsabilidade do framework IONIC. Quando utiliza-se esse framework, geralmente adota-se o framework Rails. Portanto a configuração do MVC fica como apresentado na imagem a seguir.
+
+![](http://i.imgur.com/GORryyR.png)
 # DOJO de linguagem (material didático)
 
 ## Ionic Framework
