@@ -37,6 +37,8 @@
 
 [Integração Contínua com o Travis-CI](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Integração-Cont%C3%ADnua-Travis-CI)
 
+[Coleta de métricas com CodeClimate](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Coleta-de-m%C3%A9tricas-com-CodeClimate-para-projetos-RubyonRails,-Python)
+
 [Tutoriais e Materiais][tutoriaismateriais]
 
 [home]: https://github.com/fga-gpp-mds/00-Disciplina/wiki
