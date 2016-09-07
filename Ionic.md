@@ -2,8 +2,13 @@
 
 # Arquitetura MVC
 
-# DOJO de linguagem (material didático)
+A arquitetura MVC é definida pela existência Models, Views e Controllers.
 
+* Modelos (models) - Armazenamento de dados, definição dos estados das camadas e interpretação de requisições.
+* Visão (views) - Controle de layout e definição de design. A visão é controlada pelo Ionic e o Firebase.
+* Controles (controllers) - Tráfego de informações entre todas as camadas, principalmente entre o Ruby on Rails e o Ionic Framework
+
+# DOJO de linguagem (material didático)
 
 ## Ionic Framework
 Ionic é um framework criado em 2013 que visa a criação de aplicações híbridas para dispositivos móveis (iOS e Android). Hoje o Ionic encontra-se na versão 2.0. Porém para utilizar o Ionic e desenvolver aplicações móveis com o Cordova é necessário ter instalado as seguintes dependências:
