@@ -80,9 +80,9 @@ Descrever a fase de elaboração/Planejamento do projeto GPP/MDS.
 ## Quais os processos do RUP são executados - ilustre
 
 ## Detalhe as atividades realizadas por MDS nessa fase
+A principal atividade realizada por MDS nesta fase é a elaboração do documento de arquitetura, este que será fundamental para as próximas fases e continuidade do projeto, pois assegurando que a arquitetura e os requisitos estejam estáveis a fase de construção será facilitada. E para garantir isso pode-se utilizar de protótipos diretamente para elicitar requisitos significativos do sistema.
 
 ## Quais as disciplinas no RUP são executadas
-
 
 * Modelagem de Negócios
 * Requisitos de <i>Software</i>
@@ -125,8 +125,6 @@ Os principais artefatos gerados nesta fase foram:
  * Gerenciamento de Riscos.
 
 ## Quais os papéis desempenhados por MDS nessa fase? descreva 
-
-
 ### Arquiteto de <i>Software</i>
 <p align="justify"> A principal função de um arquiteto de <i>software</i> é a definição da arquitetura que será usada no projeto, em MDS a arquitetura é pré-definida, <i>MVC(Model-View-Controller)</i>. No entanto outros fatores, como restrições, diagramas UML,metas arquiteturais e de desempenho, também fazem parte de suas responsabilidades. Essas e outras especificações devem estar descritas no Documento de Arquitetura.</p>
 
@@ -137,7 +135,6 @@ Os principais artefatos gerados nesta fase foram:
  A função de um desenvolvedor é a codificação de um <i>software</i>.
 
 ### Analista de Teste
-
  Papel responsável por identificar quais os testes necessários para o sistema
    * Atividades: Identificar objetivos do teste, definir detalhes do teste, identificar ideias do teste
    * Artefato: Especificação do caso de teste
