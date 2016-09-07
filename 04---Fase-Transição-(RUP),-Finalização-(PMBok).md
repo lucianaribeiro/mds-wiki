@@ -21,7 +21,14 @@
 * obtenção do consentimento dos envolvidos de que as baselines de implantação são consistentes com os critérios de avaliação da visão  
   
 ###Atividades básicas
-**A Completar** 
+
+* Executar planos de implantação.
+* Finalizar o material de suporte para o usuário final.
+* Testar o produto liberado no local do desenvolvimento.
+* Criar um release do produto.
+* Obter feedback do usuário.
+* Ajustar o produto com base em feedback.
+* Disponibilizar o produto para os usuários finais.
 
 ##Finalização (PMBoK)  
   
