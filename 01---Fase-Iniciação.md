@@ -35,12 +35,8 @@ O trabalho de GPP's nesta fase é fazer toda a parte de preparação do projeto,
 
 ### Quais os artefatos são gerados do RUP?
  >  * Documento de Visão.
- >  * Documento de Arquitetura.
  >  * Diagrama de Casos de Uso.
- >  * Diagrama de Classes.
  >  * Especificação dos Casos de Uso.
- >  * Especificação dos Casos de Teste.
- >  * Relatório dos Casos de Teste.
 
 ### Quais os templates usados para gerar os artefatos do PMbok 
 ### Quais os templates usados para gerar os artefatos do RUP?
@@ -64,10 +60,10 @@ O trabalho de GPP's nesta fase é fazer toda a parte de preparação do projeto,
 
 
 ### Quais os papéis desempenhados por MDS nessa fase? descreva  
-<p align = "justify" >Nesta fase de iniciação a equipe de Desenvolvimento se mantém focada em projetar um documental (documento de visão) que possa garantir uma definição de escopo, respeitando os padrões desejados pelo cliente e que consiga ser implementável pela equipe. Preocupa-se também em, pensar maneiras de modelar o sistema da melhor forma, afim de proporcionar um ferramenta de auxílio durante o desenvolvimento da solução do problema proposto.
+<p align = "justify" >Nesta fase de iniciação a equipe de Desenvolvimento se mantém focada em projetar o documento de visão que possa garantir um escopo bem definido, respeitando os padrões desejados pelo cliente e que consiga ser implementável pela equipe. Preocupa-se também em pensar maneiras de modelar o sistema da melhor forma, afim de proporcionar um ferramenta de auxílio durante o desenvolvimento da solução do problema proposto.
 #### Analista de Sistema 
 Papel responsável por delimitar o sistema.
-* Atividades: Desenvolver visão, identificar solicitações dos principais envolvidos.
+* Atividades: Desenvolver a visão, identificar solicitações dos principais envolvidos.
 * Artefato: Documento de visão.
  
 ### Quais são principais critérios de avaliação para passagem de fase? (RUP)
