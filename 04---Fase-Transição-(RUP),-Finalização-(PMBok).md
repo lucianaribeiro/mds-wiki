@@ -48,6 +48,13 @@
   
   No momento do encerramento do projeto, é necessário garantir que todo o trabalho está de fato finalizado e que todos os objetivos do projeto foram atingidos. É necessário garantir que todo o escopo foi atendido e que todos os objetivos de qualidade foram alcançados. Para que isto seja cumprido, todas as partes interessadas devem estar envolvidas no processo de encerramento. Durante seu desenvolvimento são desenvolvidos registros de lições aprendidas e são realizadas investigações quanto ao desempenho geral da equipe do projeto como um todo.
 
+####Fatores críticos de sucesso:
+
+* Aceitação do usuário final;
+* Objetivos do negócio e benefícios antecipados são alcançados;
+* Objetivos do projeto alcançados;
+* Materiais do projeto são arquivados.
+
 ##Referências  
   
 [Guia PMBoK](https://www.pmi.org/pmbok-guide-standards)  
