@@ -16,39 +16,39 @@ Descrever a fase de elaboração/Planejamento do projeto GPP/MDS.
 ##  Quais os processos do PMBok são executados - ilustre
 
 * **Gerenciamento da integração do projeto**
-* Desenvolver o plano de gerenciamento do projeto
+   * Desenvolver o plano de gerenciamento do projeto
 * **Gerenciamento do escopo do projeto**
-* Planejar o gerenciamento do escopo
-* Coletar os requisitos
-* Definir o escopo
-* Criar a EAP
+   * Planejar o gerenciamento do escopo
+   * Coletar os requisitos
+   * Definir o escopo
+   * Criar a EAP
 * **Gerenciamento do tempo do projeto**
-* Planejar o gerenciamento do cronograma
-* Definir as Atividades
-* Sequenciar as Atividades
-* Estimar os recursos das atividades
-* Estimar as durações das atividades
-* Desenvolver o Cronograma
+   * Planejar o gerenciamento do cronograma
+   * Definir as Atividades
+   * Sequenciar as Atividades
+   * Estimar os recursos das atividades
+   * Estimar as durações das atividades
+   * Desenvolver o Cronograma
 * **Gerenciamento dos custos do projeto**
-* Planejar o gerenciamento dos custos
-* Estimar os custos
-* Determinar o orçamento
+   * Planejar o gerenciamento dos custos
+   * Estimar os custos
+   * Determinar o orçamento
 * **Gerenciamento da qualidade do projeto**
-* Planejar o gerenciamento da qualidade
+   * Planejar o gerenciamento da qualidade
 * **Gerenciamento dos recursos humanos do projeto**
-* Planejar o gerenciamento dos recursos humanos
+   * Planejar o gerenciamento dos recursos humanos
 * **Gerenciamento das comunicações do projeto**
-* Planejar o gerenciamento das comunicações
+   * Planejar o gerenciamento das comunicações
 * **Gerenciamento dos riscos do projeto**
-* Planejar o gerenciamento dos riscos
-* Identificar os riscos
-* Realizar a análise qualitativa dos riscos
-* Realizar a análise quantitativa dos riscos
-* Planejar as respostas aos riscos
+   * Planejar o gerenciamento dos riscos
+   * Identificar os riscos
+   * Realizar a análise qualitativa dos riscos
+   * Realizar a análise quantitativa dos riscos
+   * Planejar as respostas aos riscos
 * **Gerenciamento das aquisições do projeto**
-* Planejar o gerenciamento das aquisições
+   * Planejar o gerenciamento das aquisições
 * **Gerenciamento das partes interessadas do projeto**
-* Planejar o gerenciamento das partes interessadas
+   * Planejar o gerenciamento das partes interessadas
 
 
 *  (GPP)Detalhe as atividades realizadas por GPP nessa fase
