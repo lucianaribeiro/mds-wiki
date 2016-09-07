@@ -49,9 +49,7 @@ Descrever a fase de elaboração/Planejamento do projeto GPP/MDS.
    * Planejar o gerenciamento das aquisições
 * **Gerenciamento das partes interessadas do projeto**
    * Planejar o gerenciamento das partes interessadas
-
-
-*  (GPP)Detalhe as atividades realizadas por GPP nessa fase
+* (GPP)Detalhe as atividades realizadas por GPP nessa fase
 * (GPP) Como construir uma EAP (Estrutura analítica de Projeto) - Tutorial
 
 <p align="justify">Segundo o PMBOK, "A EAP é a decomposição hierárquica do escopo total do trabalho a ser executado pela equipe do projeto a fim de alcançar os objetivos do projeto e criar as entregas exigidas", ou seja, ela nada mais é que uma representação gráfica que ilustra a divisão e subdivisão de todo o escopo do seu projeto em pacotes de trabalho entregáveis.</p>
