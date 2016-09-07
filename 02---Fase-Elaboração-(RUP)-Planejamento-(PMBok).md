@@ -17,38 +17,95 @@ Descrever a fase de elaboração/Planejamento do projeto GPP/MDS.
 
 * **Gerenciamento da integração do projeto**
    * Desenvolver o plano de gerenciamento do projeto
+
+Segundo o Guia PMBOK®, desenvolver o plano de gerenciamento de projeto é o processo de documentação das ações necessárias para definição, preparação, integração e coordenação todos os planos auxiliares. É considerado o principal processo de planejamento, por integrar os demais planos complementando-os.
 * **Gerenciamento do escopo do projeto**
    * Planejar o gerenciamento do escopo
+
+Planejar o gerenciamento do escopo define e documenta como a equipe do projeto irá definir, validar e controlar o escopo.
    * Coletar os requisitos
+
+Coletar os requisitos é o o processo de definir e documentar as necessidades das partes interessadas para atingir os objetivos dos projetos.
+
+Os requisitos devem ser obtidos, analisados e registrados em detalhes suficientes para serem medidos durante a execução do projeto.
+Os requisitos serão a base para construção da EAP.
+O planejamento de custos, tempo e qualidade será construído com base nos requisitos.
    * Definir o escopo
+
+Definir o Escopo é desenvolver uma descrição detalhada do projeto e do produto.
    * Criar a EAP
+
+Criar a EAP é o processo de subdividir os produtos do projeto e o trabalho do projeto em componentes menores e mais gerenciáveis.
 * **Gerenciamento do tempo do projeto**
    * Planejar o gerenciamento do cronograma
+
+Planejar o gerenciamento do cronograma estabelece as políticas, procedimentos e documentação para planejar, desenvolver, gerenciar, executar e controlar o cronograma do projeto.
    * Definir as Atividades
+
+Segundo o Guia PMBOK®, Definir as atividades é o processo de identificação das ações específicas a serem realizadas para produzir as entregas do projeto.
    * Sequenciar as Atividades
+
+Sequenciar as Atividades tem como objetivo, identificar e documentar as relações de dependência entre as atividades.
    * Estimar os recursos das atividades
+
+Estimar os recursos da atividade é estimar todos os recursos necessários para a execução de cada atividade determinando o tipo e a quantidade de material, pessoas, equipamentos ou suprimentos.
    * Estimar as durações das atividades
+
+Estimar a duração da atividade é estimar a quantidade de períodos de trabalho necessários para completar cada atividade considerando os recursos estimados no processo Estimar os Recursos das Atividades.
    * Desenvolver o Cronograma
+
+Desenvolver o Cronograma é um processo iterativo que envolve analisar a sequência das atividades, sua duração, seus requerimentos de recursos e suas restrições para criar o cronograma do projeto e determinar as datas de início e término de cada atividade.
+
 * **Gerenciamento dos custos do projeto**
    * Planejar o gerenciamento dos custos
+
+Planejar o gerenciamento dos custos estabelece as políticas, procedimentos e documentação para planejar, gerenciar, executar e controlar os custos do projeto.
    * Estimar os custos
+
+Estimar os Custos tem como objetivo desenvolver uma estimativa dos custos dos recursos necessários para executar as atividades do projeto.
+Custo é a remuneração dos fatores de produção (mão-de-obra, capital, máquinas, instalações, materiais e serviços) utilizados na preparação e execução de um processo produtivo.
    * Determinar o orçamento
+
+Determinar o orçamento agrega os custos estimados das atividades para estabelecer uma linha de base.
+
 * **Gerenciamento da qualidade do projeto**
    * Planejar o gerenciamento da qualidade
+
+Identificar os requisitos e/ou padrões da qualidade relevantes ao projeto e suas entregas e determinar como satisfazê-los.
+Garantir que toda atividade do projeto é aderente com as políticas e padrões da qualidade da empresa e que todas entregas estão em conformidade com seus critérios de aceitação.
+
 * **Gerenciamento dos recursos humanos do projeto**
    * Planejar o gerenciamento dos recursos humanos
+
+Planejar o gerenciamento dos recursos humanos ou desenvolver o plano de recursos humanos tem como objetivo identificar e documentar as funções, responsabilidades, competências necessárias e relações hierárquicas.
 * **Gerenciamento das comunicações do projeto**
    * Planejar o gerenciamento das comunicações
+
+Segundo o Guia PMBOK®, planejar o gerenciamento das comunicações é o processo de determinar as necessidades de informação das partes interessadas no projeto e definir uma abordagem de comunicação.
 * **Gerenciamento dos riscos do projeto**
    * Planejar o gerenciamento dos riscos
+
+Identificar os riscos tem como objetivo determinar quais risco podem afetar o projeto e documentar suas características.
    * Identificar os riscos
+
+Identificar os riscos tem como objetivo determinar quais risco podem afetar o projeto e documentar suas características.
    * Realizar a análise qualitativa dos riscos
+
+Realizar a análise qualitativa de riscos tem como objetivo avaliar a exposição ao risco para priorizar os riscos que serão objeto de análise ou ação adicional.
    * Realizar a análise quantitativa dos riscos
+
+Realizar a análise quantitativa dos riscos tem como objetivo efetuar a análise numérica do efeito dos riscos identificados nos objetivos gerais do projeto.
    * Planejar as respostas aos riscos
+
+Planejar as respostas aos riscos tem como objetivo desenvolver opções e ações para aumentar as oportunidades e reduzir as ameaças aos objetivos do projeto.
 * **Gerenciamento das aquisições do projeto**
    * Planejar o gerenciamento das aquisições
+
+Planejar o gerenciamento das aquisições é o primeiro processo das aquisições e descreverá como os demais processos irão ocorrer através do Plano de Gerenciamento das Aquisições.
 * **Gerenciamento das partes interessadas do projeto**
    * Planejar o gerenciamento das partes interessadas
+
+Planejar o gerenciamento das partes interessadas tem como objetivo desenvolver estratégias para quebrar as resistências das partes interessadas e garantir seu engajamento no projeto.
 ______________________________________________
 
 * (GPP) Como construir uma EAP (Estrutura analítica de Projeto) - Tutorial
