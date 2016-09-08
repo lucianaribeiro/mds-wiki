@@ -10,8 +10,12 @@ Descrever a fase de elaboração/Planejamento do projeto GPP/MDS.
 
 ### Planejamento (PMBok)
 
-<p align="justify">Segundo o próprio PMBok, o grupo de processos de planejamento consiste dos processos realizados para estabelecer o escopo total do esforço empregado no projeto, definir e refinar os objetivos e desenvolver o curso de ação necessário para alcançar esses objetivos. Ou seja, a fase de planejamento definirá mais precisamente o escopo, custo e prazo do projeto, assim como estabelecer uma organização das atividades e fornecer um controle do projeto, no qual será demandado caso venham a ocorrer mudanças significativas durante o projeto.</p>
+<p align="justify">Segundo o próprio PMBok, o grupo de processos de planejamento consiste dos processos realizados para estabelecer o escopo total do esforço empregado no projeto, definir e refinar os objetivos e desenvolver o curso de ação necessário para alcançar esses objetivos. Ou seja, a fase de planejamento definirá mais precisamente o escopo, custo e prazo do projeto, assim como estabelecer uma organização das atividades e fornecer um controle do projeto, no qual será demandado caso venham a ocorrer mudanças significativas durante o projeto, como pode ser visto na figura abaixo.</p>
 
+![Planejamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/Planejamento.png)
+
+Representação da fase de Planejamento, contendo as atividades do PMBok de acordo com:
+[Fonte: Ricardo Vargas](http://www.ricardo-vargas.com/pt/videos/1) 
 
 ##  Quais os processos do PMBok são executados - ilustre
 
