@@ -2,6 +2,14 @@
 
 ##  (GPP) Quais os processos do PMBok são executados - ilustre
 
+A fase de Execução ocorre praticamente em paralelo com a de Monitoramento e Controle do PMBok. Uma representação dos processos realizados nessas fases pode ser visto abaixo.
+
+![Execucao](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/Execucao.png)
+
+![Controle e Monitoramento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/Controle_Monitoramento.png)
+
+[Fonte: Ricardo Vargas](http://www.ricardo-vargas.com/pt/videos/1)  
+
 * **Gerenciamento da integração do projeto**
 	* Monitorar e controlar o trabalho do projeto
 
