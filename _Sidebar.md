@@ -14,6 +14,8 @@
 
 # Fases Rup e PMBOK
 
+[RUP(Rational Unified Process)] [rup]
+
 [Fase Iniciação] [01-fase]
 
 [Fase Elaboração(RUP) Planejamento(PMBOK)] [02-fase]
@@ -22,7 +24,6 @@
 
 [Fase Transição(RUP), Finalização(PMBOK)] [04-fase]
 
-[RUP(Rational Unified Process)] [rup]
 
 # Material Técnico
 [Python/Django][python]
