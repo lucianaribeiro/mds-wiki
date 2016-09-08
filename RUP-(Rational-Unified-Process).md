@@ -57,7 +57,7 @@ Os efeitos da Implementação são:
 
 #### Disciplina de Teste
 
-As finalidades da isciplina de Teste são:
+As finalidades da disciplina de Teste são:
 
 * Verificar a interação entre objetos
 * Verificar a integração adequada de todos os componentes do <i>software</i>
@@ -81,11 +81,11 @@ As finalidades da isciplina de Teste são:
 
 <p align = "justify" >A disciplina de Gestão de Mudança em negócios com RUP abrange três gerenciamentos específicos: de configuração, de solicitações de mudança, e de <i>status</i> e medição.
 
-* <p align = "justify" >Gerenciamento de configuração: A gestão de configuração é responsável pela estruturação sistemática dos produtos. Artefatos, como documentos e modelos, precisam estar sob controle de versão e essas alterações devem ser visíveis. Ele também mantém o controle de dependências entre artefatos para que todos os artigos relacionados sejam atualizados quando são feitas alterações
+* <p align = "justify" >Gerenciamento de configuração: A gestão de configuração é responsável pela estruturação sistemática dos produtos. Artefatos, como documentos e modelos, precisam estar sob controle de versão e essas alterações devem ser visíveis. Ele também mantém o controle de dependências entre artefatos para que todos os artigos relacionados sejam atualizados quando são feitas alterações.
 
-* <p align = "justify" >Gerenciamento de solicitações de mudança: Durante o processo de desenvolvimento de sistemas com muitos artefatos existem diversas versões. O CRM mantém o controle das propostas de mudança
+* <p align = "justify" >Gerenciamento de solicitações de mudança: Durante o processo de desenvolvimento de sistemas com muitos artefatos existem diversas versões. O CRM mantém o controle das propostas de mudança.
 
-* <p align = "justify" >Gerenciamento de status e medição: Os pedidos de mudança têm os estados: novo, conectado, aprovado, cedido e completo. A solicitação de mudança também tem atributos como a causa raiz, ou a natureza (como o defeito e valorização), prioridade, etc. Esses estados e atributos são armazenados no banco de dados para produzir relatórios úteis sobre o andamento do projeto. A <i>Rational</i> também tem um produto para manter a solicitações de mudança chamado <i>ClearQuest</i>. Esta atividade têm procedimentos a serem seguidos
+* <p align = "justify" >Gerenciamento de status e medição: Os pedidos de mudança têm os estados: novo, conectado, aprovado, cedido e completo. A solicitação de mudança também tem atributos como a causa raiz, ou a natureza (como o defeito e valorização), prioridade, etc. Esses estados e atributos são armazenados no banco de dados para produzir relatórios úteis sobre o andamento do projeto. A <i>Rational</i> também tem um produto para manter a solicitações de mudança chamado <i>ClearQuest</i>. Esta atividade têm procedimentos a serem seguidos.
 
 #### Disciplina de Gerência de Projeto
 
