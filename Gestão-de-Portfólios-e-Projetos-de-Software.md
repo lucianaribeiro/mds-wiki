@@ -22,3 +22,9 @@ http://sloanreview.mit.edu/article/what-successful-project-managers-do/
 
 ### Quais são os principais motivos do fracasso de projetos?
 
+* Viés: otimismo, custos afundados, confirmação/inércia.
+* Pouco ou nenhum planejamento.
+* Não há lições aprendidas de projetos passados.
+* Falta de treinamento em gerência de projeto.
+* Falta de treino de novas tecnologias.
+* Falta de liderança ou comprometimento dos Stakeholders.
