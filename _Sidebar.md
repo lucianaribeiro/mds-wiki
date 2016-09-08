@@ -20,7 +20,7 @@
 
 [Fase Elaboração(RUP) Planejamento(PMBOK)] [02-fase]
 
-[Fase de Construção(RUP), Monitoramente e Controle(PMBOK)] [03-fase]
+[Fase de Construção(RUP), Execução/Monitoramente e Controle(PMBOK)] [03-fase]
 
 [Fase Transição(RUP), Finalização(PMBOK)] [04-fase]
 
