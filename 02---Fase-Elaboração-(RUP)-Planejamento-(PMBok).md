@@ -204,6 +204,7 @@ Os principais artefatos gerados nesta fase foram:
 
 
 ## Quais são principais critérios de avaliação para passagem de fase? (PMBOK)
+A transição de um fase para outra é definida por alguma forma de entrega. Essas entregas podem ser revisadas e conceituadas como finalizadas e completas, porém esses conceitos não determinam a proibição da passagem de fase, uma vez que os riscos são analisados e taxados como significativos ou não significativos. Quando isso ocorre é uma prática chamada de sobreposição de fases que é um exemplo da técnica conhecida como paralelismo, ou seja um fase é iniciada sem que a anterior seja finalizada. Um outro caso que pode acontecer, é uma fase ser finalizada sem que outra seja iniciada, quando isso acontece significa que o projeto foi finalizado ou há muitos riscos para sua continuidade.
 
 ## Referências
 
