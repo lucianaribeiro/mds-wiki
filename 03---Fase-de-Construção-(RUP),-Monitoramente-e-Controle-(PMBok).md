@@ -128,7 +128,7 @@ Quando chegamos aqui devemos verificar se o usuário está satisfeito e se atend
    * Artefato: Relatório de Execução de testes.
 
 ## Quais são principais critérios de avaliação para passagem de fase? (RUP)
-
+Os principais critérios para mudança do RUP na fase de Contrução são a conclusão do projeto, junto com seus testes, onde o software chega a uma arquitetura baseline executável, depois de todas as revisões dos requisitos com base na necessidade de mercado do software. 
 
 ## Quais são principais critérios de avaliação para passagem de fase? (PMBOK)
 
