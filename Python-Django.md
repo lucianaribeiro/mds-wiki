@@ -91,6 +91,8 @@ class Person(models.Model):
  
 ### Template
 
+É a camada encarregada de mostrar nossa aplicação para o usuário e a que manda as requisições para View. Em outras palavras, é a interface da aplicação e manda os dados do usuário para processamento ou mostra algo à ele.
+
 ## Criando um projeto Django
 Dentro do ambiente virtual, basta executar o comando django-admin para utilizar
 a interface que o Django disponibiliza. Iremos criar o projeto chamado my_twitter.
