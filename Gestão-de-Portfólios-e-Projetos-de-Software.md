@@ -6,7 +6,18 @@ O plano de Ensino na disciplina por ser encontrado em https://github.com/fga-gpp
 
 De acordo com o PMBOK: “Um projeto é um esforço temporário empreendido para criar um produto, serviço ou resultado exclusivo. Os projetos e as operações diferem, principalmente, no fato de que os projetos são temporários e exclusivos, enquanto as operações são contínuas e repetitivas.”
 
-Em resumo, projeto é um evento que possui um início e um fim bem definidos. O que o diferencia de uma operação,  que é uma tarefa do dia a dia e não se tem o conhecimento de quando ela não mais será necessária, algo rotineiro.
+Em resumo, projeto é um evento que possui um início, meio e um fim bem definidos. O que o diferencia de uma operação,  que é uma tarefa do dia a dia e não se tem o conhecimento de quando ela não mais será necessária, algo rotineiro.
+
+Projeto busca atingir um objetivo claro, sendo conduzido por pessoas e possuindo parâmetros bem definidos de tempo, custo, recursos envolvidos e qualidade.
+
+**Características de um projeto:** 
+
+* Temporariedade
+* Individualidade
+* Empreendimento não repetitivo
+* Sequência clara e lógica
+* Início, meio e fim
+* Elaboração progressiva
 
 ### Qual o papel do gerente de projeto?
 
