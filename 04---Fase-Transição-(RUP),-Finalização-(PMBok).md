@@ -32,7 +32,12 @@
 
 ##Finalização (PMBoK)  
   
- Segundo o PMBoK, "encerrar o projeto ou fase é o processo de finalização de todas as atividades de todos os grupos de processos de gerenciamento do projeto para encerrar formalmente o projeto ou a fase". Em outras palavras, trata-se de um conjunto de ações que devem ser tomadas para finalizar um projeto ou etapa de forma apropriada. Esta atividade traz como principais benefícios o registro de lições aprendidas, o encerramento formal do projeto e a liberação de recursos não utilizados para outros projetos.  
+ Segundo o PMBoK, "encerrar o projeto ou fase é o processo de finalização de todas as atividades de todos os grupos de processos de gerenciamento do projeto para encerrar formalmente o projeto ou a fase". Em outras palavras, trata-se de um conjunto de ações que devem ser tomadas para finalizar um projeto ou etapa de forma apropriada. Esta atividade traz como principais benefícios o registro de lições aprendidas, o encerramento formal do projeto e a liberação de recursos não utilizados para outros projetos, como pode ser visto abaixo.
+
+![Encerramento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/Encerramento.png)
+
+Representação da fase de Encerramento, contendo as atividades do PMBok de acordo com:
+[Fonte: Ricardo Vargas](http://www.ricardo-vargas.com/pt/videos/1)   
   
 ###Entradas  
   
