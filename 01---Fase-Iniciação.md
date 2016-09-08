@@ -5,6 +5,11 @@ Descrever a fase de iniciação do projeto GPP/MDS.
 * Desenvolver o termo de abertura do projeto
 * Identificar as partes interessadas
 
+![Iniciação](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/Iniciacao.png)
+
+Representação da fase de Iniciação, contendo as atividades do PMBok de acordo com:
+[Fonte: Ricardo Vargas](http://www.ricardo-vargas.com/pt/videos/1) 
+
 ### Detalhe as atividades realizadas por GPP nessa fase
 O trabalho de GPP's nesta fase é fazer toda a parte de preparação do projeto, de modo que seja analisada a viabilidade de projeto. Além disso capacitar a equipe e o ambiente de trabalho, deve-se:
 
