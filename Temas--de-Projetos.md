@@ -18,7 +18,7 @@ Observatório de sustentabilidade -  Cliente: Lacis Professora Vitória
 ***
 **Grupo 05** 
 
-Alocação de espaço UnB - **web** - Clientes: Coordenação FGA -- rocha.carla@gmail.com
+SAS - Alocação de espaço UnB - **web** - Clientes: Coordenação FGA -- rocha.carla@gmail.com
 ***
 **Grupo 06** 
 
