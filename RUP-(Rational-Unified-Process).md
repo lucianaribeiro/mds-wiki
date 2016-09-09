@@ -118,7 +118,7 @@ Essa fase tem como objetivos preparar o ambiente de suporte, estabelecer o escop
 <p align = "justify" >É nesta fase que estabelecem o escopo do projeto de software, os critérios de aceitação e se o projeto deve ou não ser aceito. Os casos de uso começam a ser levantados, verificar quais são os principais cenários que o sistema encontrará. Na iniciação deve se a tentar também a estimar os riscos em potencial, que todo projeto possui. Também nesta mesma fase deve-se prepara o ambiente de suporte para o projeto como a configuração de ambiente para e equipe.
 
 **Marco: Objetivo do Ciclo de vida**
-*O marco do objetivo do cilo de vida é o que avalia e diz sobre a viabilidade inicial do projeto.
+* O marco do objetivo do cilo de vida é o que avalia e diz sobre a viabilidade inicial do projeto.
 
 ### Construção
 
