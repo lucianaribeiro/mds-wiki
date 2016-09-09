@@ -53,6 +53,8 @@ O trabalho de GPP's nesta fase é fazer toda a parte de preparação do projeto,
  >  * Análise e Design.
  >  * Implementação.
  >  * Teste.
+ >  * Gestão de projeto
+ >  * Configuração de Ambiente
 
 ### Quais os artefatos são gerados do RUP?
  >  * Documento de Visão.
