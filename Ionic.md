@@ -1,6 +1,5 @@
-# [[Configuração de Ambiente]]
-
 -----
+* [Configuração de Ambiente](#configuração-de-ambiente)
 * [Arquitetura MVC](#arquitetura-mvc)
   * [Ionic Framework](#ionic-framework)
   * [AngularJS](#angularjs)
@@ -12,6 +11,21 @@
 * [Material didático produzido na disciplina (times, coaches, etc)](#material-didático-produzido-na-disciplina-times-coaches-etc)
 
 -----
+
+# [[Configuração de Ambiente]]
+
+## Instalando Ionic
+
+Para instalar o Ionic e o Cordova utilizando NPM é necessário que já se tenha instalado o Node.js, caso não tenha, você pode instalar através deste [link](https://nodejs.org/en/).
+
+1) Digite no terminal este comando para instalar o Ionic e o Cordova.
+
+`npm install -g cordova ionic`
+
+2) Caso já tenha o Cordova e o Ionic instalado, atualize para a versão mais recente.
+
+`npm update -g cordova ionic`
+
 
 # Arquitetura MVC
 
@@ -42,19 +56,6 @@ AngularJs é um framework do JavaScript que foi criado em 2012 e atualmente se e
 Seu objetivo é aumentar aplicativos que podem ser acessados por um navegador web, foi construído sob o padrão model-view-view-model (MVVM), em um esforço para facilitar tanto o desenvolvimento quanto o teste dos aplicativos.
 
 ## Rails como servidor
-
-## Instalando Ionic
-
-Para instalar o Ionic e o Cordova utilizando NPM é necessário que já se tenha instalado o Node.js, caso não tenha, você pode instalar através deste [link](https://nodejs.org/en/).
-
-1) Digite no terminal este comando para instalar o Ionic e o Cordova.
-
-`npm install -g cordova ionic`
-
-2) Caso já tenha o Cordova e o Ionic instalado, atualize para a versão mais recente.
-
-`npm update -g cordova ionic`
-
 
 # DOJO de testes (material didático)
 ## AngularJS Teste Unitário
