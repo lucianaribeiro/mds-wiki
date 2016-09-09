@@ -2,9 +2,11 @@
 
 ##Transição (RUP)  
   
-  O principal foco da fase de transição do RUP (*Rational Unified Process*) é garantir a disponibilidade do software para seus usuários finais, e pode ocorrer ao longo de várias iterações. Todas as atividades relacionadas à preparação do produto para *releases* (tais como a realização de testes e pequenos ajustes) devem ser realizadas nesta fase, de forma a oferecer um ajuste fino para o produto. Neste momento não deve haver mais nenhum problema estrutural grave no produto.
-  
-  Ao fim desta fase, é necessário que todos os objetivos do projeto tenham sido atingidos e o mesmo deve estar de forma entregável. Seu início ocorre quando passa a ser possível a implantação de uma *baseline* no domínio do usuário final, de forma a atender a todos os requisitos de qualidade.  
+  O principal foco da fase de transição do RUP (*Rational Unified Process*) é garantir a disponibilidade do software para seus usuários finais, e pode ocorrer ao longo de várias iterações. Todas as atividades relacionadas à preparação do produto para *releases* (tais como a realização de testes e pequenos ajustes) devem ser realizadas nesta fase, de forma a oferecer um ajuste fino para o produto. Neste momento não deve haver mais nenhum problema estrutural grave no produto. Seu início ocorre quando passa a ser possível a implantação de uma *baseline* no domínio do usuário final, de forma a atender a todos os requisitos de qualidade.  
+   
+  Quando chegamos aqui devemos verificar se o usuário está satisfeito e se atendemos os custos e funcionalidades pretendidas. Os artefatos produzidos serão a própria aplicação e materiais de suporte para o usuário. 
+
+  Ao fim desta fase, é necessário que todos os objetivos do projeto tenham sido atingidos e o mesmo deve estar de forma entregável, também deve-se tirar uma conclusão geral do projeto, obtendo os pontos positivos e negativos os quais devem ser utilizados durante a concepção de projetos futuros, que seria o artefato _PostMortem_. 
   
 ###Objetivos Principais:  
   
