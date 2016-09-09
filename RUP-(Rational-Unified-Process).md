@@ -109,8 +109,6 @@ No RUP, o Engenheiro de Processo é responsável por adaptar o processo de desen
 
 Essa fase tem como objetivos preparar o ambiente de suporte, estabelecer o escopo do projeto, determinar os casos de uso, estimar o custo e prazo totais e identificar os riscos potenciais. O principal artefato dessa fase é o Documento de Visão.
 
-### Elaboração
-
 <p align = "justify" >É uma fase muito importante para os esforços de desenvolvimento, é nela que se encontra grandes riscos de negócios e de requisitos que precisam de um cuidado especial a fim de que o projeto flua normalmente. A meta que almejada é que todos os envolvidos no projeto do software cheguem a um consenso e tenham conhecimento claro sobre o ciclo de vida do mesmo. 
 
 <p align = "justify" >Para projetos iniciais esta é uma parte fundalmental que requer demasiada atenção. Para projetos que visam melhorias de sistemas esta fase já existe, contudo é uma fase de iniciação mais rápida.
@@ -119,6 +117,15 @@ Essa fase tem como objetivos preparar o ambiente de suporte, estabelecer o escop
 
 **Marco: Objetivo do Ciclo de vida**
 * O marco do objetivo do cilo de vida é o que avalia e diz sobre a viabilidade inicial do projeto.
+
+### Elaboração
+
+<p align = "justify" >A fase de elaboração tem como meta criar a baseline de arquitetura do sistema, cujo objetivo é forncer uma base estável para a construção. Priemeiramente é realizado um um exame dos requisistos mais significativos, ou seja, os que tem um maior impacto na arquitetura. Durante esta fase é realizado protótipos de arquitetura que servem para verificar a estabilidade da arquiteura escolhida.
+
+<p align = "justify" >Deve se certificar nesta fase que a arquitetura que está sendo utilizada é estável o suficiente e que os riscos sejam minimizados, podendo assim determinar com uma segurança maior, o custo do sistema e quanto de programação será necessário. Além de se certificar da estabilidade da arquitetura é necessário demonstrar que a arquitetura escolhida para a baseline suportará o requisistos do sistema. O preço e o tempo de desenvolvimento devem ser levados em consideração na escolha da arquitetura.
+
+**Marco: Arquitetura do ciclo de vida**
+* O marco desta fase é a arquitetura do ciclo de vida que pode ser virificada através do documento de arquitetura. É durante está fase que se define uma baseline gerenciada para a arquitetura do software, através desta definição é que o escalonamento da equipe ocorre na fase seguinte de Construção.
 
 ### Construção
 
@@ -162,7 +169,7 @@ Essa fase tem como objetivos preparar o ambiente de suporte, estabelecer o escop
 * Gerente de testes
 
 Fonte: [http://www.funpar.ufpr.br:8080/rup/process/workers/ovu_works.htm](http://www.funpar.ufpr.br:8080/rup/process/workers/ovu_works.htm)
-[http://www.funpar.ufpr.br:8080/rup/process/itrwkfls/iwf_iwfs.htm]
+Fonte: [http://www.funpar.ufpr.br:8080/rup/process/itrwkfls/iwf_iwfs.htm]
 (http://www.funpar.ufpr.br:8080/rup/process/itrwkfls/iwf_iwfs.htm)
 
 [about]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/RUP-(Rational-Unified-Process)#o-que-%C3%A9
