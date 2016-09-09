@@ -107,6 +107,8 @@ No RUP, o Engenheiro de Processo é responsável por adaptar o processo de desen
 
 ### Iniciação
 
+Essa fase tem como objetivos preparar o ambiente de suporte, estabelecer o escopo do projeto, determinar os casos de uso, estimar o custo e prazo totais e identificar os riscos potenciais. O principal artefato dessa fase é o Documento de Visão.
+
 ### Elaboração
 
 ### Construção
