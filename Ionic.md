@@ -31,15 +31,16 @@ Seu objetivo é aumentar aplicativos que podem ser acessados por um navegador we
 ## Rails como servidor
 
 
-
 # DOJO de testes (material didático)
 ## AngularJS Teste Unitário
 ***
 * [Tutorial - Jasmine Test Framework](http://jasmine.github.io/2.5/node.html)
-
+* [Unit Test an AngularJS Controller](http://www.bradoncode.com/blog/2015/05/17/angularjs-testing-controller/)
 
 
 # Repositórios educativos
+
+* [Guia do Desenvolvedor Ionic](https://github.com/IonicBrazil/guia-do-desenvolvedor/blob/master/README.md#video_camera-v%C3%ADdeos)
 
 
 
