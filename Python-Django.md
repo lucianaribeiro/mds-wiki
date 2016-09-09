@@ -118,7 +118,31 @@ A árvore de diretórios neste momento irá ser representada da seguinte forma:<
 
 
 # DOJO de testes (material didático)
+## Testes Unitários
+Testes unitários são testes que são expressados como métodos em uma classe _Python_ que seja uma subclasse de **unittest.TestCase**. Por exemplo:
 
+```Python
+import unittest
+
+ class CalculatorTestCase(unittest.TestCase):
+    """Every test class must to have a setUp method"""
+    def setUp(self):
+        self.calc = src.calculator.Calculator()
+
+     def testAdd(self):
+         self.assertEquals(self.calc.add(2, 5), 7)
+         self.assertEquals(self.calc.add(0, 0), 0)
+```
+
+Uma vez que os testes estão escritos, a fim de executá-los, deve-se rodar o seguinte comando:
+
+`$ ./manage.py test`
+
+Quando os testes estão para ser rodados, o comportamento padrão do utilitário de teste é encontrar todas as subclasses de unittest.TestCase, imediatamente montar um conjunto de testes e rodá-lo.
+
+Porém, quando só se quer rodar os testes para uma aplicação específica, basta adicionar o nome da aplicação à linha de comando. Por exemplo, se além de _'myproject.calculator'_, possui-se _'myproject.invoice'_, é possível rodar somente os testes unitários de _'myproject.invoice'_ através de:
+
+`./manage.py test invoice`
 
 # Repositórios educativos
 
