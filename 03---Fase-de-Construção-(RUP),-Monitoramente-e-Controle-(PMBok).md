@@ -98,22 +98,8 @@ ______
 
 
 ## Quais os artefatos são gerados do RUP?
-####Fase de Iniciação: 
-Os principais artefatos gerados nessa fase são:
-- Documento de Arquitetura de <i>Software</i>.
-- Documento de Visão do projeto.
-É importante lembrar que esses artefatos não estão finalizados, isso quer dizer que vamos continuar trabalhando neles de maneira gradativa até o final do projeto - em todas as iterações. Nessa fase é importante também definir os casos de uso mais marcantes finalmente obtendo as funcionalidades-chave da aplicação. É através dos artefatos gerados nessa fase que se realizará o ajuste de quantas iterações o processo terá, além de fornecerem uma base para a lapidação do projeto.
-- Documento de especificação de suplementar.
-- Documento de casos de Teste
 
-####Fase de Elaboração: 
-Os artefatos produzidos nessa fase envolvem o documento de arquitetura além da própria base arquitetural, o refinamento dos requisitos, do documento de visão e a concepção inicial do modelo de casos de uso. Neste instante são apresentados, o <i>Baseline</i> completo do projeto, os elementos da equipe de desenvolvimento, entre outros.
-
-####Fase de Construção: 
 A codificação ocorre predominantemente nessa fase. Nesse momento o maior artefato que será obtido é o próprio sistema, ou seja, ocorre a construção do sistema de <i>software</i> com foco no desenvolvimento de componentes e outros recursos necessários. Lembrando que podem ainda ser produzidos materiais para treinamento e, se necessário, documentação para os usuários. Existem ainda outras atividades que podem ocorrer em paralelo, como a identificação e correção de defeitos. 
-
-####Fase de Transição: 
-Quando chegamos aqui devemos verificar se o usuário está satisfeito e se atendemos os custos e funcionalidades pretendidas. Os artefatos produzidos serão a própria aplicação e materiais de suporte para o usuário. No final dessa fase deve-se tirar uma conclusão geral do projeto, obtendo os pontos positivos e negativos os quais devem ser utilizados durante a concepção de projetos futuros, que seria o artefato _PostMortem_.
 
 ## Quais os templates usados para gerar os artefatos do PMbok 
 
