@@ -111,6 +111,15 @@ Essa fase tem como objetivos preparar o ambiente de suporte, estabelecer o escop
 
 ### Elaboração
 
+<p align = "justify" >É uma fase muito importante para os esforços de desenvolvimento, é nela que se encontra grandes riscos de negócios e de requisitos que precisam de um cuidado especial a fim de que o projeto flua normalmente. A meta que almejada é que todos os envolvidos no projeto do software cheguem a um consenso e tenham conhecimento claro sobre o ciclo de vida do mesmo. 
+
+<p align = "justify" >Para projetos iniciais esta é uma parte fundalmental que requer demasiada atenção. Para projetos que visam melhorias de sistemas esta fase já existe, contudo é uma fase de iniciação mais rápida.
+
+<p align = "justify" >É nesta fase que estabelecem o escopo do projeto de software, os critérios de aceitação e se o projeto deve ou não ser aceito. Os casos de uso começam a ser levantados, verificar quais são os principais cenários que o sistema encontrará. Na iniciação deve se a tentar também a estimar os riscos em potencial, que todo projeto possui. Também nesta mesma fase deve-se prepara o ambiente de suporte para o projeto como a configuração de ambiente para e equipe.
+
+**Marco: Objetivo do Ciclo de vida**
+*O marco do objetivo do cilo de vida é o que avalia e diz sobre a viabilidade inicial do projeto.*
+
 ### Construção
 
 ### Transição
@@ -153,6 +162,8 @@ Essa fase tem como objetivos preparar o ambiente de suporte, estabelecer o escop
 * Gerente de testes
 
 Fonte: [http://www.funpar.ufpr.br:8080/rup/process/workers/ovu_works.htm](http://www.funpar.ufpr.br:8080/rup/process/workers/ovu_works.htm)
+[http://www.funpar.ufpr.br:8080/rup/process/itrwkfls/iwf_iwfs.htm]
+(http://www.funpar.ufpr.br:8080/rup/process/itrwkfls/iwf_iwfs.htm)
 
 [about]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/RUP-(Rational-Unified-Process)#o-que-%C3%A9
 [valores]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/RUP-(Rational-Unified-Process)#valores-do-rup
