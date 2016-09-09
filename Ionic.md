@@ -1,10 +1,10 @@
 -----
 * [Configuração de Ambiente](#configuração-de-ambiente)
+  * [Instalando Ionic](#instalando-ionic)
 * [Arquitetura MVC](#arquitetura-mvc)
   * [Ionic Framework](#ionic-framework)
   * [AngularJS](#angularjs)
   * [Rails como servidor](#rails-como-servidor)
-  * [Instalando Ionic](#instalando-ionic)
 * [DOJO de testes (material didático)](#dojo-de-testes-material-didático)
   * [AngularJS Teste Unitário](#angularjs-teste-unitário)
 * [Repositórios educativos](#repositórios-educativos)
