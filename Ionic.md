@@ -9,7 +9,7 @@
 * [DOJO de testes (material didático)](#dojo-de-testes-material-didático)
   * [AngularJS Teste Unitário](#angularjs-teste-unitário)
 * [Repositórios educativos](#repositórios-educativos)
-* [Material didático produzido na disciplina (times, coaches, etc)](material-didático-produzido-na-disciplina-times-coaches-etc)
+* [Material didático produzido na disciplina (times, coaches, etc)](#material-didático-produzido-na-disciplina-times-coaches-etc)
 
 -----
 
