@@ -120,12 +120,16 @@ Essa fase tem como objetivos preparar o ambiente de suporte, estabelecer o escop
 
 ### Elaboração
 
-<p align = "justify" >A fase de elaboração tem como meta criar a baseline de arquitetura do sistema, cujo objetivo é forncer uma base estável para a construção. Priemeiramente é realizado um um exame dos requisistos mais significativos, ou seja, os que tem um maior impacto na arquitetura. Durante esta fase é realizado protótipos de arquitetura que servem para verificar a estabilidade da arquiteura escolhida.
+<p align = "justify" >A fase de elaboração tem como meta criar a baseline de arquitetura do sistema, 
+cujo objetivo é forncer uma base estável para a construção. Priemeiramente é realizado
+ um exame dos requisistos mais significativos, ou seja, os que tem um maior impacto na arquitetura.
+ Durante esta fase são realizados protótipos de arquitetura a fim de que seja verificada a estabilidade
+ da arquitetura escolhida.
 
 <p align = "justify" >Deve se certificar nesta fase que a arquitetura que está sendo utilizada é estável o suficiente e que os riscos sejam minimizados, podendo assim determinar com uma segurança maior, o custo do sistema e quanto de programação será necessário. Além de se certificar da estabilidade da arquitetura é necessário demonstrar que a arquitetura escolhida para a baseline suportará o requisistos do sistema. O preço e o tempo de desenvolvimento devem ser levados em consideração na escolha da arquitetura.
 
 **Marco: Arquitetura do ciclo de vida**
-* O marco desta fase é a arquitetura do ciclo de vida que pode ser virificada através do documento de arquitetura. É durante está fase que se define uma baseline gerenciada para a arquitetura do software, através desta definição é que o escalonamento da equipe ocorre na fase seguinte de Construção.
+* O marco desta fase é a arquitetura do ciclo de vida que pode ser verificada através do documento de arquitetura. É durante está fase que se define uma baseline gerenciada para a arquitetura do software, através desta definição é que o escalonamento da equipe ocorre na fase seguinte de Construção.
 
 ### Construção
 
@@ -169,6 +173,7 @@ Essa fase tem como objetivos preparar o ambiente de suporte, estabelecer o escop
 * Gerente de testes
 
 Fonte: [http://www.funpar.ufpr.br:8080/rup/process/workers/ovu_works.htm](http://www.funpar.ufpr.br:8080/rup/process/workers/ovu_works.htm)
+
 Fonte: [http://www.funpar.ufpr.br:8080/rup/process/itrwkfls/iwf_iwfs.htm]
 (http://www.funpar.ufpr.br:8080/rup/process/itrwkfls/iwf_iwfs.htm)
 
