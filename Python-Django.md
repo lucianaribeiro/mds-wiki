@@ -142,7 +142,7 @@ Quando os testes estão para ser rodados, o comportamento padrão do utilitário
 
 Porém, quando só se quer rodar os testes para uma aplicação específica, basta adicionar o nome da aplicação à linha de comando. Por exemplo, se além de _'myproject.calculator'_, possui-se _'myproject.invoice'_, é possível rodar somente os testes unitários de _'myproject.invoice'_ através de:
 
-`./manage.py test invoice`
+`$ ./manage.py test invoice`
 
 # Repositórios educativos
 
