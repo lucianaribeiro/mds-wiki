@@ -160,6 +160,7 @@ Os principais artefatos gerados nesta fase foram:
 
 <p align="justify">Desenvolvimento e concepção do documento de especificação suplementar, que é um documento que tem a principal finalidade de levantar os requisitos não funcionais que não é tão detalhado no documento de visão.</p>
 
+<p align="justify">Desenvolvimento e concepção do documento de especificação de caso de teste, que é um documento que descreve todos os cenários possíveis durante os testes do software e os resultados esperados.</p>
 
 ## Quais os templates usados para gerar os artefatos do PMbok 
 
