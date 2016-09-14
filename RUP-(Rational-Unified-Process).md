@@ -132,6 +132,12 @@ cujo objetivo é forncer uma base estável para a construção. Priemeiramente �
 * O marco desta fase é a arquitetura do ciclo de vida que pode ser verificada através do documento de arquitetura. É durante está fase que se define uma baseline gerenciada para a arquitetura do software, através desta definição é que o escalonamento da equipe ocorre na fase seguinte de Construção.
 
 ### Construção
+<p align = "justify" >A fase de construção é literalmente de manufatura, em que o foco é no gerenciamento de recursos e controle de operação, visando a otimização de custos, programação e um produto de qualidade. Tem como meta concluir o desenvolvimento e esclarecer possíveis requisitos restantes das fases anteriores. Deixa-se o campo do desenvolvimento intelectual e parte para o ataque das áreas de desenvolvimento do produto, para que possa ser implementado durante a construção e transição.
+
+<p align = "justify" >Nesta fase a rapidez e eficiência são sempre metas a serem atingidas. Versões do software utilizáveis com a alfa, beta e outras são disponibilizadas, visando verificar se o software está pronto para ser implementado para o usuário. Deve haver a conclusão de todos os testes de funcionalidade da aplicação nesta fase. 
+
+**Marco: Capacidade Operacional Inicial**
+* O marco da fase de construção é certificar se o produto está pronto para ser implementado em um ambiente em teste beta.
 
 ### Transição
 
