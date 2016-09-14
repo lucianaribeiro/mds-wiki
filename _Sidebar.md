@@ -53,6 +53,7 @@
 
 [Primeira-Semana]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Primeira-Semana
 [Projetos]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Temas--de-Projetos
+[git]: http://learngitbranching.js.org/
 [python]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Python-Django
 [rails]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Rails
 [android]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Android
