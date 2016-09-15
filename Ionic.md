@@ -53,7 +53,7 @@ O ionic nada mais é do que uma pilha de componentes e outros frameworks. Estes 
 
 ## AngularJS
 AngularJs é um framework do JavaScript que foi criado em 2012 e atualmente se encontra na versão 2.0. É uma extensão do HTML com novos atributos e é perfeito para aplicações de página única.      
-Seu objetivo é aumentar aplicativos que podem ser acessados por um navegador web, foi construído sob o padrão model-view-view-model (MVVM), em um esforço para facilitar tanto o desenvolvimento quanto o teste dos aplicativos.
+Seu objetivo é aumentar aplicativos que podem ser acessados por um navegador web, foi construído sob o padrão model-view-view-model (MVVM), em um esforço para facilitar tanto o desenvolvimento quanto o teste dos aplicativos. n
 
 ## Rails como servidor
 
@@ -62,11 +62,12 @@ Seu objetivo é aumentar aplicativos que podem ser acessados por um navegador we
 ***
 * [Tutorial - Jasmine Test Framework](http://jasmine.github.io/2.5/node.html)
 * [Unit Test an AngularJS Controller](http://www.bradoncode.com/blog/2015/05/17/angularjs-testing-controller/)
+* [AngularJS Unit Testing](https://docs.angularjs.org/guide/unit-testing)
 
 
 # Repositórios educativos
 
-* [Guia do Desenvolvedor Ionic](https://github.com/IonicBrazil/guia-do-desenvolvedor/blob/master/README.md#video_camera-v%C3%ADdeos)
+* [Guia do Desenvolvedor Ionic](https://github.com/IonicBrazil/guia-do-desenvolvedor/blob/master/README.md)
 
 
 
