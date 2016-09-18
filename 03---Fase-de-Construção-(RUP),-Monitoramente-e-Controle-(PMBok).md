@@ -99,7 +99,7 @@ ______
 
 ## Quais os artefatos são gerados do RUP?
 
-A codificação ocorre predominantemente nessa fase. Nesse momento o maior artefato que será obtido é o próprio sistema, ou seja, ocorre a construção do sistema de <i>software</i> com foco no desenvolvimento de componentes e outros recursos necessários. Lembrando que podem ainda ser produzidos materiais para treinamento e, se necessário, documentação para os usuários. Existem ainda outras atividades que podem ocorrer em paralelo, como a identificação e correção de defeitos. 
+A codificação ocorre predominantemente nessa fase. Nesse momento o maior artefato que será obtido é o próprio sistema, ou seja, ocorre a construção do sistema de <i>software</i> com foco no desenvolvimento de componentes e outros recursos necessários. Lembrando que podem ainda ser produzidos materiais para treinamento e, se necessário, documentação para os usuários (como os manuais de usuários). Existem ainda outras atividades que podem ocorrer em paralelo, como a identificação e correção de defeitos, além da descrição da <i>release</i> atual.
 
 ## Quais os templates usados para gerar os artefatos do PMbok 
 
@@ -122,7 +122,7 @@ A codificação ocorre predominantemente nessa fase. Nesse momento o maior artef
    * Artefato: Relatório de Execução de testes.
 
 ## Quais são principais critérios de avaliação para passagem de fase? (RUP)
-Os principais critérios para mudança do RUP na fase de Contrução são a conclusão do projeto, junto com seus testes, onde o software chega a uma arquitetura baseline executável, depois de todas as revisões dos requisitos com base na necessidade de mercado do software. 
+Os principais critérios para mudança do RUP na fase de Contrução são a conclusão do projeto, junto com seus testes, onde o software chega a uma arquitetura baseline executável, depois de todas as revisões dos requisitos com base na necessidade de mercado do software. Logo, analisa-se a maturidade e estabilidade do produto para verificar sua possibilidade de inserção na comunidade de usuários, compara-se as despesas planejadas com as despesas de recursos efetuadas, para, assim, verificar se estão ainda são aceitáveis.
 
 ## Quais são principais critérios de avaliação para passagem de fase? (PMBOK)
 
