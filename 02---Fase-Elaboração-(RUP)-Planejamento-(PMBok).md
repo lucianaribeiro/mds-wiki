@@ -6,7 +6,7 @@ Descrever a fase de elaboração/Planejamento do projeto GPP/MDS.
 
 ### Fase de Elaboração (RUP)
 
-<p align="justify">Segundo o RUP, o propósito da fase de elaboração é analisar o domínio do problema, estabelecer uma base sólida de arquitetura, desenvolver um plano para o projeto e eliminar os elementos de maior risco do projeto, resolvendo questões como "O plano do projeto é confiável?" e "Os custos são admissíveis", em outras palavras, está fase tem por finalidade eliminar os principais riscos e definir uma arquitetura estável para o projeto. </p>
+<p align="justify">Segundo o RUP, o propósito da fase de elaboração é analisar o domínio do problema, estabelecer uma base sólida de arquitetura, desenvolver um plano para o projeto e eliminar os elementos de maior risco do projeto, resolvendo questões como "O plano do projeto é confiável?" e "Os custos são admissíveis", em outras palavras, esta fase tem por finalidade eliminar os principais riscos e definir uma arquitetura estável para o projeto (ou seja, a arquitetura, os requisitos e os planos são considerados estáveis o suficiente). Assim, será possível determinar os custos e o cronograma do projeto com maior precisão.</p>
 
 ### Planejamento (PMBok)
 
@@ -158,9 +158,11 @@ Os principais artefatos gerados nesta fase foram:
 
 <p align="justify">Desenvolvimento e concepção do documento de caso de uso, que é o documento que consiste em descrever o sistema através da diagramação do sistema. Neste documento é onde ocorre a identificação dos atores do sistema e quais são as suas possíveis ações dentro do sistema. Com a construção deste documento a visualização do sistema fica mais clara para a modelagem do sistema, facilitando o levantamento de requisitos.</p>
 
-<p align="justify">Desenvolvimento e concepção do documento de especificação suplementar, que é um documento que tem a principal finalidade de levantar os requisitos não funcionais que não é tão detalhado no documento de visão.</p>
+<p align="justify">Desenvolvimento e concepção do documento de especificação suplementar, que é um documento que tem a principal finalidade de levantar os requisitos não funcionais que e quais outros requisitos que não possuem relação direta com um caso de uso específico.</p>
 
 <p align="justify">Desenvolvimento e concepção do documento de especificação de caso de teste, que é um documento que descreve todos os cenários possíveis durante os testes do software e os resultados esperados.</p>
+
+<p align="justify">Opcionalmente, um manual de usuário preliminar, um documento o qual auxiliará o usuário na utilização do sistema. </p>
 
 ## Quais os templates usados para gerar os artefatos do PMbok 
 
