@@ -141,7 +141,11 @@ projeto. Vamos chamá-lo de home. E toda vez que o nosso site for solicitado por
 apresentar a página inicial definida neste app. 
 
 Desta maneira, para criar o app, é necessário apenas utilizar o commando:
-`django-admin startproject my_twitter`
+
+`django-admin startapp home`
+
+Será criado um app com o nome app, chamado home. Um exemplo deste app criado segue no
+repositório do [Dustwitter](https://github.com/TiagoAssuncao/dustwitter/tree/master/dustwitter/home).
 
 # DOJO de testes (material didático)
 ## Testes Unitários
