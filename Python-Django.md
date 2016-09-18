@@ -96,6 +96,7 @@ class Person(models.Model):
 ## Criando um projeto Django
 Dentro do ambiente virtual, basta executar o comando django-admin para utilizar
 a interface que o Django disponibiliza. Iremos criar o projeto chamado my_twitter.
+
 `django-admin startproject my_twitter`
 
 Este comando irá criar uma pasta chamada my_twitter contendo vários arquivos e uma pasta.
@@ -115,6 +116,14 @@ A árvore de diretórios neste momento irá ser representada da seguinte forma:<
 │   ├── [ 767]  urls.py<br>
 │   └── [ 398]  wsgi.py<br>
 └── [ 808]  manage.py*<br>
+
+Agora vamos testar se tudo ocorreu bem. Vamos iniciar o servidor do django.
+
+`python3 manage.py runserver `
+
+Acesse seu navegador com o seguinte link:
+
+localhost:8000
 
 ## Divisão em Apps
 O django trabalha com sistema de vários apps que formam a aplicação. A ideia é que esses apps
