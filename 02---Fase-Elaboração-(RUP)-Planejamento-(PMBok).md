@@ -203,6 +203,13 @@ Os principais artefatos gerados nesta fase foram:
 ## Quais são principais critérios de avaliação para passagem de fase? (RUP)
 <p>A passagem de fase ocorre quando existe uma entrega de artefato, ou seja, uma interação com o cliente, de maneira que ele fique ciente de como o projeto está sendo levado e dos avanços que estão sendo feitos. Por exemplo, uma passagem de fase é a entrega do documento de visão, que marca o fim da fase de iniciação.</p>
 
+<p>A fase de elaboração tem como objetivo analisar o domínio do problema, estabelecer uma arquitetura sólida para o desenvolvimento do <i>software</i> e eliminar os elementos de maior risco do projeto, além de desenvolver o plano de projeto. Seu final deve resultar em:</p>
+* Modelo de Caso de Uso pelo menos 80% completo (ele é iniciado na fase anterior)
+* Especificação Suplementar para capturar os requisitos não funcionais e quaisquer requisitos que não estão associados com casos de uso específicos.
+* Documento de Arquitetura, ou uma descrição da arquitetura do _software_
+* Um protótipo executável arquitetural
+* Uma lista revisada de riscos
+* Um plano de desenvolvimento geral para o projeto
 
 ## Quais são principais critérios de avaliação para passagem de fase? (PMBOK)
 A transição de um fase para outra é definida por alguma forma de entrega. Essas entregas podem ser revisadas e conceituadas como finalizadas e completas, porém esses conceitos não determinam a proibição da passagem de fase, uma vez que os riscos são analisados e taxados como significativos ou não significativos. Quando isso ocorre é uma prática chamada de sobreposição de fases que é um exemplo da técnica conhecida como paralelismo, ou seja um fase é iniciada sem que a anterior seja finalizada. Um outro caso que pode acontecer, é uma fase ser finalizada sem que outra seja iniciada, quando isso acontece significa que o projeto foi finalizado ou há muitos riscos para sua continuidade.
@@ -216,3 +223,6 @@ A transição de um fase para outra é definida por alguma forma de entrega. Ess
 [Escritório de Projetos - Grupo de Processos de Planejamento](http://escritoriodeprojetos.com.br/grupo-de-processos-de-planejamento)
 
 [Rational Unified Process (RUP): Papéis e Atividades](http://www.funpar.ufpr.br:8080/rup/process/workers/ovu_works.htm)
+
+[Rational Unified Process: Best Practices for Software Development Teams]
+(https://www.ibm.com/developerworks/rational/library/content/03July/1000/1251/1251_bestpractices_TP026B.pdf)
