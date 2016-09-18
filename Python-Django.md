@@ -147,6 +147,10 @@ Desta maneira, para criar o app, é necessário apenas utilizar o commando:
 Será criado um app com o nome app, chamado home. Um exemplo deste app criado segue no
 repositório do [Dustwitter](https://github.com/TiagoAssuncao/dustwitter/tree/master/dustwitter/home).
 
+O primeiro ponto que vamos implementar é a apresentação de um HTML simples para a exibição
+quando solicitarmos a página. 
+...
+
 # DOJO de testes (material didático)
 ## Testes Unitários
 Testes unitários são testes que são expressados como métodos em uma classe _Python_ que seja uma subclasse de **unittest.TestCase**. Por exemplo:
