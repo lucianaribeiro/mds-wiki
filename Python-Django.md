@@ -41,7 +41,17 @@ Vamos iniciar sua execução através de:
 	``$ source ambvirtual/bin/activate``  
 
 Para finalizar essa etapa, seu terminal deve-se parecer com algo assim:  
-	``(ambvirtutal) ~/meu_django $``  
+	``(ambvirtual) ~/meu_django $``  
+
+   <i>  **Passo 6.1 (Opcional)**</i>  
+<i>Para facilitar a ativação do ambiente virtual, também é possível instalar o virtualenvwrapper, utilizando o seguinte comando:</i>  
+        ``$ sudo apt-get install virtualenvwrapper``  
+
+<i>Após isso, é possível ativar o ambiente virtual utilizando apenas o seguinte comando:</i>  
+        ``$ workon ambvirtual``  
+
+Assim como no outro método, ao final, seu terminal deve-se parecer com algo assim:  
+	``(ambvirtual) ~/meu_django $``  
 
 **Passo 7**  
 Agora dentro da virtualenv basta instalar o Django:  
