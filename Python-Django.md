@@ -116,6 +116,26 @@ A árvore de diretórios neste momento irá ser representada da seguinte forma:<
 │   └── [ 398]  wsgi.py<br>
 └── [ 808]  manage.py*<br>
 
+## Divisão em Apps
+O django trabalha com sistema de vários apps que formam a aplicação. A ideia é que esses apps
+sejam plugáveis e portáveis. Dessa maneira, um app pode ser desenvolvido em uma aplicação e
+utilizado em outra. Cada app possui toda estrutura necessária e imposta pela arquitetura do
+django para que funcione bem: Views, models, templates, etc.
+
+Um app é composto basicamente pelos seguintes componentes:
+* Models
+* Views
+* Templates
+* Tests
+* Static
+* Migrations
+* Forms
+* Tests
+
+Segue abaixo um exemplo de um app convencional Django, criado pelo professor Fábio Mendes.
+[Code School](https://github.com/fabiommendes/codeschool/tree/master/src/cs_auth).
+
+
 
 # DOJO de testes (material didático)
 ## Testes Unitários
