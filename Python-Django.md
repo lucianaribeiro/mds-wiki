@@ -135,7 +135,13 @@ Um app é composto basicamente pelos seguintes componentes:
 Segue abaixo um exemplo de um app convencional Django, criado pelo professor Fábio Mendes.
 [Code School](https://github.com/fabiommendes/codeschool/tree/master/src/cs_auth).
 
+## Criando um aplicativo Django
+Vamos primeiramente, criar um aplicativo responsável por apresentar a página inicial do nosso
+projeto. Vamos chamá-lo de home. E toda vez que o nosso site for solicitado por uma url, iremos
+apresentar a página inicial definida neste app. 
 
+Desta maneira, para criar o app, é necessário apenas utilizar o commando:
+`django-admin startproject my_twitter`
 
 # DOJO de testes (material didático)
 ## Testes Unitários
