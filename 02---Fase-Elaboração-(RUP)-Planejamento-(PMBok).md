@@ -166,7 +166,17 @@ Os principais artefatos gerados nesta fase foram:
 
 ## Quais os templates usados para gerar os artefatos do PMbok 
 
-* Objetivo de cada artefato + tutorial
+* [Termo de Abertura](http://www.easybok.com.br/downloads/termo-de-abertura-do-projeto-5-ed/)
+* [Plano de Gerenciamento do Projeto](http://www.easybok.com.br/downloads/plano-de-gerenciamento-do-projeto-5ed/)
+* [Plano de Gerenciamento do Escopo](http://www.easybok.com.br/downloads/categorias/escopo/)
+* [Plano de Gerenciamento do Tempo](http://www.easybok.com.br/downloads/categorias/tempo/)
+* [Plano de Gerenciamento dos Custos](http://www.easybok.com.br/downloads/plano-de-gerenciamento-de-custos-5-ed/)
+* [Plano de Gerenciamento da Qualidade](http://www.easybok.com.br/downloads/plano-de-gerenciamento-da-qualidade-5-ed/)
+* [Plano de Gerenciamento dos Recursos Humanos](http://www.easybok.com.br/downloads/plano-de-recursos-humanos-5-ed/)
+* [Plano de Gerenciamento das Comunicações](http://www.easybok.com.br/downloads/plano-de-gerenciamento-das-comunicac-es-5-ed/)
+* [Plano de Gerenciamento dos Riscos](http://www.easybok.com.br/downloads/plano-de-gerenciamento-dos-riscos-5-ed/)
+* [Plano de Gerenciamento das Aquisições](http://www.easybok.com.br/downloads/plano-de-gerenciamento-das-aquisicoes-5-ed/)
+* [Plano de Gerenciamento das Partes Interessadas](http://www.easybok.com.br/downloads/plano-de-gerenciamento-das-part-inter-5-ed/)
 
 ## Quais os templates usados para gerar os artefatos do RUP?
 
