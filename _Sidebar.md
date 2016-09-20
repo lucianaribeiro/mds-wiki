@@ -55,10 +55,11 @@
 
 [Primeira-Semana]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Primeira-Semana
 [Projetos]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Temas--de-Projetos
+[MVC-e-Arquitetura-Django]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Padr%C3%B5es-Arquiteturais---MVC-X-Arquitetura-do-Django
 [python]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Python-Django
 [rails]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Rails
 [android]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Android
 [git]: http://learngitbranching.js.org/
 [ionic]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Ionic
-[MVC e Arquitetura Django]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Padr%C3%B5es-Arquiteturais---MVC-X-Arquitetura-do-Django
 [tutoriaismateriais]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutoriais-e-Materiais
+
