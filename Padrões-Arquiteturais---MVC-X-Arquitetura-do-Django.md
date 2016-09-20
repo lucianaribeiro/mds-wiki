@@ -1,5 +1,7 @@
 ## 1. Introdução
 
+Este documento trata-se de um tutorial técnico que visa demostrar o básico dos conceitos de Arquitetura de Software e Padrões Arquiteturais, além demonstrar como esses conceitos são aplicados tanto no MVC quanto na Arquitetura de projetos desenvolvidos a partir do framework Django.
+
 ## 2. Arquitetura de Software
 “Uma arquitetura de software envolve a descrição de elementos arquiteturais dos quais os sistemas serão construídos, interações entre esses elementos, padrões que guiam suas composições e restrições sobre estes padrões”. GARLAN, 1998.
 Exemplo de elementos arquiteturais: bancos de dados, servidores, clientes, componentes, entre outros.
