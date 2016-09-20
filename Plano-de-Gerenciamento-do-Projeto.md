@@ -33,10 +33,10 @@ E os planos auxiliares do projeto, como por exemplo:
 Além de consolidar as linas de base do projeto e os planos auxiliares, o PMBOK traz como possíveis conteúdos para plano de projeto os seguintes pontos.
 * O ciclo de vida selecionado para o projeto e os processos que serão aplicados a cada fase;
 * Detalhes das decisões relativas às adequações especificadas pela equipe de gerenciamento do projeto como a seguir:
-** Processos de gerenciamento de projeto selecionados pela equipe de gerenciamento do projeto,
-** Nível de implementação de cada processo selecionado,
-** Descrições das ferramentas e técnicas a serem usadas para efetuar aqueles processos, e
-** Descrição de como os processos selecionados serão utilizados para gerenciar o projeto específico, inclusive as dependências e interações entre esses processos, e as entradas e saídas essenciais.
+  * Processos de gerenciamento de projeto selecionados pela equipe de gerenciamento do projeto,
+  * Nível de implementação de cada processo selecionado,
+  * Descrições das ferramentas e técnicas a serem usadas para efetuar aqueles processos, e
+  * Descrição de como os processos selecionados serão utilizados para gerenciar o projeto específico, inclusive as dependências e interações entre esses processos, e as entradas e saídas essenciais.
 * Descrição de como o trabalho será executado para alcançar os objetivos do projeto;
 * Um plano de gerenciamento de mudanças que documenta como as mudanças serão monitoradas e controladas;
 * Um plano de gerenciamento de configuração que documenta como o gerenciamento de configuração será realizado;
