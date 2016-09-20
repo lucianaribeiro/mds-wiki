@@ -67,6 +67,12 @@ ou
  
 Pronto! Seu ambiente para desenvolvimento Django está configurado.    
 
+**Saindo do ambiente virtual**  
+Caso você precise sair do ambiente virtual (para criar um outro ambiente por exemplo), utilizando o virtualenvwrapper, você só precisa utilizar o seguinte comando:  
+        ``(ambvirtual) ~$ deactivate``  
+
+Em seguida, seu terminal terá o seguinte modelo:  
+         ``~$``
 
 # DOJO de linguagem (material didático)
 Agora que o ambiente está instalado, antes de criar um projeto Django,
