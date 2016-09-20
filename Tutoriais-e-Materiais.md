@@ -1,29 +1,33 @@
 # Tutoriais
 Esta parte é destinada para apresentação de tutoriais que auxiliem a disciplina.
 
-##Aprendendo a usar o camando alias no linux  
-Alias é um comando que vai facilitar muito a sua vida e ajudar na sua produtividade. O que ele faz é dar um apelido a uma linha de comando. Por exemplo, em vez de digitar  
-``$ cd user/user/Documents/Faculdade/MDS``  
-você pode apenas digitar  
-``$ MDS``
-e você estará na pasta MDS.  
+##Aprendendo a usar o comando _alias_ no linux  
+_Alias_ é um comando que vai facilitar muito a sua vida e ajudar na sua produtividade. O que ele faz é dar um apelido à uma linha de comando. Por exemplo, em vez de digitar ``$ cd user/user/Documents/Faculdade/MDS`` você pode apenas digitar ``$ MDS`` e você estará na pasta MDS.  
+
 Para usá-lo basta digitar no terminal:  
 ``$ alias apelido='comando'``  
 Por exemplo:
 ``$ alias MDS = cd user/user/Documents/Faculdade/MDS``  
 
-Porém usando apenas este comando ao reiniciar sua máquina ele perderá o apelido. Para torná-lo permanente você deve  
+Porém usando apenas este comando ao reiniciar sua máquina ele perderá o apelido. Para torná-lo permanente você deve seguir os seguintes passos:  
 
-1 - entrar no arquivo ~/.bashrc  
+**1 -** Entrar no arquivo ~/.bashrc  
 ``$ nano ~/.bashrc``  
-2 - colocar no final do arquivo o apelido desejado  
+
+**2 -** Colocar no final do arquivo o apelido desejado  
 ``alias  apelido='comando'``  
-3 - salvar  
-4 - no terminal digitar  
+
+**3 -** Salvar  
+**4 -** Digitar no terminal   
 ``source ~/.bashrc``
 
 E pronto! Você já pode usar seus comandos personalizados.
 
 # Materiais
-## Tutorial Terminal Codecademy
+Esta parte é destinada para apresentação de materiais que auxiliem a disciplina.
+## Tutorial Terminal 
+> ### Codecademy 
 > https://www.codecademy.com/pt/learn/learn-the-command-line
+### Comunidade Ubuntu
+> https://help.ubuntu.com/community/UsingTheTerminal
+
