@@ -1,10 +1,10 @@
 ## 1. Introdução
 
-Este documento tem por objetivo demonstrar como é estruturado uma Plano de Gerenciamento de Projeto, bem como o processo para faze-lo, suas entradas e suas saídas.
+Este documento tem por objetivo demonstrar como é estruturado uma Plano de Gerenciamento de Projeto.
 
 ## 2. Desenvolvimento do Plano de Gerenciamento de Projeto
 
-Segundo PMBOK  o plano de gerenciamento do projeto descreve como o projeto será executado, monitorado e controlado, além de integrar e consolidar todos os planos de gerenciamento auxiliares e linhas de base dos processos de planejamento.
+Segundo PMBOK o plano de gerenciamento do projeto descreve como o projeto será executado, monitorado e controlado, além de integrar e consolidar todos os planos de gerenciamento auxiliares e linhas de base dos processos de planejamento.
 
 ### 2.1. Entradas.
 
@@ -45,4 +45,4 @@ Além de consolidar as linas de base do projeto e os planos auxiliares, o PMBOK 
 * Revisões de gerenciamento essenciais para o conteúdo, abrangência e melhor momento para facilitar a abordagem de questões em aberto e decisões pendentes.
 
 ## 3. Referências
-UM GUIA DO CONHECIMENTO EM GERENCIAMENTO DE PROJETOS (Guia PMBOK). Quita Edição.2013, Project Management Institute.
+UM GUIA DO CONHECIMENTO EM GERENCIAMENTO DE PROJETOS (Guia PMBOK). Quinta Edição. 2013, Project Management Institute.
