@@ -81,5 +81,12 @@ No MVT a Template é responsável pela camada de interface com o usuário (HTML)
 
 #### 5.1.3. Detalhes arquiteturais de projetos Django
 * As resoluções de urls, responsabilidade dada as controllers no MVC, é feita pela própria estrutura do framework;
-* O Django oferece uma interface com o banco de dados que perite ao desenvolvedor não se preocupar com a conexão entre suas classes de domínio e banco.   
+* O Django oferece uma interface com o banco de dados que perite ao desenvolvedor não se preocupar com a conexão entre suas classes de domínio e banco.
 
+## 6. Referencias
+
+[MVC – Afinal, é o quê ?] (http://tableless.com.br/mvc-afinal-e-o-que/)
+
+[Arquitetura de Software: conceitos e tendências](http://www.inf.pucrs.br/jornada.facin/jafacin_2010/palestras/ArquiteturaDeSoftware.pdf)
+
+[The Django Book](http://gsl.mit.edu/media/programs/south-africa-summer-2015/materials/djangobook.pdf)
