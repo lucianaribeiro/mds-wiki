@@ -26,7 +26,7 @@
 
 
 # Material Técnico
-[Git][https://github.com/fga-gpp-mds/00-Disciplina/wiki/git]
+[Git](https://github.com/fga-gpp-mds/00-Disciplina/wiki/git)
 
 [Python/Django][python]
 
