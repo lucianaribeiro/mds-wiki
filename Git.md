@@ -88,10 +88,20 @@ Exemplo:
 
 `` $ git commit -a -m "segundo commit"`` cria um commit com os arquivos marcados como Commit candidate e os modified e junta com a mensagem *segundo commit*
 
+Uma outra possibilidade para commit utiliza da flag ``-s``. Essa flag permite que o mesmo commit tenho vários autores, ou seja, você e outro desenvolvedor podem coolaborar para um mesmo fim e commitarem "juntos".  
+  
+É importante lembrar que esse tipo de commit leva em consideração o usuário configurado no git como principal e dá status de coolaborador para os demais.  
+  
+Para usar essa flag basta digitar, ``git commit -s``.   
+Com Enter pressionado você será redirecioado para seu editor de texto padrão, visualizando algo semelhante:  
 
+![Commit em grupo](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/commitGrupo.png) 
 
-
-
+Na primeira linha insira um **Título** para o commit.  
+Na segunda linha **descreva** um pouco melhor as alterações.  
+Para adicionar os **coautores**, basta copiar a linha, ``Signed-off-by`` e colar na linha abiaxo mudando os dados necessários.  
+    
+Feito isso basta salvar o arquivo e seu commit será efetuado com sucesso.  
 
 # Plataforma de Exemplo
 
