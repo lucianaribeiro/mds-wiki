@@ -20,7 +20,7 @@ Representação da fase de Planejamento, contendo as atividades do PMBok de acor
 ##  Quais os processos do PMBok são executados - ilustre
 
 * **Gerenciamento da integração do projeto**
-   * Desenvolver o plano de gerenciamento do projeto
+   * Desenvolver o [Plano de Gerenciamento do Projeto](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Plano-de-Gerenciamento-do-Projeto)
 
 Segundo o Guia PMBOK®, desenvolver o plano de gerenciamento de projeto é o processo de documentação das ações necessárias para definição, preparação, integração e coordenação todos os planos auxiliares. É considerado o principal processo de planejamento, por integrar os demais planos complementando-os.
 * **Gerenciamento do escopo do projeto**
