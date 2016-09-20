@@ -25,4 +25,5 @@ Porém usando apenas este comando ao reiniciar sua máquina ele perderá o apeli
 E pronto! Você já pode usar seus comandos personalizados.
 
 # Materiais
-Esta parte é destinada para apresentação de materiais que auxiliem a disciplina.
+## Tutorial Terminal Codecademy
+> https://www.codecademy.com/pt/learn/learn-the-command-line
