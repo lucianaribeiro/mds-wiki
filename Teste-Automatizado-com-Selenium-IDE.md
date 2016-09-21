@@ -38,14 +38,14 @@ Após ter instalado o Firefox, é necessário instalar o plugin do Selenium IDE 
 https://addons.mozilla.org/en-US/firefox/addon/selenium-ide/
 
 Clique no botão Add to Firefox
-![Add-to-firefox](http://postimg.org/image/7g6gxjjvj/)
+![Add-to-firefox](http://s11.postimg.org/kkc1a8bxf/add.png)
 
 Após reiniciar o navegador pressione: 
 > Ctrl + Alt  + S 
 Este comando irá iniciar o plugin Selenium IDE.
 
 A seguinte janela deverá aparecer:
-![Selenium-IDE-Interface.png](http://postimg.org/image/wvyczhvwh/)
+![Selenium-IDE-Interface.png](http://s16.postimg.org/70emgau2t/Selenium_IDE_Interface.png)
 
 ## Realizando o caso de teste
 
@@ -65,7 +65,7 @@ Após isso precisamos verificar se a página carregada corresponde a página que
 
 A página do Selenium IDE fica da seguinte forma:
 
-![Selenium-IDE-Teste-Pronto.png](http://postimg.org/image/dz55bwm0d/)
+![Selenium-IDE-Teste-Pronto.png](http://s14.postimg.org/fe6q0mn3l/Selenium_IDE_Teste_Pronto.png)
 
 Após isso é necessário apenas apertar “play” para todos os casos de teste.
 A página irá ser preenchida automaticamente e o resultado será exibido e o teste será concluído.
