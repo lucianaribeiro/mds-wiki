@@ -32,7 +32,7 @@ RUP é baseado em um conjunto de princípios de desenvolvimento de <i>software</
 
 #### Disciplina de Requisitos
 
-<p align = "justify" >Esta disciplina explica como levantar pedidos das partes interessadas (<i>"stakeholders"</i>) e transformá-los em um conjunto de requisitos que os produtos funcionam no âmbito do sistema a ser construído e fornecem requisitos detalhados para o que deve fazer o sistema.
+<p align = "justify" >Esta disciplina explica como levantar pedidos das partes interessadas (<i>"stakeholders"</i>) e transformá-los em um conjunto de requisitos que visam estabelecer uma concordância com os clientes e outros envolvidos com sistema. Além disso, essa fase oferece aos desenvolvedores uma compreensão melhor dos requisitos, possibilitando a delimitação das "fronteiras do sistema", a definição de uma interface além do planejamento de custos relacionados ao projeto.
 
 #### Disciplina de Análise e Projeto(<i>"Design"</i>)
 
