@@ -38,22 +38,21 @@ Após ter instalado o Firefox, é necessário instalar o plugin do Selenium IDE 
 https://addons.mozilla.org/en-US/firefox/addon/selenium-ide/
 
 Clique no botão Add to Firefox
-
-[![ADD-TO-FIREFOX.png](http://postimg.org/image/7g6gxjjvj/)](http://postimg.org/image/7g6gxjjvj/)
+![Add-to-firefox](http://postimg.org/image/7g6gxjjvj/)
 
 Após reiniciar o navegador pressione: 
 > Ctrl + Alt  + S 
 Este comando irá iniciar o plugin Selenium IDE.
 
 A seguinte janela deverá aparecer:
-[Selenium-IDE-Interface.png](http://postimg.org/image/wvyczhvwh/)
+![Selenium-IDE-Interface.png](http://postimg.org/image/wvyczhvwh/)
 
 ## Realizando o caso de teste
 
 No campo “URL Base” digite: http://www.wikipedia.org
 Selecione o comando open com alvo barra se já não estiver na tabela do teste.
 
-[![Command-open.png](http://postimg.org/image/5pdsr6djf/)](http://postimg.org/image/5pdsr6djf/)
+![Command-open.png](http://postimg.org/image/5pdsr6djf/)
 
 Pressione com o botão direito na aba de test case o primeiro teste. Clique em propriedades. Troque o nome do caso de teste por : “Pesquisa no Wikipedia”.
 
@@ -66,7 +65,7 @@ Após isso precisamos verificar se a página carregada corresponde a página que
 
 A página do Selenium IDE fica da seguinte forma:
 
-[![Selenium-IDE-Teste-Pronto.png](http://postimg.org/image/dz55bwm0d/)](http://postimg.org/image/dz55bwm0d/)
+![Selenium-IDE-Teste-Pronto.png](http://postimg.org/image/dz55bwm0d/)
 
 Após isso é necessário apenas apertar “play” para todos os casos de teste.
 A página irá ser preenchida automaticamente e o resultado será exibido e o teste será concluído.
