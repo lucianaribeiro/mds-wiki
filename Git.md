@@ -103,6 +103,10 @@ Para adicionar os **coautores**, basta copiar a linha, ``Signed-off-by`` e colar
     
 Feito isso basta salvar o arquivo e seu commit será efetuado com sucesso.  
 
+# Enviar commits para um repositório
+
+Para enviar os commits feitos para o repositório desejado, utiliza-se o comando `push`. Este comando tem a seguinte assinatura: __`git push local_remote_name remote_branch_name`__, onde __`local_remote_name`__ indica o nome do repositório local em que o repositório git se encontra e __`remote_branch_name`__ indica o nome da branch em que deve ser enviado o conjunto de commits.
+
 # Plataforma de Exemplo
 
 Para exercitar e fixar os conhecimentos de Git, utilize a plataforma [Learn Git Branching](http://learngitbranching.js.org/)
