@@ -52,7 +52,7 @@ A seguinte janela deverá aparecer:
 No campo “URL Base” digite: http://www.wikipedia.org
 Selecione o comando open com alvo barra se já não estiver na tabela do teste.
 
-![Command-open.png](http://postimg.org/image/5pdsr6djf/)
+![Command-open.png](http://s9.postimg.org/tgd69adqn/Command_open.png)
 
 Pressione com o botão direito na aba de test case o primeiro teste. Clique em propriedades. Troque o nome do caso de teste por : “Pesquisa no Wikipedia”.
 
