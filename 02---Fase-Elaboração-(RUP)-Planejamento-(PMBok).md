@@ -6,7 +6,7 @@ Descrever a fase de elaboração/Planejamento do projeto GPP/MDS.
 
 ### Fase de Elaboração (RUP)
 
-<p align="justify">Segundo o RUP, o propósito da fase de elaboração é analisar o domínio do problema, estabelecer uma base sólida de arquitetura, desenvolver um plano para o projeto e eliminar os elementos de maior risco do projeto, resolvendo questões como "O plano do projeto é confiável?" e "Os custos são admissíveis", em outras palavras, esta fase tem por finalidade eliminar os principais riscos e definir uma arquitetura estável para o projeto (ou seja, a arquitetura, os requisitos e os planos são considerados estáveis o suficiente). Assim, será possível determinar os custos e o cronograma do projeto com maior precisão.</p>
+<p align="justify">Segundo o RUP, o propósito da fase de elaboração é analisar o domínio do problema, estabelecer uma base sólida de arquitetura, coletar os requisitos, desenvolver um plano para o projeto e eliminar os elementos de maior risco do projeto, resolvendo questões como "O plano do projeto é confiável?" e "Os custos são admissíveis", em outras palavras, esta fase tem por finalidade eliminar os principais riscos e definir uma arquitetura estável, que atenda os requisitos definidos para o projeto (ou seja, a arquitetura, os requisitos e os planos são considerados estáveis o suficiente). Assim, será possível determinar os custos e o cronograma do projeto com maior precisão.</p>
 
 ### Planejamento (PMBok)
 
