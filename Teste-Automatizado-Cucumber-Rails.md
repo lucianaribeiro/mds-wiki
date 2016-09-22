@@ -16,7 +16,7 @@ Os benefícios dessa forma de teste são:
 
 As desvantagens são:
 
-    - Teste não revela os defeitos subjetivos no _software_;
+    - Teste não revela os defeitos subjetivos no software;
 
     - Testes podem se tornar uma nova implementação dos testes do sistema.
 
