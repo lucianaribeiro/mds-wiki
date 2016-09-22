@@ -48,6 +48,8 @@
 
 [Teste Automatizado com Selenium IDE][testeAutomatizadoComSeleniumIDE]
 
+[Teste Automatizado com Cucumber em Rails][testeAutomatizadoCucumberRails]
+
 [home]: https://github.com/fga-gpp-mds/00-Disciplina/wiki
 [gpp]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Gest%C3%A3o-de-Portf%C3%B3lios-e-Projetos-de-Software
 [mds]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/M%C3%A9todos-de-Desenvolvimento-de-Software
@@ -66,4 +68,6 @@
 [git]: http://learngitbranching.js.org/
 [ionic]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Ionic
 [tutoriaismateriais]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutoriais-e-Materiais
+[testeAutomatizadoCucumberRails]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Teste-Automatizado-Cucumber-Rails
 [testeAutomatizadoComSeleniumIDE]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Teste-Automatizado-com-Selenium-IDE
+
