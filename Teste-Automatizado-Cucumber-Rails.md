@@ -1,3 +1,57 @@
+# Teste de Aceitação  
+
+
+O teste de aceitação é aplicado no desenvolvimento de _software_, sendo uma abordagem que  enxerga o sistema como uma caixa preta, e o principal objetivo do mesmo é a verificação das funcionalidades em relação aos requisitos e funcionalidades originais do projeto, verificando assim se elas atendem as necessidade mais importantes dos usuários.
+    Para o teste de aceitação existem três estratégias comuns para a implementação de um teste, no qual são elas:
+
+  * Teste de Aceitação Formal: esse teste é um processo altamente gerenciado, no qual costuma a ser uma extensão de teste do sistema. Esses testes são planejados e projetados com um cuidado e um nível de detalhamento do sistema.  Os casos de teste devem ser um subconjunto dos realizados no teste do sistema. O teste de informação formal é totalmente automatizado.
+    
+Os benefícios dessa forma de teste são:
+
+    - O progresso dos testes podem serem monitorados e medidos;
+
+    - Critério de aceitabilidade é conhecido;
+
+    - Os testes podem ser automatizados.
+
+As desvantagens são:
+
+    - Teste não revela os defeitos subjetivos no _software_;
+
+    - Testes podem se tornar uma nova implementação dos testes do sistema.
+
+  
+* Teste de Aceitação Informal: o procedimento para a execução do teste não são definidos com um rigor como é feito no formal. As funções e as tarefas de negócios são identificadas e documentadas, porém não há caso de testes específicos para serem seguidos. Esse teste não é tão controlado como o formal, contudo é mais subjetivo.
+
+Benefícios do teste informal:
+ 
+    - São revelados defeitos subjetivos;
+
+    - A função e recurso que serão testados são conhecidos.
+
+
+Desvantagens:
+
+    - Não há controle dos casos de teste que são usados;
+
+    - Os teste de aceitação podem ser limitados.
+
+ * Teste Beta:  é o que menos pode ser controlado, no qual a quantidade de detalhes, os dados de abordagem são de responsabilidade do testados individual, assim cada um tem que identificar os próprios critérios que levarão se ele será aceito ou negado no seu sistema atual. Esse teste é implementado pelos usuários finais.
+
+Benefícios do teste beta:
+
+    - Teste implementado por usuários finais;
+
+    - Possibilidade de recursos de teste;
+
+    - Aumenta a satisfação do cliente.
+
+As desvantagens:
+   
+    - Nem todas as funções e recursos podem ser testados;
+
+    - Dificuldade de medir o progresso do teste.
+
 ## Execução
 
 Para iniciar os testes, deve-se criar o arquivo contendo os testes a serem realizados. O nome do arquivo deve ser NomeDaFuncionalidadeTestada.feature. Deve necessariamente terminar em “.feature”. Esse arquivo conterá os cenários de teste escritos, estruturando-se em:
