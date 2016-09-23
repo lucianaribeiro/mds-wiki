@@ -1,12 +1,10 @@
 # Instalando e configurando o Git
 
-Antes de utilizarmos o Git, é fundamental instalá-lo. Escolha a seguir o Sis-
-tema Operacional apropriado e mãos à obra!
+Antes de utilizarmos o Git, é fundamental instalá-lo. Escolha a seguir o Sistema Operacional apropriado e mãos à obra!
 
 ## Instalando no Windows
 
-Acesse a seguinte URL, faça o download e instale a última versão dispo-
-nível: http://msysgit.github.io/
+Acesse a seguinte URL, faça o download e instale a última versão disponível: http://msysgit.github.io/
 
 A instalação é bastante simples. Escolha as opções padrão. Serão instalados alguns programas, sendo o mais importante o Git Bash, que permite que o Git seja executado pela linha de comando no Windows.
 Dê duplo clique no ícone do Git Bash e será aberto um terminal, com o seguinte prompt na linha de comando:
@@ -109,7 +107,11 @@ Para enviar os commits feitos para o repositório desejado, utiliza-se o comando
 
 # Plataforma de Exemplo
 
+Para aprender mais sobre git e exercitar, acesse o [Codecademy](https://www.codecademy.com/pt-BR/learn/learn-git).
+
 Para exercitar e fixar os conhecimentos de Git, utilize a plataforma [Learn Git Branching](http://learngitbranching.js.org/)
+
+
 
 # Referências
 
