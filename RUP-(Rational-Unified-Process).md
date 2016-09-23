@@ -6,10 +6,10 @@
 [5. Papéis][papeis]  
 
 --
-## O que é?
+##1. O que é?
 <p align = "justify" > O RUP <i>(Rational Unified Process)</i> é um processo de desenvolvimento de <i>software</i>. Ele engloba as ações necessárias para transformar um conjunto de requisitos do cliente em um sistema de <i>software</i> combinando os ciclos de vida iterativo, incremental e verificando a qualidade do mesmo de forma que cada entrega do <i>software</i> em um ciclo agrega mais valor ao produto em relação ao ciclo anterior.
 
-## Valores do RUP
+##2. Valores do RUP
 
 RUP é baseado em um conjunto de princípios de desenvolvimento de <i>software</i> e melhores práticas, por exemplo:
 
@@ -20,7 +20,7 @@ RUP é baseado em um conjunto de princípios de desenvolvimento de <i>software</
 5. Verificação da qualidade do <i>software</i>
 6. Controle de alteração no <i>software</i>
 
-## Disciplinas do RUP
+##3. Disciplinas do RUP
 
 ### Seis Disciplinas de Engenharia de <i>Software</i>
 
@@ -98,7 +98,7 @@ Por exemplo, não abrange questões como:
 * Gestão de Contratos: com fornecedores, clientes, etc
 
 Fonte: [IBM Rational Unified Process](https://pt.wikipedia.org/wiki/IBM_Rational_Unified_Process)
-## Fases/Iterações do RUP
+##4. Fases/Iterações do RUP
 <p align = "justify" >Para exemplificar as fases/iterações do RUP, o gráfico conhecido como "gráfico de baleias" é utilizado.Ele traz um panorama de como um projeto é executado no RUP, levando em consideração as disciplinas, iterações e fases. Observando as curvas do gráfico, é possível notar que em cada fase são abordadas todas as disciplinas.
 
 !["Gráfico de Baleias"](https://upload.wikimedia.org/wikipedia/pt/0/07/Fases_do_RUP_-_portugues.jpg)
@@ -141,7 +141,7 @@ cujo objetivo é forncer uma base estável para a construção. Priemeiramente �
 
 ### Transição
 
-## Papéis
+##5. Papéis
 <p align = "justify" >O RUP tem alguns papéis genéricos como os de analista, desenvolvedor, testador e gerente. Cada um desses papéis genéricos tem outros papéis mais detalhados, somente o papel de testador que a única atividade existente é a de testador. Abaixo temos os papéis genéricos e os detalhados de cada um.
 
 **Analistas:**
