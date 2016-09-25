@@ -141,6 +141,17 @@ cujo objetivo é forncer uma base estável para a construção. Priemeiramente �
 
 ### Transição
 
+<p align = "justify" > A fase de transição do RUP é basicamente a fase em que é feita a entrega do produto ao cliente, ou seja, ela tem o objetivo de assegurar que o software produzido esteja disponível aos usuários finais. </p>
+
+<p align = "justify" > Os objetivos principais desta fase são: </p>
+
+* Fazer testes beta para validar o novo sistema em confronto com as expectativas do usuário.
+* Treinamento de usuários e equipe de manutenção .
+* Receber um feedback do cliente acerca do produto, com o fim de serem feitos ajustes finos no produto, configuração, instalação e usabilidade .
+
+**Marco: Entrega do sistema para o cliente**
+* O marco da fase de transição é certificar se o produto está pronto para ser instalado e mantido pelo cliente.
+
 ##5. Papéis
 <p align = "justify" >O RUP tem alguns papéis genéricos como os de analista, desenvolvedor, testador e gerente. Cada um desses papéis genéricos tem outros papéis mais detalhados, somente o papel de testador que a única atividade existente é a de testador. Abaixo temos os papéis genéricos e os detalhados de cada um.
 
