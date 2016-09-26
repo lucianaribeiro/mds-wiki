@@ -18,6 +18,25 @@ Os plano do PMBOK são: Plano de Gerenciamento do Projeto, Plano de Gerenciament
 
 ## Template genérico dos planos (planejamento/metodologia, como é feito o monitoramento/controle)
 
-6. Referências Bibliográficas
+### Monitoramento e Controle
+
+Integração: Plano de Gerenciamento do Projeto, Previsões do cronograma, Previsões de custos, Mudanças, Informações sobre desempenho do trabalho.
+
+Escopo: Plano de gerenciamento do projeto, Documentação dos requisitos, Matriz de rastreabilidade dos requisitos, Dados sobre o desempenho do trabalho.
+
+Tempo: Plano de Gerenciamento do Projeto, Cronograma do projeto, Dados sobre o desempenho do trabalho, Calendários do projeto.
+
+Custos: Plano de Gerenciamento do Projeto, Requisitos de recursos financeiros do projeto, Dados sobre o desempenho do trabalho, Gerenciamento do valor agregado.
+
+Qualidade: Plano de Gerenciamento do Projeto, Métricas da qualidade, Verificação da qualidade, Dados sobre o desempenho do trabalho, Solicitações de mudanças aprovadas, Entregas, Documentos do projeto.
+
+Comunicações: Plano de Gerenciamento do Projeto, Comunicações do projeto, Dados sobre o desempenho do trabalho.
+
+Riscos: Plano de Gerenciamento do Projeto, Registro dos riscos, Relatórios de desempenho do trabalho.
+
+Aquisições: Plano de Gerenciamento do Projeto, Documentação dos requisitos, Documentos das aquisições, Solicitações de mudança aprovadas, Dados sobre o desempenho do trabalho.
+
+Partes Interessadas: Plano de Gerenciamento do Projeto, Documentos do projeto.
 
 ## Relação entre os planos
+
