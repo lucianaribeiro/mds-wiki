@@ -2,9 +2,15 @@
 
 # RUP
 ## Quais fases do RUP são realizadas?
+* Iniciação
+* Elaboração
 
 ## Quais os principais artefatos do RUP gerados? 
 ## Quais os principais papéis RUP desempenhados por MDS  (detalhar)
+* Analista
+* Arquiteto
+* Desenvolvedor
+
 ## Quais os principais papéis RUP desempenhados por GPP (detalhar)
 
 # Quais os planos de PBMbok são desenvolvidos por GPP?
