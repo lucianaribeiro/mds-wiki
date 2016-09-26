@@ -28,7 +28,9 @@
 
 # Quais são as principais tarefas desempenhadas pelo Time de MDS nessa primeira fase do projeto (detalhar)
 ## Visão
+* O Documento de Visão tem que compartilhar e unificar o que todos entendem sobre o produto. É esse documento que vai definir o escopo do produto, ele deve ser amplo, mas não restringir a criatividade nas etapas posteriores do desenvolvimento. Ele tem que descrever "o que" deve ser feito.
 ## Arquitetura
+
 ## Desenvolvimento
 
 # Quais são os principais treinamentos a serem realizados na R1? Quem são os responsáveis por cada treinamento?
