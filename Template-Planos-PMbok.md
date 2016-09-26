@@ -20,6 +20,8 @@ Os plano do PMBOK são: Plano de Gerenciamento do Projeto, Plano de Gerenciament
 
 ### Monitoramento e Controle
 
+O PMBOK indica que faça monitoramento e controle a partir dos componentes abaixo de entrada, onde podem ocorrer mudanças e evoluções do projeto que precisam ser atualizadas.
+
 Integração: Plano de Gerenciamento do Projeto, Previsões do cronograma, Previsões de custos, Mudanças, Informações sobre desempenho do trabalho.
 
 Escopo: Plano de gerenciamento do projeto, Documentação dos requisitos, Matriz de rastreabilidade dos requisitos, Dados sobre o desempenho do trabalho.
@@ -39,4 +41,9 @@ Aquisições: Plano de Gerenciamento do Projeto, Documentação dos requisitos, 
 Partes Interessadas: Plano de Gerenciamento do Projeto, Documentos do projeto.
 
 ## Relação entre os planos
+
+## Referências
+
+EASYBOK. Planilha de Processos e Componentes baseada no Guia PMBOK 5ª edição. 2012. Disponível em: <http://www.easybok.com.br/downloads/planilha-processos-pmbok-5-ed/>. Acesso em: 26 set. 2016.
+
 
