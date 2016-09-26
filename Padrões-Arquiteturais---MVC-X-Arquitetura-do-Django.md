@@ -1,4 +1,4 @@
-## 1. Introdução
+## ## 1. Introdução
 
 Este documento trata-se de um tutorial técnico que visa demostrar o básico dos conceitos de Arquitetura de Software e Padrões Arquiteturais, além demonstrar como esses conceitos são aplicados tanto no MVC quanto na Arquitetura de projetos desenvolvidos a partir do framework Django.
 
@@ -19,6 +19,8 @@ Por que utilizar uma padrão arquitetural?
 * Melhora a manutenibilidade do software.
 
 ## 4. MVC
+
+![arquitetura mvc](https://upload.wikimedia.org/wikipedia/commons/b/b5/ModelViewControllerDiagram2.svg)
 
 Um Padrão Arquitetural que separa estruturalmente o projeto do software em três parte:
 
@@ -58,6 +60,8 @@ Controller – Blz. View, o usuário informou os dados corretos. Vou mandar pra 
 View – Vlw. Mostrando ao usuário…
 
 ## 5. Arquitetura de Projetos Django
+
+![arquitetura mvt](http://wiki.expertiza.ncsu.edu/images/0/01/Django_arch.JPG)
 
 Segue o Padrão Arquitetural MVT, próprio do Django, aderente ao MVC.
 De acordo como o Django Book, o Django segue o padrão MVC suficientemente para ser considerado um framework MVC.
