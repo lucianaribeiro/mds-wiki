@@ -6,6 +6,12 @@
 * Elaboração
 
 ## Quais os principais artefatos do RUP gerados? 
+* Documento de Visão
+* Documento de Arquitetura
+* Documento de Especificação de Casos de Uso
+* Documento de Especificação Casos de Teste
+* Relatório de Casos de Teste
+
 ## Quais os principais papéis RUP desempenhados por MDS  (detalhar)
 * Analista
 * Arquiteto
