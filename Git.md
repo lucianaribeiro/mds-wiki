@@ -111,7 +111,7 @@ Para aprender mais sobre git e exercitar, acesse o [Codecademy](https://www.code
 
 Para exercitar e fixar os conhecimentos de Git, utilize a plataforma [Learn Git Branching](http://learngitbranching.js.org/)
 
-
+Para treinar Git de maneira interativa, um otimo estilo de jogo [Aprenda Git](http://aprenda.vidageek.net/aprenda/git)
 
 # Referências
 
