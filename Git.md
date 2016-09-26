@@ -105,6 +105,53 @@ Feito isso basta salvar o arquivo e seu commit será efetuado com sucesso.
 
 Para enviar os commits feitos para o repositório desejado, utiliza-se o comando `push`. Este comando tem a seguinte assinatura: __`git push local_remote_name remote_branch_name`__, onde __`local_remote_name`__ indica o nome do repositório local em que o repositório git se encontra e __`remote_branch_name`__ indica o nome da branch em que deve ser enviado o conjunto de commits.
 
+# Trabalhando com branches
+
+É importante saber utilizar da melhor maneira possível as branches do git. Branches servem para você trabalhar em uma determinada funcionalidade, dependendo da política de configuração implementada no seu projeto. O ideal de trabalhar com branches é que você possa trabalhar sem interferir em funcionalidades que já estão implementadas. 
+
+É sugerido que no seu projeto seja definida uma branch que contenha todo o conteúdo devidamente testado e aprovado conforme os critérios de aceitação. Essa branch é criada a partir do `merge` de outras e compõe o produto mais atualizado nesse repositório. 
+
+### Situação
+Após vários merges e `rebases` de outras branchs a branch `dev` é a mais atual do projeto. Ainda faltam o caso de uso X para que o produto possa ser devidamente entregue, os desenvolvedores precisam trabalhar em paralelo para implementar todas as funcionalidades desse caso de uso. Sabendo que a `dev` está atualizada os desenvolvedores tomam a seguinte decisão: 
+ * Todos, de seus computadores, mudam para `dev`: `git checkout dev`
+ * A partir da `dev` criam novas branches com nomes significativos das funcionalidades que implementarão: `git checkout -b funcionalidade_x`
+ 
+A partir de agora os desenvolvedores podem trabalhar separadamente na implementação das funcionalidades de casos de uso sem problemas, de forma que minimizem os riscos de conflitos durante o projeto, pois as novas branches tem uma origem em comum. 
+
+# Merge e Rebase
+
+### Situação 
+Terminado o trabalho de implementação das funcionalidades do Caso de Uso X os desenvolvedores desejam juntar suas alterações para, finalmente, terminarem o caso de uso. Como foi dito acima as branches das funcionalidades tem uma origem em comum, `dev`, o que torna a mescla mais fácil. 
+
+## Merge 
+O merge é a mescla do conteúdo de duas branches. Para realizar tal operação tenha em mente que:
+
+ * Você vai _merjar_ a branch parâmetro na sua **ATUAL** 
+
+### Exemplo: 
+
+Os desenvolvedores resolveram _merjar_ a branch `funcionalidade_a` na `funcionalidade_b`, para tal eles:
+
+* Mudaram para a branch `funcionalidade_b`. `git checkout funcionalidade_b`;
+* `On branch funcionalidade_b`
+* Realizaram o merge de a --> b. `git merge funcionalidade_a`
+
+Isso gerou um commit de merge. Isso pode gerar um pouco de poluição no log de commits. 
+
+## Rebase 
+O rebase é uma alternativa ao merge. Também mesclando o conteúdo de duas branches, mas o rebase insere os commits de modo cronológico no histórico de commits. O rebase também não deixa uma mensagem de commit, uma das vantagens de usar-se o rebase. 
+
+No uso do rebase você adicionará os commits da branch `funcionalidade_a` na `funcionalidade_b` da seguinte maneira: 
+* Vá para a branch `funcionalidade_a`
+* execute: `git rebase funcionalidade_b`
+
+isso adicionara os commits que estão em `a` mas não estão em `b` em `funcionalidade_b` de forma que você poderá realizar um `fast-forward merge` em `b`
+
+* `git checkout funcionalidade_b`
+* `git merge funcionalidade_a`
+
+
+
 # Plataforma de Exemplo
 
 Para aprender mais sobre git e exercitar, acesse o [Codecademy](https://www.codecademy.com/pt-BR/learn/learn-git).
