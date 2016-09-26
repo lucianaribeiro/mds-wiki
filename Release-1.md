@@ -29,6 +29,8 @@
 # Quais são as principais tarefas desempenhadas pelo Time de MDS nessa primeira fase do projeto (detalhar)
 ## Visão
 * Elaborar o Documento de Visão que tem que compartilhar e unificar o que todos entendem sobre o produto. É esse documento que vai definir o escopo do produto, ele deve ser amplo, mas não restringir a criatividade nas etapas posteriores do desenvolvimento. Ele tem que descrever "o que" deve ser feito.
+* Entender o problema em que o projeto se encaixará, suas causas, quem são os envolvidos e qual será seu impacto.
+* Definir os requisitos do produto, restrições, recursos e sua perspectiva geral.
 
 ## Arquitetura
 * Elaboração do documento de arquitetura que visa detalhar as diversas e abrangentes subdivisões arquiteturais no projeto para definir as decisões que foram tomadas em relação ao produto. 
