@@ -14,6 +14,20 @@ Segundo Pressman, para que um projeto de software seja bem sucedido, é necessá
 
 Projeto busca atingir um objetivo claro, sendo conduzido por pessoas e possuindo parâmetros bem definidos de tempo, custo, recursos envolvidos e qualidade.
 
+#### PMBOK
+
+Na definição do Guia PMBOK® (2013), gerenciamento de projetos é “a aplicação de conhecimentos, habilidades, ferramentas e técnicas às atividades do projeto, fim de atender os requisitos das partes interessadas”. Para Vargas (2009) “o gerenciamento de projetos pode ser aplicado a qualquer situação onde exista um empreendimento que foge ao
+que é fixo e rotineiro na empresa (ad hoc)”.
+
+Satisfazer ou exceder as necessidades envolve equilibrar as várias demandas concorrentes em relação ao:
+* Escopo, tempo, custo e qualidade;
+* Partes interessadas com necessidades e expectativas diferenciadas; e
+* Requisitos identificados (necessidades) e requisitos não identificados (expectativas).
+
+Para cobrir todas as áreas que fazem parte da gerência de projetos o Guia PMBOK® dividiu-as em grupos de processos, conforme a figura a seguir.
+
+![Processos](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAATpAAAAJGEzYjNkNzZjLTFjMGYtNDY2OC04NGU5LTQ0MGRjYmQyNGFmNg.png)
+
 **Características de um projeto:** 
 
 * Temporariedade
