@@ -165,3 +165,4 @@ Para treinar Git de maneira interativa, um otimo estilo de jogo [Aprenda Git](ht
 # Referências
 
 [Controlando versões com Git e GitHub - Casa do Código](https://github.com/brunoipjg/myEbooks/blob/master/Controlando%20vers%C3%B5es%20com%20Git%20e%20GitHub%20-%20Casa%20do%20Codigo.pdf)
+[Ferramentas do Git - Fazendo Stash](https://git-scm.com/book/pt-br/v1/Ferramentas-do-Git-Fazendo-Stash)
