@@ -26,6 +26,8 @@
 
 #Agile
 
+[Scrum] [Scrum]
+
 # Material Técnico
 [Git](https://github.com/fga-gpp-mds/00-Disciplina/wiki/git)
 
