@@ -44,6 +44,8 @@ Desenvolver e testar componentes.
 * Facilitar o entendimento, desenvolvimento, manutenção e a evolução do projeto, seja pela equipe descrita nas outras documentações ou seja por futuros envolvidos.
 
 ## Desenvolvimento
+* Desenvolvimento do componente. 
+* Teste dos critérios de avaliação definidos.
 
 # Quais são os principais treinamentos a serem realizados na R1? Quem são os responsáveis por cada treinamento?
 
