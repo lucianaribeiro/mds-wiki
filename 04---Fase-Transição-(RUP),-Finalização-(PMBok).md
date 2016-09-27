@@ -2,11 +2,18 @@
 
 ##Transição (RUP)  
   
-  O principal foco da fase de transição do RUP (*Rational Unified Process*) é garantir a disponibilidade do software para seus usuários finais, e pode ocorrer ao longo de várias iterações. Todas as atividades relacionadas à preparação do produto para *releases* (tais como a realização de testes e pequenos ajustes) devem ser realizadas nesta fase, de forma a oferecer um ajuste fino para o produto. Neste momento não deve haver mais nenhum problema estrutural grave no produto. Seu início ocorre quando passa a ser possível a implantação de uma *baseline* no domínio do usuário final, de forma a atender a todos os requisitos de qualidade.  
+<p align = "justify" >  O principal foco da fase de transição do RUP (*Rational Unified Process*) é garantir a disponibilidade do software para seus usuários finais, e pode ocorrer ao longo de várias iterações. Todas as atividades relacionadas à preparação do produto para *releases* (tais como a realização de testes e pequenos ajustes) devem ser realizadas nesta fase, de forma a oferecer um ajuste fino para o produto. Neste momento não deve haver mais nenhum problema estrutural grave no produto. Seu início ocorre quando passa a ser possível a implantação de uma *baseline* no domínio do usuário final, de forma a atender a todos os requisitos de qualidade.  
    
-  Quando chegamos aqui devemos verificar se o usuário está satisfeito e se atendemos os custos e funcionalidades pretendidas. Os artefatos produzidos serão a própria aplicação e materiais de suporte para o usuário. 
+<p align = "justify" >  Quando chegamos aqui devemos verificar se o usuário está satisfeito e se atendemos os custos e funcionalidades pretendidas. Os artefatos produzidos serão a própria aplicação e materiais de suporte para o usuário. 
 
-  Ao fim desta fase, é necessário que todos os objetivos do projeto tenham sido atingidos e o mesmo deve estar de forma entregável, também deve-se tirar uma conclusão geral do projeto, obtendo os pontos positivos e negativos os quais devem ser utilizados durante a concepção de projetos futuros, que seria o artefato _PostMortem_. 
+<p align = "justify" >  Ao fim desta fase, é necessário que todos os objetivos do projeto tenham sido atingidos e o mesmo deve estar de forma entregável, também deve-se tirar uma conclusão geral do projeto, obtendo os pontos positivos e negativos os quais devem ser utilizados durante a concepção de projetos futuros, que seria o artefato _PostMortem_.
+
+Os critérios básicos de avaliação para a fase de transição envolvem as respostas para estas questões:
+
+* O usuário está satisfeito?
+* As despesas reais com recursos são aceitáveis se comparadas com as planejadas?
+
+<p align = "justify" >No Marco do Release do Produto, o produto está em produção e o ciclo de manutenção posterior ao release inicia. Isso pode envolver o início de um novo ciclo ou de algum release de manutenção adicional.
   
 ###Objetivos Principais:  
   
@@ -34,7 +41,7 @@
 
 ##Finalização (PMBoK)  
   
- Segundo o PMBoK, "encerrar o projeto ou fase é o processo de finalização de todas as atividades de todos os grupos de processos de gerenciamento do projeto para encerrar formalmente o projeto ou a fase". Em outras palavras, trata-se de um conjunto de ações que devem ser tomadas para finalizar um projeto ou etapa de forma apropriada. Esta atividade traz como principais benefícios o registro de lições aprendidas, o encerramento formal do projeto e a liberação de recursos não utilizados para outros projetos, como pode ser visto abaixo.
+<p align = "justify" > Segundo o PMBoK, "encerrar o projeto ou fase é o processo de finalização de todas as atividades de todos os grupos de processos de gerenciamento do projeto para encerrar formalmente o projeto ou a fase". Em outras palavras, trata-se de um conjunto de ações que devem ser tomadas para finalizar um projeto ou etapa de forma apropriada. Esta atividade traz como principais benefícios o registro de lições aprendidas, o encerramento formal do projeto e a liberação de recursos não utilizados para outros projetos, como pode ser visto abaixo.
 
 ![Encerramento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/Encerramento.png)
 
@@ -60,7 +67,7 @@ Representação da fase de Encerramento, contendo as atividades do PMBok de acor
   
 ###Realização  
   
-  No momento do encerramento do projeto, é necessário garantir que todo o trabalho está de fato finalizado e que todos os objetivos do projeto foram atingidos. É necessário garantir que todo o escopo foi atendido e que todos os objetivos de qualidade foram alcançados. Para que isto seja cumprido, todas as partes interessadas devem estar envolvidas no processo de encerramento. Durante seu desenvolvimento são desenvolvidos registros de lições aprendidas e são realizadas investigações quanto ao desempenho geral da equipe do projeto como um todo.
+<p align = "justify" >  No momento do encerramento do projeto, é necessário garantir que todo o trabalho está de fato finalizado e que todos os objetivos do projeto foram atingidos. É necessário garantir que todo o escopo foi atendido e que todos os objetivos de qualidade foram alcançados. Para que isto seja cumprido, todas as partes interessadas devem estar envolvidas no processo de encerramento. Durante seu desenvolvimento são desenvolvidos registros de lições aprendidas e são realizadas investigações quanto ao desempenho geral da equipe do projeto como um todo.
 
 ####Fatores críticos de sucesso:
 
