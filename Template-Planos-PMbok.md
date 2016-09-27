@@ -1,20 +1,42 @@
-## Para que servem os planos do PMBOK?
+## 1. Para que servem os planos do PMBOK?
 
-## **Planos PMBOK**
-Os plano do PMBOK são: Plano de Gerenciamento do Projeto, Plano de Gerenciamento do Escopo, Plano de Gerenciamento do Cronograma, Plano de Gerenciamento de Custo, Plano de Gerenciamento de Requisitos, Plano de Gerenciamento de Comunicação, Plano de Gerenciamento de Riscos, Plano de Gerenciamento de Qualidade, Plano de Gerenciamento das Partes Interessadas, Plano de Gerenciamento de Recursos Humanos e Plano de Gerenciamento de Aquisições.
+## 2. **Planos PMBOK**
+Os planos previstos pela quinta edição do PMBOK são:
 
-## **Objetivo de Cada Plano**
-* **Plano de Gerenciamento do Projeto:** 
-* **Plano de Gerenciamento do Escopo:**
-* **Plano de Gerenciamento do Cronograma:**
-* **Plano de Gerenciamento de Custo:**
-* **Plano de Gerenciamento de Requisitos:**
-* **Plano de Gerenciamento de Comunicação:**
-* **Plano de Gerenciamento de Riscos:**
-* **Plano de Gerenciamento de Qualidade:**
-* **Plano de Gerenciamento das Partes Interessadas:**
-* **Plano de Gerenciamento de Recursos Humanos:**
-* **Plano de Gerenciamento de Aquisições:**
+* Plano de Gerenciamento do Projeto;
+* Plano de Gerenciamento do Escopo;
+* Plano de Gerenciamento do Cronograma;
+* Plano de Gerenciamento de Custo;
+* Plano de Gerenciamento de Requisitos;
+* Plano de Gerenciamento de Comunicação;
+* Plano de Gerenciamento de Riscos;
+* Plano de Gerenciamento de Qualidade;
+* Plano de Gerenciamento das Partes Interessadas;
+* Plano de Gerenciamento de Recursos Humanos;
+* Plano de Gerenciamento de Aquisições.
+
+## 3. **Objetivo de Cada Plano**
+### 3.1. **Plano de Gerenciamento do Projeto**
+
+### 3.2. **Plano de Gerenciamento do Escopo**
+
+### 3.3. **Plano de Gerenciamento do Cronograma**
+
+### 3.4. **Plano de Gerenciamento de Custo**
+
+### 3.5. **Plano de Gerenciamento de Requisitos**
+
+### 3.6. **Plano de Gerenciamento de Comunicação**
+
+### 3.7. **Plano de Gerenciamento de Riscos**
+
+### 3.8. **Plano de Gerenciamento de Qualidade**
+
+### 3.9. **Plano de Gerenciamento das Partes Interessadas**
+
+### 3.10. **Plano de Gerenciamento de Recursos Humanos**
+
+### 3.11. **Plano de Gerenciamento de Aquisições**
 
 ## Template genérico dos planos (planejamento/metodologia, como é feito o monitoramento/controle)
 
@@ -45,5 +67,3 @@ Partes Interessadas: Plano de Gerenciamento do Projeto, Documentos do projeto.
 ## Referências
 
 EASYBOK. Planilha de Processos e Componentes baseada no Guia PMBOK 5ª edição. 2012. Disponível em: <http://www.easybok.com.br/downloads/planilha-processos-pmbok-5-ed/>. Acesso em: 26 set. 2016.
-
-
