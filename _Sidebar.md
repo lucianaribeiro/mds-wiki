@@ -24,7 +24,7 @@
 
 [Fase Transição(RUP), Finalização(PMBOK)] [04-fase]
 
-#Agile
+#Métodos Ágeis
 
 [Scrum](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Scrum)
 
