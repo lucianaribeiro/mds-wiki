@@ -117,7 +117,9 @@ Após vários merges e `rebases` de outras branchs a branch `dev` é a mais atua
  * A partir da `dev` criam novas branches com nomes significativos das funcionalidades que implementarão: `git checkout -b funcionalidade_x`
  
 A partir de agora os desenvolvedores podem trabalhar separadamente na implementação das funcionalidades de casos de uso sem problemas, de forma que minimizem os riscos de conflitos durante o projeto, pois as novas branches tem uma origem em comum. 
-
+# O comando Git Stash
+Caso você esteja trabalhando em uma parte do seu projeto que não está fluindo muito bem e não deseja fazer um commit disso para trabalhar em outra branch por um tempo, o que fazer? Dá para resolver isso com um comando bem útil: `git stash`. Com esse comando os arquivos monitorados que foram modificados serão salvos em uma pilha de modificação não finalizadas que você pode recuperar e finalizar depois. Você pode criar uma lista de stashes e visualizá-los depois com o comando `git stash list`. 
+Você pode aplicar novamente o stash feito com o comando `git stash apply`. Porém com esse comando o Git identifica apenas o útimo stash feito, para selecionar um stash específico utilize o comando : `git stash apply stash@{número do stash}`
 # Merge e Rebase
 
 ### Situação 
