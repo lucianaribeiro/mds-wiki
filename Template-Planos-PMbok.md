@@ -18,25 +18,48 @@ Os planos previstos pela quinta edição do PMBOK são:
 ## 3. **Objetivo de Cada Plano**
 ### 3.1. **Plano de Gerenciamento do Projeto**
 
+Descrever junto com planos auxiliares, como o projeto será executado, controlado, monitorado e encerrado.
+Além de servir como guia para a equipe durante todo o projeto.
+
 ### 3.2. **Plano de Gerenciamento do Escopo**
+
+Descreve como o escopo do projeto será definido, desenvolvido e verificado e como a estrutura analítica do projeto será criada e definida, fornecendo orientação sobre como o escopo do projeto será gerenciado e controlado pela equipe de gerenciamento de projetos. Ele faz parte ou é um plano auxiliar do plano de gerenciamento do projeto.
 
 ### 3.3. **Plano de Gerenciamento do Cronograma**
 
+Descreve como o cronograma do projeto será desenvolvido, gerenciado e controlado pela equipe de gerenciamento de projetos. Ele faz parte ou é um plano auxiliar do plano de gerenciamento do projeto.
+
 ### 3.4. **Plano de Gerenciamento de Custo**
+
+Descreve como os custos do projeto serão estimados, gerenciados e controlados pela equipe de gerenciamento de projetos. Ele faz parte ou é um plano auxiliar do plano de gerenciamento do projeto.
 
 ### 3.5. **Plano de Gerenciamento de Requisitos**
 
+O plano de gerenciamento dos requisitos é desenvolvido e aprovado durante a fase de planejamento do projeto e é um plano auxiliar do Plano de Gerenciamento de Projetos. Tem como objetivo documentar como os requisitos serão analisados, documentados e gerenciados do início ao fim do projeto.
+
 ### 3.6. **Plano de Gerenciamento de Comunicação**
+
+O plano de gerenciamento das comunicações descreve de forma clara como as comunicações do projeto serão planejadas, estruturadas, monitoradas e controladas e guia a equipe em relação a todo o ciclo de vida das informações usadas no projeto (da sua geração e coleta até o seu armazenamento e possível descarte).
 
 ### 3.7. **Plano de Gerenciamento de Riscos**
 
+O Plano de Gerenciamento dos riscos tem como objetivo aumentar a probabilidade e o impacto dos eventos positivos, reduzir a probabilidade e o impacto dos eventos negativos no projeto e orientar a equipe do projeto sobre como os processos de riscos serão executados.
+
 ### 3.8. **Plano de Gerenciamento de Qualidade**
+
+O Plano de gerenciamento da qualidade define requisitos e padrões da qualidade aplicáveis ao projeto e as suas entregas, descreve como será verificado a conformidade das entregas respeitando a política de qualidade da empresa, além de detalhar como os processos de gerenciamento da qualidade serão usados.
 
 ### 3.9. **Plano de Gerenciamento das Partes Interessadas**
 
+O Plano de gerenciamento das partes interessadas descreve os processos usados de modo a garantir o engajamento das partes interessadas desde a identificação das partes interessadas até o encerramento do projeto.
+
 ### 3.10. **Plano de Gerenciamento de Recursos Humanos**
 
+O Plano de recursos humanos, também chamado de plano de gerenciamento dos recursos humanos, fornece orientação sobre como os recursos humanos do projeto devem ser definidos, mobilizados, gerenciados, controlados e, por fim, liberados. 
+
 ### 3.11. **Plano de Gerenciamento de Aquisições**
+
+O Plano de Gerenciamento das Aquisições tem como objetivo descrever como os processos de aquisição serão gerenciados desde o desenvolvimento dos documentos de aquisições até o fechamento do contrato.
 
 ## Template genérico dos planos (planejamento/metodologia, como é feito o monitoramento/controle)
 
