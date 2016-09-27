@@ -72,7 +72,6 @@ Ficar sempre atento às configurações do gradle tanto no seu app, quanto na su
 # Arquitetura MVC Android 
 
 # DOJO de linguagem 
-(material didático)
 
 **1)** Curso completo da plataforma [Udacity](https://www.udacity.com) sobre _Android_:
 
