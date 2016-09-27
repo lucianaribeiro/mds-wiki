@@ -57,3 +57,7 @@ http://sloanreview.mit.edu/article/what-successful-project-managers-do/
 * Falta de treinamento em gerência de projeto.
 * Falta de treino de novas tecnologias.
 * Falta de liderança ou comprometimento dos Stakeholders.
+
+## Mudança no modelo de gestão 
+
+Da gestão tradicional (PMBok) para gestão ágil - baseada na leitura - https://hbr.org/2016/05/embracing-agile
