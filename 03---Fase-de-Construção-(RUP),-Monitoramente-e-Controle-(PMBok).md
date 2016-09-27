@@ -99,7 +99,7 @@ ______
 
 ## Quais os artefatos são gerados do RUP?
 
-A codificação ocorre predominantemente nessa fase. Nesse momento o maior artefato que será obtido é o próprio sistema, ou seja, ocorre a construção do sistema de <i>software</i> com foco no desenvolvimento de componentes e outros recursos necessários. Lembrando que podem ainda ser produzidos materiais para treinamento e, se necessário, documentação para os usuários (como os manuais de usuários). Existem ainda outras atividades que podem ocorrer em paralelo, como a identificação e correção de defeitos, além da descrição da <i>release</i> atual.
+A codificação ocorre predominantemente nessa fase. Nesse momento o maior artefato que será obtido é o próprio sistema, ou seja, ocorre a construção do sistema de <i>software</i> com foco no desenvolvimento de componentes e outros recursos necessários. Lembrando que podem ainda ser produzidos materiais para treinamento e, se necessário, documentação para os usuários (como os manuais de usuários). Existem ainda outras atividades que podem ocorrer em paralelo, como a identificação e correção de defeitos, além da descrição da <i>release</i> atual. O principal resultado de uma iteração no final da fase de construção é que mais funcionalidade é adicionada, o que proporciona um sistema muito mais completo. Os resultados da iteração atual ficam visíveis para os desenvolvedores formarem a base de desenvolvimento para as iterações subsequentes ate chegar no principal artefato da fase, o próprio sistema.
 
 ## Quais os templates usados para gerar os artefatos do PMbok 
 
