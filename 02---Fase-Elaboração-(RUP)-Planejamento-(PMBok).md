@@ -135,7 +135,7 @@ ______________________________________________
 ## Quais os processos do RUP são executados - ilustre
 
 ## Detalhe as atividades realizadas por MDS nessa fase
-A principal atividade realizada por MDS nesta fase é a elaboração do documento de arquitetura, este que será fundamental para as próximas fases e continuidade do projeto, pois assegurando que a arquitetura e os requisitos estejam estáveis a fase de construção será facilitada. E para garantir isso pode-se utilizar de protótipos diretamente para elicitar requisitos significativos do sistema.
+<p align="justify">A principal atividade realizada por MDS nesta fase é a elaboração do documento de arquitetura, este que será fundamental para as próximas fases e continuidade do projeto, pois assegurando que a arquitetura e os requisitos estejam estáveis a fase de construção será facilitada. E para garantir isso pode-se utilizar de protótipos diretamente para elicitar requisitos significativos do sistema.
 
 ## Quais as disciplinas no RUP são executadas
 
@@ -224,7 +224,7 @@ Os principais artefatos gerados nesta fase foram:
 * Um plano de desenvolvimento geral para o projeto
 
 ## Quais são principais critérios de avaliação para passagem de fase? (PMBOK)
-A transição de um fase para outra é definida por alguma forma de entrega. Essas entregas podem ser revisadas e conceituadas como finalizadas e completas, porém esses conceitos não determinam a proibição da passagem de fase, uma vez que os riscos são analisados e taxados como significativos ou não significativos. Quando isso ocorre é uma prática chamada de sobreposição de fases que é um exemplo da técnica conhecida como paralelismo, ou seja um fase é iniciada sem que a anterior seja finalizada. Um outro caso que pode acontecer, é uma fase ser finalizada sem que outra seja iniciada, quando isso acontece significa que o projeto foi finalizado ou há muitos riscos para sua continuidade.
+<p align="justify">A transição de um fase para outra é definida por alguma forma de entrega. Essas entregas podem ser revisadas e conceituadas como finalizadas e completas, porém esses conceitos não determinam a proibição da passagem de fase, uma vez que os riscos são analisados e taxados como significativos ou não significativos. Quando isso ocorre é uma prática chamada de sobreposição de fases que é um exemplo da técnica conhecida como paralelismo, ou seja um fase é iniciada sem que a anterior seja finalizada. Um outro caso que pode acontecer, é uma fase ser finalizada sem que outra seja iniciada, quando isso acontece significa que o projeto foi finalizado ou há muitos riscos para sua continuidade.
 
 ## Referências
 
