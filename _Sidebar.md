@@ -26,7 +26,7 @@
 
 #Agile
 
-[Scrum] [Scrum]
+[Scrum](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Scrum)
 
 # Material Técnico
 [Git](https://github.com/fga-gpp-mds/00-Disciplina/wiki/git)
@@ -73,4 +73,3 @@
 [tutoriaismateriais]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutoriais-e-Materiais
 [testeAutomatizadoCucumberRails]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Teste-Automatizado-Cucumber-Rails
 [testeAutomatizadoComSeleniumIDE]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Teste-Automatizado-com-Selenium-IDE
-
