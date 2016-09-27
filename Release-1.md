@@ -13,9 +13,15 @@
 * Relatório de Casos de Teste
 
 ## Quais os principais papéis RUP desempenhados por MDS  (detalhar)
-* Analista
-* Arquiteto
-* Desenvolvedor
+
+### Analista de Sistemas 
+Identificação de requisitos e modelagem de casos de uso.
+
+### Arquiteto de Software
+Responsável pela estrutura geral de cada visão de arquitetura. Trabalha em sintonia com o gerente do projeto.
+
+### Desenvolvedor
+Desenvolver e testar componentes.
 
 ## Quais os principais papéis RUP desempenhados por GPP (detalhar)
 
