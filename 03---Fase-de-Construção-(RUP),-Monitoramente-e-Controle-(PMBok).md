@@ -122,7 +122,7 @@ A codificação ocorre predominantemente nessa fase. Nesse momento o maior artef
    * Artefato: Relatório de Execução de testes.
 
 ## Quais são principais critérios de avaliação para passagem de fase? (RUP)
-Os principais critérios para mudança do RUP na fase de Contrução são a conclusão do projeto, junto com seus testes, onde o software chega a uma arquitetura baseline executável, depois de todas as revisões dos requisitos com base na necessidade de mercado do software. Logo, analisa-se a maturidade e estabilidade do produto para verificar sua possibilidade de inserção na comunidade de usuários, compara-se as despesas planejadas com as despesas de recursos efetuadas, para, assim, verificar se estão ainda são aceitáveis.
+Os principais critérios para mudança do RUP na fase de Contrução são a conclusão do projeto, junto com seus testes, onde o software chega a uma arquitetura baseline executável, depois de todas as revisões dos requisitos com base na necessidade de mercado do software. Logo, analisa-se a maturidade e estabilidade do produto para verificar sua possibilidade de inserção na comunidade de usuários, compara-se as despesas planejadas com as despesas de recursos efetuadas, para, assim, verificar se estão ainda são aceitáveis. O marco Capacidade Operacional Inicial determina se o produto está pronto para ser implantado em um ambiente de teste beta.
 
 ## Quais são principais critérios de avaliação para passagem de fase? (PMBOK)
 
