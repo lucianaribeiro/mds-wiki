@@ -1,6 +1,6 @@
 ## Bem vindo a GPP
 
-O plano de Ensino na disciplina por ser encontrado em https://github.com/fga-gpp-mds/00-Disciplina/tree/master/PlanosDeEnsino
+O plano de Ensino na disciplina pode ser encontrado [aqui](https://github.com/fga-gpp-mds/00-Disciplina/tree/master/PlanosDeEnsino)
 
 ### O que é projeto?
 
