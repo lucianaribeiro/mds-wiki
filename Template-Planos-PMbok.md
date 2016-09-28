@@ -83,25 +83,25 @@ O Plano de Gerenciamento das Aquisições tem como objetivo descrever como os pr
 
 ### 4.1. Monitoramento e Controle
 
-O PMBOK indica que faça monitoramento e controle a partir dos componentes abaixo de entrada, onde podem ocorrer mudanças e evoluções do projeto que precisam ser atualizadas.
+O monitoramento e controle deve ser feito para controlar todo o projeto, controlar as mudanças, riscos e tudo que possa vir a afetar sua execução. Abaixo estão descritos alguns componentes de entrada que são usados para fazer o monitoramento e controle de cada área do conhecimento. Para ver todo o processo de planejamento, execução, monitoramento e controle, e encerramento basta entrar neste [link](http://www.easybok.com.br/downloads/planilha-processos-pmbok-5-ed/).
 
-Integração: Plano de Gerenciamento do Projeto, Previsões do cronograma, Previsões de custos, Mudanças, Informações sobre desempenho do trabalho.
+**Integração:** Plano de Gerenciamento do Projeto, Previsões do cronograma, Previsões de custos, Mudanças, Informações sobre desempenho do trabalho.
 
-Escopo: Plano de gerenciamento do projeto, Documentação dos requisitos, Matriz de rastreabilidade dos requisitos, Dados sobre o desempenho do trabalho.
+**Escopo:** Plano de gerenciamento do projeto, Documentação dos requisitos, Matriz de rastreabilidade dos requisitos, Dados sobre o desempenho do trabalho.
 
-Tempo: Plano de Gerenciamento do Projeto, Cronograma do projeto, Dados sobre o desempenho do trabalho, Calendários do projeto.
+**Tempo:** Plano de Gerenciamento do Projeto, Cronograma do projeto, Dados sobre o desempenho do trabalho, Calendários do projeto.
 
-Custos: Plano de Gerenciamento do Projeto, Requisitos de recursos financeiros do projeto, Dados sobre o desempenho do trabalho, Gerenciamento do valor agregado.
+**Custos:** Plano de Gerenciamento do Projeto, Requisitos de recursos financeiros do projeto, Dados sobre o desempenho do trabalho, Gerenciamento do valor agregado.
 
-Qualidade: Plano de Gerenciamento do Projeto, Métricas da qualidade, Verificação da qualidade, Dados sobre o desempenho do trabalho, Solicitações de mudanças aprovadas, Entregas, Documentos do projeto.
+**Qualidade:** Plano de Gerenciamento do Projeto, Métricas da qualidade, Verificação da qualidade, Dados sobre o desempenho do trabalho, Solicitações de mudanças aprovadas, Entregas, Documentos do projeto.
 
-Comunicações: Plano de Gerenciamento do Projeto, Comunicações do projeto, Dados sobre o desempenho do trabalho.
+**Comunicações: **Plano de Gerenciamento do Projeto, Comunicações do projeto, Dados sobre o desempenho do trabalho.
 
-Riscos: Plano de Gerenciamento do Projeto, Registro dos riscos, Relatórios de desempenho do trabalho.
+**Riscos:** Plano de Gerenciamento do Projeto, Registro dos riscos, Relatórios de desempenho do trabalho.
 
-Aquisições: Plano de Gerenciamento do Projeto, Documentação dos requisitos, Documentos das aquisições, Solicitações de mudança aprovadas, Dados sobre o desempenho do trabalho.
+**Aquisições:** Plano de Gerenciamento do Projeto, Documentação dos requisitos, Documentos das aquisições, Solicitações de mudança aprovadas, Dados sobre o desempenho do trabalho.
 
-Partes Interessadas: Plano de Gerenciamento do Projeto, Documentos do projeto.
+**Partes Interessadas: **Plano de Gerenciamento do Projeto, Documentos do projeto.
 
 ## 5. Relação entre os planos
 
