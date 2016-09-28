@@ -1,5 +1,17 @@
 ## 1. Para que servem os planos do PMBOK?
 
+Os planos do PMBOK servem para o gerenciamento do projeto, onde se tem todo o planejamento, detalhando como os gerentes decidiram executar o projeto e como eles irão monitorar.
+
+Segundo Winicius Braz, entre os benefícios dos planos estão:
+
+* Padronização das atividades do gerenciamento do projeto;
+* Melhoria no fluxo de comunicação entre as partes envolvidas;
+* Redução da negligência de atividades importantes;
+* Ênfase no uso dos recursos de maneira eficiente; 
+* Controle sobre o andamento do projeto;
+* Tratamento otimizado de riscos;
+* Potencialização das chances de sucesso do projeto.
+
 ## 2. **Planos PMBOK**
 Os planos previstos pela quinta edição do PMBOK são:
 
@@ -95,16 +107,18 @@ O monitoramento e controle deve ser feito para controlar todo o projeto, control
 
 **Qualidade:** Plano de Gerenciamento do Projeto, Métricas da qualidade, Verificação da qualidade, Dados sobre o desempenho do trabalho, Solicitações de mudanças aprovadas, Entregas, Documentos do projeto.
 
-**Comunicações: **Plano de Gerenciamento do Projeto, Comunicações do projeto, Dados sobre o desempenho do trabalho.
+**Comunicações:** Plano de Gerenciamento do Projeto, Comunicações do projeto, Dados sobre o desempenho do trabalho.
 
 **Riscos:** Plano de Gerenciamento do Projeto, Registro dos riscos, Relatórios de desempenho do trabalho.
 
 **Aquisições:** Plano de Gerenciamento do Projeto, Documentação dos requisitos, Documentos das aquisições, Solicitações de mudança aprovadas, Dados sobre o desempenho do trabalho.
 
-**Partes Interessadas: **Plano de Gerenciamento do Projeto, Documentos do projeto.
+**Partes Interessadas:** Plano de Gerenciamento do Projeto, Documentos do projeto.
 
 ## 5. Relação entre os planos
 
 ## 6. Referências
 
 EASYBOK. Planilha de Processos e Componentes baseada no Guia PMBOK 5ª edição. 2012. Disponível em: <http://www.easybok.com.br/downloads/planilha-processos-pmbok-5-ed/>. Acesso em: 26 set. 2016.
+
+BRAZ, Winicius. O que é PMBOK? 2016. Disponível em: <http://www.projectbuilder.com.br/blog-pb/entry/conhecimentos/o-que-e-pmbok>. Acesso em: 28 set. 2016.
