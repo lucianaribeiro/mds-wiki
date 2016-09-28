@@ -31,7 +31,25 @@ Descreve como o cronograma do projeto será desenvolvido, gerenciado e controlad
 
 ### 3.4. **Plano de Gerenciamento de Custo**
 
-Descreve como os custos do projeto serão estimados, gerenciados e controlados pela equipe de gerenciamento de projetos. Ele faz parte ou é um plano auxiliar do plano de gerenciamento do projeto.
+Este plano descreve como os custos do projeto serão estimados, gerenciados e controlados pela equipe de gerenciamento de projetos. Ele faz parte ou é um plano auxiliar do plano de gerenciamento do projeto.
+
+Segundo o PMBOK, o gerenciamento de custos do projeto consiste em três grandes atividades: Estimar os custos, determinar o orçamento e controlar os custos. No plano de gerenciamento de custo, tópicos a serem abordados podem incluir:
+  * Descrição de como ocorrerá cada uma das três atividades de gerenciamento de custo;
+  * Nível de exatidão dos dados de custos coletados;
+  * Unidades de medida relacionadas aos custos do projeto;
+  * Limites de controle.
+
+A estimativa de custos tem como entrada a linha de base do escopo, o cronograma do projeto, o plano de recursos humanos e afins. Ela é feita por meio de técnincas e ferramentas de estimativa como opnião especializada, estimativa análoga, estimativa _bottom-up_, estimativa de três pontos e outros. Suas saídas incluem as estimativas de custos definidas em um _template_ determinado pela equipe.
+
+A determinação do orçamento tem como entrada a estimativa de custos das atividades, cronograma do projeto, calendário de recursos e afins. Ela é feita por meio de técnicas como opinião especializada, relações históricas e outros. Suas saídas incluem a linha de base do desempenho dos custos e requisitos de recursos financeiros do projeto.
+
+O controle de custos tem como entrada o plano de gerenciamento do projeto, requisitos dos recursos financeiros, informações sobre desempenho do trabalho e afins. Entre as técnicas relacionadas a essa atividade estão o Gerenciamento do Valor Agregado (**GVA**), análise de desempenho, previsão, índice de desempenho para término (**IDPT**) e outras. Suas saídas incluem as medições de desempenho do trabalho, as previsões de orçamentos e as solicitações de mudança.
+
+O nível de exatidão dos dados de custos coletados é definido pela forma como a equipe coleta os dados de trabalho - como por planilha de horas ou similares. No plano de gerenciamento de custos, pode-se definir se a estimativa terá exatidão a nível de centenas de reais ou a nível de centavos, por exemplo.
+
+As unidades de medida relacionadas aos custos do projeto são as unidades de medida dos indicadores de custo definidos pela equipe de gerência. Exemplos de unidade de medida: tempo de trabalho em hora, custo em reais, tempo em semanas.
+
+Limites de controle são os limites definidos pela equipe de gerência que, se ultrapassados, medidas devem ser tomadas. O plano de gerenciamento de custos pode definir quais são esses limites e onde eles se aplicam.
 
 ### 3.5. **Plano de Gerenciamento de Requisitos**
 
@@ -55,15 +73,15 @@ O Plano de gerenciamento das partes interessadas descreve os processos usados de
 
 ### 3.10. **Plano de Gerenciamento de Recursos Humanos**
 
-O Plano de recursos humanos, também chamado de plano de gerenciamento dos recursos humanos, fornece orientação sobre como os recursos humanos do projeto devem ser definidos, mobilizados, gerenciados, controlados e, por fim, liberados. 
+O Plano de recursos humanos, também chamado de plano de gerenciamento dos recursos humanos, fornece orientação sobre como os recursos humanos do projeto devem ser definidos, mobilizados, gerenciados, controlados e, por fim, liberados.
 
 ### 3.11. **Plano de Gerenciamento de Aquisições**
 
 O Plano de Gerenciamento das Aquisições tem como objetivo descrever como os processos de aquisição serão gerenciados desde o desenvolvimento dos documentos de aquisições até o fechamento do contrato.
 
-## Template genérico dos planos (planejamento/metodologia, como é feito o monitoramento/controle)
+## 4. Template genérico dos planos (planejamento/metodologia, como é feito o monitoramento/controle)
 
-### Monitoramento e Controle
+### 4.1. Monitoramento e Controle
 
 O PMBOK indica que faça monitoramento e controle a partir dos componentes abaixo de entrada, onde podem ocorrer mudanças e evoluções do projeto que precisam ser atualizadas.
 
@@ -85,8 +103,8 @@ Aquisições: Plano de Gerenciamento do Projeto, Documentação dos requisitos, 
 
 Partes Interessadas: Plano de Gerenciamento do Projeto, Documentos do projeto.
 
-## Relação entre os planos
+## 5. Relação entre os planos
 
-## Referências
+## 6. Referências
 
 EASYBOK. Planilha de Processos e Componentes baseada no Guia PMBOK 5ª edição. 2012. Disponível em: <http://www.easybok.com.br/downloads/planilha-processos-pmbok-5-ed/>. Acesso em: 26 set. 2016.
