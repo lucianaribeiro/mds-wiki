@@ -45,9 +45,7 @@ Durante o andamento de um projeto, esse profissional é responsável por atribui
 
 ### O que gerentes de projetos bem sucedidos fazem?
 
-A partir do texto:
-
-http://sloanreview.mit.edu/article/what-successful-project-managers-do/
+A partir do seguinte texto: [What Successful Project Managers Do](http://sloanreview.mit.edu/article/what-successful-project-managers-do/)
 
 ### Quais são os principais motivos do fracasso de projetos?
 
