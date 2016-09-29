@@ -18,7 +18,7 @@ As equipes são auto-organizáveis e não necessita de líderes indicando 'O que
 #Artefatos
 
 ##Product Backlog
-
+O Product Backlog é uma lista contendo todas as funcionalidades desejadas para um produto. O conteúdo desta lista é definido pelo Product Owner. Não tem a necessidade dessa lista estar completo no início de um projeto. Pode-se começar com tudo aquilo que é mais óbvio em um primeiro momento. Com o tempo, o Product Backlog cresce e muda à medida que se aprende mais sobre o produto e seus usuários.
 ##Charts
 
 ##Sprints
