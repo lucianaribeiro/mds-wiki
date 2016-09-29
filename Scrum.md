@@ -27,6 +27,10 @@ O Product Backlog é uma lista contendo todas as funcionalidades desejadas para 
 
 ##Sprints
 
+Sprint é considerado como o coração do Scrum, é o tempo que dura geralmente de um mês ou menos. Ao final de uma sprint é esperado que tenha um versão estável do produto e incrementada em relação a versão anterior. O tempo de duração de uma Sprint é coerente com o esforço demandado para o desenvolvimento.
+
+Para iniciar uma Sprint é necessario realizar a reunião de planejamento, reuniões diárias, o trabalho desenvolvido durante o perído da sprint, a realização da revisão de Sprint e a sua retrospectiva, para poder encerrar a Sprint.
+
 #Reuniões
 
 ##Daily Meetings
@@ -34,3 +38,7 @@ O Product Backlog é uma lista contendo todas as funcionalidades desejadas para 
 ##Retrospectiva
 
 ##Revisão da Sprint
+
+
+Fonte
+http://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-Portuguese-BR.pdf
