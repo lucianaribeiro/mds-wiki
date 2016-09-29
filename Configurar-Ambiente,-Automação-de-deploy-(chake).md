@@ -63,25 +63,20 @@ Exemplo:
     sudo apt-get install rsync # ubuntu e debian likes
 
 ou
-
     sudo pacman -S rsync # archlinux
 
+**
 # Utilizando
+## Vagrant : 
 
-Para levantar todo o ambiente local basta executar
-
+Faz o boot na máquina virtual
     vagrant up
 
-ou 
-
-    vagrant up digitalocean
-
-Para logar na vm
-
+Faz login na máquina virtual, não precisa de login ou senha
     vagrant ssh
 
-ou 
-    vagrant ssh digitalocean
+Para reiniciar a máquina virtual.
+    vagrant reload
 
 Com a VM levantada é possivel usar o chake para fazer diversas configurações e utilidades como passar comandos para a vm:
 
