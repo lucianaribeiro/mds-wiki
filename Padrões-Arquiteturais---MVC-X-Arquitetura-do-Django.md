@@ -1,4 +1,4 @@
-## ## 1. Introdução
+## 1. Introdução
 
 Este documento trata-se de um tutorial técnico que visa demostrar o básico dos conceitos de Arquitetura de Software e Padrões Arquiteturais, além demonstrar como esses conceitos são aplicados tanto no MVC quanto na Arquitetura de projetos desenvolvidos a partir do framework Django.
 
@@ -47,7 +47,7 @@ Responsável por:
 * Interação com o usuário;
 * Exibição de dados (HTML).
 
-### 4.4. MVC – Diálogo das camadas
+### 4.4. MVC – Diálogo Representativo e informal das camadas
 
 View – Fala Controller ! O usuário acabou de pedir para acessar o Facebook ! Pega os dados de login dele ai.
 
@@ -55,7 +55,7 @@ Controller – Blz. Já te mando a resposta. Ai model, meu parceiro, toma esses 
 
 Model – Os dados são válidos. Mandando a resposta de login.
 
-Controller – Blz. View, o usuário informou os dados corretos. Vou mandar pra vc os dados dele e você carrega a página de perfil.
+Controller – Blz. View, o usuário informou os dados corretos. Vou te mandar os dados dele e você carrega a página de perfil.
 
 View – Vlw. Mostrando ao usuário…
 
@@ -76,12 +76,13 @@ O MVT separa estruturalmente o projeto do software em três parte:
 As Models do MVC e do MVT são equivalentes em responsabilidades.
 O framework Django facilita na interface com o banco de dados. Cada classe da modelo se compara a uma tabela do banco de dados, e as instancias destas classes, representam os registros destas tabelas. Para adicionar valores ao banco, basta definí-los nas respectivas variáveis.
 Esta camada contém qualquer coisa e tudo sobre os dados: como acessá-lo , como validá-lo , quais comportamentos que tem, e as relações entre os dados.
+Para o mapeamento dos dados, não será necessário utilizar códigos em SQL para garantir a persistência dos dados no banco.
 
 #### 5.1.2. View
-No MVT a View é responsável pela Lógica de negócios (Python), parte do trabalho da View do MVC ou em alguns casos da Controller.
+A camada View será responsável pela implementação das regras de apresentação e negócio do nosso sistema. É nela onde iremos nos comunicar com a Model e a Template, cadastrando e tratando as informações recebidas. Retornando para o usuário uma resposta, como HTMLs, XML, ou erros encontrados.
 
 #### 5.1.3. Template
-No MVT a Template é responsável pela camada de interface com o usuário (HTML), parte do trabalho da View.
+Templates é a camada que retorna a visão para o usuário do programa. Essa camada é composta por, HTML,CSS, javascript e etc. Geralmente linguagens focadas na apresentação do site para o usuário.
 
 #### 5.1.3. Detalhes arquiteturais de projetos Django
 * As resoluções de urls, responsabilidade dada as controllers no MVC, é feita pela própria estrutura do framework;
