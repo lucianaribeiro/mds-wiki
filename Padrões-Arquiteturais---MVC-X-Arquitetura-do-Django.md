@@ -74,7 +74,7 @@ O MVT separa estruturalmente o projeto do software em três parte:
 
 #### 5.1.1. Model
 As Models do MVC e do MVT são equivalentes em responsabilidades.
-O framework Django facilita na interface com o banco de dados.
+O framework Django facilita na interface com o banco de dados. Cada classe da modelo se compara a uma tabela do banco de dados, e as instancias destas classes, representam os registros destas tabelas. Para adicionar valores ao banco, basta definí-los nas respectivas variáveis.
 Esta camada contém qualquer coisa e tudo sobre os dados: como acessá-lo , como validá-lo , quais comportamentos que tem, e as relações entre os dados.
 
 #### 5.1.2. View
