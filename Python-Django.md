@@ -207,7 +207,9 @@ Porém, quando só se quer rodar os testes para uma aplicação específica, bas
 
 
 # Material didático produzido na disciplina (times, coaches, etc)
+* Dustwitter - Aplicação Web com o intuito de apresentar e introduzir os integrantes do grupo 07 - SME ao mundo do django de forma pratica e exemplificada. Produzido pelo Aluno Tiago Assuncao, possui algumas das principais funcionalidades já implementadas e funcionando. Para executar o aplicativo, ler README.md [Dustwitter](https://github.com/TiagoAssuncao/dustwitter)
 
 # Referências
 
-[The Django Book, Chapter 5.](http://www.djangobook.com/en/2.0/chapter05.html)
+* Recomenda-se fortemente a leitura da documentação do Django, pois nela estão escritos os principais tópicos, e tutoriais utilizados na disciplina de MDS [Django Documentation](https://docs.djangoproject.com/pt-br/1.10/) <br><br>
+* [The Django Book, Chapter 5.](http://www.djangobook.com/en/2.0/chapter05.html)
