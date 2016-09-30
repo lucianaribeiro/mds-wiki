@@ -12,6 +12,15 @@ As equipes são auto-organizáveis e não necessita de líderes indicando 'O que
 #Papéis do Scrum
 
 ##Product Owner
+O Product Owner, "dono do produto", é o responsável por maximizar o valor do produto e do
+trabalho do Time de Desenvolvimento. Como isso é feito pode variar por projeto ou time de desenvolvimento, sendo que o Product Owner é a única pessoa responsável por gerenciar o _Backlog_ do Produto. O gerenciamento do _Backlog_ do Produto inclui:
+- Expressar claramente os itens do _Backlog_ do Produto;
+- Ordenar os itens do _Backlog_ do Produto para alcançar melhor as metas e missões;
+- Garantir o valor do trabalho realizado pelo Time de Desenvolvimento;
+- Garantir que o _Backlog_ do produto seja visível, transparente, claro para todos, e mostrar o que o Time _Scrum_ vai trabalhar a seguir;
+- Garantir que o Time de Desenvolvimento entenda os itens do _Backlog_ do Produto no nível necessário.
+
+O Product Owner pode fazer o trabalho acima, ou delegar para o Time de Desenvolvimento fazê-lo. No entanto não é muito recomendado já que o Product Owner continuará sendo o responsável pelos trabalhos. O Product Owner é uma pessoa e não um comitê, mas pode representar o desejo de um comitê no Backlog do Produto, sendo que aqueles que quiserem uma alteração nas prioridades dos itens de Backlog devem convencer o Product Owner.
 
 ##Scrum Master
 
