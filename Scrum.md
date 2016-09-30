@@ -65,11 +65,15 @@ Para iniciar uma Sprint é necessario realizar a reunião de planejamento, reuni
 #Reuniões
 
 ##Daily Meetings
+As reuniões diárias são reuniões rápidas, de aproximadamente 10 a 15 minutos, dependendo do tamanho da equipe, onde os participantes a realizam de pé. O conteúdo desta é explanar para o restante do time o que foi feito no dia anterior e o que pretende-se fazer no dia atual, assim como a existência de impedimentos no desenvolvimento. Deste modo, todo o time está sempre atualizado em relação ao andamento do projeto como um todo, não somente em suas demandas/tarefas, o que permite a possibilidade de tomadas de decisão rápidas.
+
+As reuniões diárias são realizadas sempre no mesmo horário e local.
 
 ##Retrospectiva
+A retrospectiva é uma reunião realizada com o intuito de abordar os pontos positivos, negativos e de melhoria do período passado, com a finalidade de não repetir os erros e manter e/ou melhorar os acertos. Esta reunião pode ser realizada ao fim de cada sprint ou em períodos pré-determinados, como a cada mês, por exemplo.
 
 ##Revisão da Sprint
-
+Revisão de sprint é uma reunião realizada ao final de toda sprint, onde são mostrados ao restante do time tudo o que foi realizado durante o período da sprint passada. Esta reunião pode incluir o(s) cliente(s).
 
 Fonte
 http://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-Portuguese-BR.pdf
