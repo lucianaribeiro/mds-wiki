@@ -203,6 +203,38 @@ Porém, quando só se quer rodar os testes para uma aplicação específica, bas
 
 `$ ./manage.py test invoice`
 
+###Asserts em Python
+Existem diversos tipos de asserts que checam e reportam falhas, os quais podem ser utilizados nos testes unitários de Python. Os mais básicos são:
+
+|Método                   |O que checa?          |
+|-------------------------|----------------------|
+|assertEqual(a, b)        |a == b                |
+|assertNotEqual(a, b)     |a != b                |
+|assertTrue(x)            |bool(x) é Verdadeiro  |
+|assertFalse(x)           |bool(x) é Falso       |
+|assertIs(a, b)           |a é b                 |
+|assertIsNot(a, b)        |a não é b             |
+|assertIsNone(x)          |x é Nulo              |
+|assertIsNotNone(x)       |x não é Nulo          |
+|assertIn(a, b)           |a está dentro de b    |
+|assertNotIn(a, b)        |a não está dentro de b|
+|assertIsInstance(a, b)   |a é instância de b    |
+|assertNotIsInstance(a, b)|não é instância de b  |
+
+Além disso, há checagens mais específicas, são elas:
+
+|Método                      |O que checa?      |
+|----------------------------|------------------|
+|assertAlmostEqual(a, b)     |round(a-b, 7) == 0|
+|assertNotAlmostEqual(a, b)  |round(a-b, 7) != 0|
+|assertGreater(a, b)         |a > b             |
+|assertGreaterEqual(a, b)    |a >= b            |
+|assertLess(a, b)            |a < b             |
+|assertLessEqual(a, b)       |a <= b            |
+
+##Teste de Aceitação
+
+
 # Repositórios educativos
 
 
