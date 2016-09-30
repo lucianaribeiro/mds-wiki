@@ -232,8 +232,11 @@ Além disso, há checagens mais específicas, são elas:
 |assertLess(a, b)            |a < b             |
 |assertLessEqual(a, b)       |a <= b            |
 
-##Teste de Aceitação
 
+##Teste de Aceitação
+Existem diversas maneiras diferentes de se realizar testes de aceitação em Django/Python. Além disso, há diversos módulos que são capazes de rodar este tipo de teste.
+
+O tutorial [BDD com Django e Behave](http://klauslaube.com.br/2016/02/03/bdd-com-django-e-behave.html) é bastante interessante, fácil, completo e didático. Este tutorial ensina como fazer teste de aceitação em Django utilizando o `behave-django`.
 
 # Repositórios educativos
 
@@ -245,3 +248,4 @@ Além disso, há checagens mais específicas, são elas:
 
 * Recomenda-se fortemente a leitura da documentação do Django, pois nela estão escritos os principais tópicos, e tutoriais utilizados na disciplina de MDS [Django Documentation](https://docs.djangoproject.com/pt-br/1.10/) <br><br>
 * [The Django Book, Chapter 5.](http://www.djangobook.com/en/2.0/chapter05.html)
+* [Unit Test Framework](https://docs.python.org/2/library/unittest.html)
