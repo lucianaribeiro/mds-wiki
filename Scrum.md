@@ -75,5 +75,5 @@ A retrospectiva é uma reunião realizada com o intuito de abordar os pontos pos
 ##Revisão da Sprint
 Revisão de sprint é uma reunião realizada ao final de toda sprint, onde são mostrados ao restante do time tudo o que foi realizado durante o período da sprint passada. Esta reunião pode incluir o(s) cliente(s).
 
-Fonte
-http://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-Portuguese-BR.pdf
+# Referências
+* [Guia do SCRUM](http://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-Portuguese-BR.pdf)
