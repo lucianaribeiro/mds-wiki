@@ -23,6 +23,9 @@ Porém usando apenas este comando ao reiniciar sua máquina ele perderá o apeli
 
 E pronto! Você já pode usar seus comandos personalizados.
 
+##Django Girls
+O tutorial do [Django Girls](https://tutorial.djangogirls.org/pt/deploy/) é extremamente completo para quem deseja aprender a desenvolver em Python utilizando o Django como framework. O mesmo explica e ensina desde a instalação, passando por criação de projeto, URLs, implementação de models, views, templates, até estilização com CSS. Além disso, aborda formulários, administração e Querysets.
+
 # Materiais
 Esta parte é destinada para apresentação de materiais que auxiliem a disciplina.
 ## Tutorial Terminal 
