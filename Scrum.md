@@ -25,6 +25,26 @@ O Product Owner pode fazer o trabalho acima, ou delegar para o Time de Desenvolv
 Para que o Product Owner tenha sucesso, toda a organização deve respeitar as suas decisões, estas devendo ser visíveis no conteúdo e na priorização do Backlog do Produto. 
 
 ##Scrum Master
+O Scrum Master é responsável por garantir que o Scrum seja entendido e aplicado, para garantir que o Time Scrum adere à teoria, práticas e regras do Scrum. O Scrum Master ajuda aqueles que estão fora do Time Scrum a entender quais as suas interações com o Time Scrum e se estas são úteis e quais não são. O Scrum Master ajuda todos a mudarem estas interações para maximizar o valor criado pelo Time Scrum.
+
+####Papeis do Scrum Master
+O Scrum Master serve o Product Owner de várias maneiras, incluindo:
+- Encontrando técnicas para o gerenciamento efetivo do Backlog do Produto;
+- Claramente comunicar a visão, objetivo e itens do Backlog do Produto para o Time de Desenvolvimento;
+- Ensinar a Time Scrum a criar itens de Backlog do Produto de forma clara e concisa;
+- Compreender a longo-prazo o planejamento do Produto no ambiente empírico;
+- Compreender e praticar a agilidade; 
+- Facilitar os eventos Scrum conforme exigidos ou necessários.
+- Treinar o Time de Desenvolvimento em autogerenciamento e interdisciplinaridade;
+- Ensinar e liderar o Time de Desenvolvimento na criação de produtos de alto valor;
+- Remover impedimentos para o progresso do Time de Desenvolvimento;
+- Facilitar os eventos Scrum conforme exigidos ou necessários; e,
+- Treinar o Time de Desenvolvimento em ambientes organizacionais nos quais o Scrum não é totalmente adotado e compreendido.
+- Liderando e treinando a organização na adoção do Scrum;
+- Planejando implementações Scrum dentro da organização;
+- Ajudando funcionários e partes interessadas a compreender e tornar aplicável o Scrum e o desenvolvimento de produto empírico;
+- Causando mudanças que aumentam a produtividade do Time Scrum;
+- Trabalhando com outros Scrum Masters para aumentar a eficácia da aplicação do Scrum nas organizações.
 
 ##Developer Team
 O Scrum Team é a equipe de desenvolvimento. Nela, não existe necessariamente uma divisão funcional através de papéis tradicionais, tais como programador, designer, analista de testes ou arquiteto. Todos no projeto trabalham juntos para completar o conjunto de trabalho com o qual se comprometeram conjuntamente para um Sprint.
