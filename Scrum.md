@@ -22,6 +22,8 @@ trabalho do Time de Desenvolvimento. Como isso é feito pode variar por projeto 
 
 O Product Owner pode fazer o trabalho acima, ou delegar para o Time de Desenvolvimento fazê-lo. No entanto não é muito recomendado já que o Product Owner continuará sendo o responsável pelos trabalhos. O Product Owner é uma pessoa e não um comitê, mas pode representar o desejo de um comitê no Backlog do Produto, sendo que aqueles que quiserem uma alteração nas prioridades dos itens de Backlog devem convencer o Product Owner.
 
+Para que o Product Owner tenha sucesso, toda a organização deve respeitar as suas decisões, estas devendo ser visíveis no conteúdo e na priorização do Backlog do Produto. 
+
 ##Scrum Master
 
 ##Developer Team
