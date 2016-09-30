@@ -39,3 +39,42 @@ $ apt-get update
 ```
 $ apt-get install analizo
 ```
+
+##1.2. Rodando o analizo no seu projeto
+
+
+1) Vá até a pasta de código fonte do seu projeto pelo terminal
+
+[IMG]
+
+<p align = "justify" >Note que a pasta de código fonte pode não ser a pasta raiz da sua aplicação. Rodando as métricas na pasta raiz pode ser que algum componente da linguagem ou da IDE interfira nas suas medições.</p>
+
+2) Rode o comando para gerar as métricas no arquivo metrics.out:
+
+```
+analizo metrics > metrics.out
+```
+
+<p align = "justify" >Pronto, as métricas do seu código já estão no arquivo metrics.out, podendo ser aberto com seu editor de texto favorito.</p>
+
+##1.3. Entendendo as métricas
+
+[IMG]
+
+<p align = "justify" >Ao ver esses números, não se assuste. Faça a pesquisa sobre as métricas importantes para o seu contexto e tenha anotado as abreviações (Exemplo: accm = Avarage cyclomatic complexity = Complexidade ciclomática média). Nem tudo que está aqui você quer. Ele te dará variações da mesma métrica, mas você não precisará de todas. Algumas variações que merecem menção honrosa são:</p>
+
+* **metric_mean**: A média dos dados dessa métrica. (Percentil 0%)
+* **metric_quantile_max**: O valor máximo dessa métrica em uma classe.
+* **metric_quantile_median**: A mediana dos dados dessa métrica
+* **metric_quantile_min**: O valor minimo dessa métrica em uma classe.
+* **metric_quantile_ninety_five**: Valor médio da métrica observando apenas os valores 5% mais altos.(Percentil 95%)
+* **accm_quantile_upper**: Valor médio da métrica observando apenas os valores 25% mais altos. (Percentil 75%)
+
+Para um melhor entendimento das métricas de Percentil veja o [artigo](https://social.stoa.usp.br/articles/0030/6046/tesePauloMeirelles.pdf).
+
+
+<p align = "justify" >Além das métricas Gerais média de todo o código, mais pra baixo ele te dará o valor em cada classe, o que pode ser útil para encontrar as classes que estão abaixando os valores das suas métricas e deixando seus indicadores ruins.</p>
+
+[IMG]
+
+**INCOMPLETO AINDA**
