@@ -7,7 +7,7 @@ _Alias_ é um comando que vai facilitar muito a sua vida e ajudar na sua produti
 Para usá-lo basta digitar no terminal:  
 ``$ alias apelido='comando'``  
 Por exemplo:
-``$ alias MDS = cd user/user/Documents/Faculdade/MDS``  
+``$ alias MDS = 'cd user/user/Documents/Faculdade/MDS'``  
 
 Porém usando apenas este comando ao reiniciar sua máquina ele perderá o apelido. Para torná-lo permanente você deve seguir os seguintes passos:  
 
