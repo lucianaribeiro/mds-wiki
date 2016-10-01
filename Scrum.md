@@ -46,10 +46,13 @@ O Scrum Master serve o Product Owner de várias maneiras, incluindo:
 - Causando mudanças que aumentam a produtividade do Time Scrum;
 - Trabalhando com outros Scrum Masters para aumentar a eficácia da aplicação do Scrum nas organizações.
 
-##Developer Team
+##Development Team
+O Time de Desenvolvimento consiste de profissionais que realizamo trabalho de entregar uma versão usável que potencialmente incrementa o produto “Pronto” ao final de cada Sprint. Somente integrantes do Time de Desenvolvimento criam incrementos. Os Times de Desenvolvimento são estruturados e autorizados pela organização para organizar e gerenciar seu próprio trabalho. A sinergia resultante aperfeiçoa a eficiência e a eficácia do Time de Desenvolvimento como um todo. 
 O Scrum Team é a equipe de desenvolvimento. Nela, não existe necessariamente uma divisão funcional através de papéis tradicionais, tais como programador, designer, analista de testes ou arquiteto. Todos no projeto trabalham juntos para completar o conjunto de trabalho com o qual se comprometeram conjuntamente para um Sprint.
 
 Um Scrum Team típico tem de 6 a 10 pessoas, embora haja relatos de projetos Scrum com equipes maiores. A principal abordagem para trabalhar com equipes grandes no Scrum é usando o conceito de "Scrum of Scrums". Cada Scrum Team trabalha normalmente, mas cada equipe também contribui com uma pessoa que deverá freqüentar o Scrum of Scrums Meeting para coordenar o trabalho de múltiplas equipes Scrum. 
+O tamanho ideal do Time de Desenvolvimento deve ser pequeno o suficiente para se manter ágil e grande o suficiente para completar uma parcela significativa do trabalho dentro dos limites de tempo da Sprint. Menos de 3 integrantes no Time de Desenvolvimento diminuem a interação e resultam em um menor ganho de produtividade. Times de desenvolvimento menores podem encontrar restrições de habilidades durante a Sprint, gerando um Time de Desenvolvimento incapaz de entregar um incremento potencialmente utilizável. Havendo mais de 9 integrantes é exigida muita coordenação. De maneira que o Time não pode ser grande demais ou pequeno demais.
+
 #Artefatos
 
 ##Product Backlog
