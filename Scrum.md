@@ -59,7 +59,12 @@ O tamanho ideal do Time de Desenvolvimento deve ser pequeno o suficiente para se
 
 ##Product Backlog
 O Product Backlog é uma lista contendo todas as funcionalidades desejadas para um produto. O conteúdo desta lista é definido pelo Product Owner. Não tem a necessidade dessa lista estar completo no início de um projeto. Pode-se começar com tudo aquilo que é mais óbvio em um primeiro momento. Com o tempo, o Product Backlog cresce e muda à medida que se aprende mais sobre o produto e seus usuários.
-##Charts
+
+##Charts                   
+### Velocity Chart          
+O Velocity Chart pode ajudar a determinar quantos pontos de trabalho pode ser concluído por sprint para uma determinada equipe, se a composição da equipe e duração da sprint permanecerem os mesmos. A Estimativa dos pontos de história devem ser precisos para o cálculo do Velocity ser significativo. Você pode criar Velocity Chart para lançamentos ou sprints concluídas.          
+### Burndown Chart          
+Burndow Chart compara o progresso esperado versus o progresso real para releases e sprints. Este Chart pode ajudar a identificar problemas inesperados que podem estar afetando o progresso. Os usuários com as funções scrum_admin ou scrum_user podem visualizar as informações do Burndow Chart.
 
 ##Sprints
 
@@ -82,3 +87,4 @@ Revisão de sprint é uma reunião realizada ao final de toda sprint, onde são 
 
 # Referências
 * [Guia do SCRUM](http://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-Portuguese-BR.pdf)
+* [Service Now](http://wiki.servicenow.com/index.php?title=Scrum_Charts#gsc.tab=0)
