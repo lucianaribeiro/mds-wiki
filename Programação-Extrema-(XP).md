@@ -1,6 +1,13 @@
 # Framework XP
 
 # Valores XP
+* **Comunicação**
+* **Coragem**
+* **Feedback**
+* **Respeito**
+* **Simplicidade**          
+
+Referência: [Desenvolvimento Ágil](http://www.desenvolvimentoagil.com.br/xp/valores/)
 
 # Funcionalidade Pronta XP
 
