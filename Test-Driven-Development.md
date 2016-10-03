@@ -14,6 +14,8 @@ http://www.extremeprogramming.org/rules/unittests.html
 
 # Mock
 
+frameworks
+
 # Desenvolvimento Orientado a Testes (TDD)
 
 # Treinamento TDD
