@@ -45,6 +45,19 @@ O CodeClimate oferece suporte as linguagens
 * Python
 * Ruby
 
+Pode-se também trabalhar com o auxílio de engines adicionais com as seguintes linguagens/frameworks:
+* Apex
+* CoffeeScript
+* Ember
+* ESLint
+* Haskell
+* Haxe
+* RubyMotion
+* Rails
+* SCSS
+* Swift
+* Vim Script
+
 __6- Visualização dos resultados__
 
 Para verificar o resultado das métricas coletadas, basta acessar o [site](http://codeclimate.com/) do Code Climate, realizar o _login_ com sua conta o _Github_ e adicionar o repositório desejado. A lista de repositórios adicionados aparecerá para o usuário. 
