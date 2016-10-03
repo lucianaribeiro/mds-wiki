@@ -1,3 +1,7 @@
+#**Responsáveis: wikilegis + SAS**
+
+***
+
 # Programação Pareada
 
 # Programação Pareada Remota
