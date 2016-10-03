@@ -45,7 +45,10 @@ $ apt-get install analizo
 
 1) Vá até a pasta de código fonte do seu projeto pelo terminal
 
-[IMG]
+Exemplo:
+```
+ cd git/GPP2016/fork/2016.2-WikiLegis/app/src/main/java/
+```
 
 <p align = "justify" >Note que a pasta de código fonte pode não ser a pasta raiz da sua aplicação. Rodando as métricas na pasta raiz pode ser que algum componente da linguagem ou da IDE interfira nas suas medições.</p>
 
@@ -77,4 +80,14 @@ Para um melhor entendimento das métricas de Percentil veja o [artigo](https://s
 
 [IMG]
 
-**INCOMPLETO AINDA**
+#Mezuro
+
+O Mezuro é um ferramenta de análise de métricas de qualidade de código produzido pelo Centro de Competência em Software Livre (CCSL), da Universidade de São Paulo (USP). O Mezuro utiliza do Analizo para calcular as métricas e análisá-las, para posteriomente mostrar as resultantes de código em seu portal. O mezuro é uma aplicação web e por isso não necessita de instalação. Sua utilização é bem intuitiva e fácil, dispondo de uma interface gráfica amigável.
+
+[IMG]
+
+Para utilizar-se dele, é necessário criar uma conta e adicionar o repositório do seu projeto ao mezuro. 
+e duas outras ferramentas o Kalibro e o 
+# Mezuro vs Analizoe
+
+Apesar do mezuro ser mais User friendly, ele não te dá a liberdade de escolher as métricas, como o analizo dá, por outro lado ele já te dá indicadores de forma formatada e pronta para ser apresentada em uma wiki por exemplo. Outro ponto bom do analizo é que como ele é rodado na máquina, então ele roda de forma instantânea, ao contrário do mezuro que pode demorar, dependendo do servidor.
