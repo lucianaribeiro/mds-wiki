@@ -2,6 +2,8 @@
 
 ***
 
+https://labs.spotify.com/2014/04/11/qualities-of-quality/
+
 # Refatoração
 Definição 
 
