@@ -1,0 +1,1 @@
+http://shipit.resultadosdigitais.com.br/blog/5-boas-praticas-para-se-aplicar-em-testes-de-aceitacao/
