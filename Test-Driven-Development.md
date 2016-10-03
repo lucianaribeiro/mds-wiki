@@ -10,6 +10,10 @@ http://www.extremeprogramming.org/rules/unittests.html
 
 # Boas práticas Testes Unitários
 
+# Stub
+
+# Mock
+
 # Desenvolvimento Orientado a Testes (TDD)
 
 # Treinamento TDD
