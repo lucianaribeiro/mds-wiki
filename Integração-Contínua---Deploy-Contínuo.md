@@ -1,6 +1,7 @@
 # **Responsáveis: Cidade Democrática + SME**
 
 ***
+http://techblog.netflix.com/2013/08/deploying-netflix-api.html
 
 * GitHub, de Janeiro a Setembro de 2012 foram realizados 41.679 builds e 12.602 deploys sendo somente no dia 23 de agosto de 2012 realizados 563 builds e 175 deploys.
 * A Amazon uma das maiores varejistas do mundo com serviços de cloud realiza o deploy de um novo software a cada segundo.
