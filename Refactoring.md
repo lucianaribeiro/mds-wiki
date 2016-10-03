@@ -4,6 +4,9 @@
 
 https://labs.spotify.com/2014/04/11/qualities-of-quality/
 
+dividas técnicas:
+https://www.youtube.com/watch?v=pqeJFYwnkjE
+
 # Refatoração
 Definição 
 
