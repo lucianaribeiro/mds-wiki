@@ -16,3 +16,5 @@ http://www.growingagile.co.za/books/
 
 # Guia do coach para o planejamento da release
 
+# Guia do coach para tracking
+
