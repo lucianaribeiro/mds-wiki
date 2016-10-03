@@ -7,12 +7,15 @@
 http://www.extremeprogramming.org/rules/unittests.html
 
 # Teste Unitário Automatizado
-
-# Boas práticas Testes Unitários
-
 # Stub
 
 # Mock
+
+# Boas práticas Testes Unitários
+
+http://spring.io/blog/2007/01/15/unit-testing-with-stubs-and-mocks/
+
+http://shipit.resultadosdigitais.com.br/blog/ruby-e-rspec-melhorando-a-legibilidade-de-seus-testes/
 
 frameworks
 
