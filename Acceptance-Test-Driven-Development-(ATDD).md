@@ -9,3 +9,8 @@ http://shipit.resultadosdigitais.com.br/blog/5-boas-praticas-para-se-aplicar-em-
 # Desenvolvimento Orientado a Teste de Aceitação (ATDD)
 
 # Treinamento ATDD
+- Incluir descrição do treinamento/DOJO - passo a passo - etapas
+- Registrar os detalhes da dinâmica
+- Infraestrutura Necessária para a dinâmica
+- Código referência no projeto da disciplina (00-Disciplina)
+- Treinamento em, pelo menos 2 linguagens
