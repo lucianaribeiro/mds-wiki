@@ -246,6 +246,7 @@ O tutorial [BDD com Django e Behave](http://klauslaube.com.br/2016/02/03/bdd-com
 
 # Referências
 
+* (https://docs.djangoproject.com) Contém a documentação Django em formato de fácil compreendimento.
 * Recomenda-se fortemente a leitura da documentação do Django, pois nela estão escritos os principais tópicos, e tutoriais utilizados na disciplina de MDS [Django Documentation](https://docs.djangoproject.com/pt-br/1.10/) <br><br>
 * [The Django Book, Chapter 5.](http://www.djangobook.com/en/2.0/chapter05.html)
 * [Unit Test Framework](https://docs.python.org/2/library/unittest.html)
