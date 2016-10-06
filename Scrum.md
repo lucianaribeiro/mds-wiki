@@ -65,7 +65,10 @@ O _Scrum Master_ serve o _Product Owner_ de várias maneiras, incluindo:
 ##_Charts_
 
 ###_Velocity Chart_          
-<p align="justify">O _Velocity Chart_ pode ajudar a determinar quantos pontos de trabalho pode ser concluído por _sprint_ para uma determinada equipe, se a composição da equipe e duração da _sprint_ permanecerem os mesmos. A Estimativa dos pontos de história devem ser precisos para o cálculo do _Velocity_ ser significativo. Pode-se criar _Velocity Chart_ para lançamentos ou _sprints_ concluídas.          
+<p align="justify">O _Velocity Chart_ pode ajudar a determinar quantos pontos de trabalho pode ser concluído por _sprint_ para uma determinada equipe, se a composição da equipe e duração da _sprint_ permanecerem os mesmos. A Estimativa dos pontos de história devem ser precisos para o cálculo do _Velocity_ ser significativo. Pode-se criar _Velocity Chart_ para lançamentos ou _sprints_ concluídas.       
+
+<br>
+![Image_Velocity_Chart](https://www.scrumalliance.org/scrum/files/e3/e3a2ff2a-27a2-444c-81af-c2e8dbfb3128.jpg)   
 
 ### _Burndown Chart_
 <p align="justify">_Burndow Chart_ compara o progresso esperado _versus_ o progresso real para releases e _sprints_. Este _Chart_ pode ajudar a identificar problemas inesperados que podem estar afetando o progresso. Os usuários com as funções _scrum_admin_ ou _scrum_user_ podem visualizar as informações do _Burndow Chart_.
@@ -81,7 +84,7 @@ O _Scrum Master_ serve o _Product Owner_ de várias maneiras, incluindo:
 #Reuniões
 
 ##_Daily Meetings_
-<p align="justify">As reuniões diárias são reuniões rápidas, de aproximadamente 10 a 15 minutos, dependendo do tamanho da equipe, onde os participantes a realizam de pé. O conteúdo desta é explanar para o restante do time o que foi feito no dia anterior e o que pretende-se fazer no dia atual, assim como a existência de impedimentos no desenvolvimento. Deste modo, todo o time está sempre atualizado em relação ao andamento do projeto como um todo, não somente em suas demandas/tarefas, o que permite a possibilidade de tomadas de decisão rápidas e forte adaptação a mudanças. As reuniões diárias são realizadas sempre no mesmo horário e local.
+<p align="justify">As reuniões diárias são reuniões rápidas, de aproximadamente 10 a 15 minutos, dependendo do tamanho da equipe, onde os participantes a realizam de pé. O objetivo desta é explanar para o restante do time o que foi feito no dia anterior e o que pretende-se fazer no dia atual, bem como a existência de quaisquer impedimentos no desenvolvimento. Deste modo, todo o time está sempre atualizado em relação ao andamento do projeto como um todo, não somente em suas demandas/tarefas, o que permite a possibilidade de tomadas de decisão rápidas e forte adaptação a mudanças. As reuniões diárias são realizadas sempre no mesmo horário e local.
 
 ##Retrospectiva
 <p align="justify">A retrospectiva é uma reunião realizada com o intuito de abordar os pontos positivos, negativos e de melhoria do período passado, com a finalidade de não repetir os erros e manter e/ou melhorar os acertos. Esta reunião pode ser realizada ao fim de cada _Sprint_ ou em períodos pré-determinados, como a cada mês, por exemplo.
