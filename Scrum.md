@@ -3,30 +3,30 @@
 <p align="justify">Dentre os criadores do manifesto ágil estavam _Ken Schwaber_ e _Jeff Sutherland_, que desenvolveram o _Scrum_. Segundo os criadores desse método, o _Scrum_ "é um _framework_ para desenvolver e manter produtos complexos".
 O _Scrum_ consiste em um método que trabalha com ciclos curtos de desenvolvimento. Deste modo, o _feedback_ a respeito do resultado é obtido rapidamente, o que garante a qualidade do produto desenvolvido e a satisfação do cliente.
 
-#Principais Diferenças (Scrum vs. Tradicionais)
-<p align="justify">Os métodos ágeis possuem uma maior liberdade no planejamento de ações, enquanto os tradicionais possuem um planejamento rígido.
+<br>
+![Imagem Scrum](http://www.desenvolvimentoagil.com.br/images/scrum/ciclo_scrum.gif)
 
-<p align="justify">Outro diferença importante é que as entregas de partes do projeto são feitas de forma contínua e incremental (iterações), a fim de obter um rápido feedback do cliente acerca do andamento do projeto.
+#Principais Diferenças (_Scrum_ vs Tradicionais)
+<p align="justify">Os métodos ágeis possuem uma maior liberdade no planejamento de ações, enquanto os tradicionais possuem um planejamento mais rígido. Outra diferença importante é que as entregas de partes do projeto são feitas de forma contínua e incremental (iterações), geralmente não muito longas, a fim de obter um rápido _feedback_ do cliente acerca do andamento do projeto.
 
-<p align="justify">Na questão de comunicação entre os membros do projeto, os métodos ágeis utilizam reuniões diárias entre o time. O intuito disso está em discutir o que será feito naquele momento, revendo o planejamento a médio e curto prazo, além de prováveis impedimentos.
-As equipes são auto-organizáveis e não necessita de líderes indicando 'O que fazer' e 'Como'.
+<p align="justify">Na questão de comunicação entre os membros do projeto, os métodos ágeis utilizam reuniões diárias entre o time, ou seja, há uma interação constante entre todos os membros da equipe, enquanto que em tradicionais, o contato não é tão frequente. O intuito disso está em discutir o que será feito naquele momento, revendo o planejamento a médio e curto prazo, além de prováveis impedimentos. As equipes são auto-organizáveis e não necessitam de líderes indicando 'O que fazer' e 'Como fazer'.
 
-#Papéis do Scrum
+#Papéis do _Scrum_
 
-##Product Owner
-<p align="justify">O Product Owner, "dono do produto", é o responsável por maximizar o valor do produto e do
-trabalho do Time de Desenvolvimento. Como isso é feito pode variar por projeto ou time de desenvolvimento, sendo que o Product Owner é a única pessoa responsável por gerenciar o _Backlog_ do Produto. O gerenciamento do _Backlog_ do Produto inclui:
+##_Product Owner_
+<p align="justify">O _Product Owner_, "dono do produto", é o responsável por maximizar o valor do produto e do
+trabalho do Time de Desenvolvimento. Como isso é feito pode variar por projeto ou time de desenvolvimento, sendo que o _Product Owner_ é a única pessoa responsável por gerenciar o _Backlog_ do Produto. O gerenciamento do _Backlog_ do Produto inclui:
 - Expressar claramente os itens do _Backlog_ do Produto;
 - Ordenar os itens do _Backlog_ do Produto para alcançar melhor as metas e missões;
 - Garantir o valor do trabalho realizado pelo Time de Desenvolvimento;
 - Garantir que o _Backlog_ do produto seja visível, transparente, claro para todos, e mostrar o que o Time _Scrum_ vai trabalhar a seguir;
 - Garantir que o Time de Desenvolvimento entenda os itens do _Backlog_ do Produto no nível necessário.
 
-<p align="justify">O Product Owner pode fazer o trabalho acima, ou delegar para o Time de Desenvolvimento fazê-lo. No entanto não é muito recomendado já que o Product Owner continuará sendo o responsável pelos trabalhos. O Product Owner é uma pessoa e não um comitê, mas pode representar o desejo de um comitê no Backlog do Produto, sendo que aqueles que quiserem uma alteração nas prioridades dos itens de Backlog devem convencer o Product Owner.
+<p align="justify">O _Product Owner_ pode fazer o trabalho citado acima, ou delegar para o Time de Desenvolvimento fazê-lo. No entanto não é muito recomendado já que o _Product Owner_ continuará sendo o responsável pelos trabalhos. O _Product Owner_ é uma pessoa e não um comitê, mas pode representar o desejo de um comitê no _Backlog_ do Produto, sendo que aqueles que quiserem uma alteração nas prioridades dos itens de _Backlog_ devem convencer o _Product Owner_ das necessidades de tais mudanças.
 
-<p align="justify">Para que o Product Owner tenha sucesso, toda a organização deve respeitar as suas decisões, estas devendo ser visíveis no conteúdo e na priorização do Backlog do Produto. 
+<p align="justify">Para que o _Product Owner_ tenha sucesso, toda a organização deve respeitar as suas decisões, estas devendo ser visíveis no conteúdo e na priorização do _Backlog_ do Produto. 
 
-##Scrum Master
+##_Scrum Master_
 <p align="justify">O Scrum Master é responsável por garantir que o Scrum seja entendido e aplicado, para garantir que o Time Scrum adere à teoria, práticas e regras do Scrum. O Scrum Master ajuda aqueles que estão fora do Time Scrum a entender quais as suas interações com o Time Scrum e se estas são úteis e quais não são. O Scrum Master ajuda todos a mudarem estas interações para maximizar o valor criado pelo Time Scrum.
 
 ####Papeis do Scrum Master
