@@ -28,6 +28,8 @@
 
 [Scrum](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Scrum)
 
+[Programação Extrema (XP)](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Programa%C3%A7%C3%A3o-Extrema-(XP))
+
 # Material Técnico
 [Git](https://github.com/fga-gpp-mds/00-Disciplina/wiki/git)
 
