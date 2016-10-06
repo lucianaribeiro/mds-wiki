@@ -31,5 +31,5 @@ https://courses.edx.org/courses/course-v1:BerkeleyX+CS169.1x+3T2015SP/
 ## Integração Contínua
 
 ## Referências
-[Desenvolvimento Ágil](http://www.desenvolvimentoagil.com.br/xp/valores/) <br>
-[Desenvolvimento XP](http://xp.edugraf.ufsc.br/bin/view/XP/TesteAceitacaoXtesteUnidade)
+* [Desenvolvimento Ágil](http://www.desenvolvimentoagil.com.br/xp/valores/)
+* [Desenvolvimento XP](http://xp.edugraf.ufsc.br/bin/view/XP/TesteAceitacaoXtesteUnidade)
