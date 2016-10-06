@@ -1,7 +1,7 @@
-#O Scrum
-<p align="justify">Durante muito tempo, empresas de desenvolvimento de software conviveram com problemas relacionados a planejamento e gerenciamento de projetos . Mediante essa situação um grupo de profissionais da área de desenvolvimento de software se reuniram e criaram o que ficou conhecido com manisfesto ágil , que foi gerado de acordo com as  experiencias de cada um.
-<p align="justify">Dentre os criadores do manifesto ágil estavam  Ken Schwaber e Jeff Sutherland que desenvolveram o Scrum segundos os criadorem desse metodo o Scrum "é um framework para desenvolver e anter produtos complexos".
-O Scrum consistem em um metodo que trabalha com ciclos curtos de desenvolvimento . Deste modo, o feedback a respeito do resultado é obtido rapidamente, o que garante a qualidade do produto desenvolvido e a satisfação do cliente.
+#O _Scrum_
+<p align="justify">Durante muito tempo, empresas de desenvolvimento de software conviveram com problemas relacionados ao planejamento e gerenciamento de projetos. Mediante essa situação, um grupo de profissionais da área de desenvolvimento de _software_ se reuniram e criaram o que ficou conhecido com [Manisfesto Ágil](http://www.manifestoagil.com.br/), que foi gerado de acordo com as experiências de cada um.
+<p align="justify">Dentre os criadores do manifesto ágil estavam _Ken Schwaber_ e _Jeff Sutherland_, que desenvolveram o _Scrum_. Segundo os criadores desse método, o _Scrum_ "é um _framework_ para desenvolver e manter produtos complexos".
+O _Scrum_ consiste em um método que trabalha com ciclos curtos de desenvolvimento. Deste modo, o _feedback_ a respeito do resultado é obtido rapidamente, o que garante a qualidade do produto desenvolvido e a satisfação do cliente.
 
 #Principais Diferenças (Scrum vs. Tradicionais)
 <p align="justify">Os métodos ágeis possuem uma maior liberdade no planejamento de ações, enquanto os tradicionais possuem um planejamento rígido.
