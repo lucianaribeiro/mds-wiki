@@ -43,7 +43,7 @@ Claro, utilize seu nome e e-mail!
 
 # Criar um repositório
 
-O primeiro passo para trabalhar com Git é criar um repositório. Para isso, basta rodar o comando 
+O primeiro passo para trabalhar com Git é criar um repositório. Um repositório é um diretório de arquivos versionados. Para criar um repositório, basta rodar o comando:
 
 ``$ git init NOME_DO_REPOSITORIO``
 
@@ -128,11 +128,11 @@ Terminado o trabalho de implementação das funcionalidades do Caso de Uso X os 
 ## Merge 
 O merge é a mescla do conteúdo de duas branches. Para realizar tal operação tenha em mente que:
 
- * Você vai _merjar_ a branch parâmetro na sua **ATUAL** 
+ * Você vai _fazer o merge_ da branch passada como parâmetro na sua branch **ATUAL** 
 
 ### Exemplo: 
 
-Os desenvolvedores resolveram _merjar_ a branch `funcionalidade_a` na `funcionalidade_b`, para tal eles:
+Os desenvolvedores resolveram _fazer o merge_ a branch `funcionalidade_a` na `funcionalidade_b`, para tal eles:
 
 * Mudaram para a branch `funcionalidade_b`. `git checkout funcionalidade_b`;
 * `On branch funcionalidade_b`
@@ -161,6 +161,8 @@ Para aprender mais sobre git e exercitar, acesse o [Codecademy](https://www.code
 Para exercitar e fixar os conhecimentos de Git, utilize a plataforma [Learn Git Branching](http://learngitbranching.js.org/)
 
 Para treinar Git de maneira interativa, um otimo estilo de jogo [Aprenda Git](http://aprenda.vidageek.net/aprenda/git)
+ou
+[Git Real Code School](http://gitreal.codeschool.com/)
 
 # Referências
 
