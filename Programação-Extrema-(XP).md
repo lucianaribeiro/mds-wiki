@@ -1,5 +1,21 @@
 # Framework XP
 
+O XP é um método de desenvolvimento de software, leve, não é prescritivo, e procura fundamentar as suas práticas por um conjunto de valores. O XP, diferentemente do que muito pensam, também pode ser adotar por desenvolvedores médios e não apenas por desenvolvedores experientes. Sendo que seu objetivo principal é levar ao extremo um conjunto de práticas que são ditas como boas na engenharia de software. Entre elas podemos citar o teste, visto que procurar defeitos é perda de tempo, nós temos que constantemente testar. Mas o XP possui mais práticas do que apenas testar, entre as práticas, o XP diz que:
+
+- Já que testar é bom, que todos testem o tempo todo;
+- Já que revisão é bom, que se revise o tempo todo;
+- Se projetar é bom, então refatorar o tempo todo;
+- Se teste de integração é bom, então que se integre o tempo todo;
+- Se simplicidade é bom, desenvolva uma solução não apenas que funcione, mas que seja a mais simples possível;
+- Se iterações curtas é bom, então mantenha-as realmente curtas;
+
+Como podemos notar todas as práticas boas são levadas ao extremo no XP.
+Pode-se se dizer que é uma metodologia bastante volátil, mas no bom sentido. Portanto, implica que para conseguirmos se adaptar as mudanças frequentes, o XP preconiza ciclos curtos que nos dá previsibilidade e redução de incertezas/riscos, Simplicidade e melhorias constantes de código (refactoring) para facilitar a mudança e Testes Automatizados e Integração Contínua para aumentar a confiança.
+
+O método XP preconiza que Codificação é a atividade central do projeto, que os Testes (que também são código) servem de especificação de requisitos, e a Comunicação oral entre desenvolvedores é fundamental, o que dá proximidade a equipe.
+
+Isto não quer dizer que a equipe XP não constrói documentos e não faz modelagem, ela só não considera que um modelo é um documento. Modelos são feitos o tempo todo seja como quadro branco, sessões de design, etc, mas servem como um suporte para o concreto que realmente importa.
+
 # Valores XP
 * **Comunicação**
 * **Coragem**
