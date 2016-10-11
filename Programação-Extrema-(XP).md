@@ -21,15 +21,6 @@
 
 ## Programação Pareada
 
-Esta técnica tem como objetivo a otimização da qualidade do software através do desenvolvimento de um mesmo trecho de
-código por mais de uma pessoa, reduzindo tempo de desenvolvimento e melhorando a qualidade do software.
-
-Benefícios da Programação Pareada:
-* Melhor qualidade do design, código e testes
-* Revisão constante do código
-* Nivelamento da equipe
-* Maior comunicação
-
 Pair programming 
 https://courses.edx.org/courses/course-v1:BerkeleyX+CS169.1x+3T2015SP/
 
