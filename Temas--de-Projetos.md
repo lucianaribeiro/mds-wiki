@@ -45,4 +45,8 @@ Portal FGA - **Mobile** - Ionic (já possui um primeiro protótipo) - Cliente: e
  Fomento de desenvolvimento de apps civicos - tcu (não é implementar apps para androids) - 
 ***
  
-Monitoramento de sensores Biomédicos
+Monitoramento de sensores Biomédicos - Cliente - prof. Cristiano
+
+***
+
+Simulador bicicleta -- Cliente - laboratório Lara
