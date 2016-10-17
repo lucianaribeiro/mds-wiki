@@ -1,4 +1,4 @@
-Temas propostos para o semestre de 2016.2
+Temas propostos 
 ***
  **Grupo 01**
 
@@ -45,4 +45,4 @@ Portal FGA - **Mobile** - Ionic (já possui um primeiro protótipo) - Cliente: e
  Fomento de desenvolvimento de apps civicos - tcu (não é implementar apps para androids) - 
 ***
  
-Floss coach - http://www.flosscoach.com/ - integração com github - Cliente: Camilla
+Monitoramento de sensores Biomédicos
