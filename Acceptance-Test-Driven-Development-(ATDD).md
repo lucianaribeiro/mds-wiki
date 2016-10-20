@@ -5,7 +5,7 @@
 
 # Teste de Aceitação
 ## Definição
-
+<p align = "justify">Testes de aceitação são especificações para o comportamento desejado de um sistema. Esse tipo de teste consegue descrever, dada uma história de usuário, como o sistema deve se comportar de acordo com _inputs_ e interações que o usuário tem com a aplicação e qual deve ser o resultado esperado. Esses testes são criados para avaliar a qualidade externa do que foi desenvolvido, ou seja, verificar se o software (ou as funcionalidades) está pronto e pode ser utilizado por usuários finais. Esse tipo de teste é idealmente implementado de acordo com a descrição do cliente/interessado no produto, que descreve situações de uso da aplicação pelo usuário que devem ser testadas.
 
 ## Boas práticas para a criação de testes de aceitação
 <p align = "justify">É importante lembrar que o uso do termo *escrever o teste* não necessariamente está relacionado a implementação dele, mas sim à definição do que deve ser testado, quais são os aspectos relevantes do teste e ainda, qual deve ser o resultado esperado.
