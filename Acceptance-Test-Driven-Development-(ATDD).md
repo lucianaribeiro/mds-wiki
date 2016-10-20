@@ -8,7 +8,7 @@
 
 
 ## Boas práticas para a criação de testes de aceitação
-<p align = "justify">É importante lembrar que o uso do termo *escrever o teste* não necessariamente está relacionado a implementação do mesmo, mas sim à definição do que deve ser testado, quais são os aspectos relevantes do teste e ainda, qual deve ser o resultado esperado.
+<p align = "justify">É importante lembrar que o uso do termo *escrever o teste* não necessariamente está relacionado a implementação dele, mas sim à definição do que deve ser testado, quais são os aspectos relevantes do teste e ainda, qual deve ser o resultado esperado.
 
 + **Pertence ao cliente**
 
@@ -42,13 +42,21 @@
 ##Ciclo do desenvolvimento da metodologia ATDD
 
 ##Aplicando o ATDD
-   1. Debater os requisitos
+   1. **Debater os requisitos**
+<p align = "justify">As histórias de usuário (_user story_) são refinadas em um workshop ou em uma reunião de preparação do backlog do produto ([backlog grooming](https://www.scrumalliance.org/community/articles/2011/march/how-to-hold-an-effective-backlog-grooming-session)), antes da reunião de planejamento da iteração/sprint. Em ambos os casos, os participantes são uma equipe multifuncional, o Product Owner e, algum outro interessado que potencialmente tem mais informações sobre as histórias.  
+<p align = "justify">Algumas perguntas devem ser feitas para elencar exemplos de utilização ou cenários de uso dessas histórias de usuário e, assim, entendermos melhor o que está sendo conversado, de tal forma que esses cenários possam ser escritos como testes.
 
-   2. Refinar os testes de aceitação
+   2. **Refinar os testes de aceitação**
+<p align = "justify">O próximo passo é organizar os testes de aceitação em um formato requerido pelo framework de automação de testes.
 
-   3. Implementar o código com TDD
+   3. **Implementar o código com TDD**
+<p align = "justify">O próximo passo é implementar a funcionalidade para fazer com que o teste de aceitação passe.  
+<p align = "justify">E, para tanto, o desenvolvimento deve iniciar pelos testes unitários, incluindo todas as condições propostas para as expectativas existentes.  
+<p align = "justify">Depois de codificados todos os testes unitários, eles são executados e passamos a uma fase para ajustar aqueles que estão falhando.
 
-   4. Apresentar os resultados dos testes de aceitação
+   4. **Apresentar os resultados dos testes de aceitação**
+<p align = "justify"> Após os testes passarem com sucesso, a história é verificada pelo Product Owner, normalmente em uma reunião de Review/Showcase, onde ele poderá aprová-la ou não. O resultado pode levar à criação de uma nova história ou uma alteração nos testes existentes, a fim de contemplar novos cenários. Outra forma que também funciona bem, e não posterga a validação em uma reunião específica, é a validação de cada história (Review), imediatamente após ela ser desenvolvida pela equipe, de tal maneira que o Product Owner possa fazer isso com o desenvolvedor ou o par de desenvolvedores que a finalizaram.
+
 
 # Treinamento ATDD
 - Incluir descrição do treinamento/DOJO - passo a passo - etapas
