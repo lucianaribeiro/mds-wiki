@@ -57,6 +57,10 @@
    4. **Apresentar os resultados dos testes de aceitação**
 <p align = "justify"> Após os testes passarem com sucesso, a história é verificada pelo Product Owner, normalmente em uma reunião de Review/Showcase, onde ele poderá aprová-la ou não. O resultado pode levar à criação de uma nova história ou uma alteração nos testes existentes, a fim de contemplar novos cenários. Outra forma que também funciona bem, e não posterga a validação em uma reunião específica, é a validação de cada história (Review), imediatamente após ela ser desenvolvida pela equipe, de tal maneira que o Product Owner possa fazer isso com o desenvolvedor ou o par de desenvolvedores que a finalizaram.
 
+##Diferença entre ATDD e BDD
+<p align = "justify"> O _Behavior Driven Development_ (BDD) ou “Desenvolvimento Guiado por Comportamento” é uma prática ágil que permite uma melhor comunicação entre desenvolvedores, analistas de qualidade, áreas de negócio e pessoas não-técnicas, durante um projeto de software, descrevendo um ciclo de iterações com saídas bem definidas e resultando na entrega de software testado e que funciona.
+
+<p align = "justify"> O BDD dá uma compreensão mais clara sobre o que o sistema deve fazer a partir da perspectiva de todas as partes interessadas, tanto desenvolvedores e analistas quanto de clientes e outros _stakeholders_. Portanto, ATDD e BDD tem como foco a definição do comportamento esperado do sistema com a participação de todos os interessados, a diferença é que o ATDD explicita o uso dos testes de aceitação enquanto o BDD não os exige, porém na prática do BDD os testes de aceitação são comumente usados.
 
 # Treinamento ATDD
 - Incluir descrição do treinamento/DOJO - passo a passo - etapas
