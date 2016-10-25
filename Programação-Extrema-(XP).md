@@ -36,6 +36,20 @@ Isto não quer dizer que a equipe XP não constrói documentos e não faz modela
 * Devem ser o mais simples possível.
 
 ## Programação Pareada
+Sugere que todo e qualquer código produzido no projeto seja sempre implementado por duas pessoas juntas, diante do mesmo computador, revezando-se no teclado. Além de parecer ter poucos benefícios, temos a impressão de que ela irá consumir mais recursos ou irá elevar o tempo do desenvolvimento. 
+
+###Porque parear com o coleguinha?
+**1** - A programação em par é uma forma eficaz de reduzir a incidência de bugs em um sistema. Quando dois desenvolvedores estão programando em par, um deles está com as mãos no teclado e no mouse. O outro está sentado ao lado, olhando para a mesma tela e preocupado em resolver o mesmo problema. É importante que eles conversem o tempo todo e troquem idéias sobre a solução.
+
+**2** - A programação em par também ajuda os desenvolvedores a criarem soluções mais simples, mais rápidas de implementar e mais fáceis de manter. Isso ocorre em grande parte devido à oportunidade de dialogar e trocar idéias sobre programas que estejam sendo desenvolvidos. Quando nos deparamos com um problema, buscamos uma solução usando todo e qualquer recurso que esteja a nossa disposição. E, assim que encontramos uma solução, encerramos a busca e a utilizamos.
+
+**3** - Além do mais, a programação em par produz um efeito conhecido como "pressão do par" que faz com que os desenvolvedores tenham maior foco na atividade e faz com que isso se mantenha por mais tempo. Imagine que você esteja programando em par e, de repente, resolva olhar seus emails. Trata-se de uma situação embaraçosa, isso faz com que o foco seja mantido no desenvolvimento.
+
+**4** - Uma das características mais marcantes da programação em par é a sua capacidade de disseminação de conhecimento, especialmente em projetos XP, nos quais os desenvolvedores sempre trocam de pares, fazendo com que haja maior compartilhamento de informações ao longo do projeto.
+
+**5** - A programação em par também é uma forma de fazer com que o desenvolvedor tenha mais confiança no código que produz. Afinal, o código foi produzido por ele e mais outra pessoa que o ajudou a revisá-lo. Quando sabemos que mais uma pessoa, ou talvez várias, já olharam para o código no qual trabalhamos e estão de acordo sobre o mesmo, temos maior confiança de que ele realmente irá funcionar. Isso significa que a programação em par reduz o estresse do desenvolvedor.
+
+**6** - Consequentemente, as características apresentadas acima fazem com que a programação em par acelere o desenvolvimento significativamente, embora à primeira vista pareça o contrário. Em função dos benefícios acima, uma atividade feita em par normalmente é encerrada mais rapidamente que outra feita por um programador solitário, aumentando a produtividade.
 
 Pair programming 
 https://courses.edx.org/courses/course-v1:BerkeleyX+CS169.1x+3T2015SP/
