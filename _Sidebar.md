@@ -30,6 +30,21 @@
 
 [Programação Extrema (XP)](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Programa%C3%A7%C3%A3o-Extrema-(XP))
 
+
+# Programação Extrema (XP)
+[Pair Programming](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Pair-Programming)
+
+[Test Driven Development](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Test-Driven-Development)
+
+[Acceptance Test Driven Development (ATDD)](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Acceptance-Test-Driven-Development-(ATDD))
+
+
+[Refactoring](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Refactoring)
+
+
+[Integração Contínua Deploy Contínuo](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Integra%C3%A7%C3%A3o-Cont%C3%ADnua---Deploy-Cont%C3%ADnuo)
+
+
 # Material Técnico
 [Git](https://github.com/fga-gpp-mds/00-Disciplina/wiki/git)
 
@@ -75,3 +90,5 @@
 [tutoriaismateriais]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutoriais-e-Materiais
 [testeAutomatizadoCucumberRails]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Teste-Automatizado-Cucumber-Rails
 [testeAutomatizadoComSeleniumIDE]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Teste-Automatizado-com-Selenium-IDE
+
+
