@@ -3,6 +3,8 @@
 ***
 
 # Programação Pareada
+![Pair Programming](http://www.extremeprogramming.org/map/images/codesml.gif)
+
 A Programação Pareada é uma das práticas do "Extreme Programming (XP)" que sugere que o código seja sempre trabalhado em dupla em um mesmo computador, revezando quem está digitando. Assim, existem dois papéis nessa atividade, o piloto e o co-piloto. Os dois trabalham de forma análoga a pilotos e co-pilotos de aeronaves. O piloto é o responsável pela digitação do código e para deixar o seu par ciente, sempre explica seu raciocínio durante a efetuação deste. O co-piloto acompanha o trabalho do piloto, entendendo o que ele está fazendo e evitando possíveis erros. 
 
 # Programação Pareada Remota
