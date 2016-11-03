@@ -21,6 +21,15 @@ https://www.youtube.com/watch?v=ZLBhVEo1OG4
 
 ![Integração](http://i.imgur.com/h1x61BP.png)
 
+##Como ocorre a integração contínua
+* Envio do código atualizado para o repositório com o código fonte.
+<br><br/>
+* Um sistema automatizado observa o sistema de controle de versão. 
+   - O sistema automatizado compila o código.
+   - O sistema automatizado executa os testes unitários.
+   - O sistema automatizado envia o feedback para que os membros da equipe possam conhecer o estado atual da build.
+
+![Int2](http://i.imgur.com/dlXW3av.png)
 
 # Deploy Contínuo
 
