@@ -32,6 +32,31 @@ frameworks
 
 # Desenvolvimento Orientado a Testes (TDD)
 
+## Definição
+
+_Test Driven Development_ (TDD), ou _Test-first development_, é um conjunto de técnicas de desenvolvimento orientado a testes associadas com _Extreme Programming_ (XP) e metodologia ágil. Com TDD temos um desenvolvimento incremental do código, iniciado pelos testes (Miller,2004). O programador deve ser capaz de escrever um código afim de satisfazer o teste escrito previamente. Dessa forma, possibilita-se a reflexão da modelagem antes de se escrever o código funcional. A consequência é um código fonte bem testado.  
+TDD tornou-se uma das práticas mais populares entre os desenvolvedores de software.
+
+## Ciclo de desenvolvimento orientado a Testes (TDD)
+
+![Ciclo TDD](http://2.bp.blogspot.com/-O5F7OQeP6cY/VkYYHPNvd2I/AAAAAAAAAIw/eyuHiDRrzyM/s1600/TDD.png)
+
+O ciclo do TDD é bem simples:
+
+* Cria-se um teste.
+* Executa-se o teste, que por sua vez irá falhar, pois a funcionalidade não foi implementada ainda.
+* Codifica-se de modo a fazer o teste passar.
+* Executa-se o teste novamente e, caso obtenha sucesso, prossiga para o próximo passo.
+* Refatore o código.
+
+## Referências
+
+[1] K. W. Miller,Test Driven Development on the Cheap:Text Files and Explicit Scaffolding. Disponível em http://www.ccsc.org/northwest/docarchive/2004/augustmailing2004final.doc  
+[2] GASPARETO, Otávio. Test Driven Development. Universidade Federal do Rio Grande do Sul. Disponível em : http://www.inf.ufrgs.br/~cesantin/TDD-Otavio.pdf  
+[3] TDD: fundamentos do desenvolvimento orientado a testes. Disponível em: http://www.devmedia.com.br/tdd-fundamentos-do-desenvolvimento-orientado-a-testes/28151. Acesso em: 10/11/2016.  
+[4] Test-Driven Development. Disponível em: http://tdd.caelum.com.br/. Acesso em: 10/11/2016  
+
+
 # Treinamento TDD
 
 - Incluir descrição do treinamento/DOJO - passo a passo - etapas
