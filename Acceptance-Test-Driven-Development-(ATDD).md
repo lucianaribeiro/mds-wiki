@@ -39,7 +39,12 @@
 ## O que é?
 <p align = "justify"> _O Acceptance Test-Driven Development_ (ATDD), ou "Desenvolvimento Orientado a Testes de Aceitação", é uma prática de obtenção de requisitos de forma colaborativa aplicada por equipes ágeis, onde exemplos concretos e testes automatizados são utilizados para especificar os requisitos, tornando-os mais claros, com o objetivo de criar especificações executáveis.Eles são gerados em sessões de criação do _backlog_ do produto, com a participação da equipe, _Product Owner_, além dos demais interessados.
 <p align = "justify">O ATDD é muito similar ao TDD, diferenciando-se deste último pelo fato de termos uma colaboração maior entre o desenvolvedor, analista de qualidade (_tester_) e negócio (cliente/partes interessadas). Enquanto o teste unitário está intrinsicamente relacionado com o código, de um ângulo do desenvolvedor (visão interna), o teste de aceitação está voltado ao ponto de vista do usuário, uma visão externa ao sistema.
+
 ##Ciclo do desenvolvimento da metodologia ATDD
+
+<p align = "justify">A imagem abaixo representa o ciclo do desenvolvimento orientado a testes de aceitação, composto por 4 passos para aplicá-lo que serão descritos a seguir, conforme Elisabeth Hendrickson.
+
+![](https://cdn.infoq.com/statics_s2_20161011-0321_4/resource/articles/atdd-passo-a-passo/pt/resources/image01.png)
 
 ##Aplicando o ATDD
    1. **Debater os requisitos**
