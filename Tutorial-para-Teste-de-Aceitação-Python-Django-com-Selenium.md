@@ -40,8 +40,8 @@ O tutorial abaixo irá ensinar como configurar as ferramentas aloe e selenium pa
       cd steps
 12- Criar um arquivo chamado browser.py com o seguinte conteúdo
 
-COLOCAR IMAGEM
+![12](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/selenium_12.png)
 
 13- Para criar as suas próprias steps crie o arquivo steps.py que deve comecar da seguinte forma:
 
-COLOCAR IMG
+![13](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/selenium_13.png)
