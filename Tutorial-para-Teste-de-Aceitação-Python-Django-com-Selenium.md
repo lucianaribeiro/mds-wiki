@@ -110,3 +110,9 @@ _Obs: Para esse exemplo será criado um app novo e um step que insere um texto e
 
 **5**- Criar a função no arquivo views do app user:
 ![3_5](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/selenium_3_5.png)
+
+**6**- Alterar o arquivo urls da pasta de configuração do projeto para:
+![3_6](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/selenium_3_6.png)
+
+**7**- Editar o arquivo steps na pasta steps criada na parte 2 desse tutorial
+![3_7](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/selenium_3_7.png)
