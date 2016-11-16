@@ -63,3 +63,18 @@ _Para o desenvolvimento do exemplo foi criado um novo app e uma página inicial 
 ![3](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/selenium_3.png)
 
 _Obs: o projeto usado como exemplo tem o nome example. Esse nome deve ser trocado pelo nome que você escolheu para o seu projeto._
+
+4- Criar um arquivo views na pasta do projeto. No exemplo na pasta "example" com o seguinte conteúdo
+
+![4](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/selenium_4.png)
+
+_Obs: como o projeto se chama example o arquivo views.py acima será criado na mesma pasta que contém o arquivo settings._
+
+5- Alterar o arquivo urls.py da pasta do projeto. Como no exemplo a seguir:
+
+![5](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/selenium_5.png)
+
+6- Por fim, criar um arquivo chamado teste.feature
+
+![6](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/selenium_6.png)
+
