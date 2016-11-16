@@ -48,7 +48,7 @@ O tutorial abaixo irá ensinar como configurar as ferramentas aloe e selenium pa
 
 
 ### Parte 2 - Desenvolvendo os Testes de Aceitação
-_Para o desenvolvimento do exemplo foi criado um novo app e uma página inicial personalizada para que se possa desenvolver um teste como exemplo. Em seguida será criada uma step personalizada para o usuário se familiarizar._
+_Obs: Para o desenvolvimento do exemplo foi criado um novo app e uma página inicial personalizada para que se possa desenvolver um teste como exemplo. Em seguida será criada uma step personalizada para o usuário se familiarizar._
 
 **1**- Voltar para a pasta do projeto onde se encontra o arquivo de configurações
 
@@ -92,7 +92,7 @@ _Obs: como o projeto se chama example o arquivo views.py acima será criado na m
 
 ### Parte 3 - Criando seus Próprios steps
 
-_Obs: Para esse exemplo será criado um app novo e um step que insere um texto em um determinado campo. _
+_Obs: Para esse exemplo será criado um app novo e um step que insere um texto em um determinado campo._
 
 **1**-  Entrar na pasta onde se encontra o arquivo manage.py
 
