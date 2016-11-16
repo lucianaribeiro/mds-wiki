@@ -4,45 +4,45 @@ O teste de aceitação é uma parte fundamental para projetos ágeis. Nessa meto
 O tutorial abaixo irá ensinar como configurar as ferramentas aloe e selenium para desenvolver testes de aceitação para projetos django. Iremos considerar que o usuário está utilizando um ambiente virtual para projetos python e a versão do python seja superior a 3.4. 
 
 ### Parte 1 - Criando e Instalando Dependências
-1- Criar uma pasta para o projeto
+**1**- Criar uma pasta para o projeto
 
-2- Iniciar o ambiente virtual
+**2**- Iniciar o ambiente virtual
 
-3- Instalar o django no ambiente virtual
+**3**- Instalar o django no ambiente virtual
 
-4- Criar um projeto
+**4**- Criar um projeto
 
       django-admin startproject example
 
-5- Instalar o selenium, dentro do projeto criado
+**5**- Instalar o selenium, dentro do projeto criado
 
       pip install selenium
-6- Instalar o django_nose
+**6**- Instalar o django_nose
 
       pip install django_nose
-7- Instalar o aloe
+**7**- Instalar o aloe
 
       pip install aloe_django
-8- Instalar o aloe web driver
+**8**- Instalar o aloe web driver
 
       pip install aloe_webdriver
-9- Editar o arquivo settings.py e acrescentar o django nose e o aloe django
+**9**- Editar o arquivo settings.py e acrescentar o django nose e o aloe django
 
       INSTALLED_APPS = [
 			‘django_nose’
 			‘aloe_django’
 		       ]
-10- Na pasta onde estão as configurações do projeto, criar uma pasta chamada "steps"
+**10**- Na pasta onde estão as configurações do projeto, criar uma pasta chamada "steps"
       
       mkdir steps
-11- Entrar na pasta criada
+**11**- Entrar na pasta criada
 
       cd steps
-12- Criar um arquivo chamado browser.py com o seguinte conteúdo
+**12**- Criar um arquivo chamado browser.py com o seguinte conteúdo
 
 ![12](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/selenium_12.png)
 
-13- Para criar as suas próprias steps crie o arquivo steps.py que deve comecar da seguinte forma:
+**13**- Para criar as suas próprias steps crie o arquivo steps.py que deve comecar da seguinte forma:
 
 ![13](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/selenium_13.png)
 
@@ -50,31 +50,42 @@ O tutorial abaixo irá ensinar como configurar as ferramentas aloe e selenium pa
 ### Parte 2 - Desenvolvendo os Testes de Aceitação
 _Para o desenvolvimento do exemplo foi criado um novo app e uma página inicial personalizada para que se possa desenvolver um teste como exemplo. Em seguida será criada uma step personalizada para o usuário se familiarizar._
 
-1- Voltar para a pasta do projeto onde se encontra o arquivo de configurações
+**1**- Voltar para a pasta do projeto onde se encontra o arquivo de configurações
 
       cd ..
 
-2- Criar uma pasta com o nome features, e entrar nela
+**2**- Criar uma pasta com o nome features, e entrar nela
 
       mkdir features
 
-3- Editar o arquivo __init__.py para importar o browser
+**3**- Editar o arquivo __init__.py para importar o browser
 
 ![3](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/selenium_3.png)
 
 _Obs: o projeto usado como exemplo tem o nome example. Esse nome deve ser trocado pelo nome que você escolheu para o seu projeto._
 
-4- Criar um arquivo views na pasta do projeto. No exemplo na pasta "example" com o seguinte conteúdo
+**4**- Criar um arquivo views na pasta do projeto. No exemplo na pasta "example" com o seguinte conteúdo
 
 ![4](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/selenium_4.png)
 
 _Obs: como o projeto se chama example o arquivo views.py acima será criado na mesma pasta que contém o arquivo settings._
 
-5- Alterar o arquivo urls.py da pasta do projeto. Como no exemplo a seguir:
+**5**- Alterar o arquivo urls.py da pasta do projeto. Como no exemplo a seguir:
 
 ![5](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/selenium_5.png)
 
-6- Por fim, criar um arquivo chamado teste.feature
+**6**- Por fim, criar um arquivo chamado teste.feature
 
 ![6](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/selenium_6.png)
 
+**7**- Criar as migrações necessárias
+
+      python manage.py makemigrations
+
+**8**- Migrar o banco de dados
+
+      python manage.py migrate
+
+**9**- Rodar os testes
+
+      python manage.py harvest
