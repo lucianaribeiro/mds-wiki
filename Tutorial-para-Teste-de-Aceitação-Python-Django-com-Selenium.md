@@ -89,3 +89,24 @@ _Obs: como o projeto se chama example o arquivo views.py acima será criado na m
 **9**- Rodar os testes
 
       python manage.py harvest
+
+### Parte 3 - Criando seus Próprios steps
+
+_Obs: Para esse exemplo será criado um app novo e um step que insere um texto em um determinado campo. _
+
+**1**-  Entrar na pasta onde se encontra o arquivo manage.py
+
+**2**- Criar um novo app chamado user
+
+      python manage.py startapp user
+
+**3**- Criar as pastas user/templates/user
+
+      mkdir -p user/templates/user
+
+**4**- Criar o seguinte template como o nome de mystep.html
+
+![3_4](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/selenium_3_4.png)
+
+**5**- Criar a função no arquivo views do app user:
+![3_5](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/selenium_3_5.png)
