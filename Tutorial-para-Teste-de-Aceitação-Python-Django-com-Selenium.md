@@ -12,7 +12,7 @@ O tutorial abaixo irá ensinar como configurar as ferramentas aloe e selenium pa
 
 4- Criar um projeto
 
-      django-admin startproject projectname
+      django-admin startproject example
 
 5- Instalar o selenium, dentro do projeto criado
 
@@ -45,3 +45,21 @@ O tutorial abaixo irá ensinar como configurar as ferramentas aloe e selenium pa
 13- Para criar as suas próprias steps crie o arquivo steps.py que deve comecar da seguinte forma:
 
 ![13](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/selenium_13.png)
+
+
+### Parte 2 - Desenvolvendo os Testes de Aceitação
+_Para o desenvolvimento do exemplo foi criado um novo app e uma página inicial personalizada para que se possa desenvolver um teste como exemplo. Em seguida será criada uma step personalizada para o usuário se familiarizar._
+
+1- Voltar para a pasta do projeto onde se encontra o arquivo de configurações
+
+      cd ..
+
+2- Criar uma pasta com o nome features, e entrar nela
+
+      mkdir features
+
+3- Editar o arquivo __init__.py para importar o browser
+
+![3](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/selenium_3.png)
+
+_Obs: o projeto usado como exemplo tem o nome example. Esse nome deve ser trocado pelo nome que você escolheu para o seu projeto._
