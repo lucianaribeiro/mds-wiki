@@ -131,5 +131,5 @@ _Obs: Para esse exemplo será criado um app novo e um step que insere um texto e
 
 _Obs: O comando utilizou a flag v para gerar um output mais verboso, também, foi passado o arquivo dos testes funcionais para se evitar rodar testes desnecessários._
 
-	A saída deve ser parecida com a imagem abaixo:
+A saída deve ser parecida com a imagem abaixo:
 ![3_11](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/selenium_3_11.png)
