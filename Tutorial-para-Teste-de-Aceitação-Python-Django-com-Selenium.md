@@ -116,3 +116,20 @@ _Obs: Para esse exemplo será criado um app novo e um step que insere um texto e
 
 **7**- Editar o arquivo steps na pasta steps criada na parte 2 desse tutorial
 ![3_7](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/selenium_3_7.png)
+
+**8**- Criar a pasta user/features/
+
+      mkdir user/features
+**9**- Copiar o arquivo __init__py da pasta features criada na parte 2 desse tutorial
+ 
+**10**- Criar um teste na pastas /user/fetatures/
+![3_10](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/selenium_3_10.png)
+
+**11**- Rodar os testes
+
+      python manage.py harvest -v 3 user/features/mystep.feature
+
+_Obs: O comando utilizou a flag v para gerar um output mais verboso, também, foi passado o arquivo dos testes funcionais para se evitar rodar testes desnecessários._
+
+	A saída deve ser parecida com a imagem abaixo:
+![3_11](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/selenium_3_11.png)
