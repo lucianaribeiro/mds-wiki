@@ -49,7 +49,7 @@ O ciclo do TDD é bem simples:
 * Executa-se o teste novamente e, caso obtenha sucesso, prossiga para o próximo passo.
 * Refatore o código.
 
-## Pontos Positivos
+## Pontos Positivos do Uso do Método
 
 ###Qualidade do código
 Um dos principais ensinamentos, senão o principal, do TDD é que se algo não é possível de ser testado então foi desenvolvido de forma errada. Parece um pouco drástico mas não é. Em pouco tempo utilizando testes o programador percebe mudanças relevantes em sua forma de programar. Em suma o uso de TDD ajuda o programador a elaborar um código com cada vez mais qualidade criando objetos concisos e com menos dependências.
@@ -67,6 +67,19 @@ Por prover mais segurança o trabalho em equipe torna-se muito mais proveitoso e
 
 ###Documentação
 Ao criar testes descritivos estes servem como uma excelente documentação para o software. Quando qualquer programador for rodar os testes, basta habilitar o modo verbose que uma “história” é contada eliminando o árduo trabalho de documentar um software onde nos meios tradicionais tende a defasar-se. O problema é que a documentação tradicional raramente segue o mesmo ritmo do desenvolvimento. Com os testes unitários a “documentação” é gerada antes mesmo da nova feature ser implementada e permanece fiel a qualquer alteração.
+
+##Por que muitos não praticam?
+
+###Dificuldade em começar
+Apesar de uma extensa e clara documentação, iniciar o desenvolvimento orientado a testes pode ser um trabalho árduo para muitos pelo simples fato de que geralmente muitos iniciantes tentam praticá-lo em código já existente. Este definitivamente não é o caminho. A principal característica do desenvolvimento orientado a testes é que ele seja orientado a testes. Em outras palavras o código que realizará sua lógica deve ser criado somente após a criação do teste e isso torna-se algo de difícil aceitação pois ainda não se tem nada e já se faz necessário testar.
+
+###Curva de apendizado
+Complementando o item anterior, este é outro motivo que faz programadores desistirem do desenvolvimento orientado a testes. Como qualquer nova tecnologia, para a pratica de TDD leva-se um bom tempo dependendo disponibilidade e principalmente da vontade do programador.
+Tempo
+Engana-se quem pensa que produzirá mais código pelo simples fato de utilizar TDD. O TDD na verdade chega a desacelerar a produção de código. Quando falo em produção de código, me refiro à quantidade de linhas escritas. Mas nisso tudo há vantagens e elas serão descritas mais a frente.
+
+###Cultura
+Muito fala-se de TDD no Brasil, mas ao questionarmos programadores de diversas empresas muitos apresentam os motivos citados acima para não utilizá-lo. Existem sim muitas empresas e programadores que levam a prática a sério e a evangelizam justamente por conhecerem as vantagens que o TDD nos traz.
 
 ## Referências
 
