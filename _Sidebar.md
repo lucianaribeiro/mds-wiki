@@ -90,6 +90,7 @@
 [tutoriaismateriais]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutoriais-e-Materiais
 [testeAutomatizadoCucumberRails]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Teste-Automatizado-Cucumber-Rails
 [testeAutomatizadoComSeleniumIDE]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Teste-Automatizado-com-Selenium-IDE
+[testeAutomatizadoCucumberJavaScript]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Teste-Automatizado-Cucumber-JS
 
 [Teste de Aceitação Python/Django com Selenium](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-para-Teste-de-Aceitação-Python-Django-com-Selenium)
 
