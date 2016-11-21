@@ -32,13 +32,13 @@ Serão apresentadas várias perguntas, aperte enter em todas =D.
 
 Os arquivos devem estar disponibilizados da seguinte forma
 
-raiz
-|- tests
-_____|- features
-___________|-<files>.feature
-___________|-step_definitions
-____________________|-<file>_steps.js
-___________|-support
-____________________|-env.js
-____________________|-hook.js
-____________________|-world.js
+raiz<br>
+|- tests<br>
+_____|- features <br>
+___________|-<files>.feature<br>
+___________|-step_definitions<br>
+____________________|-<file>_steps.js<br>
+___________|-support<br>
+____________________|-env.js<br>
+____________________|-hook.js<br>
+____________________|-world.js<br>
