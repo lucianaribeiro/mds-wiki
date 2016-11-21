@@ -25,6 +25,7 @@ O teste de exemplo para este tutorial será a funcionalidade do google de busca 
 Serão apresentadas várias perguntas, aperte enter em todas =D.
 
 `npm install --save-dev cucumber cucumberjs-chromedriver selenium-webdriver`
+`npm install -g gulp`
 
 ## Configuração dos testes
 
@@ -34,6 +35,7 @@ Os arquivos devem estar disponibilizados da seguinte forma
 
 raiz<br>
 |- package.json
+|- gulpfile.js
 |- tests<br>
 _____|- features <br>
 ___________|-<files>.feature<br>
@@ -45,3 +47,21 @@ ____________________|-hook.js<br>
 ____________________|-world.js<br>
 
 
+#### gulpfile.js
+
+    var gulp = require('gulp');
+    var runSequence = require('run-sequence').use(gulp);
+    var cucumber = require('gulp-cucumber');
+    
+    gulp.task('cucumber', function() {
+
+      var file = "*";
+      if (process.argv.length >= 4) {
+        file = process.argv[3].replace(/-+/, "");
+      }
+    
+      return gulp.src('./tests/features/' + file).pipe(cucumber({
+        'steps': './tests/features/step_definitions/commom_steps.js',
+        'support': './tests/features/support/*.js'
+      }))
+    })
