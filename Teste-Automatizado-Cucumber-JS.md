@@ -33,12 +33,15 @@ Serão apresentadas várias perguntas, aperte enter em todas =D.
 Os arquivos devem estar disponibilizados da seguinte forma
 
 raiz<br>
+|- package.json
 |- tests<br>
 _____|- features <br>
 ___________|-<files>.feature<br>
 ___________|-step_definitions<br>
-____________________|-<file>_steps.js<br>
+____________________|-\<file\>_steps.js<br>
 ___________|-support<br>
 ____________________|-env.js<br>
 ____________________|-hook.js<br>
 ____________________|-world.js<br>
+
+
