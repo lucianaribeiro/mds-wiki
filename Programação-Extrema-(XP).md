@@ -1,20 +1,53 @@
 # Framework XP
 
-O XP é um método de desenvolvimento de software, leve, não é prescritivo, e procura fundamentar as suas práticas por um conjunto de valores. O XP, diferentemente do que muito pensam, também pode ser adotar por desenvolvedores médios e não apenas por desenvolvedores experientes. Sendo que seu objetivo principal é levar ao extremo um conjunto de práticas que são ditas como boas na engenharia de software. Entre elas podemos citar o teste, visto que procurar defeitos é perda de tempo, nós temos que constantemente testar. Mas o XP possui mais práticas do que apenas testar, entre as práticas, o XP diz que:
+<p align = "justify">O XP, ou _Extreme Programming_, é uma metodologia de desenvolvimento de software que tem como objetivo principal levar ao extremo um boas práticas de programação e boas práticas para o desenvolvimento de software no geral. O XP é uma metodologia baseada em valores, que definem uma maneira harmoniosa de trabalho na equipe de desenvolvimento.
 
-- Já que testar é bom, que todos testem o tempo todo;
-- Já que revisão é bom, que se revise o tempo todo;
-- Se projetar é bom, então refatorar o tempo todo;
-- Se teste de integração é bom, então que se integre o tempo todo;
-- Se simplicidade é bom, desenvolva uma solução não apenas que funcione, mas que seja a mais simples possível;
-- Se iterações curtas é bom, então mantenha-as realmente curtas;
+<p align = "justify"> O XP define uma série de regras para que o desenvolvimento seja realizado da melhor maneira possível: 
 
-Como podemos notar todas as práticas boas são levadas ao extremo no XP.
+#### Planejamento:
+
+- As histórias de usuário são escritas
+- Sâo feitas _releases_ pequenas e constantes.
+- O projeto é dividido em iterações.
+- As iterações são planejadas no momento em que vai se começar o trabalho.
+
+#### Gerenciamento:
+
+- O time deve ter um espaço aberto de trabalho.
+- O desenvolvimento deve ter uma velocidade sustentável.
+- Stand-up meetings iniciam o dia de trabalho.
+- O velocity é sempre medido.
+- O XP deve ser consertado caso não esteja funcionando.
+
+#### Design
+
+- Simplicidade.
+- Crie soluções simples para explorar todas as soluções possíveis.
+- Funcionalidades não devem ser adicionadas antes da hora.
+- Refatore sempre que possível
+
+#### Códificação
+
+- O cliente precisa estar sempre disponível.
+- O código precisa ser escrito utilizando padrões.
+- O código é feito utilizando pareamento (_pair programming_).
+- Apenas um par integra o código de cada vez.
+- Toda a equipe deve participar da criação de todas as partes do código.
+
+#### Testes
+
+- Todo o código deve ter testes unitários.
+- Todo o código deve passar os testes unitários antes da _release_.
+- Se um bug existe, testes são criados.
+- Os testes de aceitação rodam com frequência.
+
+
+<p align = "justify">Como podemos notar todas as práticas boas são levadas ao extremo no XP.
 Pode-se se dizer que é uma metodologia bastante volátil, mas no bom sentido. Portanto, implica que para conseguirmos se adaptar as mudanças frequentes, o XP preconiza ciclos curtos que nos dá previsibilidade e redução de incertezas/riscos, Simplicidade e melhorias constantes de código (refactoring) para facilitar a mudança e Testes Automatizados e Integração Contínua para aumentar a confiança.
 
-O método XP preconiza que Codificação é a atividade central do projeto, que os Testes (que também são código) servem de especificação de requisitos, e a Comunicação oral entre desenvolvedores é fundamental, o que dá proximidade a equipe.
+<p align = "justify">O método XP preconiza que Codificação é a atividade central do projeto, que os Testes (que também são código) servem de especificação de requisitos, e a Comunicação oral entre desenvolvedores é fundamental, o que dá proximidade a equipe.
 
-Isto não quer dizer que a equipe XP não constrói documentos e não faz modelagem, ela só não considera que um modelo é um documento. Modelos são feitos o tempo todo seja como quadro branco, sessões de design, etc, mas servem como um suporte para o concreto que realmente importa.
+<p align = "justify">Isto não quer dizer que a equipe XP não constrói documentos e não faz modelagem, ela só não considera que um modelo é um documento. Modelos são feitos o tempo todo seja como quadro branco, sessões de design, etc, mas servem como um suporte para o concreto que realmente importa.
 
 # Valores XP
 * **Comunicação**
@@ -36,7 +69,7 @@ Isto não quer dizer que a equipe XP não constrói documentos e não faz modela
 * Devem ser o mais simples possível.
 
 ## Programação Pareada
-Sugere que todo e qualquer código produzido no projeto seja sempre implementado por duas pessoas juntas, diante do mesmo computador, revezando-se no teclado. Além de parecer ter poucos benefícios, temos a impressão de que ela irá consumir mais recursos ou irá elevar o tempo do desenvolvimento. 
+<p align = "justify">Sugere que todo e qualquer código produzido no projeto seja sempre implementado por duas pessoas juntas, diante do mesmo computador, revezando-se no teclado. Além de parecer ter poucos benefícios, temos a impressão de que ela irá consumir mais recursos ou irá elevar o tempo do desenvolvimento. 
 
 ###Porque parear com o coleguinha?
 **1** - A programação em par é uma forma eficaz de reduzir a incidência de bugs em um sistema. Quando dois desenvolvedores estão programando em par, um deles está com as mãos no teclado e no mouse. O outro está sentado ao lado, olhando para a mesma tela e preocupado em resolver o mesmo problema. É importante que eles conversem o tempo todo e troquem idéias sobre a solução.
