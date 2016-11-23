@@ -1,6 +1,8 @@
 # Instalando e configurando o Git
 
-Antes de utilizarmos o Git, é fundamental instalá-lo. Escolha a seguir o Sistema Operacional apropriado e mãos à obra!
+Antes de utilizarmos o Git, é fundamental instalá-lo. Para isso, você deve verificar seu **sistema operacional**, que é aonde você irá realizar a instalação de forma apropriada e mãos à obra!
+
+Abaixo, se encontra tópicos relacionados a maneira de instalá-lo em diferentes **sistemas operacionais**.
 
 ## Instalando no Windows
 
