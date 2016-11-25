@@ -282,7 +282,9 @@ INSTALLED_APPS = [
     'dust_auth',
     'bootstrap3',
 ]
-```Python
+```
+
+***
 
 
 # DOJO de testes (material didático)
