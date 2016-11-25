@@ -19,6 +19,8 @@
  * [3.5 Índice de Desempenho de Custo (CPI) e Índice de Desempenho de Prazo (SPI)](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Indicadores-%C3%81geis/_edit#35-%C3%8Dndice-de-desempenho-de-custo-cpi-e-%C3%8Dndice-de-desempenho-de-prazo-spi)
 
 ---------
+## 1. Indicadores de Qualidade do Processo
+
 ### 1.1 Fechamento da _Sprint_
 
 <p align = "justify">O fechamento da _sprint_ indica se as histórias planejadas para aquela _sprint_ foram concluídas ou não. Esse indicador auxilia no acompanhamento do progresso do valor agregado do projeto em relação ao que foi planejado até então. O melhor indicador possível é que todas as histórias planejadas estejam concluídas, caso contrário, é necessário adicioná-la no planejamento de futuras _sprint_ se possível.
@@ -52,6 +54,8 @@
  * **_Average Method Lines of Code_ (AMLOC):** AMLOC representa a média do número de linhas dos métodos de uma classe.
  * **_Depth of Inheritance Tree_ (DIT):** DIT é uma métrica que mede a profundidade que uma classe se encontra na árvore de herança, e caso haja herança múltipla, DIT mede a distância máxima até o nó raiz da árvore de herança.
  * **_Number of Methods_ (NOM):** NOM é uma métrica de tamanho que conta o número de métodos de uma classe.
+
+## 3. EVM
 
 ### 3.4 Variação do Custo e Variação do Prazo
 
