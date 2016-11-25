@@ -14,8 +14,8 @@ A desvantagem desse pareamento é que o par pode perde o foco com facilidade já
 # Boas práticas Programação Pareada
 **Algumas práticas de pareamento altamente efetivos:**
 
-* Proficiência:
-* Comunicação:
+* Proficiência: Ter proficiência com a linguagem e com as ferramentas utilizadas é extremamente importante para um pareamento eficiente. Caso contrário, o rendimento não será muito alto pois um membro do par será apenas ouvinte e não conseguirá acompanhar e contribuir.
+* Comunicação: A dupla precisa ter uma comunicação efetiva. É necessário que ambos estejam cientes e de acordo com o que será feito, é válido utilizar ferramentas de BDD para definir claramente o que será feito. Além disso, o piloto tem que estar constantemente se comunicando sobre o que está fazendo e pensando com o copiloto.
 * Autoconfiança:
 * Autocontrole:
 * Paciência
