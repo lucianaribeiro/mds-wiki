@@ -4,9 +4,14 @@
 
 [1 Introdução](#1-introdução)
 
-[2 Integração Contínua](#3-integração-contínua) 
+[2 Circle CI](#2-circle-ci) 
 
->[2.1 CircleCI](#41-circleci)
+[3 Script para checar se atingiu cobertura ](#3-Script-para-checar-se-atingiu-cobertura) 
+
+[4 Gradle](#4-gradle) 
+
+[5 Fastlane](#5-fastlane) 
+
 
 ***
 
@@ -14,9 +19,7 @@
 
 Este documento descreve o plano de gerenciamento de configuração de mudanças e tem como objetivo deixar todos os integrantes do projeto por dentro de como ocorrerão as configurações de ambiente, as rotinas e padrões de nomenclatura realizadas durante as mudanças do mesmo.
 
-#2 Integração e deploy contínuo
-##2.1 CircleCI
-
+#2 Circle CI
 CircleCI foi a ferramenta de integração contínua decidida por ser utilizada. Sua configuração é feita através de um arquivo .yml na pasta raiz do projeto.
 As builds geradas pela ferramenta podem ser acessadas neste [link](https://circleci.com/gh/fga-gpp-mds/2016.2-CidadeDemocratica/tree/master).
 
@@ -77,8 +80,7 @@ deployment:
     commands:
       - fastlane beta
 ```
-###2.1.1 Script para checar se atingiu cobertura 
-
+#3 Script para checar se atingiu cobertura 
 ```shell
 #!/bin/bash
 
@@ -101,7 +103,9 @@ fi
 
 ```
 
-###2.1.2 Task gradle para configurar o identificador da versão do apk que será enviado e os certificados de cosntrucao do .apk. A versão está sendo identificada de acordo com a data atual para que sempre automaticamente ao criar um apk a versão atual seja maior que a antiga.
+#4 Gradle
+
+ Task gradle para configurar o identificador da versão do apk que será enviado e os certificados de cosntrucao do .apk. A versão está sendo identificada de acordo com a data atual para que sempre automaticamente ao criar um apk a versão atual seja maior que a antiga.
 
 ```groovy 
 apply plugin: 'com.android.application'
@@ -202,7 +206,9 @@ apply plugin: 'com.google.gms.google-services'
 Antes de configurar a task, voce deve adiquirir o serviceAccountEmail e o jsonFile como descrito no 
 [Tutorial de Deploy Automatico na Google Play PDF](https://github.com/GPP-MDS-2016/ImagensDaWiki/raw/master/tutorial_deploy_automático_google_play.pdf)
 
-###2.1.3 Fastfile com a configuração do fastlane ferramenta para organizar scripts de automação em simples comandos
+#5 Fastlane
+
+ Fastfile com a configuração do fastlane ferramenta para organizar scripts de automação em simples comandos
 ```ruby 
 # Update this, if you use features of a newer version
 fastlane_version "1.105.3"
