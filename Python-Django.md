@@ -242,9 +242,27 @@ Agora vamos implementar o método que irá renderizar o template no browser do u
 Dentro do arquivo home/views.py, crie o método index:
 
 ```Python
+from django.shortcuts import render
+
 # Create your views here.
 def index(request):
     pass
+```
+
+O método está criado, porém, ainda não estamos renderizando a página para o usuário.
+Iremos fazer isso utilizando o método render.
+
+O método render recebe como parâmetro a request que o método index recebe no parâmetro
+e o caminho do html que deve ser renderizado.
+
+Desta maneira, atualize o seu método para que fique desta maneira:
+```Python
+from django.shortcuts import render
+
+# Create your views here.
+def index(request):
+    return render(request, 'home/index.html', context)
+
 ```
 
 ...
