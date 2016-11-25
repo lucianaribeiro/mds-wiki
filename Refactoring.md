@@ -80,6 +80,14 @@ A refatoração deve funcionar desta mesma forma: fazer com que um código inade
 
 ## Ferramentas das métricas
 
+# Relação entre Testes e Refatoração
+
+## Refatoração e Testes
+Os testes estão intrinsecamente relacionados à refatoração. Como a refatoração não pode alterar o funcionamento do código, os testes são a perfeita ferramenta para garantir o funcionamento correto do código **antes e depois** da refatoração.
+
+## Refatoração e TDD
+O TDD também está relacionado à refatoração, pois a refatoração dos testes é parte básica do ciclo de desenvolvimento direcionado à testes.
+
 # Tipos de Refatoração
 
 # Treinamento
