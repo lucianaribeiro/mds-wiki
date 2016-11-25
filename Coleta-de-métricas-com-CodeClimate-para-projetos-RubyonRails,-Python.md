@@ -67,17 +67,24 @@ Clicando no repositório desejado, será mostrada um _feed_ com as últimas atua
 Avaliação de qualidade de acordo com a evolução do arquivo (feed):
 [![1478398547528163.png](https://s26.postimg.org/ve40mp3gp/1478398547528163.png)](https://postimg.org/image/6832fv26d/)
 
-Avaliação de qualidade de acordo com a evolução do arquivo (feed):
 
-[![Selection_044.png](https://s17.postimg.org/49d675jnj/Selection_044.png)](https://postimg.org/image/9ks2rv5q3/)
+Ao clicar na aba `code`, é possível visualizar todos os arquivos e suas respectivas informações relacionadas à quantidade de linhas de código, número de vezes que o arquivo foi modificado até a data da última coleta de métricas e o número de _issues_ do arquivo (estas _issues_ significam que existem blocos de código duplicados em mais de um arquivo, por exemplo). 
 
 Avaliação de qualidade segundo as métricas de tamanho (LOC), duplicação (Duplication), Frequência de mudanças (Churn) e issues.
 
 [![Selection_044.png](https://s17.postimg.org/49d675jnj/Selection_044.png)](https://postimg.org/image/9ks2rv5q3/) 
 
-Ao clicar na aba `code`, é possível visualizar todos os arquivos e suas respectivas informações relacionadas à quantidade de linhas de código, número de vezes que o arquivo foi modificado até a data da última coleta de métricas e o número de _issues_ do arquivo (estas _issues_ significam que existem blocos de código duplicados em mais de um arquivo, por exemplo). 
 
-Ao clicar na aba `issues` é possível visualizar quais arquivos tem métodos ou blocos de código duplicados. Já na aba `trend` é possível visualizar novamente o _score_ final da avaliação das métricas e, mais importante, é possível visualizar o gráfico __churn vs. quality__, onde é mostrada a comparação entre a quantidade de vezes que o arquivo foi modificado e a qualidade de cada arquivo.
+
+Ao clicar na aba `issues` é possível visualizar quais arquivos tem métodos ou blocos de código duplicados.
+
+[![Selection_046.png](https://s12.postimg.org/io33zrc71/Selection_046.png)](https://postimg.org/image/mkgfvqx6h/)
+
+
+Já na aba `trend` é possível visualizar novamente o _score_ final da avaliação das métricas e, mais importante, é possível visualizar o gráfico __churn vs. quality__, onde é mostrada a comparação entre a quantidade de vezes que o arquivo foi modificado e a qualidade de cada arquivo.
+
+[![Selection_045.png](https://s16.postimg.org/ul4khkvn9/Selection_045.png)](https://postimg.org/image/grg7sj31t/)
+
 
 Para mais informações acesse a documentação oficial
 https://docs.codeclimate.com
