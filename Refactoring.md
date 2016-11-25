@@ -20,11 +20,20 @@ A refatoração é um processo de reorganização da estrutura interna do softwa
 
 Em resumo, melhoria de cobertura e tratamento de erros não é considerado como refatoração de código.
 
-# Quando a refatoração é necessaria
+# Quando a refatoração é necessária?
+## Para se encontrar um bug no código
+Bugs são como baratas: se escondendo nos lugares mais escuros e sujos do código. Desta forma, a limpeza do código vai tornar evidente os possíveis bugs.
 
-- Quando se encontra um bug no código é necessário refatora-lo.
-- Quando alguém vai adicionar uma nova funcionalidade é necessário refatorar o código para um melhor entendimento do código e para que os bugs fiquem mais visíveis pois um código desnecessariamente complexo dificulta a visualização de problemas.
-- De tempos em tempos o código precisa ser revisado para refatoração, de forma que fique mais limpo.
+## Ao se adicionar uma nova funcionalidade 
+Ao se adicionar uma nova funcionalidade é necessário refatorar o código para um melhor entendimento do código e para que os bugs fiquem mais visíveis, pois um código desnecessariamente complexo dificulta a visualização de problemas.
+
+## Durante a visão de código
+A revisão de código é sempre um bom momento para a refatoração, pois pode ser o último momento antes do código/software estar disponível para o público.
+
+A melhor forma de revisar o código é em conjunto com o autor do código, pois pode-se decidir formas e técnicas de refatoração sem prejudicar as funcionalidades. As mudanças podem ser feita diretas ao ponto.
+
+## Qualquer hora
+De tempos em tempos o código precisa ser revisado para refatoração, de forma que fique mais limpo.
 
 #Para quê utilizar a refatoração?
 
