@@ -20,6 +20,13 @@ A refatoração é um processo de reorganização da estrutura interna do softwa
 
 Em resumo, melhoria de cobertura e tratamento de erros não é considerado como refatoração de código.
 
+#Para quê utilizar a refatoração?
+
+- Eliminação de código duplicado, fazendo com que a repetição de código seja nivelada ao mínimo possível.
+- Elimanação de código morto, excluindo linhas de código que não acrescentam nada à aplicação.
+- Melhorar a lógica utilizada no sistema, de maneira que o design seja mais claro para programadores de fora.
+- Melhorar o uso da linguagem, otimizando o desempenho.
+
 # Bad Smells in code (mal cheiro de código)
 
 Bad smell é uma situação na qual a estrutura do programa pode ser melhorada com refatoração, como por exemplo: Duplicação de código e classe ou métodos longos.
