@@ -102,6 +102,15 @@ Fonte de informação: [Site RAILSAPPS](http://railsapps.github.io/installrubyon
 
 A _Model_ representará as informações ou dados abstraídos do mundo real, de modo que esta também não depende da _Controller_ ou _View_. A _View_ mostrará o dados contidos na _Model_ e pode também obter e/ou atualizar os dados da mesma e envia as ações executadas pelo usuário para a _Controller_. A _Controller_ proverá os dados contidos na _Model_ para a _View_, além de interpretar as ações do usuário – como clicar em um botão, funciona como um _link_ entre o usuário e o próprio sistema em si.
 
+# WebSockets
+
+##O que é?
+
+WebSockets é uma tecnologia avançada que torna possível abrir uma comunicação 
+interativa entre o navegador do usuário e o servidor, criando um canal bidirecional 
+para a comunicação entre eles. Esta tecnologia é a chave para o desenvolvimento de
+aplicações em tempo real.
+
 # DOJO de linguagem (material didático)
 
 ## Rails Tutorial - Michael Hartl
