@@ -29,6 +29,14 @@
 
 <p align = "justify">O _burndown_ indica a frequência de trabalho da equipe durante a _sprint_. Na coluna vertical, é indicado o número total de pontos planejados para aquela _sprint_ e na coluna horizontal as datas contidas no intervalo da duração da _sprint_. A linha azul indica os pontos planejados, é decrescente de forma constante e indica que idealmente os pontos devem diminuir gradativamente e constantemente ao passar da _sprint_. A linha vermelha representa o progresso real da equipe, ou seja, a quantidade de pontos concluído e o período da conclusão. Esse indicador auxilia a equipe à observar a constância dos pontos concluídos e portanto melhorar nas próximas _sprints_ fazendo com que o sistema receba um incremento com uma alta frequência.
 
+### 1.3 _Velocity_
+
+O _velocity_ indica a quantidade de pontos que a equipe consegue concluir em uma _sprint_. O gráfico possui uma coluna azul que indica a quantidade de pontos planejados para aquela _sprint_ e a coluna vermelha que indica a quantidade de pontos concluídos naquela _sprint_. O valor do velocity (em verde) é calculado a partir da divisão entre o número de pontos concluídos até aquela _sprint_ e o número de semanas de desenvolvimento até aquela sprint. Portanto, este valor indica a média de produtividade da equipe até a _sprint_ indicada.
+
+<p align = "justify">Exemplo de um _velocity_:
+
+![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/velocity-exemplo.png)
+
 ### 1.4 Quadro da Retrospectiva
 
 <p align = "justify">O quadro da retrospectiva geralmente possui três tópicos:
