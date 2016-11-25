@@ -16,9 +16,12 @@
  * [3.2 PV e AC](#32-pv-e-ac)
  * [3.3 EV](#33-ev)
  * [3.4 Variação do Custo e Variação do Prazo](#34-variação-do-custo-e-variação-do-prazo)
- * [3.5 SPI e CPI](#35-spi-e-cpi)
+ * [3.5 Índice de Desempenho de Custo (CPI) e Índice de Desempenho de Prazo (SPI)](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Indicadores-%C3%81geis/_edit#35-%C3%8Dndice-de-desempenho-de-custo-cpi-e-%C3%8Dndice-de-desempenho-de-prazo-spi)
 
 ---------
+### 1.1 Fechamento da _Sprint_
+
+<p align = "justify">O fechamento da _sprint_ indica se as histórias planejadas para aquela _sprint_ foram concluídas ou não. Esse indicador auxilia no acompanhamento do progresso do valor agregado do projeto em relação ao que foi planejado até então. O melhor indicador possível é que todas as histórias planejadas estejam concluídas, caso contrário, é necessário adicioná-la no planejamento de futuras _sprint_ se possível.
 
 ### 1.2 _Burndown_
 
@@ -38,6 +41,18 @@
 
 <p align = "justify">O quadro de conhecimento indica o conhecimento de cada integrante da equipe em relação à alguma tecnologia utilizada no projeto. A partir desse quadro, deve ser definido as duplas de pareamento de forma que a distribuição sempre possua o objetivo da melhor disseminação de conhecimento possível dentro da equipe. É esperado que os indicadores do quadro sempre evoluam durante as _sprints_ indicam a evolução do conhecimento dos integrantes da equipe.
 
+## 2. Indicadores de Qualidade de Código
+
+### 2.1 Métricas
+
+<p align = "justify">As métricas são um indicador para a qualidade do código. No final de toda _sprint_, elas devem ser analisadas e a partir dessa análise, serem definidos os pontos necessários para a refatoração. Exemplos de métricas:
+
+ * **_Afferent Connections per Class_ (ACC):** Mede o nível de acoplamento de uma classe através do número de outras classes que fazem referência a ela, por meio da utilização de algum método ou atributo.
+ * **_Average Cyclomatic Complexity per Method_ (ACCM):** Complexidade ciclomática nada mais é do que o número de caminhos, independentes que um software pode seguir em sua execução, calculado a,partir da representação em grafo das estruturas de controle.
+ * **_Average Method Lines of Code_ (AMLOC):** AMLOC representa a média do número de linhas dos métodos de uma classe.
+ * **_Depth of Inheritance Tree_ (DIT):** DIT é uma métrica que mede a profundidade que uma classe se encontra na árvore de herança, e caso haja herança múltipla, DIT mede a distância máxima até o nó raiz da árvore de herança.
+ * **_Number of Methods_ (NOM):** NOM é uma métrica de tamanho que conta o número de métodos de uma classe.
+
 ### 3.4 Variação do Custo e Variação do Prazo
 
 <p align = "justify"> As variações de custo (CV) e de prazo (SV) possuem valores iguais em todas as _sprints_ por consequência de serem calculadas de acordo com o custo real e valor planejado, respectivamente. 
@@ -46,9 +61,7 @@
 |:------------:|
 | SV = EV - PV |
 
-### 3.5 SPI e CPI
-
-### Índice de Desempenho de Custo (CPI) e Índice de Desempenho de Prazo (SPI)
+### 3.5 Índice de Desempenho de Custo (CPI) e Índice de Desempenho de Prazo (SPI)
 
 <p align = "justify"> Assim como as variações, os índices refletem a mesma característica, onde seus valores são iguais nas _sprints_. A fórmula para o cálculo destes índices encontra-se abaixo:
 
