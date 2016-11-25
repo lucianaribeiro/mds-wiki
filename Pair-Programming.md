@@ -22,6 +22,19 @@ A desvantagem desse pareamento é que o par pode perde o foco com facilidade já
 * **Modos**: Estabelecer algumas regras para que o pareamento seja eficiente é extremamente importante. Regras como: trocar a função de cada um na dupla(piloto e copiloto) a cada intervalo de tempo pré-estabelecido, não ler emails ou mensagens no celular, não tocar na tela, não usar palavras ofensivas ou xingamentos, entre outros.
 * **Higiene**: Apesar de não parecer essa prática é importante. Maus hábitos de higiene pode deixar a outra pessoa extremamente desconfortável e fazer com que ela não queira parear. Ter práticas básicas de higiene pessoal e no ambiente de trabalho é essencial.
 
+# Tipos de Programação Pareada
+
+## Especialista x Especialista
+
+Tipo de pareamento que a princípio parece ser o melhor, contudo, geralmente traz poucas inovações, já que especialistas já estão acostumados com as estruturas e paradigmas pré-definidos e tendem a não questioná-los.
+
+## Principiante x Principiante
+
+Tipo de pareamento que traz melhores resultados que um principiante trabalhando sozinho, contudo, a curva de aprendizagem e de produção deste tipo é bem lenta, sendo ele desencorajado.
+
+## Especialista x Principiante
+
+Tipo de pareamento mais recomendado, de modo que a curva de aprendizado do principiante tem crescimento rápido, além de que, o desconhecimento do principiante de estruturas e paradigmas pré-definidos o faz questioná-los, podendo gerar novas ideias e inovações. Contudo, para que este pareamento funcione adequadamente, o especialista precisa ter paciência e vontade de ensinar o principiante, bem como é requerida proatividade deste último, para que o primeiro não faça tudo sozinho.
 
 # Treinamento Programação Pareada
 
