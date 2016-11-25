@@ -104,11 +104,14 @@ Pair programming
 https://courses.edx.org/courses/course-v1:BerkeleyX+CS169.1x+3T2015SP/
 
 ###Variações de Pares
-**Expert-Expert** - Essa variação pode gerar um aumento enorme de produtividade e grandes resultados, entretanto nela pode haver uma falta de resolver problemas de novas formas, visto que dificilmente alguém da dupla questionará praticas já estabelecidas.
+**Especialista x Especialista**  
+Essa variação pode gerar um aumento enorme de produtividade e grandes resultados, entretanto nela pode haver uma falta de resolver problemas de novas formas, visto que dificilmente alguém da dupla questionará praticas já estabelecidas.  
 
-**Expert-Aprendiz** - Essa variação cria uma excelente oportunidade para o expert mentorear o aprendiz. Ela proporciona a criação de novas ideias, visto que o aprendiz deve buscar questionar e aprender práticas estabelecidas e o expert tem que usar os conhecimentos adquiridos com essas práticas para explicá-las e questioná-las também. É muito importante que o aprendiz não haja passivamente no processo e não hesite em participar.
+**Especialista x Principiante**  
+Essa variação cria uma excelente oportunidade para o expert mentorear o aprendiz. Ela proporciona a criação de novas ideias, visto que o aprendiz deve buscar questionar e aprender práticas estabelecidas e o expert tem que usar os conhecimentos adquiridos com essas práticas para explicá-las e questioná-las também. É muito importante que o aprendiz não haja passivamente no processo e não hesite em participar.  
  
-**Aprendiz-Aprendiz** - Pode gerar ganhos de produtividade maior do que dois aprendizes trabalhando sozinhos, entretanto não é uma variação muito encorajada.
+**Principiante x Principiante**  
+Pode gerar ganhos de produtividade maior do que dois aprendizes trabalhando sozinhos, entretanto não é uma variação muito encorajada.  
 
 ## Teste de aceitação
 <p align="justify">Os Testes de Aceitação consistem no teste de uma possível aceitação por parte do cliente. Testes de aceitação estão intimamente ligados com as user stories.
