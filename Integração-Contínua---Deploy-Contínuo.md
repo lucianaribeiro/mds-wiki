@@ -34,7 +34,28 @@ https://www.youtube.com/watch?v=ZLBhVEo1OG4
 ![Int2](http://i.imgur.com/dlXW3av.png)
 
 # Deploy Contínuo
+Um processo de Deploy Contínuo (“Continuous Deploy”) é a capacidade de automatizar a homologação e testes do software de um produto desenvolvido de forma automática e rápida, onde a cada alteração significativa seja possível rodar toda a integração contínua, validar o produtos e suas credencias e deixa-lo disponível para produção. Esse processo geralmente é classificado dentro de duas vertentes, que variam de acordo com as capacidades de cada projeto e seus requisitos:
 
+**1. Totalmente automatizado:** uma mudança no código é automaticamente verificada e, se tudo estiver certo, a aplicação vai para produção;
+
+**2. Semi-automatizado:** a ideia é ser capaz de empurrar para produção a última versão estável do aplicativo em qualquer momento apenas apertando um botão. Nesse caso, chamamos de “one-click-deployment”.
+
+## Exemplo: Task gradle para subir para google play beta ou production
+
+Antes de configurar a task, voce deve adiquirir o serviceAccountEmail e o jsonFile como descrito no 
+[Tutorial de Deploy Automatico na Google Play PDF](https://github.com/GPP-MDS-2016/ImagensDaWiki/raw/master/tutorial_deploy_automático_google_play.pdf)
+
+o ${track} foi configurado como uma variavel de ambiente do gradle no script do circle ci, para especificar se é uma build de produção que vai para a play store ou uma build de testes que vai para emails selecionados. 
+
+```groovy
+play {
+    track = "${track}"
+    serviceAccountEmail = 'example@mail'
+    jsonFile = file('/path/to/uknonwnfile.json') //renomeie o file com a extensao .json
+}
+```
+
+Basicamente, sua ferramenta de integração contínua deverá gerar a build do produto, rodando os testes unitários e de aceitação, ou quaisquer outras medidas de validação do seu produto e de acordo com o configurado, podendo ser por commit ou push em uma branch específica ele irá enviar o seu aplicativo para ser publicado na loja de acordo com suas configurações ou para beta ou para distribuição de produção.
 
 # Build Automation
 
