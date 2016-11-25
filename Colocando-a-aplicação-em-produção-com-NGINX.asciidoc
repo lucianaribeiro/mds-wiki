@@ -1,8 +1,8 @@
-# Colocando a aplicação em produção com NGINX
+= Colocando a aplicação em produção com NGINX
 
 Como sabemos softwares feitos com python/Django e node.js/Express, são excelentes em relação a produtividade de produção, mas quando o a aplicação inteira é colcoada em cima dessas tecnologias, a perfomace reduz consideravelmente. Nesse tutorial vamos aprender a como colcoar uma aplicação em produção integrando com NGINX visando o aumento da perfomace da aplicação, atendendo mais usuários com os mesmos recursos. Dessa forma iremos criar dois servidores, proxy server do nginx com Django ou Express e também um servidor static server pelo qual será usado para o processamento de arquivos estáticos. Dessa forma é possível diminuir o número de requisições diretas a aplicação.
 
-## Instalando o NGINX na sua versão mais recente
+== Instalando o NGINX na sua versão mais recente
 
 (Foi utilizado sistema ubuntu na instalação)
 Execute os comandos em sequência:
@@ -58,7 +58,8 @@ No último location, o location /, vai para a raiz da aplicação sendo ela um p
 Mas então quer dizer que se eu quiser rodar a aplicação em um servidor e os arquivos estáticos em outro eu posso?
 Sim, pode! Inclusive pode se fazer isso para aumentar ainda mais a perfomace do servidor e atenter mais usuários.
 
-## Referências
-> [Howto install NGINX on ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-14-04-lts)
-> [NGINX servindo nodejs](https://udgwebdev.com/nginx-servindo-nodejs)
-> [Habilitando Gzip](http://blog.thiagobelem.net/habilitando-gzip-em-servidores-nginx)
+== Referências
+
+https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-14-04-lts [How to install NGINX on ubuntu]
+https://udgwebdev.com/nginx-servindo-nodejs [NGINX servindo nodejs]
+http://blog.thiagobelem.net/habilitando-gzip-em-servidores-nginx [Habilitando Gzip]
