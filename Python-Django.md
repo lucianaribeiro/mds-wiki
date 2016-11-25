@@ -195,7 +195,58 @@ Crie o arquivo com a tag H1 com o título 'Hello' dentro:
 Agora temos que fazer com que o usuário tenha este HTML renderizado quando o usuário entrar no site
 com a url localhost:8000.
 
-Primeiramente temos que mapear as urls. 
+Primeiramente temos que mapear as urls. Existe dois tipos de arquivos urls que iremos utilizar neste
+aplicativo.  O primeiro tipo é a url master, que redireciona uma url para algum app do sistema. O outro
+tipo é a url interna do app, onde ela mapeia uma url em um método da view.
+
+Primeiramente, vamos adicionar um mapeamento da urls principal para o app home. Para isso, adicione
+este import no arquivo:
+
+```Python
+from django.conf.urls import url, include
+```
+
+
+Após, inclua o app quando a expressão regular "" for capturada:
+
+```Python
+urlpatterns = [
+    url(r'^admin/', admin.site.urls),
+    url(r'^', include('home.urls', namespace='home')),
+]
+```
+
+Isto irá apontar a url para o aplicativo. Agora, precisamos criar o arquivo de urls dentro do app:
+
+```Shell
+touch home/urls.py
+```
+
+Copie o seguinte código para dentro do arquivo urls do app home:
+
+```Python
+from django.conf.urls import url, include
+from django.contrib import admin
+from . import views
+
+app_name = 'home'
+urlpatterns = [
+    url(r'^', views.index, name='index'),
+]
+```
+
+Isto irá redirecionar o usuário para o método index da view do app home.
+
+Agora vamos implementar o método que irá renderizar o template no browser do usuário.
+
+Dentro do arquivo home/views.py, crie o método index:
+
+```Python
+# Create your views here.
+def index(request):
+    pass
+```
+
 ...
 
 # DOJO de testes (material didático)
