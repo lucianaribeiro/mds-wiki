@@ -74,6 +74,8 @@ Caso você precise sair do ambiente virtual (para criar um outro ambiente por ex
 Em seguida, seu terminal terá o seguinte modelo:  
          ``~$``
 
+***
+
 # DOJO de linguagem (material didático)
 Agora que o ambiente está instalado, antes de criar um projeto Django,
 vamos discutir sobre: como o Django funciona? Qual é a sua arquitetura?
