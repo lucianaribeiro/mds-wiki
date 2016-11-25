@@ -265,7 +265,25 @@ def index(request):
 
 ```
 
-...
+Para que tudo funcione perfeitamente, só é necessário adicionar o nosso app para o
+arquivo de configuração do django. Assim, abra o arquivo settings.py e adicione o app
+no INSTALLED_APPS:
+
+```Python
+INSTALLED_APPS = [
+    'django.contrib.admin',
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.sessions',
+    'django.contrib.messages',
+    'django.contrib.staticfiles',
+    'home',
+    'comment',
+    'dust_auth',
+    'bootstrap3',
+]
+```Python
+
 
 # DOJO de testes (material didático)
 ## Testes Unitários
