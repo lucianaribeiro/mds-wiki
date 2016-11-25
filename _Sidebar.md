@@ -64,6 +64,8 @@
 
 [Coleta de métricas com CodeClimate](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Coleta-de-m%C3%A9tricas-com-CodeClimate-para-projetos-RubyonRails,-Python)
 
+[Configuração de um ambiente virtual utilizando o Vagrant](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Configura%C3%A7%C3%A3o-de-um-ambiente-virtual-utilizando-o-Vagrant)
+
 [Tutoriais e Materiais][tutoriaismateriais]
 
 [Teste Automatizado com Selenium IDE][testeAutomatizadoComSeleniumIDE]
