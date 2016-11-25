@@ -90,6 +90,14 @@ Engana-se quem pensa que produzirá mais código pelo simples fato de utilizar T
 ###Cultura
 Muito fala-se de TDD no Brasil, mas ao questionarmos programadores de diversas empresas muitos apresentam os motivos citados acima para não utilizá-lo. Existem sim muitas empresas e programadores que levam a prática a sério e a evangelizam justamente por conhecerem as vantagens que o TDD nos traz.
 
+##Devo praticar TDD 100% do tempo?
+
+A resposta para essa pergunta serve para toda e qualquer prática de engenharia de software. É claro que não.
+
+Como já discutido anteriormente, TDD faz com que o desenvolvedor teste melhor sua aplicação, bem como pense em um design de classes melhor e mais flexível para aquele problema. Mas não é sempre que precisamos disso. Se estamos, por exemplo, escrevendo a implementação de um DAO (classe que se comunica com o banco de dados), talvez escrever os testes antes não vá ajudar tanto, afinal não há grandes decisões de design a serem tomadas em classes como essa, e a funcionalidade tende a ser simples. Escrever o teste depois, portanto, não será tão diferente de escrever o teste antes.
+
+O desenvolvedor maduro leva em consideração a sua experiência, e entende bem as vantagens da prática. E, na hora certa, fazer uso dela. 
+
 ## Referências
 
 [1] K. W. Miller,Test Driven Development on the Cheap:Text Files and Explicit Scaffolding. Disponível em http://www.ccsc.org/northwest/docarchive/2004/augustmailing2004final.doc  
