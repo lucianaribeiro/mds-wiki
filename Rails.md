@@ -111,6 +111,12 @@ interativa entre o navegador do usuário e o servidor, criando um canal bidireci
 para a comunicação entre eles. Esta tecnologia é a chave para o desenvolvimento de
 aplicações em tempo real.
 
+## WebSockets VS Protocolo HTTP
+
+A tecnologia de WebSockets veio para satisfazer uma demanda mundial: a _instantaneidade_ das informações. Desta forma, o paradigma "Requisição-Resposta" entre usuário e servidor do HTTP torna-se obsoleto em vista das exigências modernas.
+
+Websockets utilizam um canal para manter a conexão aberta, o _Action Cable_. Assim, as requisições dos usuários e servidores podem ser efetuadas em tempo real.
+
 # DOJO de linguagem (material didático)
 
 ## Rails Tutorial - Michael Hartl
