@@ -20,6 +20,11 @@ Referência: [Desenvolvimento XP](http://xp.edugraf.ufsc.br/bin/view/XP/TesteAce
 # Teste Unitário Automatizado
 # Stub
 
+Muitas vezes, durante a implementação de testes, é possível que surja a necessidade de se testar uma classe que dependa de uma outra ainda não implementada. Isto pode ocorrer especialmente na prática de TDD (_Test Driven Development_), devido à prática conhecida como _babysteps_, os "passos de bebê" que dizem que é necessário realizar a implementação nos menores módulos possíveis. Para que seja possível implementar os testes nesses casos, são utilizados os _stubs_. _Stubs_ são formas simplificadas de objetos reais, algo que se assemelha a uma versão _dummy_ da classe a ser utilizada. Seu propósito é realizar as funções básicas esperadas de uma classe ainda não implementada para que uma outra que a tenha como dependência possa ser testada.  
+  
+[O que é um Stub?](http://stackoverflow.com/questions/463278/what-is-a-stub)  
+[Um Estudo Sobre Testes Teóricos e Práticos de Software](http://qualipso.icmc.usp.br/files/monografia.pdf)
+
 # Mock
 
 # Boas práticas Testes Unitários
