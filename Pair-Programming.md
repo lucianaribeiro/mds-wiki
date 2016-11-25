@@ -20,7 +20,7 @@ A desvantagem desse pareamento é que o par pode perde o foco com facilidade já
 * Autocontrole: Ter autocontrole para evitar distrações durante o pareamento e não se irritar ou se frustar com algo que não está dando certo contribui fortemente para a eficiência do par. Estabelecer algumas regras, como não usar celular para email ou mensagens que não vão contribuir é extremamente válido.
 * Paciência: Ter paciência com o outro membro do par quando este não tem tanto controle das ferramentas do computador é de grande ajuda para que ambos tenham confiança e vontade de trabalhar.
 * Modos: Estabelecer algumas regras para que o pareamento seja eficiente é extremamente importante. Regras como: trocar a função de cada um na dupla(piloto e copiloto) a cada intervalo de tempo pré-estabelecido, não ler emails ou mensagens no celular, não tocar na tela, não usar palavras ofensivas ou xingamentos, entre outros.
-* Higiene:
+* Higiene: Apesar de não parecer essa prática é importante. Maus hábitos de higiene pode deixar a outra pessoa extremamente desconfortável e fazer com que ela não queira parear. Ter práticas básicas de higiene pessoal e no ambiente de trabalho é essencial.
 
 
 # Treinamento Programação Pareada
