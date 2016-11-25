@@ -16,8 +16,8 @@ A desvantagem desse pareamento é que o par pode perde o foco com facilidade já
 
 * Proficiência: Ter proficiência com a linguagem e com as ferramentas utilizadas é extremamente importante para um pareamento eficiente. Caso contrário, o rendimento não será muito alto pois um membro do par será apenas ouvinte e não conseguirá acompanhar e contribuir.
 * Comunicação: A dupla precisa ter uma comunicação efetiva. É necessário que ambos estejam cientes e de acordo com o que será feito, é válido utilizar ferramentas de BDD para definir claramente o que será feito. Além disso, o piloto tem que estar constantemente se comunicando sobre o que está fazendo e pensando com o copiloto.
-* Autoconfiança:
-* Autocontrole:
+* Autoconfiança: É essencial ter autoconfiança nas suas habilidades, dessa forma cada membro conseguirá contribuir e aprender bastante, criticando, recebendo críticas, questionando práticas e sugerindo novas ideias.
+* Autocontrole: Ter autocontrole para evitar distrações durante o pareamento e não se irritar ou se frustar com algo que não está dando certo contribui fortemente para a eficiência do par. Estabelecer algumas regras, como não usar celular para email ou mensagens que não vão contribuir é extremamente válido.
 * Paciência
 * Modos:
 * Higiene:
