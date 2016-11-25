@@ -2,6 +2,8 @@
 
 <p align = "justify">O XP, ou _Extreme Programming_, é uma metodologia de desenvolvimento de software que tem como objetivo principal levar ao extremo um boas práticas de programação e boas práticas para o desenvolvimento de software no geral. O XP é uma metodologia baseada em valores, que definem uma maneira harmoniosa de trabalho na equipe de desenvolvimento.
 
+<p align = "justify">O foco desta metodologia é no desenvolvimento incremental e iterativo de sistemas orientados à objetos nos quais os requisitos são instáveis e/ou incertos e que possua uma equipe pequena.
+
 <p align = "justify"> O XP define uma série de regras para que o desenvolvimento seja realizado da melhor maneira possível: 
 
 #### Planejamento:
@@ -51,10 +53,24 @@ Pode-se se dizer que é uma metodologia bastante volátil, mas no bom sentido. P
 
 # Valores XP
 * **Comunicação**
+
+Todo o processo ágil é baseado na comunicação. A comunicação é essencial para o êxito da metodologia àgil e pode ser realizada de diversas formas, não somente por documentação como nas metodologias tradicionais. A comunicação entre os desenvolvedores instiga a disseminação do conhecimento dentro da equipe, evoluindo-a em aspectos técnicos. Já a comunicação com o cliente garante que o produto entregue atenda à suas expectativas.
+
 * **Coragem**
+
+Consiste na coragem durante a implementação de tomar decisões que sejam melhores para a equipe e para o código. Por exemplo, coragem para refatorar códigos já implementadas para que a qualidade do código melhore.
+
 * **Feedback**
+
+O _feedback_ consiste em uma frequente comunicação entre o cliente e a equipe que seja um retorno sobre o sistema. Por exemplo, o que está bom, o que está ruim, o que deve ser implementado, o que deve ser alterado, o que realmente é necessário naquele momento e para aquele sistema. Dessa forma, a equipe que está desenvolvendo o sistema tem uma visão clara acerca dos requisitos e do que é necessário que seja implementado.
+
 * **Respeito**
-* **Simplicidade**          
+
+O respeito é essencial para uma boa convivência da equipe. Todos os integrantes devem demonstrar respeito uns aos outros, não desmerecer as idéias ou indagações alheias. 
+
+* **Simplicidade**
+          
+Sempre que foi iniciado a implementação de algo, deve ser questionado qual a forma mais fácil de implementar aquele escopo. Quanto mais simples, melhor a manutenibilidade e a qualidade do código.
 
 # Funcionalidade Pronta XP
 
