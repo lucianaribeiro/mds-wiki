@@ -29,7 +29,7 @@ O tutorial do [Django Girls](https://tutorial.djangogirls.org/pt/) é extremamen
 E o melhor, tudo em português!
 
 # Materiais
-Esta parte é destinada para apresentação de materiais que auxiliem a disciplina.
+[Guia do Scrum em português] (http://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-Portuguese-BR.pdf)
 ## Tutorial Terminal 
 > ### Codecademy 
 > https://www.codecademy.com/pt/learn/learn-the-command-line
