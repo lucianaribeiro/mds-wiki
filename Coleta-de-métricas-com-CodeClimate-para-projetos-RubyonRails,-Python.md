@@ -64,11 +64,16 @@ Para verificar o resultado das métricas coletadas, basta acessar o [site](http:
 
 Clicando no repositório desejado, será mostrada um _feed_ com as últimas atualizações relacionadas as métricas do repositório (por exemplo, caso a cobertura de testes aumentem, a atualização será mostrada nesta tela). Nesta mesma tela, é possível visualizar o _score_ final da avaliação das métricas, indo de 0.0 a 4.0. 
 
-Avaliação de qualidade de acordo com a evolução do arquivo:
+Avaliação de qualidade de acordo com a evolução do arquivo (feed):
 [![1478398547528163.png](https://s26.postimg.org/ve40mp3gp/1478398547528163.png)](https://postimg.org/image/6832fv26d/)
 
+Avaliação de qualidade de acordo com a evolução do arquivo (feed):
 
+[![Selection_044.png](https://s17.postimg.org/49d675jnj/Selection_044.png)](https://postimg.org/image/9ks2rv5q3/)
 
+Avaliação de qualidade segundo as métricas de tamanho (LOC), duplicação (Duplication), Frequência de mudanças (Churn) e issues.
+
+[![Selection_044.png](https://s17.postimg.org/49d675jnj/Selection_044.png)](https://postimg.org/image/9ks2rv5q3/) 
 
 Ao clicar na aba `code`, é possível visualizar todos os arquivos e suas respectivas informações relacionadas à quantidade de linhas de código, número de vezes que o arquivo foi modificado até a data da última coleta de métricas e o número de _issues_ do arquivo (estas _issues_ significam que existem blocos de código duplicados em mais de um arquivo, por exemplo). 
 
