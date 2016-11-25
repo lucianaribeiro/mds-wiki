@@ -278,9 +278,6 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'home',
-    'comment',
-    'dust_auth',
-    'bootstrap3',
 ]
 ```
 
