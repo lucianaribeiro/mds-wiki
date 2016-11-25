@@ -174,6 +174,28 @@ repositório do [Dustwitter](https://github.com/TiagoAssuncao/dustwitter/tree/ma
 
 O primeiro ponto que vamos implementar é a apresentação de um HTML simples para a exibição
 quando solicitarmos a página. 
+
+Crie uma pasta dentro do app que acabou de ser criado, chamada templates, dentro desta pasta
+serão armazenados todos os templates do aplicativo home.
+
+`mkdir templates`
+
+Além disso, há uma convenção de se criar uma pasta dentro da templates com o nome do aplicativo:
+
+`cd templates; mkdir home`
+
+Dentro desta pasta será criado o arquivo index.html, que será nosso primeiro HTML e será responsável
+por receber apresentar a tela inicial do sistema. 
+
+Crie o arquivo com a tag H1 com o título 'Hello' dentro:
+
+`cd home`<br>
+`echo "<h1>Hello</h1" > index.html`
+
+Agora temos que fazer com que o usuário tenha este HTML renderizado quando o usuário entrar no site
+com a url localhost:8000.
+
+Primeiramente temos que mapear as urls. 
 ...
 
 # DOJO de testes (material didático)
