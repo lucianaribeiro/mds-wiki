@@ -26,6 +26,10 @@ Muitas vezes, durante a implementação de testes, é possível que surja a nece
 [Um Estudo Sobre Testes Teóricos e Práticos de Software](http://qualipso.icmc.usp.br/files/monografia.pdf)
 
 # Mock
+  
+_Mocks_ são semelhantes a _stubs_ porém, enquanto um _stub_ serve como uma versão _dummy_ de uma classe, um _mock_ serve apenas como uma interface. O _mock_ não possui nenhuma funcionalidade. Ele apenas intercepta as mensagens que saem da classe testada e são destinadas à classe alvo, e retorna um valor pre-estabelecido. Dentro do contexto de TDD, os _mocks_ servem para garantir que as mensagens enviadas terão suas respostas esperadas de forma que os testes possam ser implementados. Além disso, eles são capazes de contar quantas vezes cada função foi chamada para que testes mais elaborados possam ser mais implementados.  
+  
+[A abodagem Mock para TDD](http://www.embedded.com/design/prototyping-and-development/4398723/The-mock-object-approach-to-test-driven-development)  
 
 # Boas práticas Testes Unitários
 
