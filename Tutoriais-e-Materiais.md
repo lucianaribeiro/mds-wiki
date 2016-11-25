@@ -36,3 +36,12 @@ E o melhor, tudo em português!
 ### Comunidade Ubuntu
 > https://help.ubuntu.com/community/UsingTheTerminal
 
+## Tutorial Android
+> ### Iniciando o desenvolvimento Android - Da linguagem ao framework
+> https://www.udemy.com/become-an-android-developer-from-scratch/
+> ### Tutorial iniciante de Android Studio
+> https://www.udemy.com/androidstudio/
+
+## Tutorial NodeJS
+> ### Plataforma de conhecimentos básicos e avançados em NodeJS FREE
+> https://nodeschool.io/
