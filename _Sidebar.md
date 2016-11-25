@@ -30,6 +30,7 @@
 
 [Programação Extrema (XP)](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Programa%C3%A7%C3%A3o-Extrema-(XP))
 
+[Indicadores Ágeis](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Indicadores-%C3%81geis)
 
 # Programação Extrema (XP)
 [Pair Programming](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Pair-Programming)
