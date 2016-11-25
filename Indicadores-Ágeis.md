@@ -40,8 +40,18 @@
 
 ### 3.4 Variação do Custo e Variação do Prazo
 
-<p align = "justify"> As variações de custo (CV) e de prazo (SV) tiveram valores iguais em todas as _sprints_ por consequência de serem calculadas de acordo com o custo real e valor planejado, respectivamente. 
+<p align = "justify"> As variações de custo (CV) e de prazo (SV) possuem valores iguais em todas as _sprints_ por consequência de serem calculadas de acordo com o custo real e valor planejado, respectivamente. 
 
 | CV = EV - AC |
 |:------------:|
 | SV = EV - PV |
+
+### 3.5 SPI e CPI
+
+### Índice de Desempenho de Custo (CPI) e Índice de Desempenho de Prazo (SPI)
+
+<p align = "justify"> Assim como as variações, os índices refletem a mesma característica, onde seus valores são iguais nas _sprints_. A fórmula para o cálculo destes índices encontra-se abaixo:
+
+| CV = EV / AC |
+|:------------:|
+| SV = EV / PV |
