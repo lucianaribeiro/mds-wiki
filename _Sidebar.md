@@ -99,3 +99,5 @@
 [Teste de Aceitação Python/Django com Selenium](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-para-Teste-de-Aceitação-Python-Django-com-Selenium)
 
 [Android Circle Continuous Integration (Unit Tests, UI Tests, Coverage build pass rule, beta deploy and production deploy automated)](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Android---Circle-Continuous-Integration-(Unit-Tests,-UI-Tests,-Coverage-build-pass-rule,-beta-deploy-and-production-deploy-automated))
+
+[Colocando a aplicação em produção com NGINX](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Colocando-a-aplica%C3%A7%C3%A3o-em-produ%C3%A7%C3%A3o-com-NGINX)
