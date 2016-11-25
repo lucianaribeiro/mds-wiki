@@ -58,6 +58,17 @@ Como refatoração propõe-se mover o método ou atributo da superclasse para a 
 
 * **Comments:** Os comentários não são ruins, porém quando em excesso podem indicar que os nomes de métodos/atributos não estão suficientemente expressivos.
 Pode-se quebrar um método em dois ou renomear.
+
+#Exemplo de Refatoração
+
+A refatoração deve resultar em um código mais limpo, que seja legível, claro e com o mínimo de repetições. Na imagem abaixo podemos fazer uma analogia a refatoração:
+
+![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/refatoracao-casa.png)
+
+Esta imagem retrata uma cozinha em duas situações distintas. Na esquerda, vemos uma cozinha em situação caótica, onde preparar alimentos, lavar e encontrar utensílios, que são o objetivo principal da cozinha, se tornaram tarefas difíceis. Já na direita, vemos uma cozinha limpa e organizada, onde pode-se realizar as mesmas tarefas da anterior, porém com muito mais facilidade.
+
+A refatoração deve funcionar desta mesma forma: fazer com que um código inadequado se torne limpo, facilitando seu entendimento, e tornando a detecção de bugs mais simples. A refatoração não pode alterar o comportamento do código.
+
 ## Ferramentas das métricas
 
 # Tipos de Refatoração
