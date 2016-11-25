@@ -13,8 +13,8 @@
 
 [3. EVM](#3-evm)
  * [3.1 BAC](#31-bac)
- * [3.2 PV e AC](#32-pv-e-ac)
- * [3.3 EV](#33-ev)
+ * [3.2 Valor Planejado (PV) e Custo Real (AC)](#32-pv-e-ac)
+ * [3.3 Valor Agregado (EV)](#33-valor-agregado-ev)
  * [3.4 Variação do Custo e Variação do Prazo](#34-variação-do-custo-e-variação-do-prazo)
  * [3.5 Índice de Desempenho de Custo (CPI) e Índice de Desempenho de Prazo (SPI)](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Indicadores-%C3%81geis/_edit#35-%C3%8Dndice-de-desempenho-de-custo-cpi-e-%C3%8Dndice-de-desempenho-de-prazo-spi)
 
@@ -64,6 +64,16 @@ O _velocity_ indica a quantidade de pontos que a equipe consegue concluir em uma
  * **_Number of Methods_ (NOM):** NOM é uma métrica de tamanho que conta o número de métodos de uma classe.
 
 ## 3. EVM
+
+### 3.3 Valor Agregado (EV)
+
+<p align = "justify"> Diferente do valor planejado e do custo real, o valor agregado se difere em cada _sprint_ dependendo do desempenho da equipe na mesma. O valor agregado é um indicador da produtividade da equipe refletida no custo, onde é possível perceber se a equipe está fazendo as entregas conforme o planejado. Para o cálculo do valor agregado, é necessário saber a Porcentagem Concluída na _Sprint_ (PPC) e o Valor Planejado (PV).
+
+| PPC = PC / PP |
+|---------------|
+| EV = PPC * PV |                                                      
+
+Onde, PC = Pontos Concluídos e PP = Pontos Planejados
 
 ### 3.4 Variação do Custo e Variação do Prazo
 
