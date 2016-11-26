@@ -65,8 +65,12 @@ O _velocity_ indica a quantidade de pontos que a equipe consegue concluir em uma
 
 ## 3. EVM
 
-### 3.1 Custo Total Planejado (BAC)
+### 3.1 BAC
 <p align = "justify"> O custo total planejado consiste no calculo dos pontos totais planejados (PRP) multiplicado pelo custo do ponto. 
+
+### 3.2 Valor Planejado (PV) e Custo Real (AC)
+<p align = "justify"> O valor planejado (PV) fundamenta-se do calculo entre a Porcentagem planejada Completa (PPC) multiplicado pelo Custo Total Planejado (BAC). A cada sprint este valor será diferente, indicando quanto que o projeto está custando do ponto de vista do planejamento.
+<p align = "justify">O Custo Real (AC) fundamenta-se do calculo entre Pontos Completos Reais (PCR) multiplicado pelo Custo Do Ponto. A cada sprint este valor será diferente, indicando o quanto essa sprint está realmente valendo, do ponto de vista dos pontos completado na mesma.
 
 ### 3.3 Valor Agregado (EV)
 
