@@ -31,7 +31,36 @@ Como visto na imagem abaixo, foi definido os estágios do processo.
 
 ![kanban](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/image2.png)
 
-###1.1.3
+###1.1.3 Priorização
+
+A priorização deve ser feita sempre na parte superior do kanban, para que se possa ficar bem visível quais são as prioridade da equipe. Se achar melhor, pode-se separar o quadro em categorias, mas essas estrutura tem que seguir as priorizações que foram definidas. 
+
+
+Manter o controle constante da evolução do que foi priorizado é fundamental para que esse método der certo, e além disso para que as devidas mudanças na ordem, ou o acrescento de novos cartões sejam realizados, assim, permitindo o melhoramento da qualidade, reduzindo os custos e eliminando ou adiantando os trabalhos desnecessários. 
+
+
+Quando se prioriza as atividades que devem ser realizadas, evita-se que seja entregue um _software_ inútil, cliente insatisfeito, metas ou _sprints_ não atingidas, demora na entrega, entre outros problemas.
+
+
+Abaixo vê-se imagens de exemplos de kanban priorizado :
+
+![kanban](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/image31.png)
+
+![kanban](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/image32.png)
+
+![kanban](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/image33.png)
+
+###1.1.4 Medição e Melhoria Contínua
+
+E por fim, é importante estabelecer um sistema de medição simples, como por exemplo, mapear o trabalho que precisa ou já foi feito, podendo utiliza o _burndown chart_, ou gráfico de consumo.
+
+Faça também simulações dos riscos, para que se possa encontrar os gargalos antes mesmo que eles apareçam, isso permite que os planos de ação preventivos sejam mais eficazes. 
+
+Assim, para um ótimo funcionamento desta ferramenta, é interessante manter a mente aberta para passar pelas adaptações, no qual essa é a palavra-chave dessa metodologia, pois as adaptações serão constantes para obteção de bons resultados.
+
+Segue a imagem abaixo do ciclo de mudanças:
+
+![kanban](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/image4.png)
 
 ## 2. Kanban _On-line_
 
