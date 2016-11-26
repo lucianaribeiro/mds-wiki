@@ -1,3 +1,34 @@
+-------------
+[ Framework XP ](#framework-xp)
+
+* [ Planejamento ](#planejamento)
+* [ Gerenciamento ](#gerenciamento)
+* [ Design ](#design)
+* [ Códificação ](#códificação)
+* [ Testes ](#testes)
+
+[ Valores XP ](#valores-xp)
+
+* [ Comunicação](#comunicação)
+* [ Coragem](#coragem)
+* [ Feedback](#feedback)
+* [ Respeito](#respeito)
+* [ Simplicidade](#simplicidade)
+
+[ Funcionalidade Pronta XP ](#funcionalidade-pronta-xp)
+
+* [ Teste Unitário](#teste-unitário)
+* [ Programação Pareada](#programação-pareada)
+  * [ Porque parear com o coleguinha?](#porque-parear-com-o-coleguinha?)
+  * [ Variações de Pares](#variações-de-pares)
+* [ Teste de aceitação](#teste-de-aceitação)
+* [ Integração Contínua](#integração-contínua)
+
+[ Referências](#referências)
+
+
+
+----
 # Framework XP
 
 <p align = "justify">O XP, ou _Extreme Programming_, é uma metodologia de desenvolvimento de software que tem como objetivo principal levar ao extremo um boas práticas de programação e boas práticas para o desenvolvimento de software no geral. O XP é uma metodologia baseada em valores, que definem uma maneira harmoniosa de trabalho na equipe de desenvolvimento.
@@ -114,9 +145,9 @@ Essa variação cria uma excelente oportunidade para o expert mentorear o aprend
 Pode gerar ganhos de produtividade maior do que dois aprendizes trabalhando sozinhos, entretanto não é uma variação muito encorajada.  
 
 ## Teste de aceitação
-<p align="justify">Os Testes de Aceitação consistem no teste de uma possível aceitação por parte do cliente. Testes de aceitação estão intimamente ligados com as user stories.
+<p align="justify">Os Testes de Aceitação consistem no teste de uma possível aceitação por parte do cliente. Testes de aceitação estão intimamente ligados com as user stories. O teste de aceitação visa validar com o cliente o que foi definido nos requisitos do _software_, portanto, são usados para verificar se o produto desenvolvido está de acordo com o que foi estabelecido nos requisitos. Desse modo os testes de aceitação estão ligadas as funcionalidades do sistema, onde entradas podem ser simuladas e o comportamento de saída pode ser observada, esse comportamento deve ser compatível com o temos previamente definidos (requisitos).
 
-<p align="justify">Testes de aceitação, visam testar o sistema do ponto de vista do usuário, de modo que são menos sucetíveis a alterações. Como o sistema é testado com todos os componentes interligados e configurados, inclusive bancos de dados e gerenciadores de filas, há garantias de que cada serviço oferecido esteja funcionando.
+<p align="justify">Testes de aceitação, visam testar o sistema do ponto de vista do usuário, de modo que são menos suscetíveis a alterações. Como o sistema é testado com todos os componentes interligados e configurados, inclusive bancos de dados e gerenciadores de filas, há garantias de que cada serviço oferecido esteja funcionando.
 
 ## Integração Contínua
 
