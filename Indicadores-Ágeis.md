@@ -65,6 +65,9 @@ O _velocity_ indica a quantidade de pontos que a equipe consegue concluir em uma
 
 ## 3. EVM
 
+### 3.1 Custo Total Planejado (BAC)
+<p align = "justify"> O custo total planejado consiste no calculo dos pontos totais planejados (PRP) multiplicado pelo custo do ponto. 
+
 ### 3.3 Valor Agregado (EV)
 
 <p align = "justify"> Diferente do valor planejado e do custo real, o valor agregado se difere em cada _sprint_ dependendo do desempenho da equipe na mesma. O valor agregado é um indicador da produtividade da equipe refletida no custo, onde é possível perceber se a equipe está fazendo as entregas conforme o planejado. Para o cálculo do valor agregado, é necessário saber a Porcentagem Concluída na _Sprint_ (PPC) e o Valor Planejado (PV).
