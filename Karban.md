@@ -21,7 +21,17 @@ Este sistema também pode ser utilizado virtualmente, no qual sua maior qualidad
 
 É de suma importância que a equipe esteja preparada para assimilar os conceitos e princípios do kanban, para que eles possam ter uma boa evolução na utilização dessa ferramenta. Com uma equipe bem capacitada para utilização da ferramenta, o projeto se desenvolverá com mais facilidade e eficiência.  
 
-### 1.1.2  
+### 1.1.2  Identificar o estágio do trabalho
+
+É importante identificar o estágio do trabalho que a equipe segue para concluir um produto ou projeto. O fluxo mais comun começa em “TO DO” e termina em “DONE”, e normalmente usa-se _Working in Progress_ no meio do kanban, porém esse contexto pode ser adaptado de acordo com as necessidades da equipe. 
+
+Busca se também definir o limite de tempo que cada cartão poderá ficar em um determinado estágio, por exemplo, um cartão não pode ficar mais que três dia em “TO DO”.
+
+Como visto na imagem abaixo, foi definido os estágios do processo.
+
+![kanban](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/image2.png)
+
+###1.1.3
 
 ## 2. Kanban _On-line_
 
