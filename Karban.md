@@ -1,4 +1,5 @@
 * [1. Método Kanban](#1-método kanban)
+* [2. Kanban _On-line_](#1-kanban on-line)
 
 --------------------------------------------------
 
@@ -13,3 +14,7 @@ A seguir, vê-se um exemplo de Kaban:
 ![kanban](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/kanban.jpg)
 
 Este sistema também pode ser utilizado virtualmente, no qual sua maior qualidade é a eliminação e o consumo de cartões e  a falta de atualização do quadro, permitindo que  o _status_ do projeto esteja sempre atualizado. 
+
+## 2. Kanban _On-line_
+
+Tendo em vista que para o bom funcionamento do kanban é preciso que a sua atualização tem que ser constante, foi pensado em um software para que se pudesse exercer esse papel, que no caso é o kanban _on-line_. O kanban _on-line_ permite a fácil atualização, no qual ela pode ser feita manualmente no computador ou automaticamente, através da utilização de sensores de contagem de evolução de cartões. Ele também permite que as informações possam facilmente serem distribuídas via rede, podendo replicar tais informações em todas as etapas de processo que de uma maneira ou outra possuem interesse ou que impactam no projeto.
