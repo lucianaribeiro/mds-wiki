@@ -11,9 +11,17 @@ O quadro Kanban é uma prática de gestão de estoque e controle de fluxo do que
 
 A seguir, vê-se um exemplo de Kaban:
 
-![kanban](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/kanban.jpg)
+![kanban](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/image1.png)
 
 Este sistema também pode ser utilizado virtualmente, no qual sua maior qualidade é a eliminação e o consumo de cartões e  a falta de atualização do quadro, permitindo que  o _status_ do projeto esteja sempre atualizado. 
+
+### 1.1 Como usar o Kanban em quatro passos
+
+### 1.1.1 Equipe
+
+É de suma importância que a equipe esteja preparada para assimilar os conceitos e princípios do kanban, para que eles possam ter uma boa evolução na utilização dessa ferramenta. Com uma equipe bem capacitada para utilização da ferramenta, o projeto se desenvolverá com mais facilidade e eficiência.  
+
+### 1.1.2  
 
 ## 2. Kanban _On-line_
 
