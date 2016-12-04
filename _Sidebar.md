@@ -104,3 +104,5 @@
 [Colocando a aplicação em produção com NGINX](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Colocando-a-aplica%C3%A7%C3%A3o-em-produ%C3%A7%C3%A3o-com-NGINX)
 
 [Método Kanban](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Karban)
+
+[Refatoração](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Refatoração)
