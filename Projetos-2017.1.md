@@ -1,8 +1,8 @@
 #Tema Projetos MDS/GPP 2017.1:
 
-## Educação - Como software
+## Educação - Melhorando a Educação por meio de software
 
-A disciplina MDS/GPP terá tema único: Educação. As equipes são responsáveis por desenvolver pelo menos 2 propostas de projetos de software no tema. Os temas serão apresentados na sala de aula para aprovação do projeto. 
+A disciplina MDS/GPP terá tema único: Educação.  As equipes são responsáveis por desenvolver pelo menos 2 propostas de projetos de software no tema. Os temas serão apresentados na sala de aula para aprovação do projeto. 
 
 Os 
 Alguns áreas de interesse são:
@@ -14,6 +14,7 @@ Alguns áreas de interesse são:
 
 ***
 
+### Os temas serão atualizados até a primeira semana de aula
 Algumas propostas de interesse são:
 
 * Plataforma de Minicursos abertos UnB -  cliente: laboratório lappis
