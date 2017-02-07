@@ -1,4 +1,4 @@
-# Seja Bem-Vindos!
+# Seja Bem-Vindo!
 
 [ Introdução](#introdução)
 
