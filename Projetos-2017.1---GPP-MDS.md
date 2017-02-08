@@ -19,7 +19,8 @@ Algumas propostas de interesse são:
 
 * Plataforma de Minicursos abertos UnB -  cliente: laboratório lappis
 * Plataforma de Sugestões de Software UnB - cliente: laboratório lappis (tema indisponível)
-* Acompanhamento da presença e rendimento do aluno - cliente: Escola X 
+* Acompanhamento da presença e rendimento do aluno - cliente: Escola X (Attany)
+* Aplicativo 300 -  cliente: Prof. Fragelli
 
 Propostas de projetos de software demandados pela UNB:
 
