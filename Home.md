@@ -1,6 +1,6 @@
 # Seja Bem-Vindo!
 
-### _  “The best way to find out if you can trust somebody is to trust them.” Ernest Hemingway Trust is the bedrock of all effective teams. When it exists, team members speak freely, don’t second guess each other and formal hierarchy fades into the distance. _
+###  _“The best way to find out if you can trust somebody is to trust them.” Ernest Hemingway Trust is the bedrock of all effective teams. When it exists, team members speak freely, don’t second guess each other and formal hierarchy fades into the distance._
 
 [ Introdução](#introdução)
 
