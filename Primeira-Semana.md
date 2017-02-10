@@ -10,22 +10,12 @@ A primeira semana de aula é dedicada a organização da disciplina, dos grupos,
 
 [https://docs.google.com/spreadsheets/d/1MWOjCp5DL3u2YN79yDvYXDlXTTdEWb3XoTPhBWfPMMY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1MWOjCp5DL3u2YN79yDvYXDlXTTdEWb3XoTPhBWfPMMY/edit?usp=sharing)
 
-## Tarefas GPP (Primeira semana)
+## Blogs a serem monitorados
 
-* A tarefa, descrita pelo professor no primeiro dia de aula, deve ser registrada em:
+[https://labs.spotify.com/] (https://labs.spotify.com/)
 
-[https://docs.google.com/spreadsheets/d/1im-DhuzjdFtgxQHyEDK6CydqjaxYSQ3bzE6GoFlClgo/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1im-DhuzjdFtgxQHyEDK6CydqjaxYSQ3bzE6GoFlClgo/edit?usp=sharing)
+[https://research.google.com/](https://research.google.com/)
 
-* Chamada Virtual
+[http://airbnb.io/](http://airbnb.io/)
 
-[Planilha de Chamada GPP](https://docs.google.com/spreadsheets/d/1GlJB7rFt9V6npXqb8s8lScYEOrPfb7fZtPIPklPBHP0/edit?usp=sharing)
-
-## Tarefa MDS (Primeira semana)
-
-* A tarefa, descrita pelo professor no primeiro dia de aula, deve ser registrada em:
-
-[Planilha Ferramentas](https://docs.google.com/spreadsheets/d/1srmRVovNyhJnXh0chPNYh47z8IHmX6vad3pafOsEt_o/edit?usp=sharing)
-
-* Chamada Virtual:
-
-[Planilha de Chamada MDS](https://docs.google.com/spreadsheets/d/1GlJB7rFt9V6npXqb8s8lScYEOrPfb7fZtPIPklPBHP0/edit?usp=sharing)
+[http://techblog.netflix.com/] (http://techblog.netflix.com/)
