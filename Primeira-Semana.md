@@ -19,3 +19,5 @@ A primeira semana de aula é dedicada a organização da disciplina, dos grupos,
 [http://airbnb.io/](http://airbnb.io/)
 
 [http://techblog.netflix.com/] (http://techblog.netflix.com/)
+
+[https://rctom.hbs.org/submission/the-spotify-squad-how-to-successfully-lead-a-global-organization-without-an-operations-team/] (https://rctom.hbs.org/submission/the-spotify-squad-how-to-successfully-lead-a-global-organization-without-an-operations-team/)
