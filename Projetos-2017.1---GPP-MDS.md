@@ -19,6 +19,8 @@ Algumas propostas de interesse são:
 
 * Plataforma de Minicursos abertos UnB -  cliente: laboratório lappis
 * Plataforma de Sugestões de Software UnB - cliente: laboratório lappis (tema indisponível)
+* Plataforma de Jogos UNB - clientes: prof. Edson/Prof Tiago (desenho industrial)
+* Infraestrutura para contribuição dos jogos UnB - Cliente: prof. Edson (https://github.com/fgagamedev)
 * Acompanhamento da presença e rendimento do aluno - cliente: Escola X (Attany)
 * Aplicativo 300 -  cliente: Prof. Fragelli
 
