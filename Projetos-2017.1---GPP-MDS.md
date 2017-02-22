@@ -29,3 +29,4 @@ Propostas de projetos de software demandados pela UNB:
 * Sistema de Controle de cirurgia laparoscópica minimamente invasiva (software crítico e tolerante a falha) - cliente: laboratório Lara UNB ([https://github.com/lara-unb](https://github.com/lara-unb))
 * Simulador bike reabilitação - cliente: laboratórios LART/LARA UNB
 * Jogo labirintos urbanos - cliente:  Laboratório Transdisciplinar de Cenografia da UnB ([http://laboratoriodecenografia.blogspot.com.br/](http://laboratoriodecenografia.blogspot.com.br/))
+* Plataforma para projetos de cadernos digitais - cliente:  Laboratório Transdisciplinar de Cenografia da UnB ([http://laboratoriodecenografia.blogspot.com.br/](http://laboratoriodecenografia.blogspot.com.br/))
