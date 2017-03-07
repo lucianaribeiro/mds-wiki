@@ -23,6 +23,7 @@ Algumas propostas de interesse são:
 * Infraestrutura para contribuição dos jogos UnB - Cliente: prof. Edson (https://github.com/fgagamedev)
 * Acompanhamento da presença e rendimento do aluno - cliente: Escola X (Attany)
 * Aplicativo 300 -  cliente: Prof. Fragelli
+* Aplicativo - web -- sistema de localização no campus darcy ribeiro - cliente: CPD Central 
 
 Propostas de projetos de software demandados pela UNB:
 
