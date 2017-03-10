@@ -31,3 +31,5 @@ Propostas de projetos de software demandados pela UNB:
 * Simulador bike reabilitação - cliente: laboratórios LART/LARA UNB
 * Jogo labirintos urbanos - cliente:  Laboratório Transdisciplinar de Cenografia da UnB ([http://laboratoriodecenografia.blogspot.com.br/](http://laboratoriodecenografia.blogspot.com.br/))
 * Plataforma para projetos de cadernos digitais - cliente:  Laboratório Transdisciplinar de Cenografia da UnB ([http://laboratoriodecenografia.blogspot.com.br/](http://laboratoriodecenografia.blogspot.com.br/))
+
+* Aplicativo lei rouanet - cliente: ministério da cultura-- contato: ricardo poppi https://github.com/culturagovbr/salic-api
