@@ -7,6 +7,8 @@
 [Projetos 2016.2][Projetos]
 
 [Projetos 2017.1][Projetos2017]
+
+[Backlog da Wiki][BacklogWiki]
 # Disciplinas
 
 [Métodos de Desenvolvimento de Software][mds]
@@ -108,3 +110,5 @@
 
 [Refatoração](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Refatoração)
 [Projetos2017]:https://github.com/fga-gpp-mds/00-Disciplina/wiki/Projetos-2017.1---GPP-MDS
+
+[BacklogWiki]:https://github.com/fga-gpp-mds/00-Disciplina/wiki/Backlog-wiki
