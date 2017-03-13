@@ -2,13 +2,14 @@
 
 [Home][home]
 
+[Backlog da Wiki][BacklogWiki]
+
 [Primeira Semana][Primeira-Semana]
 
 [Projetos 2016.2][Projetos]
 
 [Projetos 2017.1][Projetos2017]
 
-[Backlog da Wiki][BacklogWiki]
 # Disciplinas
 
 [Métodos de Desenvolvimento de Software][mds]
