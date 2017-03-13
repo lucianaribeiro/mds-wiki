@@ -25,7 +25,7 @@ As seguintes apresentações/treinamento são sugeridas (a serem feitos por, no 
 
 * **Estudo de caso**: comparando metodologia - CMM versus Agile: Methodology Wars in Software Development
 
-* ** Estudo de caso**:desenvolvimento sem gestão -  Opening the Valve: From software to hardware
+* **Estudo de caso**:desenvolvimento sem gestão -  Opening the Valve: From software to hardware
 
 ### MDS
 
