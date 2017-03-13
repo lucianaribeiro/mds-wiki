@@ -27,11 +27,12 @@ As seguintes apresentações/treinamento são sugeridas (a serem feitos por, no 
 
 * **Estudo de caso**:desenvolvimento sem gestão -  Opening the Valve: From software to hardware
 
+* **Valor Agregado**: Tutorial
+
 ### MDS
 
 * **DOJO**: Treinamento e nivelamento técnico via DOJO
 * **Pair Programming**: técnica de programação pareada
 * **Refactoring**: refatoração de códigos
 * **TDD**: test driven development 
-
 
