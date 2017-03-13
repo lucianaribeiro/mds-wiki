@@ -1,8 +1,9 @@
+# Backlog Wiki
+[Backlog da Wiki][BacklogWiki]
+
 # Seja Bem-vindo!
 
 [Home][home]
-
-[Backlog da Wiki][BacklogWiki]
 
 [Primeira Semana][Primeira-Semana]
 
