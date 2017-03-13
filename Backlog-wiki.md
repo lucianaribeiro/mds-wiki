@@ -17,5 +17,21 @@
 * **PMBOK**: Tutorial como calcular Valor Agregado (EV) - Estimativa de Custo x Custo Real x Valor Agregado
 * **PMBOK**: Tutorial de métricas de código (o que significa as principais métricas) - como escolher as métricas no plano de gerenciamento de qualidade
 
+## Apresentações/Treinamentos em sala de aula
+As seguintes apresentações/treinamento são sugeridas (a serem feitos por, no máximo, 3 pessoas):
+
+### GPP
+* **Estudo de caso**: como funciona o desenvolvimento de projeto, adaptação do _scrum_.
+
+* **Estudo de caso**: comparando metodologia - CMM versus Agile: Methodology Wars in Software Development
+
+* ** Estudo de caso**:desenvolvimento sem gestão -  Opening the Valve: From software to hardware
+
+### MDS
+
+* **DOJO**: Treinamento e nivelamento técnico via DOJO
+* **Pair Programming**: técnica de programação pareada
+* **Refactoring**: refatoração de códigos
+* **TDD**: test driven development 
 
 
