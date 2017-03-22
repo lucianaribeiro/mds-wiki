@@ -12,14 +12,14 @@ A primeira semana de aula é dedicada a organização da disciplina, dos grupos,
 
 ## Blogs a serem monitorados
 
-[https://labs.spotify.com/] (https://labs.spotify.com/)
+[https://labs.spotify.com/](https://labs.spotify.com/)
 
 [https://research.google.com/](https://research.google.com/)
 
 [http://airbnb.io/](http://airbnb.io/)
 
-[http://techblog.netflix.com/] (http://techblog.netflix.com/)
+[http://techblog.netflix.com/](http://techblog.netflix.com/)
 
-[medium.freecodecamp.com] (medium.freecodecamp.com)
+[medium.freecodecamp.com](medium.freecodecamp.com)
 
-[https://rctom.hbs.org/submission/the-spotify-squad-how-to-successfully-lead-a-global-organization-without-an-operations-team/] (https://rctom.hbs.org/submission/the-spotify-squad-how-to-successfully-lead-a-global-organization-without-an-operations-team/)
+[https://rctom.hbs.org/submission/the-spotify-squad-how-to-successfully-lead-a-global-organization-without-an-operations-team/](https://rctom.hbs.org/submission/the-spotify-squad-how-to-successfully-lead-a-global-organization-without-an-operations-team/)

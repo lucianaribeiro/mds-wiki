@@ -19,15 +19,15 @@
 
 # Fases Rup e PMBOK
 
-[RUP(Rational Unified Process)] [rup]
+[RUP(Rational Unified Process)][rup]
 
-[Fase Iniciação] [01-fase]
+[Fase Iniciação][01-fase]
 
-[Fase Elaboração(RUP) Planejamento(PMBOK)] [02-fase]
+[Fase Elaboração(RUP) Planejamento(PMBOK)][02-fase]
 
-[Fase de Construção(RUP), Execução/Monitoramente e Controle(PMBOK)] [03-fase]
+[Fase de Construção(RUP), Execução/Monitoramente e Controle(PMBOK)][03-fase]
 
-[Fase Transição(RUP), Finalização(PMBOK)] [04-fase]
+[Fase Transição(RUP), Finalização(PMBOK)][04-fase]
 
 #Métodos Ágeis
 
@@ -111,6 +111,6 @@
 [Método Kanban](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Karban)
 
 [Refatoração](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Refatoração)
-[Projetos2017]:https://github.com/fga-gpp-mds/00-Disciplina/wiki/Projetos-2017.1---GPP-MDS
+[Projetos2017]:(https://github.com/fga-gpp-mds/00-Disciplina/wiki/Projetos-2017.1---GPP-MDS)
 
-[BacklogWiki]:https://github.com/fga-gpp-mds/00-Disciplina/wiki/Backlog-wiki
+[BacklogWiki]:(https://github.com/fga-gpp-mds/00-Disciplina/wiki/Backlog-wiki)
