@@ -6,10 +6,10 @@
 [5. Papéis][papeis]  
 
 --
-##1. O que é?
+## 1. O que é?
 <p align = "justify" > O RUP <i>(Rational Unified Process)</i> é um processo de desenvolvimento de <i>software</i>. Ele engloba as ações necessárias para transformar um conjunto de requisitos do cliente em um sistema de <i>software</i> combinando os ciclos de vida iterativo, incremental e verificando a qualidade do mesmo de forma que cada entrega do <i>software</i> em um ciclo agrega mais valor ao produto em relação ao ciclo anterior.</p>
 
-##2. Valores do RUP
+## 2. Valores do RUP
 
 RUP é baseado em um conjunto de princípios de desenvolvimento de <i>software</i> e melhores práticas, por exemplo:
 
@@ -20,7 +20,7 @@ RUP é baseado em um conjunto de princípios de desenvolvimento de <i>software</
 5. Verificação da qualidade do <i>software</i>
 6. Controle de alteração no <i>software</i>
 
-##3. Disciplinas do RUP
+## 3. Disciplinas do RUP
 
 ### Seis Disciplinas de Engenharia de <i>Software</i>
 
@@ -105,7 +105,7 @@ Fonte: [IBM Rational Unified Process](https://pt.wikipedia.org/wiki/IBM_Rational
 
 !["Gráfico de Baleias"](https://upload.wikimedia.org/wikipedia/pt/0/07/Fases_do_RUP_-_portugues.jpg)
 
-No RUP, o Engenheiro de Processo é responsável por adaptar o processo de desenvolvimento de <i>software</i> para atender o projeto. Para isso, este papel define o tamanho de cada iteração e quantas iterações existirão por cada fase. Nas matérias de GPP e MDS, a equipe de GPP de cada projeto ficou a cargo deste papel. Algumas equipes por exemplo, utilizaram iterações com extensão de duas semanas, com as fases de iniciação e elaboração sendo compostas apenas de uma iteração, enquanto a fase de construção constituída por mais iterações.
+<p align = "justify" >No RUP, o Engenheiro de Processo é responsável por adaptar o processo de desenvolvimento de <i>software</i> para atender o projeto. Para isso, este papel define o tamanho de cada iteração e quantas iterações existirão por cada fase. Nas matérias de GPP e MDS, a equipe de GPP de cada projeto ficou a cargo deste papel. Algumas equipes por exemplo, utilizaram iterações com extensão de duas semanas, com as fases de iniciação e elaboração sendo compostas apenas de uma iteração, enquanto a fase de construção constituída por mais iterações.</p>
 
 ### Iniciação
 
@@ -154,7 +154,7 @@ cujo objetivo é forncer uma base estável para a construção. Priemeiramente �
 **Marco: Entrega do sistema para o cliente**
 * O marco da fase de transição é certificar se o produto está pronto para ser instalado e mantido pelo cliente.
 
-##5. Papéis
+## 5. Papéis
 <p align = "justify" >O RUP tem alguns papéis genéricos como os de analista, desenvolvedor, testador e gerente. Cada um desses papéis genéricos tem outros papéis mais detalhados, somente o papel de testador que a única atividade existente é a de testador. Abaixo temos os papéis genéricos e os detalhados de cada um.</p>
 
 **Analistas:**
