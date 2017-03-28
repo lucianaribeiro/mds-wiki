@@ -191,7 +191,7 @@ cujo objetivo é forncer uma base estável para a construção. Priemeiramente �
 * Revisor do projeto
 * Gerente de testes
 
-Fonte: [http://www.funpar.ufpr.br:8080/rup/process/workers/ovu_works.htm](http://www.funpar.ufpr.br:8080/rup/process/workers/ovu_works.htm)
+Fonte: [http://www.funpar.ufpr.br:8080/rup/index.htm](http://www.funpar.ufpr.br:8080/rup/index.htm)
 
 Fonte: [http://www.funpar.ufpr.br:8080/rup/process/itrwkfls/iwf_iwfs.htm]
 (http://www.funpar.ufpr.br:8080/rup/process/itrwkfls/iwf_iwfs.htm)
