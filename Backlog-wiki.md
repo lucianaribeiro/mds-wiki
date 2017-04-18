@@ -39,7 +39,8 @@ As seguintes apresentações/treinamento são sugeridas (a serem feitos por, no 
 http://shipit.resultadosdigitais.com.br/blog/ganhando-produtividade-com-clean-code/
 * **TDD**: test driven development 
 * **Integração contínua**
-* **ATDD**
+* **BDD**
+http://shipit.resultadosdigitais.com.br/blog/estruturando-seu-projeto-com-bdd-e-cucumber/
 * **Deploy Contínuo**
 
 
