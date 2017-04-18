@@ -36,6 +36,7 @@ As seguintes apresentações/treinamento são sugeridas (a serem feitos por, no 
 * **Coding DOJO**: Treinamento e nivelamento técnico via DOJO
 * **Pair Programming**: técnica de programação pareada
 * **Refactoring**: refatoração de códigos
+http://shipit.resultadosdigitais.com.br/blog/ganhando-produtividade-com-clean-code/
 * **TDD**: test driven development 
 * **Integração contínua**
 * **ATDD**
