@@ -17,6 +17,8 @@
 * **PMBOK**: Tutorial como calcular Valor Agregado (EV) - Estimativa de Custo x Custo Real x Valor Agregado
 * **PMBOK**: Tutorial de métricas de código (o que significa as principais métricas) - como escolher as métricas no plano de gerenciamento de qualidade
 
+https://zapier.com/learn/project-management/
+
 ## Apresentações/Treinamentos em sala de aula
 As seguintes apresentações/treinamento são sugeridas (a serem feitos por, no máximo, 3 pessoas):
 
