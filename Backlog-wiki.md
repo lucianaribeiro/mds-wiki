@@ -31,8 +31,16 @@ As seguintes apresentações/treinamento são sugeridas (a serem feitos por, no 
 
 ### MDS
 
-* **DOJO**: Treinamento e nivelamento técnico via DOJO
+* **Coding DOJO**: Treinamento e nivelamento técnico via DOJO
 * **Pair Programming**: técnica de programação pareada
 * **Refactoring**: refatoração de códigos
 * **TDD**: test driven development 
+* **Integração contínua**
+* **ATDD**
+* **Deploy Contínuo**
+
+
+
+Referencia:
+https://jorgekotickaudy.wordpress.com/2012/10/02/paiol-de-dinamicas-parte-2/
 
