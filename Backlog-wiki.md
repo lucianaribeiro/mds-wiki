@@ -43,4 +43,5 @@ As seguintes apresentações/treinamento são sugeridas (a serem feitos por, no 
 
 Referencia:
 https://jorgekotickaudy.wordpress.com/2012/10/02/paiol-de-dinamicas-parte-2/
-
+http://www.funretrospectives.com/
+http://tastycupcakes.org/
