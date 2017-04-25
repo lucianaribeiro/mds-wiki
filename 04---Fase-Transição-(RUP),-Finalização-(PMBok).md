@@ -2,13 +2,13 @@
 
 ## Sumário
 
-[ 1. Transição (RUP)](#1-transição-(rup))
+[ 1. Transição (RUP)](#1-transição-rup)
 
->[ 1.1 Objetivos Principais:](#11-objetivos-principais:)
+>[ 1.1 Objetivos Principais](#11-objetivos-principais)
 
 >[ 1.2 Atividades Básicas](#12-atividades-básicas)
 
-[ 2. Finalização (PMBoK))(#2-finalização-(pmbok))
+[ 2. Finalização (PMBoK)](#2-finalização-pmbok)
 
 >[ 2.1 Entradas](#21-entradas)
 
@@ -18,7 +18,7 @@
 
 >[ 2.4 Realização](#24-realização)
 
->[ 2.5 Fatores Críticos de Sucesso:](#25-fatores-críticos-de-sucesso:)
+>[ 2.5 Fatores Críticos de Sucesso](#25-fatores-críticos-de-sucesso)
 
 [ 3. Referências](#3-referências)
 
@@ -38,7 +38,7 @@ Os critérios básicos de avaliação para a fase de transição envolvem as res
 
 <p align = "justify" >No Marco da <i>Release</i> do Produto, o produto está em produção e o ciclo de manutenção posterior ao <i>release</i> inicia. Isso pode envolver o início de um novo ciclo ou de algum release de manutenção adicional.
   
-### 1.1 Objetivos Principais:  
+### 1.1 Objetivos Principais  
   
 * Teste beta para validar o novo sistema em confronto com as expectativas do usuário
 * Teste beta e operação paralela relativa a um sistema legado que está sendo substituído
@@ -92,7 +92,7 @@ Representação da fase de Encerramento, contendo as atividades do PMBok de acor
   
 <p align = "justify" >  No momento do encerramento do projeto, é necessário garantir que todo o trabalho está de fato finalizado e que todos os objetivos do projeto foram atingidos. É necessário garantir que todo o escopo foi atendido e que todos os objetivos de qualidade foram alcançados. Para que isto seja cumprido, todas as partes interessadas devem estar envolvidas no processo de encerramento. Durante seu desenvolvimento são desenvolvidos registros de lições aprendidas e são realizadas investigações quanto ao desempenho geral da equipe do projeto como um todo.
 
-### 2.5 Fatores críticos de sucesso:
+### 2.5 Fatores críticos de sucesso
 
 * Aceitação do usuário final;
 * Objetivos do negócio e benefícios antecipados são alcançados;
