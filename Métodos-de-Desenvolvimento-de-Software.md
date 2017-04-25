@@ -7,9 +7,9 @@
 
 >[ 3.1 Objetivos de cada fase do ciclo de vida de software](#31-objetivos-de-cada-fase-do-ciclo-de-vida-de-software)
 
-[ 4. Estudo de caso da influencia do modelo de processo no sucesso de um projeto](#estudo-de-caso-da-influencia-do-modelo-de-processo-no-sucesso-de-um-projeto)
+[ 4. Estudo de caso da influencia do modelo de processo no sucesso de um projeto](#4-estudo-de-caso-da-influencia-do-modelo-de-processo-no-sucesso-de-um-projeto)
 
-[ 5. Referências ](#referências)
+[ 5. Referências ](#5-referências)
 
 ------
 ## 1. O que é Processo de Desenvolvimento de <i>Software</i>
