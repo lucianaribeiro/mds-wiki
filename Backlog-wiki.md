@@ -1,4 +1,4 @@
-# O que ainda falta na Wiki de MDS GPP
+# O que ainda falta na Wiki + material para a disciplina MDS GPP
 
 ## MDS
 * **RUP**: Formalizar os processos realizados no projeto durante a R1 (lembrando que o RUP é um _framework_ e cada projeto customiza os processos para atender as demandas)  - processos de cada fase (tarefas, responsáveis, ferramenta, artefatos)
@@ -11,26 +11,29 @@
 * Tutorial prototipagem de alta fidelidade
 
 ## GPP
-* **PMBOK**: Mapa Geral do PMBOK - Sequência de leitura do PMBOK
-* **PMBOK**: Tutorial criação de um bom Estrutura Analítica de Projeto
-* **PMBOK**: Guia básico para a construção de planos segundo o PMBOK
-* **PMBOK**: Tutorial como calcular Valor Agregado (EV) - Estimativa de Custo x Custo Real x Valor Agregado
-* **PMBOK**: Tutorial de métricas de código (o que significa as principais métricas) - como escolher as métricas no plano de gerenciamento de qualidade
+* **PMBOK**: Mapa Geral do PMBOK - Sequência de leitura do PMBOK + apresentalção (20 minutos)
+* **PMBOK**: Tutorial criação de um bom Estrutura Analítica de Projeto + apresentação (20 minutos)
+* **PMBOK**: Guia básico para a construção de planos segundo o PMBOK + apresentação (20 minutos)
+* **PMBOK**: Tutorial como calcular Valor Agregado (EV) - Estimativa de Custo x Custo Real x Valor Agregado + apresentação  (20 minutos)
+* **PMBOK**: Tutorial de métricas de código (o que significa as principais métricas) - como escolher as métricas no plano de gerenciamento de qualidade + apresentação (20 minutos)
 
 https://zapier.com/learn/project-management/
 
-## Apresentações/Treinamentos em sala de aula
-As seguintes apresentações/treinamento são sugeridas (a serem feitos por, no máximo, 3 pessoas):
+* **Estudo de caso**: como funciona o desenvolvimento de projeto, adaptação do _scrum_  - apresentação (20 minutos)
 
-### GPP
-* **Estudo de caso**: como funciona o desenvolvimento de projeto, adaptação do _scrum_.
+* **Estudo de caso**: comparando metodologia - CMM versus Agile: Methodology Wars in Software Development -  apresentação (20 minutos)
 
-* **Estudo de caso**: comparando metodologia - CMM versus Agile: Methodology Wars in Software Development
+* **Estudo de caso**:desenvolvimento sem gestão -  Opening the Valve: From software to hardware -  apresentação (20 minutos)
 
-* **Estudo de caso**:desenvolvimento sem gestão -  Opening the Valve: From software to hardware
+* **Valor Agregado**: Tutorial  - apresentação (20 minutos)
 
-* **Valor Agregado**: Tutorial
+* **Estudo de Caso** - como o mercado tem usado métodos ágeis - caso spotify e resultados digitais - apresentação (20 minutos)
 
+http://shipit.resultadosdigitais.com.br/blog/escalando-o-time-de-gestao-de-produtos-na-rd/
+
+https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/
+
+## Treinamentos necessários para MDS
 ### MDS
 
 * **Coding DOJO**: Treinamento e nivelamento técnico via DOJO
