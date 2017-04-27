@@ -19,13 +19,13 @@
 
 https://zapier.com/learn/project-management/
 
-* **Estudo de caso**: como funciona o desenvolvimento de projeto, adaptação do _scrum_  - apresentação (20 minutos)
+* **Estudo de caso**:Embracing agile - apresentação (20 minutos)
 
 * **Estudo de caso**: comparando metodologia - CMM versus Agile: Methodology Wars in Software Development -  apresentação (20 minutos)
 
 * **Estudo de caso**:desenvolvimento sem gestão -  Opening the Valve: From software to hardware -  apresentação (20 minutos)
 
-* **Valor Agregado**: Tutorial  - apresentação (20 minutos)
+* **Estudo de Caso** - what successful project managers do - apresentação (20 minutos)
 
 * **Estudo de Caso** - como o mercado tem usado métodos ágeis - caso spotify e resultados digitais - apresentação (20 minutos)
 
