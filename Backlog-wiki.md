@@ -1,3 +1,4 @@
+
 # O que ainda falta na Wiki + material para a disciplina MDS GPP
 
 ## MDS
@@ -54,3 +55,8 @@ Referencia:
 https://jorgekotickaudy.wordpress.com/2012/10/02/paiol-de-dinamicas-parte-2/
 http://www.funretrospectives.com/
 http://tastycupcakes.org/
+
+
+Os grupos e temas escolhidos pelos grupos devem ser registrados em:
+
+https://docs.google.com/spreadsheets/d/1MWOjCp5DL3u2YN79yDvYXDlXTTdEWb3XoTPhBWfPMMY/edit?usp=sharing
