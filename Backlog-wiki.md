@@ -1,14 +1,14 @@
 # O que ainda falta na Wiki + material para a disciplina MDS GPP
 
 ## MDS
-* **RUP**: Formalizar os processos realizados no projeto durante a R1 (lembrando que o RUP é um _framework_ e cada projeto customiza os processos para atender as demandas)  - processos de cada fase (tarefas, responsáveis, ferramenta, artefatos)
-* **RUP**: Tutorial Introdução a UML
-1. Tutorial casos de Uso
-2. Tutorial Diagrama de classes
-3. Tutorial Diagrama de componentes
+* **RUP**: Formalizar os processos realizados no projeto durante a R1 (lembrando que o RUP é um _framework_ e cada projeto customiza os processos para atender as demandas)  - processos de cada fase (tarefas, responsáveis, ferramenta, artefatos) + apresentação (20 minutos)
+* **RUP**: Tutorial Introdução a UML + apresentação (20 minutos)
+1. Tutorial casos de Uso+ apresentação (20 minutos)
+2. Tutorial Diagrama de classes + apresentação (20 minutos)
+3. Tutorial Diagrama de componentes + apresentação (20 minutos)
 * **RUP**: Refatorar o texto já presente na wiki
 * **Treinamentos Técnicos**: atualizar as páginas dos treinamentos técnicos 
-* Tutorial prototipagem de alta fidelidade
+* Tutorial prototipagem de alta fidelidade + apresentação (20 minutos)
 
 ## GPP
 * **PMBOK**: Mapa Geral do PMBOK - Sequência de leitura do PMBOK + apresentalção (20 minutos)
@@ -36,15 +36,15 @@ https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/
 ## Treinamentos necessários para MDS
 ### MDS
 
-* **Coding DOJO**: Treinamento e nivelamento técnico via DOJO
-* **Pair Programming**: técnica de programação pareada
-* **Refactoring**: refatoração de códigos
+* **Coding DOJO**: Treinamento e nivelamento técnico via DOJO + apresentação (20 minutos)
+* **Pair Programming**: técnica de programação pareada + apresentação (20 minutos)
+* **Refactoring**: refatoração de códigos + apresentação (20 minutos)
 http://shipit.resultadosdigitais.com.br/blog/ganhando-produtividade-com-clean-code/
-* **TDD**: test driven development 
-* **Integração contínua**
-* **BDD**
+* **TDD**: test driven development  + apresentação (20 minutos)
+* **Integração contínua** + apresentação (20 minutos)
+* **BDD**+ apresentação (20 minutos)
 http://shipit.resultadosdigitais.com.br/blog/estruturando-seu-projeto-com-bdd-e-cucumber/
-* **Deploy Contínuo**
+* **Deploy Contínuo**+ apresentação (20 minutos)
 
 
 
