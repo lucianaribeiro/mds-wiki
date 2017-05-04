@@ -1,8 +1,8 @@
 ## 1. Objetivo
 
-O objetivo deste tutorial é auxiliar os futuros grupos de GPP na estimativa de seus custos. Para realizar uma boa estimativa dos custos do projeto, tem que se levar em consideração os processos de planejamento, financiamentos, estimativas, orçamentos e isso deve ser controlado afim de que o projeto seja finalizado dentro do orçamento aprovado. Ao fim será explicado quais etapas são mais utilizadas na disciplina de GPP.
+<p align="justify"> O objetivo deste tutorial é auxiliar os futuros grupos de GPP na estimativa de seus custos. Para realizar uma boa estimativa dos custos do projeto, tem que se levar em consideração os processos de planejamento, financiamentos, estimativas, orçamentos e isso deve ser controlado afim de que o projeto seja finalizado dentro do orçamento aprovado. Ao fim será explicado quais etapas são mais utilizadas na disciplina de GPP. </p>
 
-Nesse tutorial será abordado as 4 etapas principais do documento de gerenciamento de custos do projeto segundo o PMBOK. Essas etapas serão explicadas ao longo deste tutorial e elas são: 
+<p align="justify"> Nesse tutorial será abordado as 4 etapas principais do documento de gerenciamento de custos do projeto segundo o PMBOK. Essas etapas serão explicadas ao longo deste tutorial e elas são: </p>
 
 * Planejar o gerenciamento dos custos
 
@@ -20,13 +20,13 @@ Nesse tutorial será abordado as 4 etapas principais do documento de gerenciamen
 
 ### 2.1. Planejar o Gerenciamento dos Custos
 
-Como primeira fase do projeto, esta fase é feito com base na estimativa dos custos e o valor unitário dos recusos humanos além de servicos/equipamentos. Esta estimativa de custos e o valor unitário de RH e serviços são elaborados no Termo de Abertura do Projeto.
+<p align="justify"> Como primeira fase do projeto, esta fase é feito com base na estimativa dos custos e o valor unitário dos recursos humanos além de serviços/equipamentos. Esta estimativa de custos e o valor unitário de RH e serviços são elaborados no Termo de Abertura do Projeto. </p>
 
-Os custos do projeto são calculados com base nos entregáveis de valor, presentes na EAP e no cronograma do projeto, esse último sendo indispensável para o controle dos custos durante as iterações.
+<p align="justify"> Os custos do projeto são calculados com base nos entregáveis de valor, presentes na EAP e no cronograma do projeto, esse último sendo indispensável para o controle dos custos durante as iterações. </p>
 
 ### 2.2.2 Estimar os Custos
 
-Para realizar as estimativas de custos do projeto, existem diversas ferramentas, mas neste caso será explicado o método da <b>Estimativa de 3 Pontos</b>. Este método permite que as horas sejam calculadas e com isso os custos do projeto.
+<p align="justify"> Para realizar as estimativas de custos do projeto, existem diversas ferramentas, mas neste caso será explicado o método da <b>Estimativa de 3 Pontos</b>. Este método permite que as horas sejam calculadas e com isso os custos do projeto. </p>
 
 #### 2.2.2.1 Estimativa de 3 Pontos
 
@@ -36,25 +36,32 @@ Para realizar as estimativas de custos do projeto, existem diversas ferramentas,
 
 * <b>P</b> - Estimativa Pessimista
 
-As estimativas de horas(tempo) é baseado nas atividades planejadas no cronograma. A <i>Estimativa Otimista</i> é o melhor cenário possível, onde tudo deu certo sem nenhuma pendência para outra interação. A <i>Estimativa Realista</i> é o cenário real, onde acontecem os erros, mas também acontecem acertos. A <i>Estimativa Pessimista</i> é o pior cenário possível.
+<p align="justify"> As estimativas de horas (tempo) é baseado nas atividades planejadas no cronograma. A <i>Estimativa Otimista</i> é o melhor cenário possível, onde tudo deu certo sem nenhuma pendência para outra interação. A <i>Estimativa Realista</i> é o cenário real, onde acontecem os erros, mas também acontecem acertos. A <i>Estimativa Pessimista</i> é o pior cenário possível. </p>
 
 ### 2.3 Determinar o Orçamento
 
-O objetivo desta etapa é determinar a linha de base dos custos do monitoramento e controle do desempenho baseado nas atividades individuais ou os pacotes de trabalho baseados no cronograma do projeto.
+<p align="justify"> O objetivo desta etapa é determinar a linha de base dos custos do monitoramento e controle do desempenho baseado nas atividades individuais ou os pacotes de trabalho baseados no cronograma do projeto. </p>
 
 A base das estimativas devem especificar sobre os a inclusão e exclusão de custos indiretos ou outro custo no projeto.
 
 ### 2.4 Controlar os Custos
 
-Nesta etapa é feito o monitoramento do andamento do projeto para atualização constante do orçamento e o gerenciamento das mudanças realizadas no base dos custos.
+<p align="justify"> Nesta etapa é feito o monitoramento do andamento do projeto para atualização constante do orçamento e o gerenciamento das mudanças realizadas no base dos custos. </p>
 
 ## Aplicações em GPP
 
-Como iremos fazer a adaptação do plano pra GPP.
+<p align="justify"> Como iremos fazer a adaptação do plano pra GPP. </p>
 
 # Tutorial de Valor Agregado
 
 ## Tutorial Estimativa de 3 pontos
+
+<p align="justify"> Para a Estimativa de 3 pontos é necessário que a Estrutura Analítica de Projeto e o cronograma estejam definidos. Assim como as determinadas atividades necessárias para a realização do projeto.
+ Considerando a incerteza e o risco (Plano de Riscos) Para cada atividade será estimado pela equipe</p>
+
+<p align="justify">  </p> 
+
+
 Quais dados estimar e como estimar
 
 ## Tutorial GVA
