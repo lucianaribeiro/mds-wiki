@@ -109,7 +109,8 @@
 [Colocando a aplicação em produção com NGINX](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Colocando-a-aplica%C3%A7%C3%A3o-em-produ%C3%A7%C3%A3o-com-NGINX)
 
 [Método Kanban](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Karban)
-[Tutorial de Valor Agregado]() 
-[Refatoração]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Refatoração
-[Projetos2017]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Projetos-2017.1---GPP-MDS
-[BacklogWiki]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Backlog-wiki
+[Refatoração](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Refatoração)
+[Projetos2017](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Projetos-2017.1---GPP-MDS)
+[BacklogWiki](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Backlog-wiki)
+
+[Tutorial de Valor Agregado](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Backlog-wiki)
