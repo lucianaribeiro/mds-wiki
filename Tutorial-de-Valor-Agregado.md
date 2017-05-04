@@ -57,14 +57,16 @@ A base das estimativas devem especificar sobre os a inclusão e exclusão de cus
 ## Tutorial Estimativa de 3 pontos
 
 <p align="justify"> Para a Estimativa de 3 pontos é necessário que a Estrutura Analítica de Projeto e o cronograma estejam definidos. Assim como as determinadas atividades necessárias para a realização do projeto.
- Considerando a incerteza e o risco (Plano de Riscos) Para cada atividade será estimado pela equipe</p>
+ Considerando a incerteza e o risco (Plano de Riscos) a equipe irá estimar o tempo de conclusão de cada atividade. E após a estimativa, se obtém o custo de cada atividade multiplicando a hora/pessoa pelo tempo estimado.</p>
 
-<p align="justify">  </p> 
+<p align="justify"> Para se obter a estimativa final, para cada atividade a equipe vai estimar o tempo de esforço realista para a execução da atividade, o esforço no melhor cenário e no pior cenário. </p> 
 
 
 Quais dados estimar e como estimar
 
 ## Tutorial GVA
+
+<p align="justify"> A Gestão de Valor Agregado (EVM em inglês) é considerada como um dos melhores métodos para analisar a evolução dos custos e prazos de um projeto devido à sua eficiência. </p>
 
 ### Siglas
 Descrição e explicação das siglas usadas
