@@ -48,3 +48,28 @@ A base das estimativas devem especificar sobre os a inclusão e exclusão de cus
 
 ### 2.4 Controlar os Custos
 
+## Aplicações em GPP
+
+Como iremos fazer a adaptação do plano pra GPP.
+
+# Tutorial de Valor Agregado
+
+## Tutorial Estimativa de 3 pontos
+Quais dados estimar e como estimar
+
+## Tutorial GVA
+
+### Siglas
+Descrição e explicação das siglas usadas
+
+### Índices
+Descrição e explicação dos índices usados
+
+### Planilha Valor Agregado
+Passo a passo de como estruturar uma planilha de custos
+
+### Gráficos
+Quais dados pegar e como montar os gráficos 
+
+### Análise de Índices
+Explicar como relacionar os índices gerados pelo GVA para avaliar o projeto como um todo.
