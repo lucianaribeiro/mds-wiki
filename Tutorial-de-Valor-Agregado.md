@@ -38,8 +38,6 @@ Para realizar as estimativas de custos do projeto, existem diversas ferramentas,
 
 As estimativas de horas(tempo) é baseado nas atividades planejadas no cronograma. A <i>Estimativa Otimista</i> é o melhor cenário possível, onde tudo deu certo sem nenhuma pendência para outra interação. A <i>Estimativa Realista</i> é o cenário real, onde acontecem os erros, mas também acontecem acertos. A <i>Estimativa Pessimista</i> é o pior cenário possível.
 
-Este método é calculado a partir da distribuição <b>PERT</b> (Técnica de Revisão e Avaliação de Programa) 
-
 ### 2.3 Determinar o Orçamento
 
 O objetivo desta etapa é determinar a linha de base dos custos do monitoramento e controle do desempenho baseado nas atividades individuais ou os pacotes de trabalho baseados no cronograma do projeto.
@@ -47,6 +45,8 @@ O objetivo desta etapa é determinar a linha de base dos custos do monitoramento
 A base das estimativas devem especificar sobre os a inclusão e exclusão de custos indiretos ou outro custo no projeto.
 
 ### 2.4 Controlar os Custos
+
+Nesta etapa é feito o monitoramento do andamento do projeto para atualização constante do orçamento e o gerenciamento das mudanças realizadas no base dos custos.
 
 ## Aplicações em GPP
 
