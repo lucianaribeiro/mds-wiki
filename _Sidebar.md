@@ -113,4 +113,4 @@
 [Projetos2017](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Projetos-2017.1---GPP-MDS)
 [BacklogWiki](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Backlog-wiki)
 
-[Tutorial de Valor Agregado](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Backlog-wiki)
+[Tutorial de Valor Agregado](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado)
