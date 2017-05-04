@@ -1,5 +1,5 @@
 # Backlog Wiki
-[Backlog da Wiki][Backlog-wiki]
+[Backlog da Wiki](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Backlog-wiki)
 
 # Seja Bem-vindo!
 
