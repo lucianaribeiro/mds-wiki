@@ -30,11 +30,11 @@ Para realizar as estimativas de custos do projeto, existem diversas ferramentas,
 
 #### 2.2.2.1 Estimativa de 3 Pontos
 
-*<b>O</b> - Estimativa Otimista
+* <b>O</b> - Estimativa Otimista
 
-*<b>M</b> - Estimativa Realista
+* <b>M</b> - Estimativa Realista
 
-*<b>P</b> - Estimativa Pessimista
+* <b>P</b> - Estimativa Pessimista
 
 As estimativas de horas(tempo) é baseado nas atividades planejadas no cronograma. A <i>Estimativa Otimista</i> é o melhor cenário possível, onde tudo deu certo sem nenhuma pendência para outra interação. A <i>Estimativa Realista</i> é o cenário real, onde acontecem os erros, mas também acontecem acertos. A <i>Estimativa Pessimista</i> é o pior cenário possível.
 
