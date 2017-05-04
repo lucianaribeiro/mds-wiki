@@ -1,5 +1,5 @@
 # Backlog Wiki
-[Backlog da Wiki][BacklogWiki]
+[Backlog da Wiki][Backlog-wiki]
 
 # Seja Bem-vindo!
 
