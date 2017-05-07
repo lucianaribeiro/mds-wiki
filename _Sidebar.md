@@ -64,6 +64,8 @@
 
 [Ionic][ionic]
 
+[Xamarin][xamarin]
+
 [[Configurar Ambiente, Automação de deploy (chake)]]
 
 [Integração Contínua com o Travis-CI](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Integração-Cont%C3%ADnua-Travis-CI)
@@ -101,6 +103,7 @@
 [testeAutomatizadoCucumberRails]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Teste-Automatizado-Cucumber-Rails
 [testeAutomatizadoComSeleniumIDE]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Teste-Automatizado-com-Selenium-IDE
 [testeAutomatizadoCucumberJavaScript]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Teste-Automatizado-Cucumber-JS
+[xamarin]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/xamarin
 
 [Teste de Aceitação Python/Django com Selenium](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-para-Teste-de-Aceitação-Python-Django-com-Selenium)
 
