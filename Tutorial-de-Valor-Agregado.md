@@ -10,11 +10,11 @@
 4. [Tutorial de Valor Agregado](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#4-tutorial-de-valor-agregado)    
    4.1. [Tutorial Estimativa de 3 pontos](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#41-tutorial-estimativa-de-3-pontos)    
    4.2. [Tutorial GVA](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#tutorial-gva)    
-  &nbsp;&nbsp;&nbsp;&nbsp;i. [Siglas](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#siglas)    
-  &nbsp;&nbsp;&nbsp;&nbsp;ii. [Índices](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#%C3%8Dndices)    
-  &nbsp;&nbsp;&nbsp;&nbsp;iii. [Planilha Valor Agregado](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#planilha-valor-agregado)    
-  &nbsp;&nbsp;&nbsp;&nbsp;iv. [Gráficos](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#gr%C3%A1ficos)    
-  &nbsp;&nbsp;&nbsp;&nbsp;v. [Análise de Índices](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#an%C3%A1lise-de-%C3%8Dndices)    
+  &nbsp;&nbsp;&nbsp;&nbsp;4.2.1 [Siglas](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#siglas)    
+  &nbsp;&nbsp;&nbsp;&nbsp;4.2.2 [Índices](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#%C3%8Dndices)    
+  &nbsp;&nbsp;&nbsp;&nbsp;4.2.3 [Planilha Valor Agregado](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#planilha-valor-agregado)    
+  &nbsp;&nbsp;&nbsp;&nbsp;4.2.4 [Gráficos](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#gr%C3%A1ficos)    
+  &nbsp;&nbsp;&nbsp;&nbsp;4.2.5 [Análise de Índices](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#an%C3%A1lise-de-%C3%8Dndices)    
 5. [Referências](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#refer%C3%AAncias)
   
 
