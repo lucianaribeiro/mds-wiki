@@ -6,16 +6,16 @@
    2.2. [Estimar os custos](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#222-estimar-os-custos)    
    2.3. [Determinar o Orçamento](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#23-determinar-o-or%C3%A7amento)    
    2.4. [Controlar os Custos](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#24-controlar-os-custos)    
-3. [Aplicações em GPP](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#aplica%C3%A7%C3%B5es-em-gpp)   
+3. [Aplicações em GPP](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#3-aplica%C3%A7%C3%B5es-em-gpp)   
 4. [Tutorial de Valor Agregado](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#4-tutorial-de-valor-agregado)    
-   4.1. [Tutorial Estimativa de 3 pontos](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#tutorial-estimativa-de-3-pontos)    
+   4.1. [Tutorial Estimativa de 3 pontos](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#41-tutorial-estimativa-de-3-pontos)    
    4.2. [Tutorial GVA](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#tutorial-gva)    
       4.2.1 [Siglas](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#siglas)    
       4.2.2 [Índices](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#%C3%8Dndices)    
       4.2.3 [Planilha Valor Agregado](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#planilha-valor-agregado)    
       4.2.4 [Gráficos](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#gr%C3%A1ficos)    
       4.2.5 [Análise de Índices](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#an%C3%A1lise-de-%C3%8Dndices)    
-5. [Referências]()
+5. [Referências](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#refer%C3%AAncias)
   
 
 
@@ -174,23 +174,23 @@ No caso foi feito o <b>Desvio Padrão</b> em minutos porque em horas o número f
 <p align="justify">Na tabela a <b>Variância</b> é multiplicada pela quantidade de membros envolvidos, e o resultado é em minuto.
 
 
-## Tutorial GVA
+## 4.2 Tutorial GVA
 
 <p align="justify"> A Gestão de Valor Agregado (EVM em inglês) é considerada como um dos melhores métodos para analisar a evolução dos custos e prazos de um projeto devido à sua eficiência. </p>
 
-### Siglas
+### 4.2.1 Siglas
 Descrição e explicação das siglas usadas
 
-### Índices
+### 4.2.2 Índices
 Descrição e explicação dos índices usados
 
-### Planilha Valor Agregado
+### 4.2.3 Planilha Valor Agregado
 Passo a passo de como estruturar uma planilha de custos
 
-### Gráficos
+### 4.2.4 Gráficos
 Quais dados pegar e como montar os gráficos 
 
-### Análise de Índices
+### 4.3.5 Análise de Índices
 Explicar como relacionar os índices gerados pelo GVA para avaliar o projeto como um todo.
 
 ## Referências
