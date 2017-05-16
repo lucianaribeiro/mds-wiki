@@ -56,8 +56,32 @@ A base das estimativas devem especificar sobre os a inclusão e exclusão de cus
 
 ## Tutorial Estimativa de 3 pontos
 
-<p align="justify"> Para a Estimativa de 3 pontos é necessário que a Estrutura Analítica de Projeto e o cronograma estejam definidos. Assim como as determinadas atividades necessárias para a realização do projeto.
- Considerando a incerteza e o risco (Plano de Riscos) a equipe irá estimar o tempo de conclusão de cada atividade. E após a estimativa, se obtém o custo de cada atividade multiplicando a hora/pessoa pelo tempo estimado.</p>
+<p align="justify"><b>Passo 1:</b> Para a Estimativa de 3 pontos é necessário primeiramente que a <i>Estrutura Analítica de Projeto</i> esteja definida. </p>
+<p align="justify"><b>Passo 2:</b> A partir da EAP organizar o cronograma e todas as suas respectivas atividades necessárias para a realização do projeto.</p>
+<p align="justify"><b>Passo 3:</b> Criar 2 planilhas no <b>Drive</b>, um para os membros de MDS e outra para os membros de GPP.</p>
+<p align="justify"><b>Passo 4:</b> Criar abas de planilhas que represente a quantidade de iterações que o grupo vai ter.</p> 
+<p align="justify"><b>Passo 5:</b> Na primeira planilha identificar informações como:</p>     
+  
+   * Qual a semana      
+   * Qual o período da semana (dia de início e fim)       
+   * Hora total da semana     
+
+<p align="justify"><b>Passo 6:</b> Criar uma tabela para cada membro (GPP ou MDS), identificar com o nome do membro, data, hora, o nome da atividade e a <b>hora total</b>.</p>
+<p align="justify"><b>Passo 7:</b> Para automatizar a <b>hora total</b> e a <b>hora da semana</b>, utilize dos meios que a planilha oferece, para fazer um somatório automático a cada adição de informação.</p>
+<p align="justify"><b>Passo 8:</b> Repetir o mesmo processo nas outras abas das outras semanas.</p>
+
+O resultado das planilhas de acompanhamento dos membros:
+
+<img>
+
+<p align="justify"><b>Passo 9:</b> Depois para a então <b>Estimativa de 3 pontos</b>, é necessário criar outra planilha para que os membros de GPP possam fazer suas estimativas.
+<p align="justify"><b>Passo 10:</b> A planilha deve conter uma aba para cada membro de GPP.
+<p align="justify"><b>Passo 11:</b> Descrever todas as atividades do cronograma em seus respectivos pacotes da EAP.
+
+e o <i>cronograma</i> estejam definidos. Assim como as determinadas <b>atividades</b> necessárias para a realização do projeto. 
+Assim como as determinadas <b>atividades</b> necessárias para a realização do projeto. 
+
+Considerando a incerteza e o risco (Plano de Riscos) a equipe irá estimar o tempo de conclusão de cada atividade. E após a estimativa, se obtém o custo de cada atividade multiplicando a hora/pessoa pelo tempo estimado.</p>
 
 <p align="justify"> Para se obter a estimativa final, para cada atividade a equipe vai estimar o tempo de esforço realista para a execução da atividade, o esforço no melhor cenário e no pior cenário. </p> 
 
