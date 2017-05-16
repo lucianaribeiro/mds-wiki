@@ -135,7 +135,7 @@ O resultado das planilhas de acompanhamento dos membros:
 <p align="justify"><i>Para que os valores não fiquem quebrados, foi arredondado para horas inteiras ou com meia hora de diferença. </i>
 <p align="justify"><b>Passo 18:</b> O <b>Tempo planejado total</b> é o valor do <i>Tempo planejado</i> multiplicado pela quantidade de membros envolvido naquela atividade. 
 <p align="justify"><b>Passo 19:</b> Depois que se tem o tempo total de cada atividade, multiplica esse valor pela hora/pessoa. E se tem o <b>Custo total planejado</b>.
-<p align="justify"><b>Passo 20:</b> O <b>Desvio Padrão</b> segue a fórmula:
+<p align="justify"><b>Passo 20:</b> O <b>Desvio Padrão</b> segue a fórmula:</p>
 
 <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/pert2.png" >
 
@@ -149,7 +149,15 @@ No caso foi feito o <b>Desvio Padrão</b> em minutos porque em horas o número f
 
 <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/pert5.png" >
 
+<p align="justify"><b>Passo 21:</b> A <b>Variância</b> segue a fórmula: </p>
 
+<img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/pert3.png"
+
+<p align="justify">Que é o quadrado do <b>Desvio Padrão</b>: </p>
+
+<img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/pert4.png"
+
+<p align="justify">Na tabela a <b>Variância</b> é multiplicada pela quantidade de membros envolvidos, e o resultado é em minuto.
 
 
 ## Tutorial GVA
