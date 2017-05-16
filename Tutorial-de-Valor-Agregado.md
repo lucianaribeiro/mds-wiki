@@ -190,8 +190,9 @@ Passo a passo de como estruturar uma planilha de custos
 ### 4.2.4 Gráficos
 Quais dados pegar e como montar os gráficos 
 
-### 4.3.5 Análise de Índices
-Explicar como relacionar os índices gerados pelo GVA para avaliar o projeto como um todo.
+### 4.3.5 Análise de Índices    
+Após ter calculado os índices de orçamento e de tempo, é possível analisar como está o andamento do projeto segundo a tabela abaixo.  
+
 
 ## Referências
 
