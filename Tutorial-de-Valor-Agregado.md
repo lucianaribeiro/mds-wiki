@@ -179,7 +179,10 @@ No caso foi feito o <b>Desvio Padrão</b> em minutos porque em horas o número f
 <p align="justify"> A Gestão de Valor Agregado (EVM em inglês) é considerada como um dos melhores métodos para analisar a evolução dos custos e prazos de um projeto devido à sua eficiência. </p>
 
 ### 4.2.1 Siglas
-Descrição e explicação das siglas usadas
+
+<p align = "justify">Os valores que são trabalhados no <i>GVA</i> são: </p>
+
+<img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/gva.png" >
 
 ### 4.2.2 Índices
 
