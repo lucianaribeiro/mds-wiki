@@ -78,23 +78,27 @@ O resultado das planilhas de acompanhamento dos membros:
 <p align="justify"><b>Passo 10:</b> A planilha deve conter uma aba para cada membro de GPP.
 <p align="justify"><b>Passo 11:</b> Descrever todas as atividades do cronograma em seus respectivos pacotes da EAP.
 <p align="justify"><b>Passo 12:</b> Dividir a planilha em 3 colunas com as opções:
+
    * Otimista    
    * Realista    
    * Pessimista    
+
 <p align="justify"><b>Passo 13:</b> Cada membro de GPP em sua respectiva aba colocar sua estimativa de hora para cada atividade e nos três cenários.
 <p align="justify"><b>Passo 14:</b> Depois é feito uma média das estimativas dos membros de GPP nos três cenários.
 <p align="justify"><b>Passo 15:</b> Em outra aba ou outra planilha com as médias finais <b>otimista</b>, <b>realista</b> e <b>pessimista</b> para cada atividade, cria-se mais colunas com as informações:    
+
    * Quantidade de membros envolvidos    
    * Tempo planejado    
    * Tempo total planejado     
    * Custo total planejado
    * Desvio padrão    
    * Variância (em minutos)    
+
 <b>*Obs:</b> As estimativas são feitas geralmente em horas.
 <p align="justify"><b>Passo 16:</b> Completa a coluna de membros envolvidos de acordo com cada atividade. Para o <b>Tempo planejado</b> é uma média do tempo realista para UMA pessoa, mas com os tempo arredondado ou terminado em hora exata ou com acréscimo de meia hora (para facilitar os custos).
 <p align="justify"><b>Passo 17:</b> O <b>Tempo planejado total</b> é o valor do <i>Tempo planejado</i> multiplicado pela quantidade de membros envolvido naquela atividade. 
-<p align="justify"><b>Passo 14:</b> Depois que se tem o tempo total de cada atividade, multiplica esse valor pela hora/pessoa. E se tem o <b>Custo total planejado</b>.
-<p align="justify"><b>Passo 14:</b> O <b>Desvio padrão</b> é o tempo que se tirou do tempo realista ou se acrescentou para definir o <i>Tempo planejado</i>.
+<p align="justify"><b>Passo 18:</b> Depois que se tem o tempo total de cada atividade, multiplica esse valor pela hora/pessoa. E se tem o <b>Custo total planejado</b>.
+<p align="justify"><b>Passo 19:</b> O <b>Desvio padrão</b> é o tempo que se tirou do tempo realista ou se acrescentou para definir o <i>Tempo planejado</i>.
 
 
 ## Tutorial GVA
