@@ -77,16 +77,25 @@ O resultado das planilhas de acompanhamento dos membros:
 <p align="justify"><b>Passo 9:</b> Depois para a então <b>Estimativa de 3 pontos</b>, é necessário criar outra planilha para que os membros de GPP possam fazer suas estimativas.
 <p align="justify"><b>Passo 10:</b> A planilha deve conter uma aba para cada membro de GPP.
 <p align="justify"><b>Passo 11:</b> Descrever todas as atividades do cronograma em seus respectivos pacotes da EAP.
+<p align="justify"><b>Passo 12:</b> Dividir a planilha em 3 colunas com as opções:
+   * Otimista    
+   * Realista    
+   * Pessimista    
+<p align="justify"><b>Passo 13:</b> Cada membro de GPP em sua respectiva aba colocar sua estimativa de hora para cada atividade e nos três cenários.
+<p align="justify"><b>Passo 14:</b> Depois é feito uma média das estimativas dos membros de GPP nos três cenários.
+<p align="justify"><b>Passo 15:</b> Em outra aba ou outra planilha com as médias finais <b>otimista</b>, <b>realista</b> e <b>pessimista</b> para cada atividade, cria-se mais colunas com as informações:    
+   * Quantidade de membros envolvidos    
+   * Tempo planejado    
+   * Tempo total planejado     
+   * Custo total planejado
+   * Desvio padrão    
+   * Variância (em minutos)    
+<b>*Obs:</b> As estimativas são feitas geralmente em horas.
+<p align="justify"><b>Passo 16:</b> Completa a coluna de membros envolvidos de acordo com cada atividade. Para o <b>Tempo planejado</b> é uma média do tempo realista para UMA pessoa, mas com os tempo arredondado ou terminado em hora exata ou com acréscimo de meia hora (para facilitar os custos).
+<p align="justify"><b>Passo 17:</b> O <b>Tempo planejado total</b> é o valor do <i>Tempo planejado</i> multiplicado pela quantidade de membros envolvido naquela atividade. 
+<p align="justify"><b>Passo 14:</b> Depois que se tem o tempo total de cada atividade, multiplica esse valor pela hora/pessoa. E se tem o <b>Custo total planejado</b>.
+<p align="justify"><b>Passo 14:</b> O <b>Desvio padrão</b> é o tempo que se tirou do tempo realista ou se acrescentou para definir o <i>Tempo planejado</i>.
 
-e o <i>cronograma</i> estejam definidos. Assim como as determinadas <b>atividades</b> necessárias para a realização do projeto. 
-Assim como as determinadas <b>atividades</b> necessárias para a realização do projeto. 
-
-Considerando a incerteza e o risco (Plano de Riscos) a equipe irá estimar o tempo de conclusão de cada atividade. E após a estimativa, se obtém o custo de cada atividade multiplicando a hora/pessoa pelo tempo estimado.</p>
-
-<p align="justify"> Para se obter a estimativa final, para cada atividade a equipe vai estimar o tempo de esforço realista para a execução da atividade, o esforço no melhor cenário e no pior cenário. </p> 
-
-
-Quais dados estimar e como estimar
 
 ## Tutorial GVA
 
