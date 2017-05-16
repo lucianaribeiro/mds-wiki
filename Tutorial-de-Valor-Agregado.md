@@ -96,6 +96,8 @@ O resultado das planilhas de acompanhamento dos membros:
 
 <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/wikiPlanilhaHoras.png" >
 
+[Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/wikiPlanilhaHoras.png)
+
 <p align="justify"><b>Passo 9:</b> Depois para a então <b>Estimativa de 3 pontos</b>, é necessário criar outra planilha para que os membros de GPP possam fazer suas estimativas.
 <p align="justify"><b>Passo 10:</b> A planilha deve conter uma aba para cada membro de GPP.
 <p align="justify"><b>Passo 11:</b> Descrever todas as atividades do cronograma em seus respectivos pacotes da EAP.
@@ -119,6 +121,8 @@ O resultado das planilhas de acompanhamento dos membros:
 <i>Obs:</i> As estimativas são feitas geralmente em horas.
 
 <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/wikiHorasEstimadas.png" >
+
+[Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/wikiHorasEstimadas.png)
 
 <p align="justify"><b>Passo 16:</b> Completa a coluna de membros envolvidos de acordo com cada atividade. Para o <b>Tempo planejado</b> é uma média do tempo realista para UMA pessoa, mas com os tempo arredondado ou terminado em hora exata ou com acréscimo de meia hora (para facilitar os custos).
 <p align="justify"><b>Passo 17:</b> O <b>Tempo planejado total</b> é o valor do <i>Tempo planejado</i> multiplicado pela quantidade de membros envolvido naquela atividade. 
