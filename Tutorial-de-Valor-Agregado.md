@@ -1,21 +1,21 @@
 ### Sumário
 
-1. [Objetivo]()    
-2. [Referências]()    
-3. [Fases do Plano de Gerenciamento de Custos]()    
-   3.1. [Planejar o Gerenciamento dos Custos]()    
-   3.2. [Estimar os custos]()    
-   3.3. [Determinar o Orçamento]()    
-   3.4. [Controlar os Custos]()    
-4. [Aplicações em GPP]()   
-5. [Tutorial de Valor Agregado]()    
-   5.1. [Tutorial Estimativa de 3 pontos]()    
-   5.2. [Tutorial GVA]()    
-      5.2.1 [Siglas]()    
-      5.2.2 [Índices]()    
-      5.2.3 [Planilha Valor Agregado]()    
-      5.2.4 [Gráficos]()    
-      5.2.5 [Análise de Índices]()    
+1. [Objetivo](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#1-objetivo)    
+2. [Fases do Plano de Gerenciamento de Custos](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#fases-do-plano-de-gerenciamento-de-custos)    
+   2.1. [Planejar o Gerenciamento dos Custos](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#21-planejar-o-gerenciamento-dos-custos)    
+   2.2. [Estimar os custos](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#222-estimar-os-custos)    
+   2.3. [Determinar o Orçamento](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#23-determinar-o-or%C3%A7amento)    
+   2.4. [Controlar os Custos](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#24-controlar-os-custos)    
+3. [Aplicações em GPP](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#aplica%C3%A7%C3%B5es-em-gpp)   
+4. [Tutorial de Valor Agregado](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#tutorial-de-valor-agregado)    
+   4.1. [Tutorial Estimativa de 3 pontos](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#tutorial-estimativa-de-3-pontos)    
+   4.2. [Tutorial GVA](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#tutorial-gva)    
+      4.2.1 [Siglas](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#siglas)    
+      4.2.2 [Índices](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#%C3%8Dndices)    
+      4.2.3 [Planilha Valor Agregado](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#planilha-valor-agregado)    
+      4.2.4 [Gráficos](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#gr%C3%A1ficos)    
+      4.2.5 [Análise de Índices](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#an%C3%A1lise-de-%C3%8Dndices)    
+[Referências]()    
   
 
 
@@ -34,11 +34,7 @@
 
 * Controlar os custos
 
-## 2. Referências
-
-* PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK® 5a. ed. - EUA: Project Management Institute, 2013
-
-## Fases do Plano de Gerenciamento de Custos
+## 2. Fases do Plano de Gerenciamento de Custos
 
 ### 2.1. Planejar o Gerenciamento dos Custos
 
@@ -46,11 +42,11 @@
 
 <p align="justify"> Os custos do projeto são calculados com base nos entregáveis de valor, presentes na EAP e no cronograma do projeto, esse último sendo indispensável para o controle dos custos durante as iterações. </p>
 
-### 2.2.2 Estimar os Custos
+### 2.2. Estimar os Custos
 
 <p align="justify"> Para realizar as estimativas de custos do projeto, existem diversas ferramentas, mas neste caso será explicado o método da <b>Estimativa de 3 Pontos</b>. Este método permite que as horas sejam calculadas e com isso os custos do projeto. </p>
 
-#### 2.2.2.1 Estimativa de 3 Pontos
+#### 2.2.1 Estimativa de 3 Pontos
 
 * <b>O</b> - Estimativa Otimista
 
@@ -70,13 +66,13 @@ A base das estimativas devem especificar sobre os a inclusão e exclusão de cus
 
 <p align="justify"> Nesta etapa é feito o monitoramento do andamento do projeto para atualização constante do orçamento e o gerenciamento das mudanças realizadas no base dos custos. </p>
 
-## Aplicações em GPP
+## 3. Aplicações em GPP
 
 <p align="justify"> Como iremos fazer a adaptação do plano pra GPP. </p>
 
-# Tutorial de Valor Agregado
+# 4. Tutorial de Valor Agregado
 
-## Tutorial Estimativa de 3 pontos
+## 4.1 Tutorial Estimativa de 3 pontos
 
 <p align="justify"><b>Passo 1:</b> Para a Estimativa de 3 pontos é necessário primeiramente que a <i>Estrutura Analítica de Projeto</i> esteja definida. </p>
 <p align="justify"><b>Passo 2:</b> A partir da EAP organizar o cronograma e todas as suas respectivas atividades necessárias para a realização do projeto.</p>
@@ -107,30 +103,53 @@ O resultado das planilhas de acompanhamento dos membros:
    * Realista    
    * Pessimista    
 
+<img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/wikiEstimativaIndividual.jpeg" >
+
+[Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/wikiEstimativaIndividual.jpeg)
+
 <p align="justify"><b>Passo 13:</b> Cada membro de GPP em sua respectiva aba colocar sua estimativa de hora para cada atividade e nos três cenários.
 <p align="justify"><b>Passo 14:</b> Depois é feito uma média das estimativas dos membros de GPP nos três cenários.</p>
-
-<img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/pert1.gif" >
-
-<p align="justify"><b>Passo 15:</b> Em outra aba ou outra planilha com as médias finais <b>otimista</b>, <b>realista</b> e <b>pessimista</b> para cada atividade, cria-se mais colunas com as informações:    
-
+<p align="justify"><b>Passo 15:</b> Em outra aba ou planilha é realizado a média dos cenários <b>otimista</b>, <b>realista</b> e <b>pessimista</b> para cada atividade. </p>
+<p align="justify"><b>Passo 16:</b> Em outra aba ou outra planilha com a descrição de todas as atividades, acrescenta as colunas:    
+   
+   * Tempo Otimista (em horas)
+   * Tempo Realista (em horas)    
+   * Tempo Pessimista (em horas)   
    * Quantidade de membros envolvidos    
-   * Tempo planejado    
-   * Tempo total planejado     
-   * Custo total planejado
-   * Desvio padrão    
+   * Tempo Planejado (em horas)    
+   * Tempo Total Planejado (em horas)     
+   * Custo Total Planejado (em reais)
+   * Desvio Padrão     
    * Variância (em minutos)    
 
-<i>Obs:</i> As estimativas são feitas geralmente em horas.
 
 <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/wikiHorasEstimadas.png" >
 
 [Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/wikiHorasEstimadas.png)
 
-<p align="justify"><b>Passo 16:</b> Completa a coluna de membros envolvidos de acordo com cada atividade. Para o <b>Tempo planejado</b> é uma média do tempo realista para UMA pessoa, mas com os tempo arredondado ou terminado em hora exata ou com acréscimo de meia hora (para facilitar os custos).
-<p align="justify"><b>Passo 17:</b> O <b>Tempo planejado total</b> é o valor do <i>Tempo planejado</i> multiplicado pela quantidade de membros envolvido naquela atividade. 
-<p align="justify"><b>Passo 18:</b> Depois que se tem o tempo total de cada atividade, multiplica esse valor pela hora/pessoa. E se tem o <b>Custo total planejado</b>.
-<p align="justify"><b>Passo 19:</b> O <b>Desvio padrão</b> é o tempo que se tirou do tempo realista ou se acrescentou para definir o <i>Tempo planejado</i>.
+
+<p align="justify"><b>Passo 17:</b> O <b>Tempo Planejado</b> é calculado por meio da fórmula do PERT:</p>
+
+<img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/pert1.gif" >
+
+<p align="justify"><i>Para que os valores não fiquem quebrados, foi arredondado para horas inteiras ou com meia hora de diferença. </i>
+<p align="justify"><b>Passo 18:</b> O <b>Tempo planejado total</b> é o valor do <i>Tempo planejado</i> multiplicado pela quantidade de membros envolvido naquela atividade. 
+<p align="justify"><b>Passo 19:</b> Depois que se tem o tempo total de cada atividade, multiplica esse valor pela hora/pessoa. E se tem o <b>Custo total planejado</b>.
+<p align="justify"><b>Passo 20:</b> O <b>Desvio Padrão</b> segue a fórmula:
+
+<img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/pert2.png" >
+
+Por exemplo: 
+
+|Tempo Otimista| Tempo Realista| Tempo Pessimista|Desvio Padrão|
+|:---:|:---:|:---:|:---:|
+|1:00|1:40|2:00|0:10|
+
+No caso foi feito o <b>Desvio Padrão</b> em minutos porque em horas o número ficaria muito pequeno.
+
+<img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/pert5.png" >
+
+
 
 
 ## Tutorial GVA
@@ -151,3 +170,7 @@ Quais dados pegar e como montar os gráficos
 
 ### Análise de Índices
 Explicar como relacionar os índices gerados pelo GVA para avaliar o projeto como um todo.
+
+## Referências
+
+* PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK® 5a. ed. - EUA: Project Management Institute, 2013
