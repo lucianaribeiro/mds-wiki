@@ -182,7 +182,15 @@ No caso foi feito o <b>Desvio Padrão</b> em minutos porque em horas o número f
 Descrição e explicação das siglas usadas
 
 ### 4.2.2 Índices
-Descrição e explicação dos índices usados
+
+<p align = "justify"> Com a obtenção dos valores descritos na secção acima, é possível obter os <i>índices</i> que servirão como indicadores da situação atual do projeto. </p>
+
+| Sigla | Significado | 
+| :---: | :---: | 
+| **VC** | Variação de Custos |
+| **VP** |Variação de Prazos | 
+| **IDC** | Índice de Desempenho de Custos |
+| **IDP** | Índice de Desempenho de Prazos |
 
 ### 4.2.3 Planilha Valor Agregado
 Passo a passo de como estruturar uma planilha de custos
