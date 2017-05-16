@@ -163,11 +163,11 @@ No caso foi feito o <b>Desvio Padrão</b> em minutos porque em horas o número f
 
 <p align="justify"><b>Passo 21:</b> A <b>Variância</b> segue a fórmula: </p>
 
-<img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/pert3.png"
+<img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/pert3.png">
 
 <p align="justify">Que é o quadrado do <b>Desvio Padrão</b>: </p>
 
-<img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/pert4.png"
+<img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/pert4.png">
 
 <p align="justify">Na tabela a <b>Variância</b> é multiplicada pela quantidade de membros envolvidos, e o resultado é em minuto.
 
