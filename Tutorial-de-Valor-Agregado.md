@@ -144,6 +144,9 @@ O resultado das planilhas de acompanhamento dos membros:
 
 <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/pert1.gif" >
 
+<p align="justify"><b>O</b> = Otimista, <b>P</b> = Pessimista, e <b>M</b> = Mais provável = Realista.
+
+
 <p align="justify"><i>Para que os valores não fiquem quebrados, foi arredondado para horas inteiras ou com meia hora de diferença. </i>
 <p align="justify"><b>Passo 18:</b> O <b>Tempo planejado total</b> é o valor do <i>Tempo planejado</i> multiplicado pela quantidade de membros envolvido naquela atividade. 
 <p align="justify"><b>Passo 19:</b> Depois que se tem o tempo total de cada atividade, multiplica esse valor pela hora/pessoa. E se tem o <b>Custo total planejado</b>.
