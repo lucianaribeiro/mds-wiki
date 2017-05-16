@@ -94,7 +94,7 @@ O resultado das planilhas de acompanhamento dos membros:
    * Desvio padrão    
    * Variância (em minutos)    
 
-<b>*Obs:</b> As estimativas são feitas geralmente em horas.
+<i>Obs:</i> As estimativas são feitas geralmente em horas.
 <p align="justify"><b>Passo 16:</b> Completa a coluna de membros envolvidos de acordo com cada atividade. Para o <b>Tempo planejado</b> é uma média do tempo realista para UMA pessoa, mas com os tempo arredondado ou terminado em hora exata ou com acréscimo de meia hora (para facilitar os custos).
 <p align="justify"><b>Passo 17:</b> O <b>Tempo planejado total</b> é o valor do <i>Tempo planejado</i> multiplicado pela quantidade de membros envolvido naquela atividade. 
 <p align="justify"><b>Passo 18:</b> Depois que se tem o tempo total de cada atividade, multiplica esse valor pela hora/pessoa. E se tem o <b>Custo total planejado</b>.
