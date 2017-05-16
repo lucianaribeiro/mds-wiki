@@ -15,9 +15,8 @@
       4.2.3 [Planilha Valor Agregado](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#planilha-valor-agregado)    
       4.2.4 [Gráficos](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#gr%C3%A1ficos)    
       4.2.5 [Análise de Índices](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#an%C3%A1lise-de-%C3%8Dndices)    
-[Referências]()    
+5. [Referências]()
   
-
 
 
 ## 1. Objetivo
@@ -80,7 +79,7 @@ A base das estimativas devem especificar sobre os a inclusão e exclusão de cus
 
 [Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/EAP.png)
 
-<p align="justify"><i><b>Dica</b>: Pode ser feito na ferramenta <b>XMIND</b></i>.
+**Dica:** Pode ser feito na ferramenta [XMind](http://www.xmind.net/).
 
 <p align="justify"><b>Passo 2:</b> A partir da EAP organizar o cronograma e todas as suas respectivas atividades necessárias para a realização do projeto. Segue modelo: </p>
 
@@ -197,3 +196,4 @@ Explicar como relacionar os índices gerados pelo GVA para avaliar o projeto com
 ## Referências
 
 * PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK® 5a. ed. - EUA: Project Management Institute, 2013
+* Relatório de Custos - Grupo Escola X - [Planilha de Custos](https://docs.google.com/spreadsheets/d/1ITHRbZTwAj2IPA8qPYTSt6RcRUDaBT0GZIsA5mM1iCA/edit?usp=sharing)
