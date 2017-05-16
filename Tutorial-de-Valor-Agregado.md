@@ -188,12 +188,12 @@ No caso foi feito o <b>Desvio Padrão</b> em minutos porque em horas o número f
 
 <p align = "justify"> Com a obtenção dos valores descritos na secção acima, é possível obter os <i>índices</i> que servirão como indicadores da situação atual do projeto. </p>
 
-| Sigla | Significado | 
-| :---: | :---: | 
-| **VC** | Variação de Custos |
-| **VP** |Variação de Prazos | 
-| **IDC** | Índice de Desempenho de Custos |
-| **IDP** | Índice de Desempenho de Prazos |
+| Sigla | Significado | Fórmula | 
+| :---: | :---: | :---: |
+| **VC** | Variação de Custos | VC = VA - CR|
+| **VP** |Variação de Prazos | Vpr = VA-VP |
+| **IDC** | Índice de Desempenho de Custos | IDC = VA/CR |
+| **IDP** | Índice de Desempenho de Prazos | IDP = VA/VP |
 
 ### 4.2.3 Planilha Valor Agregado
 Passo a passo de como estruturar uma planilha de custos
