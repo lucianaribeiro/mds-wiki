@@ -108,7 +108,10 @@ O resultado das planilhas de acompanhamento dos membros:
    * Pessimista    
 
 <p align="justify"><b>Passo 13:</b> Cada membro de GPP em sua respectiva aba colocar sua estimativa de hora para cada atividade e nos três cenários.
-<p align="justify"><b>Passo 14:</b> Depois é feito uma média das estimativas dos membros de GPP nos três cenários.
+<p align="justify"><b>Passo 14:</b> Depois é feito uma média das estimativas dos membros de GPP nos três cenários.</p>
+
+<img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/pert1.gif" >
+
 <p align="justify"><b>Passo 15:</b> Em outra aba ou outra planilha com as médias finais <b>otimista</b>, <b>realista</b> e <b>pessimista</b> para cada atividade, cria-se mais colunas com as informações:    
 
    * Quantidade de membros envolvidos    
