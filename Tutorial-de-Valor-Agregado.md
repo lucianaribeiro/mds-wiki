@@ -195,6 +195,7 @@ No caso foi feito o <b>Desvio Padrão</b> em minutos porque em horas o número f
 | **IDC** | Índice de Desempenho de Custos | IDC = VA/CR |
 | **IDP** | Índice de Desempenho de Prazos | IDP = VA/VP |
 
+
 ### 4.2.3 Planilha Valor Agregado
 Passo a passo de como estruturar uma planilha de custos
 
