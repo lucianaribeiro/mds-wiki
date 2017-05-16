@@ -191,7 +191,10 @@ Passo a passo de como estruturar uma planilha de custos
 Quais dados pegar e como montar os gráficos 
 
 ### 4.3.5 Análise de Índices    
-Após ter calculado os índices de orçamento e de tempo, é possível analisar como está o andamento do projeto segundo a tabela abaixo.  
+Após ter calculado os índices de orçamento e de tempo, é possível analisar como está o andamento do projeto segundo a tabela abaixo.   
+  
+![Comparação de índices de custo x prazo](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/analiseTempoXorcamento.png)       
+Através dos índices obtidos no calculo acima e olhando a tabela é capaz de localizar a situação do projeto, podendo ser boa, ruim ou simplements insuficiente devido à necessidade de mais dados.
 
 
 ## Referências
