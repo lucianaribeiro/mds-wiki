@@ -1,3 +1,25 @@
+### Sumário
+
+1. [Objetivo]()    
+2. [Referências]()    
+3. [Fases do Plano de Gerenciamento de Custos]()    
+   3.1. [Planejar o Gerenciamento dos Custos]()    
+   3.2. [Estimar os custos]()    
+   3.3. [Determinar o Orçamento]()    
+   3.4. [Controlar os Custos]()    
+4. [Aplicações em GPP]()   
+5. [Tutorial de Valor Agregado]()    
+   5.1. [Tutorial Estimativa de 3 pontos]()    
+   5.2. [Tutorial GVA]()    
+      5.2.1 [Siglas]()    
+      5.2.2 [Índices]()    
+      5.2.3 [Planilha Valor Agregado]()    
+      5.2.4 [Gráficos]()    
+      5.2.5 [Análise de Índices]()    
+  
+
+
+
 ## 1. Objetivo
 
 <p align="justify"> O objetivo deste tutorial é auxiliar os futuros grupos de GPP na estimativa de seus custos. Para realizar uma boa estimativa dos custos do projeto, tem que se levar em consideração os processos de planejamento, financiamentos, estimativas, orçamentos e isso deve ser controlado afim de que o projeto seja finalizado dentro do orçamento aprovado. Ao fim será explicado quais etapas são mais utilizadas na disciplina de GPP. </p>
