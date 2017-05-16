@@ -94,7 +94,7 @@ A base das estimativas devem especificar sobre os a inclusão e exclusão de cus
 
 O resultado das planilhas de acompanhamento dos membros:
 
-<img>
+<img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/wikiPlanilhaHoras.png" >
 
 <p align="justify"><b>Passo 9:</b> Depois para a então <b>Estimativa de 3 pontos</b>, é necessário criar outra planilha para que os membros de GPP possam fazer suas estimativas.
 <p align="justify"><b>Passo 10:</b> A planilha deve conter uma aba para cada membro de GPP.
@@ -117,6 +117,9 @@ O resultado das planilhas de acompanhamento dos membros:
    * Variância (em minutos)    
 
 <i>Obs:</i> As estimativas são feitas geralmente em horas.
+
+<img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/wikiHorasEstimadas.png" >
+
 <p align="justify"><b>Passo 16:</b> Completa a coluna de membros envolvidos de acordo com cada atividade. Para o <b>Tempo planejado</b> é uma média do tempo realista para UMA pessoa, mas com os tempo arredondado ou terminado em hora exata ou com acréscimo de meia hora (para facilitar os custos).
 <p align="justify"><b>Passo 17:</b> O <b>Tempo planejado total</b> é o valor do <i>Tempo planejado</i> multiplicado pela quantidade de membros envolvido naquela atividade. 
 <p align="justify"><b>Passo 18:</b> Depois que se tem o tempo total de cada atividade, multiplica esse valor pela hora/pessoa. E se tem o <b>Custo total planejado</b>.
