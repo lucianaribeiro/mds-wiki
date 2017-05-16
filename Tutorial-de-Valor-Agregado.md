@@ -77,6 +77,7 @@ A base das estimativas devem especificar sobre os a inclusão e exclusão de cus
 <p align="justify"><b>Passo 1:</b> Para a Estimativa de 3 pontos é necessário primeiramente que a <i>Estrutura Analítica de Projeto</i> esteja definida. Segue modelo: </p> 
 
 <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/EAP.png" >
+
 [Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/EAP.png)
 
 <p align="justify"><i><b>Dica</b>: Pode ser feito na ferramenta <b>XMIND</b></i>.
