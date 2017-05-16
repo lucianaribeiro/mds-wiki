@@ -74,8 +74,18 @@ A base das estimativas devem especificar sobre os a inclusão e exclusão de cus
 
 ## 4.1 Tutorial Estimativa de 3 pontos
 
-<p align="justify"><b>Passo 1:</b> Para a Estimativa de 3 pontos é necessário primeiramente que a <i>Estrutura Analítica de Projeto</i> esteja definida. </p>
-<p align="justify"><b>Passo 2:</b> A partir da EAP organizar o cronograma e todas as suas respectivas atividades necessárias para a realização do projeto.</p>
+<p align="justify"><b>Passo 1:</b> Para a Estimativa de 3 pontos é necessário primeiramente que a <i>Estrutura Analítica de Projeto</i> esteja definida. Segue modelo: </p> 
+
+<img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/EAP.png" >
+
+<p align="justify"><i><b>Dica</b>: Pode ser feito na ferramenta <b>XMIND</b></i>.
+
+<p align="justify"><b>Passo 2:</b> A partir da EAP organizar o cronograma e todas as suas respectivas atividades necessárias para a realização do projeto. Segue modelo: </p>
+
+<img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/exp1.png" >
+
+<p align="justify"><i><b>Dica</b>: Pode ser feito na ferramenta <b>Gantter</b>, que tem extensão no próprio Drive.</i>
+
 <p align="justify"><b>Passo 3:</b> Criar 2 planilhas no <b>Drive</b>, um para os membros de MDS e outra para os membros de GPP.</p>
 <p align="justify"><b>Passo 4:</b> Criar abas de planilhas que represente a quantidade de iterações que o grupo vai ter.</p> 
 <p align="justify"><b>Passo 5:</b> Na primeira planilha identificar informações como:</p>     
