@@ -206,7 +206,7 @@ No caso foi feito o <b>Desvio Padrão</b> em minutos porque em horas o número f
   <tr>
     <td rowspan="2" align='center' > <b>VC</b> </td>
     <td rowspan="2" align='center' >Variação de Custos</td>
-    <td rowspan="2" align='center' >VC = VA - CR</td>
+    <td rowspan="2" align='center' >VC=VA-CR</td>
     <td align='center' ><i>Negativo:</i> Custo do projeto está acima do orçado.</td>
   </tr>
  <tr>
@@ -215,7 +215,7 @@ No caso foi feito o <b>Desvio Padrão</b> em minutos porque em horas o número f
    <tr>
     <td rowspan="2" align='center' > <b>VP</b> </td>
     <td rowspan="2" align='center' >Variação de Prazos</td>
-    <td rowspan="2" align='center' >Vpr = VA-VP</td>
+    <td rowspan="2" align='center' >Vpr=VA-VP</td>
     <td align='center' ><i>Negativo:</i> Cronograma do projeto está atrasado.</td>
   </tr>
  <tr>
@@ -224,7 +224,7 @@ No caso foi feito o <b>Desvio Padrão</b> em minutos porque em horas o número f
   <tr>
     <td rowspan="2" align='center' > <b>IDC</b> </td>
     <td rowspan="2" align='center' >Índice de Desempenho de Custos</td>
-    <td rowspan="2" align='center' >IDC = VA/CR</td>
+    <td rowspan="2" align='center' >IDC=VA/CR</td>
     <td align='center' ><i>Negativo:</i> Custo do trabalho realizado está acima do orçado.</td>
   </tr>
  <tr>
@@ -233,7 +233,7 @@ No caso foi feito o <b>Desvio Padrão</b> em minutos porque em horas o número f
   <tr>
     <td rowspan="2" align='center' > <b>IDP</b> </td>
     <td rowspan="2" align='center' >Índice de Desempenho de Prazos</td>
-    <td rowspan="2" align='center' >IDP = VA/VP</td>
+    <td rowspan="2" align='center' >IDP=VA/VP</td>
     <td align='center' ><i>Negativo:</i> Trabalho realizado está atrasado em relação ao planejado.</td>
   </tr>
  <tr>
