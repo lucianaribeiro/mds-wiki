@@ -196,6 +196,52 @@ No caso foi feito o <b>Desvio Padrão</b> em minutos porque em horas o número f
 | **IDP** | Índice de Desempenho de Prazos | IDP = VA/VP |
 
 
+<table>
+  <tr>
+    <th>Sigla</th>
+    <th>Significado<br></th>
+    <th>Fórmula<br></th>
+    <th>Interpretação<br></th>
+  </tr>
+  <tr>
+    <td rowspan="2" align='center' > <b>VC</b> </td>
+    <td rowspan="2" align='center' >Variação de Custos</td>
+    <td rowspan="2" align='center' >VC = VA - CR</td>
+    <td align='center' ><i>Negativo:</i> Custo do projeto está acima do orçado.</td>
+  </tr>
+ <tr>
+    <td align='center'><i>Positivo:</i> Custo do projeto está abaixo do orçado.</td>
+  </tr>
+   <tr>
+    <td rowspan="2" align='center' > <b>VP</b> </td>
+    <td rowspan="2" align='center' >Variação de Prazos</td>
+    <td rowspan="2" align='center' >Vpr = VA-VP</td>
+    <td align='center' ><i>Negativo:</i> Cronograma do projeto está atrasado.</td>
+  </tr>
+ <tr>
+    <td align='center'><i>Positivo:</i> Cronograma do projeto está adiantado.</td>
+  </tr>
+  <tr>
+    <td rowspan="2" align='center' > <b>IDC</b> </td>
+    <td rowspan="2" align='center' >Índice de Desempenho de Custos</td>
+    <td rowspan="2" align='center' >IDC = VA/CR</td>
+    <td align='center' ><i>Negativo:</i> Custo do trabalho realizado está acima do orçado.</td>
+  </tr>
+ <tr>
+    <td align='center'><i>Positivo:</i> Custo do trabalho realizado está abaixo do orçado.</td>
+  </tr>
+  <tr>
+    <td rowspan="2" align='center' > <b>IDP</b> </td>
+    <td rowspan="2" align='center' >Índice de Desempenho de Prazos</td>
+    <td rowspan="2" align='center' >IDP = VA/VP</td>
+    <td align='center' ><i>Negativo:</i> Trabalho realizado está atrasado em relação ao planejado.</td>
+  </tr>
+ <tr>
+    <td align='center'><i>Positivo:</i>Trabalho realizado está adiantado em relação ao planejado.</td>
+  </tr>
+</table>
+
+
 ### 4.2.3 Planilha Valor Agregado
 Passo a passo de como estruturar uma planilha de custos
 
