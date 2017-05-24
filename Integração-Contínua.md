@@ -16,6 +16,8 @@ Com o desenvolvedor sempre integrando código, benefícios como restauração de
 
 ## Testes Automatizados
 
+Uma das vantagens quando se utiliza uma ferramenta de integração contínua reside nos testes automatizados. Uma vez que se conclui uma funcionalidade do sistema e deseja-se integrar estas mudanças à build principal, deve-se antes ter certeza de que essa build está devidamente testada e livre de erros. Porém, somente  este procedimento não garante a integridade do sistema como um todo. Quando se implementa uma ferramenta de integração contínua dentro do seu projeto, tem-se implicitamente a necessidade de que sua build principal esteja sempre íntegra. Isto é possível graças à integração contínua. Na máquina servidora onde está hospedada o ambiente de integração contínua pode-se, e deve-se, implementar o uso de testes automatizados. Sempre que novas alterações são fundidas ao projeto principal, a integração contínua entra em ação e gera uma nova build. Esta nova build então passa por um processo de testes, que irão fazer a análise quanto a integridade da build atual. Se os testes forem bem sucedidos(ou não), a ferramenta de integração gera as respectivas notificações . A esses testes que executam dentro da servidora de integração dão-se o nome de testes automatizados.
+
 ## Build Automatizado
 
 O processo de build baseia-se na ideia de compilar, preparar o executável e testar uma aplicação sem a necessidade da intervenção manual de um desenvolvedor. Para tal, é necessário possuir uma estrutura bem organizada do projeto, códigos-fonte independentes de qualquer variável do ambiente de desenvolvimento, modelos para os arquivos de configuração de forma que o build possa ser executado em qualquer ambiente -  desenvolvimento, homologação, teste e produção. Assim, qualquer desenvolvedor poderá executar o script de build garantindo que o processo de validação da funcionalidade implementada será o mesmo aplicado por toda a equipe de desenvolvimento.
@@ -27,6 +29,12 @@ A grande vantagem da integração contínua consiste no feedback instantâneo. Q
 De forma simplificada integração contínua é uma forma de trazer segurança em relação a mudanças, você pode fazer modificações sem medo, pois será avisado caso algo saia do esperado.
 
 ## Referencias
+
+&lt; [http://www.devmedia.com.br/integracao-continua-uma-introducao-ao-assunto/28002](http://www.devmedia.com.br/integracao-continua-uma-introducao-ao-assunto/28002)&gt; Acesso em  23-05-2017
+
+2. MARTIN,Fowler. Continuous Integration, 2009. Disponível em: &lt;https://martinfowler.com/articles/continuousIntegration.html&gt;. Acesso em: 23 de maio.2017.
+
+FLÁVIO, José. _Build automático de projetos com Continuum_. Disponível em: &lt; [http://www.devmedia.com.br/build-automatico-de-projetos-com-continuum/28914](http://www.devmedia.com.br/build-automatico-de-projetos-com-continuum/28914)&gt; Acesso em 23/05/2017 às 20h.
 
 CAUÊ, Guerra. Integração Contínua e o processo Agile. Disponível em:
 <http://blog.caelum.com.br/integracao-continua/>
