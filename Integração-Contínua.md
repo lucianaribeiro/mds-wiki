@@ -12,6 +12,16 @@ O processo de build baseia-se na ideia de compilar, preparar o executável e tes
 
 ## Vantagens da Integração Contínua
 
+Em equipes que adotam metodologias ágeis como eXtreme Programming, Scrum, dentre outras, a integração contínua é um dos pilares da agilidade, pois ela garante que todo o sistema funcione a cada build, não importando o tamanho da equipe e mesmo diversas partes do código estejam sendo alteradas ao mesmo tempo ela garante sua integridade. 
+A grande vantagem da integração contínua consiste no feedback instantâneo. Que funciona da seguinte forma: a cada commit no repositório, o build é feito automaticamente, executando todos os testes de forma automática, detectando falhas e avisando em tempo real os envolvidos no projeto. Dessa forma se algum commit não compilar ou quebrar qualquer um dos testes, a equipe toma conhecimento instantaneamente (através de e-mail, por exemplo, indicando as falhas e o commit causador das mesmas). O que possibilita uma que uma correção seja efetuada o mais rápido possível, fator esse que é fundamental para não propagar erros ao criar novas funcionalidades e refatorar o código.
+De forma simplificada integração contínua é uma forma de trazer segurança em relação a mudanças, você pode fazer modificações sem medo, pois será avisado caso algo saia do esperado.
+
+## Referencias
+
+CAUÊ, Guerra. Integração Contínua e o processo Agile. Disponível em:
+<http://blog.caelum.com.br/integracao-continua/>
+Acesso em 23 de maio de 2017.
+
 ## Integração Contínua com o Travis
 
 O seguinte tutorial objetiva exemplicar de maneira clara os passos necessários para implementar o Travis-CI em repositório com o intuito de realizar a integração contínua no mesmo.
