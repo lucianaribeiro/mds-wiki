@@ -42,7 +42,7 @@
 <p align="justify"> Os custos do projeto são calculados com base nos entregáveis de valor, presentes na EAP e no cronograma do projeto, esse último sendo indispensável para o controle dos custos durante as iterações. </p>
 
 ### 2.2. Estimar os Custos
-<p style='color:red'>**Está confuso esse texto -- no caso, a estimativa aqui é o custo por atividade.. e o custo do projeto é a soma desse custo..**</p>
+**Está confuso esse texto -- no caso, a estimativa aqui é o custo por atividade.. e o custo do projeto é a soma desse custo..**
 
 <p align="justify"> Para realizar as estimativas de custos do projeto, existem diversas ferramentas, mas neste caso será explicado o método da <b>Estimativa de 3 Pontos</b>. Este método permite que as horas sejam calculadas e com isso os custos do projeto. </p>
 
