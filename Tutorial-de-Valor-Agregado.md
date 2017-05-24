@@ -74,6 +74,8 @@ A base das estimativas devem especificar sobre os a inclusão e exclusão de cus
 
 # 4. Tutorial de Valor Agregado
 
+**Falta: deixar explicito a relação entre tarefas, EAP, cronograma**
+
 ## 4.1 Tutorial Estimativa de 3 pontos
 
 <p align="justify"><b>Passo 1:</b> Para a Estimativa de 3 pontos é necessário primeiramente que a <i>Estrutura Analítica de Projeto</i> esteja definida. Segue modelo: </p> 
