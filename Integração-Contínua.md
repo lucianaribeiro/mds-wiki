@@ -8,6 +8,8 @@
 
 ## Build Automatizado
 
+O processo de build baseia-se na ideia de compilar, preparar o executável e testar uma aplicação sem a necessidade da intervenção manual de um desenvolvedor. Para tal, é necessário possuir uma estrutura bem organizada do projeto, códigos-fonte independentes de qualquer variável do ambiente de desenvolvimento, modelos para os arquivos de configuração de forma que o build possa ser executado em qualquer ambiente -  desenvolvimento, homologação, teste e produção. Assim, qualquer desenvolvedor poderá executar o script de build garantindo que o processo de validação da funcionalidade implementada será o mesmo aplicado por toda a equipe de desenvolvimento.
+
 ## Vantagens da Integração Contínua
 
 ## Integração Contínua com o Travis
@@ -66,3 +68,11 @@ Um exemplo do conteúdo do arquivo é:
 * **notifications:** configuração de notificações que podem ser associadas ao Travis.<br>[Lista de Notificações](https://docs.travis-ci.com/user/notifications/)
 
 * **branchs:** definição das branchs em que serão rodado os testes
+
+
+----
+**Equipe**
+  * Bruno Matias
+  * Carlos Aragon
+  * Iasmin Mendes
+  * Wallacy Braz
