@@ -195,6 +195,10 @@ Quatro ideias centrais dão a tônica da Gestão de Valor Agregado no gerenciame
 
 4. Acompanhar a execução do projeto utilizando indicadores do método GVA.
 
+<p align="justify"> GVA é diferença entre o <i>valor de planejamento</i> e o <i>valor agregado</i>. </p>
+
+<p align="justify"> Valor planejado, como o próprio nome diz, mostra o valor que foi determinado previamente para um projeto, enquanto valor agregado mostra o quanto de valor o projeto realmente ganhou ao longo de sua execução e também ao final. </p>
+
 
 ### 4.2.1 Siglas
 
