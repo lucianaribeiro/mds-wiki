@@ -203,7 +203,7 @@ Quatro ideias centrais dão a tônica da Gestão de Valor Agregado no gerenciame
 
 <p align="justify"><b>Passo 01:</b> Ter feito a <i>Estrutura Analítica de Projeto</i> e o cronograma. </p>
 
-<p align="justify"><b>Passo 02:</b> Para a disciplina de <a href="https://github.com/fga-gpp-mds/00-Disciplina">GPP/MDS</a> por ter um período já definido da entrega, e estimando as horas fora de aula necessárias para a realização do projeto, toma-se como base:
+<p align="justify"><b>Passo 02:</b> Para a disciplina de <a href="https://github.com/fga-gpp-mds/00-Disciplina">GPP/MDS</a> por ter um período já definido da entrega, e estimando as horas fora de aula necessárias para a realização do projeto, toma-se como base: </p>
 
 <i><b>baseline de custo</b></i> = valor aluno/hora <b>x</b> horas trabalhas por semana
 
