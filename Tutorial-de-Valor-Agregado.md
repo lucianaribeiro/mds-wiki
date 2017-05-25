@@ -270,18 +270,21 @@ Quatro ideias centrais dão a tônica da Gestão de Valor Agregado no gerenciame
 
 
 ### 4.2.3 Planilha Valor Agregado
-Para gerar a planilha de valor agregado é necessessário ter os valores planejados, reais e agregados. No tópico acima está explicando como calcular o valor planejado. A seguir será explicado como gerar o valor real e agregado.        
+Para gerar a planilha de valor agregado é necessário ter os valores planejados, reais e agregados. No tópico acima está explicando como calcular o valor planejado. A seguir será explicado como gerar o valor real e agregado.        
 <h4> 4.2.3.1 Cálculo de valor real </h4>       
      O valor real é o valor do que realmente foi gasto pelo time, dos esforços que eles tiveram nas atividades. Para isso é necessário gerar uma tabela para monitorar as horas trabalhadas semanalmente por cada integrante e em qual atividade eles estavam trabalhando. A imagem a seguir mostra o exemplo de uma tabela para preencher horas semanais.    
 
-<img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/tabelaHorasVazia.png" >      
+<img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/tabelaHorasVazia.png" >         
+ 
 [Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/tabelaHorasVazia.png)   
    
     
 A tabela mostra que deve criar um campo para somar as horas totais trabalhadas por todos integrantes em cada semana. A seguir mostra uma imagem preenchida com exemplos de atividades, datas e tempo.    
     
-<img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/horasPreenchidas.png" >     
-[Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/horasPreenchidas.png)     
+<img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/horasPreenchidas.png" >      
+   
+[Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/horasPreenchidas.png)        
+ 
 Devem ser somadas todas as atividades em que os alunos trabalharam de todas as semanas.    
     
 Após preencher as tabelas de horas, deve-se relacionar as atividades das tabelas de horas com as atividades que foram planejadas ao fazer o cronograma, para saber quanto tempo cada aluno gastou trabalhando nas atividades que foram planejadas no cronograma.         
@@ -290,7 +293,9 @@ Após saber quanto tempo cada aluno trabalhou em cada atividade, deve-se multipl
 A imagem abaixo mostra quanto tempo cada aluno trabalhou em cada atividade e faz-se o somatório do tempo total gasto em cada atividade.    
 
 <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/tempoTotalPorAtividade.png" >      
-[Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/tempoTotalPorAtividade.png)
+    
+[Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/tempoTotalPorAtividade.png)    
+
   
 **Exemplo: Na atividade 1:Apresentar Equipe, tem-se quanto tempo cada aluno trabalhou nela, somando o tempo em que cada um trabalhou nela, tem-se o total de 11 horas gastas na atividade de apresentar a equipe. Portanto para saber o custo dessa atividade é só multiplicar 11:00 horas por 15,30 reais o custo da hora, que resulta em 168,30 reais.**         
        
