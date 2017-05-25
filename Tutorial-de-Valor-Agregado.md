@@ -199,6 +199,16 @@ Quatro ideias centrais dão a tônica da Gestão de Valor Agregado no gerenciame
 
 <p align="justify"> Valor planejado, como o próprio nome diz, mostra o valor que foi determinado previamente para um projeto, enquanto valor agregado mostra o quanto de valor o projeto realmente ganhou ao longo de sua execução e também ao final. </p>
 
+<b>Vamos começar?!</b>
+
+<p align="justify"><b>Passo 01:</b> Ter feito a <i>Estrutura Analítica de Projeto</i> e o cronograma. </p>
+
+<p align="justify"><b>Passo 02:</b> Ter feito a <a href="https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#41-tutorial-estimativa-de-3-pontos"> Estimativa de 3 pontos</a> para então ter a <b>baseline</b> de custo. </p>
+
+<p align="justify"><b>Passo 03:</b> </p>
+
+<p align="justify"><b>Passo 04:</b> </p>
+
 
 ### 4.2.1 Siglas
 
