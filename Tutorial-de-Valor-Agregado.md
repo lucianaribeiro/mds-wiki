@@ -181,7 +181,20 @@ No caso foi feito o <b>Desvio Padrão</b> em minutos porque em horas o número f
 
 ## 4.2 Tutorial GVA
 
-<p align="justify"> A Gestão de Valor Agregado (EVM em inglês) é considerada como um dos melhores métodos para analisar a evolução dos custos e prazos de um projeto devido à sua eficiência. </p>
+<p align="justify"> A Gestão de Valor Agregado (EVM em inglês) é considerada como um dos melhores métodos para analisar a evolução dos custos e prazos de um projeto devido à sua eficiência. Foi desenvolvida em 1960 pelo Departamento de Defesa dos EUA a partir de um outro modelo de controle de projetos S/SCSC. A ideia era criar um padrão para medir o desempenho de um projeto, o que acabou evoluindo e se estendendo para o mercado em geral.</p>
+
+<p align="justify"> Podemos dizer que a GVA é uma abordagem estruturada que integra o escopo, o cronograma e os recursos, para então medir o desempenho e o progresso do que foi planejado. Esse desempenho pode ser mensurado a partir da comparação entre o valor agregado e o custo real. Já o progresso compara o valor agregado com o valor planejado. Entende-se como valor agregado o valor orçado para realizar o trabalho requerido pelo projeto em um tempo determinado.</p> 
+
+Quatro ideias centrais dão a tônica da Gestão de Valor Agregado no gerenciamento de projetos:
+
+1. Estabelecer as linhas de base de escopo, tempo e custo antes de iniciar um projeto;
+
+2. Determinar qual será o ritmo de execução do projeto (entregas, tarefas e custos, sobretudo);
+
+3. Integrar as linhas de base do projeto;
+
+4. Acompanhar a execução do projeto utilizando indicadores do método GVA.
+
 
 ### 4.2.1 Siglas
 
@@ -192,13 +205,6 @@ No caso foi feito o <b>Desvio Padrão</b> em minutos porque em horas o número f
 ### 4.2.2 Índices
 
 <p align = "justify"> Com a obtenção dos valores descritos na secção acima, é possível obter os <i>índices</i> que servirão como indicadores da situação atual do projeto. </p>
-
-| Sigla | Significado | Fórmula | 
-| :---: | :---: | :---: |
-| **VC** | Variação de Custos | VC = VA - CR|
-| **VP** |Variação de Prazos | Vpr = VA-VP |
-| **IDC** | Índice de Desempenho de Custos | IDC = VA/CR |
-| **IDP** | Índice de Desempenho de Prazos | IDP = VA/VP |
 
 
 <table>
@@ -264,3 +270,4 @@ Através dos índices obtidos no calculo acima e olhando a tabela é capaz de lo
 
 * PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK® 5a. ed. - EUA: Project Management Institute, 2013
 * Relatório de Custos - Grupo Escola X - [Planilha de Custos](https://docs.google.com/spreadsheets/d/1ITHRbZTwAj2IPA8qPYTSt6RcRUDaBT0GZIsA5mM1iCA/edit?usp=sharing)
+* Builder, P. [O que é gestão de valor agregado (GVA), e qual a importância dele para a minha empresa?](http://www.projectbuilder.com.br/blog-home/entry/projetos/o-que-e-gestao-de-valor-agregado-gva-e-qual-a-importancia-dele-para-a-minha-empresa). Acessado em maio de 2017.
