@@ -207,7 +207,7 @@ Quatro ideias centrais dão a tônica da Gestão de Valor Agregado no gerenciame
 
 <i><b>baseline de custo</b></i> = valor aluno/hora <b>x</b> horas trabalhas por semana
 
-<p align="justify"><b>Passo 03:</b> </p> Fazer a <a href="https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#41-tutorial-estimativa-de-3-pontos"> Estimativa de 3 pontos</a>.</p>
+<p align="justify"><b>Passo 03:</b> Fazer a <a href="https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#41-tutorial-estimativa-de-3-pontos"> Estimativa de 3 pontos</a>.</p>
 
 <p align="justify"><b>Passo 04:</b> </p>
 
