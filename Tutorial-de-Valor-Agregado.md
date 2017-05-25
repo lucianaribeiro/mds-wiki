@@ -279,7 +279,7 @@ Quais dados pegar e como montar os gráficos
 Após ter calculado os índices de orçamento e de tempo, é possível analisar como está o andamento do projeto segundo a tabela abaixo.   
   
 ![Comparação de índices de custo x prazo](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/analiseTempoXorcamento.png)       
-Através dos índices obtidos no calculo acima e olhando a tabela é capaz de localizar a situação do projeto, podendo ser boa, ruim ou simplements insuficiente devido à necessidade de mais dados.
+Através dos índices obtidos no cálculo acima e olhando a tabela é capaz de localizar a situação do projeto. Escolha a célula que mostre o índice correto de custo e prazo e a célula escolhida indicará se a situação é boa, ruim ou simplesmente insuficiente avaliar devido à necessidade de mais dados.
 
 
 ## 5. Referências
