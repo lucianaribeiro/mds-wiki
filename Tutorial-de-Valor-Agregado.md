@@ -73,6 +73,53 @@ Há basicamente duas partes básicas: <b>Recursos Humanos</b> e <b>Equipamentos 
 
 **OBS -** *O método de determinar o preço de cada pessoa é algo que varia de grupo a grupo. Nesse tutorial será calculado com base no Relatório de Gestão da UnB.*
 
+<table>
+  <tr>
+    <td> Valor médio de um aluno de Software é</td>
+    <td> <b>R$ 11.020,00 </b></td>
+  </tr>
+  
+  <tr>
+    <td> Considerando o tempo de curso de</td>
+    <td> <b>5</b> anos (<b>10</b> semestres) </td>
+  </tr>
+    
+  <tr>
+    <td> E é necessário a obtenção de</td>
+    <td> <b>240</b> créditos. </td>
+  </tr>
+    
+  <tr>
+    <td> Considerando um sistema ideal, em que cada semestre o aluno pegue</td>
+    <td> 240 / 10 = <b>24</b> créditos por semestre                      </td>
+    
+  <tr>
+    <td> Sabe-se que em 1 ano tem</td>
+    <td> <b>2</b> semestres </td>
+  </tr>
+  
+  <tr>
+    <td> E que cada crédito é estimado em</td>
+    <td> <b>15</b> horas por aula. </td>
+  </tr>
+  
+</table>
+
+<p align = "center"> Portanto <i>11.020 / (15 * 2 * 24)</i> ≅ <b>R$ 15,30</b> </p>
+
+**<i>Passo 2</i> - Relacionar o valor de cada pessoa pelo tempo do projeto:**
+
+**OBS -** *Considerando o a disciplina de **GPP**, o desenvolvimento do projeto se dá em dois momentos (metodologias) diferentes, por isso a quantidade de horas trabalhadas em cada momento pode diferir.*
+
+**Siglas:**
+* **QP -** Quantidade de Pessoas (membros da equipe)
+* **HS -** Horas por Semana (por pessoa)
+* **S -** Semanas (duração do projeto)
+* **PP -** Preço por Pessoa (calculado anteriormente)
+
+| | QP || HS || S || PP || Custo Final |
+| :---: | :---:| :---:| :---:| :---:| :---:| :---:| :---:| :---:| :---:|
+
 ### 2.4 Controlar os Custos
 
 <p align="justify"> Nesta etapa é feito o monitoramento do andamento do projeto para atualização constante do orçamento e o gerenciamento das mudanças realizadas no base dos custos. </p>
