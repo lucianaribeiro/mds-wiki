@@ -324,13 +324,22 @@ A imagem acima contém 6 colunas preenchidas. Abaixo será explicado cada uma de
         
           
 A imagem a seguir apresenta a próxima coluna.    
-**Esforço individual:** Representa o percentual que foi cumprido da tarefa. No exemplo abaixo todas as atividades da iteração 0 foram terminadas 100%, na iteração 1 a atividade elaborar CANVAS não foi nem iniciada, portanto 0% feito e a tarefa Elaborar plano de escopo foi realizado 75%.
+**Esforço individual (porcentagem):** Representa o percentual que foi cumprido da tarefa. No exemplo abaixo todas as atividades da iteração 0 foram terminadas 100%, na iteração 1 a atividade elaborar CANVAS não foi nem iniciada, portanto 0% feito e a tarefa Elaborar plano de escopo foi realizado 75%.
        
    
 <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/percentualRealizado.png" >      
     
-[Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/percentualRealizado.png)           
+[Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/percentualRealizado.png)               
         
+        
+A imagem a seguir contém o preenchimento do campo Esforço total (porcentagem). Que representa o quanto foi agregado de cada iteração, para conseguir esse valor tem que multiplicar o percentual agregado (Esforço individual(porcentagem)) pelo percentual que a atividade representa na iteração (Participação da iteração (porcentagem)) e dividir por 100% para manter o percentual.     
+**Ex: atividade apresentar equipe, (100% x 50%)/ 100% representa que foi agregado 50% da iteração.**     
+**Ex: atividade Elaborar plano de escopo 75% X 11.11% representa que foi agregado 8.33% da iteração.**    
+     
+
+<img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/.png" >      
+    
+[Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/.png)     
         
         
         
