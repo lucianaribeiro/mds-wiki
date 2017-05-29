@@ -5,17 +5,16 @@
    2.1. [Planejar o Gerenciamento dos Custos](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#21-planejar-o-gerenciamento-dos-custos)    
    2.2. [Estimar os custos](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#222-estimar-os-custos)    
    2.3. [Determinar o Orçamento](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#23-determinar-o-or%C3%A7amento)    
-   2.4. [Controlar os Custos](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#24-controlar-os-custos)    
-3. [Aplicações em GPP](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#3-aplica%C3%A7%C3%B5es-em-gpp)   
-4. [Tutorial de Valor Agregado](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#4-tutorial-de-valor-agregado)    
-   4.1. [Tutorial Estimativa de 3 pontos](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#41-tutorial-estimativa-de-3-pontos)    
-   4.2. [Tutorial GVA](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#42-tutorial-gva)    
-  &nbsp;&nbsp;&nbsp;&nbsp;4.2.1 [Siglas](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#421-siglas)    
-  &nbsp;&nbsp;&nbsp;&nbsp;4.2.2 [Índices](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#422-%C3%8Dndices)    
-  &nbsp;&nbsp;&nbsp;&nbsp;4.2.3 [Planilha Valor Agregado](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#423-planilha-valor-agregado)    
-  &nbsp;&nbsp;&nbsp;&nbsp;4.2.4 [Gráficos](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#424-gr%C3%A1ficos)    
-  &nbsp;&nbsp;&nbsp;&nbsp;4.2.5 [Análise de Índices](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#435-an%C3%A1lise-de-%C3%8Dndices)    
-5. [Referências](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#5-refer%C3%AAncias)
+   2.4. [Controlar os Custos](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#24-controlar-os-custos)           
+3. [Tutorial de Valor Agregado](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#4-tutorial-de-valor-agregado)    
+   3.1. [Tutorial Estimativa de 3 pontos](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#41-tutorial-estimativa-de-3-pontos)    
+   3.2. [Tutorial GVA](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#32-tutorial-gva)    
+  &nbsp;&nbsp;&nbsp;&nbsp;3.2.1 [Siglas](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#321-siglas)    
+  &nbsp;&nbsp;&nbsp;&nbsp;3.2.2 [Índices](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#322-%C3%8Dndices)    
+  &nbsp;&nbsp;&nbsp;&nbsp;3.2.3 [Planilha Valor Agregado](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#323-planilha-valor-agregado)    
+  &nbsp;&nbsp;&nbsp;&nbsp;3.2.4 [Gráficos](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#324-gr%C3%A1ficos)    
+  &nbsp;&nbsp;&nbsp;&nbsp;3.2.5 [Análise de Índices](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#335-an%C3%A1lise-de-%C3%8Dndices)    
+4. [Referências](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#5-refer%C3%AAncias)
   
 
 
@@ -68,15 +67,11 @@ A base das estimativas devem especificar sobre os a inclusão e exclusão de cus
 
 <p align="justify"> Nesta etapa é feito o monitoramento do andamento do projeto para atualização constante do orçamento e o gerenciamento das mudanças realizadas no base dos custos. </p>
 
-## 3. Aplicações em GPP
-
-<p align="justify"> Como iremos fazer a adaptação do plano pra GPP. </p>
-
-# 4. Tutorial de Valor Agregado
+## 3. Tutorial de Valor Agregado
         
 A estrutura analítica de projeto (EAP) é feita antes das atividades e do cronograma e servirá de base para faze-los posteriormente. Uma EAP é feita para mostrar os pacotes em alto nível o que será entregue de valor para o cliente. Também deve conter uma linguagem que o cliente entenda ao ler. Após fazer os pacotes da EAP, eles servirão de base para fazer as atividades, pois serão as macro atividades. A partir das macro atividades deve-se escrever todas as atividades, posteriormente ordenar as atividades, estimar prazos de entrega, colocar dependências entre atividades e ao estar gerenciando em paralelo tem-se o cronograma feito.    
 
-## 4.1 Tutorial Estimativa de 3 pontos
+## 3.1 Tutorial Estimativa de 3 pontos
 
 <p align="justify"><b>Passo 1:</b> Para a Estimativa de 3 pontos é necessário primeiramente que a <i>Estrutura Analítica de Projeto</i> esteja definida. Segue modelo: </p> 
 
@@ -179,7 +174,7 @@ No caso foi feito o <b>Desvio Padrão</b> em minutos porque em horas o número f
 <p align="justify">Na tabela a <b>Variância</b> é multiplicada pela quantidade de membros envolvidos, e o resultado é em minuto.
 
 
-## 4.2 Tutorial GVA
+## 3.2 Tutorial GVA
 
 <p align="justify"> A Gestão de Valor Agregado (EVM em inglês) é considerada como um dos melhores métodos para analisar a evolução dos custos e prazos de um projeto devido à sua eficiência. Foi desenvolvida em 1960 pelo Departamento de Defesa dos EUA a partir de um outro modelo de controle de projetos S/SCSC. A ideia era criar um padrão para medir o desempenho de um projeto, o que acabou evoluindo e se estendendo para o mercado em geral.</p>
 
@@ -212,13 +207,13 @@ Quatro ideias centrais dão a tônica da Gestão de Valor Agregado no gerenciame
 <p align="justify"><b>Passo 04:</b> </p>
 
 
-### 4.2.1 Siglas
+### 3.2.1 Siglas
 
 <p align = "justify">Os valores que são trabalhados no <i>GVA</i> são: </p>
 
 <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/gva.png" >
 
-### 4.2.2 Índices
+### 3.2.2 Índices
 
 <p align = "justify"> Com a obtenção dos valores descritos na secção acima, é possível obter os <i>índices</i> que servirão como indicadores da situação atual do projeto. </p>
 
@@ -269,9 +264,9 @@ Quatro ideias centrais dão a tônica da Gestão de Valor Agregado no gerenciame
 </table>
 
 
-### 4.2.3 Planilha Valor Agregado
+### 3.2.3 Planilha Valor Agregado
 Para gerar a planilha de valor agregado é necessário ter os valores planejados, reais e agregados. No tópico acima está explicando como calcular o valor planejado. A seguir será explicado como gerar o valor real e agregado.        
-<h4> 4.2.3.1 Cálculo de valor real </h4>       
+<h4> 3.2.3.1 Cálculo de valor real </h4>       
      O valor real é o valor do que realmente foi gasto pelo time, dos esforços que eles tiveram nas atividades. Para isso é necessário gerar uma tabela para monitorar as horas trabalhadas semanalmente por cada integrante e em qual atividade eles estavam trabalhando. A imagem a seguir mostra o exemplo de uma tabela para preencher horas semanais.    
 
 <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/tabelaHorasVazia.png" >         
@@ -302,7 +297,7 @@ A imagem abaixo mostra quanto tempo cada aluno trabalhou em cada atividade e faz
       
 Após descobrir o custo total de cada atividade deve-se somar o custo de todas as atividades e assim é possível saber o **custo real** de cada iteração ou do projeto inteiro.   
 
-<h4> 4.2.3.2 Cálculo de valor agregado </h4>          
+<h4> 3.2.3.2 Cálculo de valor agregado </h4>          
 O valor agregado é o que foi entregue para o cliente e que agrega valor para ele. O valor agregado será calculado por iteração. **Vale ressaltar que cada atividade da iteração agrega o mesmo tanto para o cliente, na metodologia tradicional.** Portanto o primeiro passo a se fazer é contar quantas atividades tem na iteração e dividir 100% pelo número de atividades, para descobrir o peso de cada atividade. A imagem abaixo explica melhor como descobrir o peso de cada atividade na iteração.        
     
 <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/agregadoInicial.png" >      
@@ -360,17 +355,17 @@ A seguir será explicado como montar os gráficos dos índices de custo e prazo.
  
  
 
-### 4.2.4 Gráficos
+### 3.2.4 Gráficos
 Quais dados pegar e como montar os gráficos 
 
-### 4.3.5 Análise de Índices    
+### 3.3.5 Análise de Índices    
 Após ter calculado os índices de orçamento e de tempo, é possível analisar como está o andamento do projeto segundo a tabela abaixo.   
   
 ![Comparação de índices de custo x prazo](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/analiseTempoXorcamento.png)       
 Através dos índices obtidos no cálculo acima e olhando a tabela é capaz de localizar a situação do projeto. Escolha a célula que mostre o índice correto de custo e prazo e a célula escolhida indicará se a situação é boa, ruim ou simplesmente insuficiente avaliar devido à necessidade de mais dados.
 
 
-## 5. Referências
+## 4. Referências
 
 * PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK® 5a. ed. - EUA: Project Management Institute, 2013
 * Relatório de Custos - Grupo Escola X - [Planilha de Custos](https://docs.google.com/spreadsheets/d/1ITHRbZTwAj2IPA8qPYTSt6RcRUDaBT0GZIsA5mM1iCA/edit?usp=sharing)
