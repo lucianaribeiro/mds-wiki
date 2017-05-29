@@ -36,14 +36,19 @@
 
 ### 2.1. Planejar o Gerenciamento dos Custos
 
-<p align="justify"> Como primeira fase do projeto, esta fase é feito com base na estimativa dos custos e o valor unitário dos recursos humanos além de serviços/equipamentos. Esta estimativa de custos e o valor unitário de RH e serviços são elaborados no Termo de Abertura do Projeto. </p>
+<p align="justify"> A parte inicial do planejamento, se faz sobre a discussão dos elementos necessários para que o gerenciamento dos custos possa ser feito. Itens como custo de RH e de equipamentos, além do tempo necessário para a conclusão do projeto são discutidos e avaliados nessa parte. </p>
 
-<p align="justify"> Os custos do projeto são calculados com base nos entregáveis de valor, presentes na EAP e no cronograma do projeto, esse último sendo indispensável para o controle dos custos durante as iterações. </p>
+<p align="justify">Os custos do projeto são calculados com base nos entregáveis de valor, presentes na <b>EAP</b> e no <b>cronograma</b> do projeto, esse último sendo indispensável para o controle dos custos durante as iterações. </p>
+
+O passo a passo de como determinar o Orçamento Inicial será feito no tópico [2.3](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#23-determinar-o-or%C3%A7amento)
 
 ### 2.2. Estimar os Custos
-**Está confuso esse texto -- no caso, a estimativa aqui é o custo por atividade.. e o custo do projeto é a soma desse custo..**
 
-<p align="justify"> Para realizar as estimativas de custos do projeto, existem diversas ferramentas, mas neste caso será explicado o método da <b>Estimativa de 3 Pontos</b>. Este método permite que as horas sejam calculadas e com isso os custos do projeto. </p>
+<p align="justify">Todo projeto é composto por diversas atividades que, quando finalizadas, o projeto em si é finalizado. </p>
+
+<p align="justify"> Para calcular a duração dessas atividades existem diversas ferramentas, mas nesse tutorial será explicado o método da <b>Estimativa de 3 Pontos</b>, que é o mais utilizado pelos grupos da disciplina. Este método permite que as horas sejam calculadas e com isso os custos das atividades. </p>
+
+<p align="justify">Para fazer a estimativa do projeto, tanto de tempo como de custos, basta somar os valores referentes às atividades. </p>
 
 #### 2.2.1 Estimativa de 3 Pontos
 
@@ -59,9 +64,14 @@
 
 **Orçamento vem antes do custo.. Fazer uma lista do que deve ser levado em consideração para fazer o orçamento (colocar um exemplo, por exemplo, os seus) -- boa referencia: http://materiais.resultadosdigitais.com.br/planejamento-orcamento-ti**
 
-<p align="justify"> O objetivo desta etapa é determinar a linha de base dos custos do monitoramento e controle do desempenho baseado nas atividades individuais ou os pacotes de trabalho baseados no cronograma do projeto. </p>
+<p align="justify"> Nesta etapa é determinado qual será o orçamento do projeto a ser desenvolvido.
+Há basicamente duas partes básicas: <b>Recursos Humanos</b> e <b>Equipamentos e Serviços</b>. </p>
 
-A base das estimativas devem especificar sobre os a inclusão e exclusão de custos indiretos ou outro custo no projeto.
+#### *Cálculo do Custo de Recursos Humanos*
+
+**<i>Passo 1</i> - Determinar preço da hora do integrante:**
+
+**OBS -** *O método de determinar o preço de cada pessoa é algo que varia de grupo a grupo. Nesse tutorial será calculado com base no Relatório de Gestão da UnB.*
 
 ### 2.4 Controlar os Custos
 
