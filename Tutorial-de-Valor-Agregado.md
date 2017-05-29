@@ -73,8 +73,8 @@ A base das estimativas devem especificar sobre os a inclusão e exclusão de cus
 <p align="justify"> Como iremos fazer a adaptação do plano pra GPP. </p>
 
 # 4. Tutorial de Valor Agregado
-
-**Falta: deixar explicito a relação entre tarefas, EAP, cronograma**
+        
+A estrutura analítica de projeto (EAP) é feita antes das atividades e do cronograma e servirá de base para faze-los posteriormente. Uma EAP é feita para mostrar os pacotes em alto nível o que será entregue de valor para o cliente. Também deve conter uma linguagem que o cliente entenda ao ler. Após fazer os pacotes da EAP, eles servirão de base para fazer as atividades, pois serão as macro atividades. A partir das macro atividades deve-se escrever todas as atividades, posteriormente ordenar as atividades, estimar prazos de entrega, colocar dependências entre atividades e ao estar gerenciando em paralelo tem-se o cronograma feito.    
 
 ## 4.1 Tutorial Estimativa de 3 pontos
 
