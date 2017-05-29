@@ -26,15 +26,18 @@
 ### Dojo Randori:
 
 <p align ="justify"> Este tipo de Dojo permite a particiapação de todos, entretanto existem 3 figuras centrais:
-<p align ="justify"> *** Piloto, Co-piloto e Apresentador. ***
+<p align ="justify"> **Piloto, Co-piloto e Apresentador.**
 <p align ="justify"> É dado um problema e uma única máquina para resolvê-lo, esta máquina deve ficar ligada a um projetor ou algo semelhante para que todos na sala possam assistir e entender o que está sendo realizado.
 <p align ="justify"> Um participante assume o papel de piloto e outro assume o papel de co-piloto. O piloto passa a escrever o código na máquina enquanto o copiloto o auxilia.
 <p align ="justify"> Após 5 minutos o piloto e o copiloto explicam o que fizeram, há uma pausa para a refatoração do código.
 <p align ="justify"> Então o copiloto assume o lugar de piloto, o piloto volta a platéia e alguém da platéia assume o papel de co-piloto.
-<p align ="justify"> Observações:
 
 ![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/image5.png)
 [Diagrama do Algorítmo do Coding Dojo do TIpo Randori](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/image5.png)
+
+<p align ="justify"> Observações:
+
+
 
 ### Dojo Kake:
 
