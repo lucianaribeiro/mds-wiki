@@ -14,7 +14,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;3.2.3 [Planilha Valor Agregado](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#323-planilha-valor-agregado)    
   &nbsp;&nbsp;&nbsp;&nbsp;3.2.4 [Gráficos](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#324-gr%C3%A1ficos)    
   &nbsp;&nbsp;&nbsp;&nbsp;3.2.5 [Análise de Índices](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#335-an%C3%A1lise-de-%C3%8Dndices)    
-4. [Referências](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#5-refer%C3%AAncias)
+4. [Referências](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#4-refer%C3%AAncias)
   
 
 
