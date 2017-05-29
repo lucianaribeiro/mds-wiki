@@ -302,7 +302,9 @@ A imagem abaixo mostra quanto tempo cada aluno trabalhou em cada atividade e faz
       
 Após descobrir o custo total de cada atividade deve-se somar o custo de todas as atividades e assim é possível saber o **custo real** de cada iteração ou do projeto inteiro.   
 
-<h4> 4.2.3.2 Cálculo de valor agregado </h4>        
+<h4> 4.2.3.2 Cálculo de valor agregado </h4>          
+O valor agregado é o que foi entregue para o cliente e que agrega valor para ele. O valor agregado será calculado por iteração. **Vale ressaltar que cada atividade da iteração agrega o mesmo tanto para o cliente, na metodologia tradicional.** Portanto o primeiro passo a se fazer é contar quantas atividades tem na iteração e dividir 100% pelo número de atividades, para descobrir o peso de cada atividade. A imagem abaixo explica melhor como descobrir o peso de cada atividade na iteração.        
+ 
 
 ### 4.2.4 Gráficos
 Quais dados pegar e como montar os gráficos 
