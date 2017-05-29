@@ -34,6 +34,11 @@ Sendo assim, o projeto visa utilizar ambas as disciplinas com o intuito de produ
 
 <p align = "justify" >Outro ponto importante é que durante o desenvolvimento dos projetos de cada grupo, em um dado momento, o modelo de produção de <i>software</i> deve ser alterado. Os grupos iniciam a produção utilizando metodologias tradicionais (PMBOK/RUP) e, na metade do semestre, os modelos metodológicos de desenvolvimento a serem adotados passam a ser os ágeis (SCRUM/XP). Dessa forma, o estudante tem a possibilidade de vivenciar ambas as metodologias.
 
+## Por que fazer esse curso
+
+## Estrutura do Curso
+
+# O que eu preciso saber
 
 
 [fga]: https://fga.unb.br/
