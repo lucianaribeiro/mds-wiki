@@ -119,6 +119,18 @@ Há basicamente duas partes básicas: <b>Recursos Humanos</b> e <b>Equipamentos 
 
 | | QP || HS || S || PP || Custo Final |
 | :---: | :---:| :---:| :---:| :---:| :---:| :---:| :---:| :---:| :---:|
+| Membro (Metodologia Tradicional) | *QP1* | x | *HS1* | x | *S1* | x | *PP1* | = | R$ W.WWW,WW |
+|||||||||| + |
+| Membro (Metodologia Ágil) | *QP2* | x | *HS2* | x | *S2* | x | *PP2* | = | R$ Y.YYY,YY |
+|||||||||| + |
+| Coaches| *QP3* | x | *HS3* | x | *S3* | x | *PP3* | = | R$ Z.ZZZ,ZZ |
+|||||||||| = |
+| Custo Estimado | |  | |  | |  | |  | **R$ X.XXX,XX** |
+
+
+#### *Cálculo do Custo de Equipamentos e Serviços*
+
+**OBS -** <i>Os equipamentos e serviços utilizados também variam por equipe, cada grupo deve considerar nesse tópico apenas aquilo que for realmente necessário para que o desenvolvimento do projeto possa ocorrer. Alguns exemplos são **notebooks, internet, energia elétrica e aluguel do local de trabalho.** </i>
 
 ### 2.4 Controlar os Custos
 
