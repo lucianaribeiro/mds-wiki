@@ -71,7 +71,7 @@ A base das estimativas devem especificar sobre os a inclusão e exclusão de cus
         
 A estrutura analítica de projeto (EAP) é feita antes das atividades e do cronograma e servirá de base para faze-los posteriormente. Uma EAP é feita para mostrar os pacotes em alto nível o que será entregue de valor para o cliente. Também deve conter uma linguagem que o cliente entenda ao ler. Após fazer os pacotes da EAP, eles servirão de base para fazer as atividades, pois serão as macro atividades. A partir das macro atividades deve-se escrever todas as atividades, posteriormente ordenar as atividades, estimar prazos de entrega, colocar dependências entre atividades e ao estar gerenciando em paralelo tem-se o cronograma feito.    
 
-## 3.1 Tutorial Estimativa de 3 pontos
+### 3.1 Tutorial Estimativa de 3 pontos
 
 <p align="justify"><b>Passo 1:</b> Para a Estimativa de 3 pontos é necessário primeiramente que a <i>Estrutura Analítica de Projeto</i> esteja definida. Segue modelo: </p> 
 
@@ -174,7 +174,7 @@ No caso foi feito o <b>Desvio Padrão</b> em minutos porque em horas o número f
 <p align="justify">Na tabela a <b>Variância</b> é multiplicada pela quantidade de membros envolvidos, e o resultado é em minuto.
 
 
-## 3.2 Tutorial GVA
+### 3.2 Tutorial GVA
 
 <p align="justify"> A Gestão de Valor Agregado (EVM em inglês) é considerada como um dos melhores métodos para analisar a evolução dos custos e prazos de um projeto devido à sua eficiência. Foi desenvolvida em 1960 pelo Departamento de Defesa dos EUA a partir de um outro modelo de controle de projetos S/SCSC. A ideia era criar um padrão para medir o desempenho de um projeto, o que acabou evoluindo e se estendendo para o mercado em geral.</p>
 
@@ -207,13 +207,13 @@ Quatro ideias centrais dão a tônica da Gestão de Valor Agregado no gerenciame
 <p align="justify"><b>Passo 04:</b> </p>
 
 
-### 3.2.1 Siglas
+#### 3.2.1 Siglas
 
 <p align = "justify">Os valores que são trabalhados no <i>GVA</i> são: </p>
 
 <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/gva.png" >
 
-### 3.2.2 Índices
+#### 3.2.2 Índices
 
 <p align = "justify"> Com a obtenção dos valores descritos na secção acima, é possível obter os <i>índices</i> que servirão como indicadores da situação atual do projeto. </p>
 
@@ -264,7 +264,7 @@ Quatro ideias centrais dão a tônica da Gestão de Valor Agregado no gerenciame
 </table>
 
 
-### 3.2.3 Planilha Valor Agregado
+#### 3.2.3 Planilha Valor Agregado
 Para gerar a planilha de valor agregado é necessário ter os valores planejados, reais e agregados. No tópico acima está explicando como calcular o valor planejado. A seguir será explicado como gerar o valor real e agregado.        
 <h4> 3.2.3.1 Cálculo de valor real </h4>       
      O valor real é o valor do que realmente foi gasto pelo time, dos esforços que eles tiveram nas atividades. Para isso é necessário gerar uma tabela para monitorar as horas trabalhadas semanalmente por cada integrante e em qual atividade eles estavam trabalhando. A imagem a seguir mostra o exemplo de uma tabela para preencher horas semanais.    
