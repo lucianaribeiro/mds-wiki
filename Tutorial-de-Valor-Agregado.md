@@ -337,13 +337,25 @@ A imagem a seguir contém o preenchimento do campo Esforço total (porcentagem).
 **Ex: atividade Elaborar plano de escopo 75% X 11.11% representa que foi agregado 8.33% da iteração.**    
      
 
-<img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/.png" >      
+<img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/agregado3.png" >      
     
-[Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/.png)     
-        
-        
+[Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/agregado3.png)         
+    
+    
+    
+Por fim, para calcular o valor agregado em reais é necessário multiplicar o Esforço individual(porcentagem) pelo custo planejado (em Reais) e dividir por 100. A imagem abaixo mostra melhor alguns exemplos.        
         
    
+<img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/agregadoFinal.png" >      
+    
+[Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/agregadoFinal.png)          
+        
+**Ex: atividade Elaborar cronograma, multiplica (100% x 420.75) /100 e o custo final é 420.75, o resultado deu o mesmo que o custo planejado porque foi concluido 100% da atividade**        
+**Ex: atividade Elaborar plano de escopo, multiplica (75% x 191.25) / 100 e o custo final é 143.44, o resultado de valor agregado deu menor que o planejado porque a atividade não foi concluida.**        
+Logo, está calculado o valor agregado de cada atividade, e ao fazer um somatório de cada atividade da iteração tem-se o valor agregado da iteração e é possível comparar com o custo planejado e o custo real. 
+    
+    
+A seguir será explicado como montar os gráficos dos índices de custo e prazo.
    
  
  
