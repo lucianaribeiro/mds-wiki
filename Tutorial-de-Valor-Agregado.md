@@ -6,7 +6,7 @@
    2.2. [Estimar os custos](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#222-estimar-os-custos)    
    2.3. [Determinar o Orçamento](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#23-determinar-o-or%C3%A7amento)    
    2.4. [Controlar os Custos](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#24-controlar-os-custos)           
-3. [Tutorial de Valor Agregado](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#4-tutorial-de-valor-agregado)    
+3. [Tutorial de Valor Agregado](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#3-tutorial-de-valor-agregado)    
    3.1. [Tutorial Estimativa de 3 pontos](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#41-tutorial-estimativa-de-3-pontos)    
    3.2. [Tutorial GVA](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#32-tutorial-gva)    
   &nbsp;&nbsp;&nbsp;&nbsp;3.2.1 [Siglas](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#321-siglas)    
