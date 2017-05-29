@@ -310,12 +310,32 @@ O valor agregado é o que foi entregue para o cliente e que agrega valor para el
 [Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/agregadoInicial.png)                  
     
 A imagem acima contém 6 colunas preenchidas. Abaixo será explicado cada uma delas.        
-**Atividade:**  Representam as atividades de cada iteração, no caso da imagem a iteração 0 e a iteração 1.
-**Tempo Planejado (em horas):** Tempo planejado para executar a atividade por completo.    
-**Custo planejado (em reais):** Custo planejado que será gasto para realizar a atividade por completo.    
-**Tempo real (em horas):**    Tempo real que foi gasto na atividade .
-**Custo real (em reais):**    Custo real que foi gasto na atividade.
-**Participação da iteração (porcentagem):** Percentual que a atividade representa na iteração. Cada iteração representa 100% com todas as suas atividades, então no exemplo da iteração 0 que tem 2 atividades, dividindo 100% da iteração 0 em 2 atividades, cada atividade equivale a 50%, que é o valor da coluna. No exemplo da iteração 1 que tem 9 atividades, divide-se o 100% da iteração 1 em 9 atividades e tem o resultado que cada atividade equivale a aproximadamente 11.11%.        
+**Atividade:**  Representam as atividades de cada iteração, no caso da imagem a iteração 0 e a iteração 1.    
+
+**Tempo Planejado (em horas):** Tempo planejado para executar a atividade por completo.        
+
+**Custo planejado (em reais):** Custo planejado que será gasto para realizar a atividade por completo.      
+  
+**Tempo real (em horas):**    Tempo real que foi gasto na atividade .    
+
+**Custo real (em reais):**    Custo real que foi gasto na atividade.    
+
+**Participação da iteração (porcentagem):** Percentual que a atividade representa na iteração. Cada iteração representa 100% com todas as suas atividades, então no exemplo da iteração 0 que tem 2 atividades, dividindo 100% da iteração 0 em 2 atividades, cada atividade equivale a 50%, que é o valor da coluna. No exemplo da iteração 1 que tem 9 atividades, divide-se o 100% da iteração 1 em 9 atividades e tem o resultado que cada atividade equivale a aproximadamente 11.11%.              
+        
+          
+A imagem a seguir apresenta a próxima coluna.    
+**Esforço individual:** Representa o percentual que foi cumprido da tarefa. No exemplo abaixo todas as atividades da iteração 0 foram terminadas 100%, na iteração 1 a atividade elaborar CANVAS não foi nem iniciada, portanto 0% feito e a tarefa Elaborar plano de escopo foi realizado 75%.
+       
+   
+<img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/percentualRealizado.png" >      
+    
+[Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/percentualRealizado.png)           
+        
+        
+        
+        
+   
+   
  
  
 
