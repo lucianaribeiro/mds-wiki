@@ -26,7 +26,7 @@
 ### Dojo Randori:
 
 <p align ="justify"> Este tipo de Dojo permite a particiapação de todos, entretanto existem 3 figuras centrais:
-<p align ="justify"> **Piloto, Co-piloto e Apresentador.**
+<p align ="justify"> **Piloto**, **Co-piloto** e **Apresentador**.
 <p align ="justify"> É dado um problema e uma única máquina para resolvê-lo, esta máquina deve ficar ligada a um projetor ou algo semelhante para que todos na sala possam assistir e entender o que está sendo realizado.
 <p align ="justify"> Um participante assume o papel de piloto e outro assume o papel de co-piloto. O piloto passa a escrever o código na máquina enquanto o copiloto o auxilia.
 <p align ="justify"> Após 5 minutos o piloto e o copiloto explicam o que fizeram, há uma pausa para a refatoração do código.
@@ -45,6 +45,6 @@
 http://dojopuzzles.com/
 
 # Referências
-http://www.devmedia.com.br/o-que-e-o-coding-dojo/30517
-http://flaviosilveira.com/2011/coding-dojo-o-que-e-e-como-participar/
+http://www.devmedia.com.br/o-que-e-o-coding-dojo/30517  
+http://flaviosilveira.com/2011/coding-dojo-o-que-e-e-como-participar/  
 
