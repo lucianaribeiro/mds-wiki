@@ -100,7 +100,7 @@ Um exemplo do conteúdo do arquivo é:
 
 ----
 **Equipe**
-  * Bruno Matias
-  * Carlos Aragon
-  * Iasmin Mendes
-  * Wallacy Braz
+  * Bruno Matias 15/0051212
+  * Carlos Aragon 15/0121148
+  * Iasmin Mendes 14/0041940
+  * Wallacy Braz 15/0059329
