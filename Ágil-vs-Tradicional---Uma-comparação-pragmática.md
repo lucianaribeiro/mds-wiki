@@ -125,3 +125,4 @@ base de custos.
 - Tomayko JE (2002) Engineering of unstable requirements using Agile methods. In: Proceedings of International Conference on Time-Constrained Requirements Engineering, Essen, Germany, 9-13 September.
 - Beck K (1999) Extreme programming explained: Embrace change. Addison-Wesley, UK.
 - Leffingwell, D., Widrig, D., Managing Software Requirements: A Use Case Approach, 2a. Edição, Addison-Wesley, 2003.
+- IEEE SWEBOK, Guide to the Software Engineering Body of Knowledge 2014.
