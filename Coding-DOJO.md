@@ -108,5 +108,3 @@
 ><a href="http://flaviosilveira.com/2011/coding-dojo-o-que-e-e-como-participar/">Flavio Silveira - Coding Dojo – O Que é ? E Como Participar ?</a>
 
 ><a href="http://www.dtsato.com/blog/wp-content/uploads/2008/06/sato-codingdojo.pdf">Coding Dojo: an environment for learning and sharing Agile practices</a>
-
-d
