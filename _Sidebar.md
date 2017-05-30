@@ -119,3 +119,5 @@
 [Tutorial de Valor Agregado](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado)
 
 [Estrutura Analítica de Projeto (EAP)](https://github.com/fga-gpp-mds/00-Disciplina/wiki/EAP)
+
+[REST API em Node.js + RethinkDB](https://github.com/fga-gpp-mds/00-Disciplina/wiki/REST-API-em-Node.js-e-RethinkDB)
