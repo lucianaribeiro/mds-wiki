@@ -107,6 +107,32 @@ base dos custos autorizada;
 atualização do seu orçamento e gerenciamento das mudanças feitas na linha de
 base de custos.
 
+Os custos são determinados com base na agregação dos custos estimados de
+atividades individuais, ou seja, a entrega do que foi inicialmente planejado,
+sendo que uma vez que a entrega foi feita em um tempo diferente do combinado,
+esse custo inicial tende a sofrer variações.
+
+#### 4.1.1 Termos e fórmulas para cálculo de valores
+* **VP** - Valor Planejado;
+* **VA** - Valor Agregado;
+* **CR** - Custo Real;
+* **ONT** - Orçamento no término;
+* **ENT** - Estimativa No Término;
+* **EPT** - Estimativa para Término;
+* **VNT** - Variação no Términoi (quanto acima ou abaixo do orçamento esperamos
+estar no fim do projeto).
+
+|                  Variação de Custo (VC)                 |           VC = VA-CR           | Negativa está acima do orçamento Positiva está abaixo do orçamento                                                                    |
+|                 Variação do Prazo (VPR)                 |          VPR = VA – VP         | Negativa o projeto está atrasado em relação ao cronograma Positiva está adiantado em relação ao cronograma.                           |
+|           Índice de Desempenho de Custo (IDC)           |          IDC = VA / CR         | Um valor igual ou maior que 1 indica condição favorável. Um valor menor que 1 indica condição desfavorável.                           |
+|            Índice de Desempenho de Prazo (IDP)          |          IDP = VA / VP         | Um valor igual ou maior que 1 indica uma condição favorável Um valor menor que 1 indica uma condição desfavorável.                    |
+|              Estimativa Para Término (EPT)              |         EPT = ENT – CR         | Quanto o projeto vai custar.                                                                                                          |
+|                Variância No Término (VNT)               |         VNT = ONT – ENT        | Quanto acima ou abaixo do orçamento nós vamos estar ao final do projeto?                                                              |
+|               IDC por um período de tempo               |          IDC = VA / CR         | IDC calculado por um período de tempo ao invés de todo o tempo até o momento.                                                         |
+|                      IDC acumulado                      |       IDCac = Vac / CRac       | Ac – Aumento até o total acumulado.                                                                                                   |
+| Índice de Desempenho Para Término (IDPT) baseado na ENT | IDPT = (ONT – VA) / (ENT – CR) | É a projeção calculada do desempenho de custos que deve ser atingido no trabalho restante para alcançar um objetivo de gerenciamento. |
+| Índice de Desempenho Para Término (IDPT) baseado no ONT | IDPT = (ONT – VA) / (ONT – CR) | É a projeção calculada do desempenho de custos que deve ser atingido no trabalho restante para alcançar um objetivo de gerenciamento. |
+
 ### 4.2 Gerência de Custos em Metodologias Ágeis
 
 
