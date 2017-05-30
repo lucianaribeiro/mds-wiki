@@ -336,8 +336,10 @@ O resultado das planilhas de acompanhamento dos membros:
 #### 3.2.3 Planilha Valor Agregado
 
 <p align="justify"> Para gerar a planilha de valor agregado é necessário ter os valores planejados, reais e agregados. No tópico acima está explicando como calcular o valor planejado. A seguir será explicado como gerar o valor real e agregado. </p>        
+
 <h4> 3.2.3.1 Cálculo de valor real </h4>       
-     O valor real é o valor do que realmente foi gasto pelo time, dos esforços que eles tiveram nas atividades. Para isso é necessário gerar uma tabela para monitorar as horas trabalhadas semanalmente por cada integrante e em qual atividade eles estavam trabalhando. A imagem a seguir mostra o exemplo de uma tabela para preencher horas semanais.    
+
+<p align="justify"> O valor real é o valor do que realmente foi gasto pelo time, dos esforços que eles tiveram nas atividades. Para isso é necessário gerar uma tabela para monitorar as horas trabalhadas semanalmente por cada integrante e em qual atividade eles estavam trabalhando. A imagem a seguir mostra o exemplo de uma tabela para preencher horas semanais.</p>    
 
 <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/tabelaHorasVazia.png" >         
  
@@ -363,7 +365,7 @@ O resultado das planilhas de acompanhamento dos membros:
 [Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/tempoTotalPorAtividade.png)    
 
   
-**Exemplo: Na atividade 1:Apresentar Equipe, tem-se quanto tempo cada aluno trabalhou nela, somando o tempo em que cada um trabalhou nela, tem-se o total de 11 horas gastas na atividade de apresentar a equipe. Portanto para saber o custo dessa atividade é só multiplicar 11:00 horas por 15,30 reais o custo da hora, que resulta em 168,30 reais.**         
+<p align="justify"> <b>Exemplo: </b>Na atividade <i>1: Apresentar Equipe</i>, tem-se quanto tempo cada aluno trabalhou nela, somando o tempo em que cada um trabalhou nela, tem-se o total de 11 horas gastas na atividade de apresentar a equipe. Portanto para saber o custo dessa atividade é só multiplicar 11:00 horas por 15,30 reais o custo da hora, que resulta em 168,30 reais.</p>        
             
 <p align="justify"> Após descobrir o custo total de cada atividade deve-se somar o custo de todas as atividades e assim é possível saber o **custo real** de cada iteração ou do projeto inteiro. </p>   
 
