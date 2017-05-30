@@ -71,7 +71,7 @@ Apesar de se abster da maioria de estruturas hierarquicas, a empresa implementa 
 
 
 ## Caminho da Valve (_Software to Hardware_)
-Quando a Valve foi estabelecida na década de 90, período onde o crescimento de computadores pessoais era acentuado e mais de 80% dos computadores possuíam o sistema operacional Widows. Devido a estes fatores e também à onisciência da empresa e suas aberturas para desenvolvimento.
+A Valve foi estabelecida na década de 90, período onde o crescimento de computadores pessoais era acentuado e mais de 80% dos computadores possuíam o sistema operacional Widows. Devido a estes fatores e também a abertura para desenvolvimento no sistema operacional a Valve não se preocupava com a produção de hardwares nem a produção de jogos para outras plataformas, o que tornava seu custo de produção baixo.
 
 ### Construindo uma Comunidade Aberta
 
