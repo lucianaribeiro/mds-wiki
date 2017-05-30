@@ -24,11 +24,11 @@
 
 <p align="justify"> Nesse tutorial será abordado as 4 etapas principais do documento de gerenciamento de custos do projeto segundo o PMBOK. Essas etapas serão explicadas ao longo deste tutorial e elas são: </p>
 
-* Planejar o gerenciamento dos custos
+* <p align="justify"> Planejar o gerenciamento dos custos </p>
 
-* Estimar os custos
+* <p align="justify"> Estimar os custos </p>
 
-* Determinar o orçamento
+* <p align="justify"> Determinar o orçamento </p>
 
 * Controlar os custos
 
@@ -109,7 +109,7 @@ Há basicamente duas partes básicas: <b>Recursos Humanos</b> e <b>Equipamentos 
 
 **<i>Passo 2</i> - Relacionar o valor de cada pessoa pelo tempo do projeto:**
 
-**OBS -** *Considerando o a disciplina de **GPP**, o desenvolvimento do projeto se dá em dois momentos (metodologias) diferentes, por isso a quantidade de horas trabalhadas em cada momento pode diferir.*
+<p align="justify"> **OBS -** *Considerando o a disciplina de **GPP**, o desenvolvimento do projeto se dá em dois momentos (metodologias) diferentes, por isso a quantidade de horas trabalhadas em cada momento pode diferir.* </p>
 
 **Siglas:**
 * **QP -** Quantidade de Pessoas (membros da equipe)
