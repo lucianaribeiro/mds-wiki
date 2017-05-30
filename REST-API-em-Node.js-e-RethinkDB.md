@@ -5,6 +5,9 @@
 | 29/05/2017 | 1.1 | Escrita dos tópicos | Vitor Borges e Thiago Moreira |
 | 30/05/2017 | 1.2 | Revisão dos tópicos | Danilo Barros e Lucas Rufino |
 | 30/05/2017 | 1.3 | Validação dos tópicos e refatoração final | Danilo Barros, Lucas Rufino, Thiago Moreira e Vitor Borges |
+| 30/05/2017 | 1.4 | Configuração final do RethinkDB | Danilo Barros, Lucas Rufino, Thiago Moreira e Vitor Borges |
+
+[TOC]
 
 ## 1. Introdução
 <p align="justify>">Atualmente, diversas tecnologias necessitam de consumir dados de WebServices/APIs e nas disciplinas de GPP/MDS não é diferente.</p>
@@ -33,6 +36,7 @@
 
 ## 3. Instalação
 <p align="justify">Explicaremos agora como ínstalar essas tecnologias na plataforma Linux.</p>
+
 ### 3.1. Instalando o Node JS
 
 Para a instalação da mais nova versão do Node utilize os seguintes comandos:
@@ -150,7 +154,7 @@ Após isso, devemos evocar a função para utilizar os objetos do express em si.
 No fim, devemos subir o servidor utilizando nossa variável `app`. Para isso, passamos a porta que o servidor vai escutar e uma função que vai ser chamada assim que o servidor estiver no ar, como é mostrada no código abaixo.
 ``` javascript
     app.listen(3000, function() {
-        console.log('Servidor rodando no endereço http://localhost:' + 3000)
+        console.log('Servidor executando no endereço http://localhost:' + 3000)
     })
 ```
 
@@ -177,17 +181,142 @@ Com isso, crie uma pasta com o nome `database` e configure o arquivo de banco de
     var thinky = require('thinky')()
     var { type, r } = thinky // importa 'type' para tipos de variáveis e 'r' como o próprio módulo do RethinkDB
 
-    function init () {
-      return new Promise((resolve, reject) => {
-        thinky.dbReady().then(() => {
-          resolve(thinky)
-        })
-      })
+    async function init () {
+        try {
+            await thinky.dbReady()
+            return thinky
+        } catch (error) {
+            throw error
+        }
     }
     export { init, thinky, type, r }
 
 ```
 
+Com a base de dados configurada, volte ao arquivo `app.js` e adicione as linhas de configuração do banco de dados:
+
+``` javascript
+    var express = require('express')
+    var bodyParser = require('body-parser')
+    var db = require('./database')
+    var morgan = require('morgan')
+
+    var app = express()
+
+    app.use(bodyParser.json({
+      limit: '5mb'
+    }))
+
+    db.init()
+      .then(db => {
+        app.listen(3000, () => {
+          console.log('Server listening on http://localhost:3000')
+        })
+      })
+```
+
+O próximo passo é criar uma `model` para poder salvar no banco de dados. Para isso, crie uma pasta `models`.
+
+``` bash
+    myAPI-$ mkdir models
+```
+Agora, crie uma model qualquer de teste, no caso, criaremos uma model `User.js`.
+
+``` javascript 
+    var { thinky, type } = require('../database')
+    
+    var User = thinky.createModel('Users', {
+        name: type.string(),
+        email: type.string()
+    })
+    
+    export default User
+```
+
+Agora, basta criar uma `api` e configura-la para disponibilizar os métodos de requisição e consumir a API REST. Para isso, crie a pasta `api` e o arquivo `index.js`.
+
+``` bash
+    myAPI-$ mkdir api
+    myAPI-$ touch api/index.js
+    myAPI-$ touch api/users.js
+```
+``` javascript 
+    // index.js
+    var { Router } = require('express')
+    var userRouter = require('./users')
+    
+    export default ({ db }) => {
+        let api = Router()
+        
+        var users = userRouter({ db })
+        api.use('/users', users)
+        
+        return api
+    }
+```
+Crie também o arquivo `users.js` na pasta `api`.
+
+``` javascript
+    // users.js
+    var { Router } = require('express')
+    var User = require('../models/User')
+    
+    export default ({ db }) => {
+        let router = Router()
+        /* 
+           configuração para rotas do tipo users/:id para 
+           utilizarem o id do User como parâmetro
+        */
+        router.param('user', (req, resp, next, id) => {
+            req.userDocument = User.get(id)
+            next()
+        })
+        
+        router.get('/', async (request, response) => {
+            try {
+                var result = await User.run() // executa a query de get all no bando de dados
+                response.json(result)
+            } catch (error) {
+                response.status(500).send(error)
+            }
+        })
+        
+        return router
+    }
+    
+```
+
+Agora, volte no arquivo `app.js` e configure a rota para `/api`.
+
+``` javascript
+    var api = require('./api') // importe a pasta 'api'
+    
+    [...]
+    
+    db.init()
+      .then(db => {
+        app.use('/api', api({ db })) // configure as rotas para começarem com '/api'
+        app.listen(3000, () => {
+          console.log('Server listening on http://localhost:3000')
+        })
+      })
+```
+
+Agora, para executar a `api` basta executar os comandos `rethinkdb` e `node app.js` na pasta `myAPI` e acessar a rota `http://localhost:3000/api/users` para acessar a rota e verificar a resposta do servidor.
+
+Repare que não existe nenhum usuário cadastrado. Para inserir um usuário de teste, acesse o `http://localhost:8080` para acessar o RethinkDB, como a imagem a seguir:
+
+![RethinkDB](https://i.imgur.com/2tD05Lz.png)
+
+Agora, acesse o `Data Explorer`  e crie um usuário default:
+
+![Default user](https://i.imgur.com/vKsnE4r.png)
+
+Agora, ao acessar novamente a rota de `/api/users` na `API` você verá a resposta do servidor com o usuário cadastrado.
+
+![Server response](https://i.imgur.com/U8RzI9b.png)
+
+Pronto. Você já pode criar sua própria RESTfull API com Node.js e RethinkDB!
 
 ## 5. Bibliografia
 
