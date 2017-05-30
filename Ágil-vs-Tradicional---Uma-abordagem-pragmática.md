@@ -2,11 +2,11 @@
 
 - [1.0 Introdução](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Ágil-vs-Tradicional---Uma-abordagem-pragmática#10-introdução)
 - [2.0 Escopo](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Ágil-vs-Tradicional---Uma-abordagem-pragmática#20-escopo)
-- 3.0 Qualidade
-- 4.0 Custos
-- 5.0 Riscos
-- 6.0 Conclusão
-- 7.0 Referências
+- [3.0 Qualidade](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Ágil-vs-Tradicional---Uma-abordagem-pragmática#30-qualidade)
+- [4.0 Custos](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Ágil-vs-Tradicional---Uma-abordagem-pragmática#40-custos)
+- [5.0 Riscos](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Ágil-vs-Tradicional---Uma-abordagem-pragmática#50-riscos)
+- [6.0 Conclusão](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Ágil-vs-Tradicional---Uma-abordagem-pragmática#60-conclusao)
+- [7.0 Referências](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Ágil-vs-Tradicional---Uma-abordagem-pragmática#70-referencia)
 
 ## 1.0 Introdução
 
