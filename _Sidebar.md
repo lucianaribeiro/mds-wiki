@@ -47,6 +47,7 @@
 
 [Refactoring](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Refactoring)
 
+[Integração continua](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Integra%C3%A7%C3%A3o-Cont%C3%ADnua)
 
 [Integração Contínua Deploy Contínuo](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Integra%C3%A7%C3%A3o-Cont%C3%ADnua---Deploy-Cont%C3%ADnuo)
 
