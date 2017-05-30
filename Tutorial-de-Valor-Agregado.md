@@ -71,7 +71,7 @@ Há basicamente duas partes básicas: <b>Recursos Humanos</b> e <b>Equipamentos 
 
 **<i>Passo 1</i> - Determinar preço da hora do integrante:**
 
-<p align="justify"> **OBS -** *O método de determinar o preço de cada pessoa é algo que varia de grupo a grupo. Nesse tutorial será calculado com base no Relatório de Gestão da UnB.* </p>
+**OBS -** *O método de determinar o preço de cada pessoa é algo que varia de grupo a grupo. Nesse tutorial será calculado com base no Relatório de Gestão da UnB.* 
 
 <table>
   <tr>
@@ -109,7 +109,7 @@ Há basicamente duas partes básicas: <b>Recursos Humanos</b> e <b>Equipamentos 
 
 **<i>Passo 2</i> - Relacionar o valor de cada pessoa pelo tempo do projeto:**
 
-**OBS -** *Considerando o a disciplina de **GPP**, o desenvolvimento do projeto se dá em dois momentos (metodologias) diferentes, por isso a quantidade de horas trabalhadas em cada momento pode diferir.* 
+**OBS -** Considerando a disciplina de **GPP**, o desenvolvimento do projeto se dá em dois momentos (metodologias) diferentes, por isso a quantidade de horas trabalhadas em cada momento pode diferir.
 
 **Siglas:**
 * **QP -** Quantidade de Pessoas (membros da equipe)
@@ -375,7 +375,8 @@ O resultado das planilhas de acompanhamento dos membros:
     
 [Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/agregadoInicial.png)                  
     
-<p align="justify"> A imagem acima contém 6 colunas preenchidas. Abaixo será explicado cada uma delas. </p>        
+<p align="justify"> A imagem acima contém 6 colunas preenchidas. Abaixo será explicado cada uma delas. </p> 
+       
 **Atividade:** Representam as atividades de cada iteração, no caso da imagem a iteração 0 e a iteração 1.    
 
 **Tempo Planejado (em horas):** Tempo planejado para executar a atividade por completo.        
@@ -398,9 +399,11 @@ A imagem a seguir apresenta a próxima coluna.
 [Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/percentualRealizado.png)               
         
         
-<p align="justify"> A imagem a seguir contém o preenchimento do campo Esforço total (porcentagem). Que representa o quanto foi agregado de cada iteração, para conseguir esse valor tem que multiplicar o percentual agregado (Esforço individual(porcentagem)) pelo percentual que a atividade representa na iteração (Participação da iteração (porcentagem)) e dividir por 100% para manter o percentual. </p>    
-<p align="justify">**Ex: atividade apresentar equipe, (100% x 50%)/ 100% representa que foi agregado 50% da iteração.** </p>    
-<p align="justify">**Ex: atividade Elaborar plano de escopo 75% X 11.11% representa que foi agregado 8.33% da iteração.** </p>   
+<p align="justify"> A imagem a seguir contém o preenchimento do campo Esforço total (porcentagem). Que representa o quanto foi agregado de cada iteração, para conseguir esse valor tem que multiplicar o percentual agregado (Esforço individual(porcentagem)) pelo percentual que a atividade representa na iteração (Participação da iteração (porcentagem)) e dividir por 100% para manter o percentual. </p>  
+  
+**Ex: atividade apresentar equipe, (100% x 50%)/ 100% representa que foi agregado 50% da iteração.**
+
+**Ex: atividade Elaborar plano de escopo 75% X 11.11% representa que foi agregado 8.33% da iteração.**    
      
 <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/agregado3.png" >      
     
