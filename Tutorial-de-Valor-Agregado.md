@@ -437,5 +437,5 @@ Logo, está calculado o valor agregado de cada atividade, e ao fazer um somatór
 ## 4. Referências
 
 * <p align="justify"> PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK® 5a. ed. - EUA: Project Management Institute, 2013 </p>
-* <p align="justify"> Relatório de Custos - Grupo Escola X - [Planilha de Custos](https://docs.google.com/spreadsheets/d/1ITHRbZTwAj2IPA8qPYTSt6RcRUDaBT0GZIsA5mM1iCA/edit?usp=sharing)</p>
-* <p align="justify"> Builder, P. [O que é gestão de valor agregado (GVA), e qual a importância dele para a minha empresa?](http://www.projectbuilder.com.br/blog-home/entry/projetos/o-que-e-gestao-de-valor-agregado-gva-e-qual-a-importancia-dele-para-a-minha-empresa). Acessado em maio de 2017.</p>
+* <p align="justify"> Relatório de Custos - Grupo Escola X - <a href="https://docs.google.com/spreadsheets/d/1ITHRbZTwAj2IPA8qPYTSt6RcRUDaBT0GZIsA5mM1iCA/edit?usp=sharing">Planilha de Custos</a></p>
+* <p align="justify"> Builder, P. <a href="http://www.projectbuilder.com.br/blog-home/entry/projetos/o-que-e-gestao-de-valor-agregado-gva-e-qual-a-importancia-dele-para-a-minha-empresa">O que é gestão de valor agregado (GVA), e qual a importância dele para a minha empresa? </a>. Acessado em maio de 2017.</p>
