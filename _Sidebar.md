@@ -117,3 +117,5 @@
 [BacklogWiki](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Backlog-wiki)
 
 [Tutorial de Valor Agregado](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado)
+
+[Estrutura Analítica de Projeto (EAP)](https://github.com/fga-gpp-mds/00-Disciplina/wiki/EAP)
