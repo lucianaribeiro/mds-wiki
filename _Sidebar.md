@@ -9,7 +9,7 @@
 
 [Projetos 2016.2][Projetos]
 
-[Projetos 2017.1][Projetos2017]
+[Projetos 2017.1](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Projetos-2017.1---GPP-MDS)
 
 # Disciplinas
 
