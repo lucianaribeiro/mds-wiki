@@ -79,6 +79,37 @@ O entendimento da natureza volátio de requisitos tem um grande impacto na capac
 
 ## 3.0 Qualidade
 ## 4.0 Custos
+
+A gerencia de custos do projeto tem como meta a inclusão dos processos
+envolvidos por meio de estimativas, orçamentos e controle de custos de forma que 
+o projeto possa ser executado dentro do orçamento inicialmente acordado entre os
+envolvidos. A gerencia de custos tem como maior foco de atuação os custos de
+recursos necessários para conclusão as atividades do projeto.
+Dessa forma deve-se levar em consideração o efeito das decisões de projeto no
+custo recorrente a subsequencia do uso, prestando a manutenção e o suporte do
+produto, serviço ou qualquer produto do projeto. O  planejamento de
+gerenciamento dos custos ocorre nas fases iniciais do projeto fornecendo a
+estrutura para cada processo do gerenciamento dos custos para que seu
+desempenho seja eficiente e coordenado.
+
+### 4.1 Gerência de Custos em Metodologias Tradicionais
+
+Metodologias de desenvolvimento de _software_ usam como base o PMBOK para
+gerência de custos. o PMBOK propõe as seguintes atividades: 
+* Planejar o Gerenciamento dos Custos: é o processo que visa o estabelecimento
+das políticas, documentos, gestão e controle de custos;
+* Estimar os Custos: processo de desenvolvimento visando estimações de recursos
+monetários para terminar as atividades do projeto;
+* Determinar o Orçamento:  é o processo de agregação  dos custos estimados de
+atividades individuais ou pacotes de trabalho para estabelecer uma linha de
+base dos custos autorizada;
+* Controlar os Custos: processo de monitoramento do andamento do projeto para
+atualização do seu orçamento e gerenciamento das mudanças feitas na linha de
+base de custos.
+
+### 4.2 Gerência de Custos em Metodologias Ágeis
+
+
 ## 5.0 Riscos
 ## 6.0 Conclusão
 ## 7.0 Refências
