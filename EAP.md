@@ -139,7 +139,7 @@ Exemplo de uma EAP com previsão de custo e tempo para atividades:
 
 
 ### 6 Referência Bibliográfica
-https://github.com/ceciliadib
+
 * [1] PMBOK, GUIA. "Um guia do conjunto de conhecimentos em gerenciamento de projetos." Project Management Institute. 2004.
 * [2] Project Builder, EAP - Disponível em - <<http://www.projectbuilder.com.br/blog-home/entry/projetos/5-dicas-para-facilitar-a-criacao-de-uma-estrutura-analitica-de-projeto>>. Acessado em 29 de Maio de 2017.
 * [3] WorkBreakDownStructure, WBS - Disponível em - <<http://www.workbreakdownstructure.com/>>. Acessado em 29 de Maio de 2017.
