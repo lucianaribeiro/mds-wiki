@@ -35,7 +35,7 @@
 
 
 ## 3. Instalação
-<p align="justify">Explicaremos agora como ínstalar essas tecnologias na plataforma Linux.</p>
+<p align="justify">Explicaremos agora como instalar essas tecnologias na plataforma Linux.</p>
 
 ### 3.1. Instalando o Node JS
 
@@ -302,7 +302,7 @@ Agora, volte no arquivo `app.js` e configure a rota para `/api`.
       })
 ```
 
-Agora, para executar a `api` basta executar os comandos `rethinkdb` e `node app.js` na pasta `myAPI` e acessar a rota `http://localhost:3000/api/users` para acessar a rota e verificar a resposta do servidor.
+Agora, para executar a `api` basta executar os comandos `rethinkdb` e `nodemon app.js` na pasta `myAPI` e acessar a rota `http://localhost:3000/api/users` para acessar a rota e verificar a resposta do servidor.
 
 Repare que não existe nenhum usuário cadastrado. Para inserir um usuário de teste, acesse o `http://localhost:8080` para acessar o RethinkDB, como a imagem a seguir:
 
