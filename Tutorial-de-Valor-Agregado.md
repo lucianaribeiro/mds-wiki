@@ -455,7 +455,20 @@ Logo, está calculado o valor agregado de cada atividade, e ao fazer um somatór
 
 ### 3.2.4 Gráficos
 
-<p align="justify"> Quais dados pegar e como montar os gráficos </p> 
+Serão gerados 3 tipos de gráficos: 
+* *Valor Planejado X Valor Agregado X Valor Real* 
+* *Variação de Custos X Variação de Prazos* e 
+* *Índice de Desenvolvimento de Custos X Índice de Desenvolvimento de Prazos*.
+
+#### **Valor Planejado X Valor Agregado X Valor Real**
+
+**Passo 1 -** *Criar uma planilha de valores acumulados*
+
+<p align="justify"> Para gerar um gráfico que percorra todas as iterações realizadas é necessário que os valores presentes no gráfico sejam <b>acumulados</b>. Portanto precisa criar uma tabela que liste os valores acumulados, como no exemplo abaixo: </p>
+
+#### **Variação de Custos X Variação de Prazos**
+
+#### **Índice de Desenvolvimento de Custos X Índice de Desenvolvimento de Prazos**
 
 ### 3.3.5 Análise de Índices    
 
