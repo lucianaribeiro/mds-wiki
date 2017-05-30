@@ -117,8 +117,16 @@ Porém a natureza do desenvolvimento de _hardware_ começou a se mostrar como um
 
 ### Existe um passo-a-passo?
 
-#### Primeira decisão-chave
+Para entrar no campo de _hardware_ a Valve teve que considerar e encarar três decisões chave.
 
-#### Segunda decisão-chave
+#### Primeira decisão-chave: Viabilidade
 
-#### Terceira decisão-chave
+Dada sua estrutura exclusiva e as demandas necessárias para o desenvolvimento de hardware, entrar no ramo era viável no momento? Uma das maiores dificuldades enfrentadas pela empresa foi desenvolver o produto sem poder receber a quantidade de feedbacks semelhantes a projetos de software, pois não se pode entregar um hardware em larga escala de maneira tão iterativa e incremental como jogos ou ferramentas de software.
+
+#### Segunda decisão-chave: Como fazer
+
+Como a empresa faria a produção desse hardware? A Valve esteve em um dilema sobre realizar todo o processo de produção do hardware ou terceirizar partes do mesmo. Ambas as decisões tinham seus prós e contras, caso a Valve produzisse completamente o hardware seu processo seria mais simples, menos burocrático e mais seguro, porém implicaria em grandes mudanças na estrutura da empresa e um grande gasto inicial; caso a Valve utilizasse de parceiros para a produção do hardware haveria uma dependência da empresa para com esses parceiros fornecedores, um aumento burocrático e segurança de produção reduzida, porém os gatos na produção seriam reduzidos e não haveriam grandes mudanças na estrutura da empresa.
+
+#### Terceira decisão-chave: Variedade de Produção
+
+Deveriam ser adotadas as mesmas ou diferentes políticas para a produção dos vários componentes necessários para o jogo de computador poder ser jogado em ambientes de console? O público exigia um novo controle que se adaptasse mais diversos tipos de jogos para computador, esse fator tornou a _cabal_ de hardware mais complicada pois a Valve deveria encontrar a melhor maneira de produzi-lo sem que isso corrompesse sua estrutura organizacional única.
