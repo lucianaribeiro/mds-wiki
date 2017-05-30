@@ -40,7 +40,7 @@
 
 <p align="justify">Os custos do projeto são calculados com base nos entregáveis de valor, presentes na <b>EAP</b> e no <b>cronograma</b> do projeto, esse último sendo indispensável para o controle dos custos durante as iterações. </p>
 
-<p align="justify"> O passo a passo de como determinar o Orçamento Inicial será feito no tópico [2.3](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#23-determinar-o-or%C3%A7amento) </p>
+<p align="justify"> O passo a passo de como determinar o Orçamento Inicial será feito no tópico [2.3] <a href="https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#23-determinar-o-or%C3%A7amento">Determinar o Orçamento</a>
 
 ### 2.2. Estimar os Custos
 
@@ -109,7 +109,7 @@ Há basicamente duas partes básicas: <b>Recursos Humanos</b> e <b>Equipamentos 
 
 **<i>Passo 2</i> - Relacionar o valor de cada pessoa pelo tempo do projeto:**
 
-<p align="justify"> **OBS -** *Considerando o a disciplina de **GPP**, o desenvolvimento do projeto se dá em dois momentos (metodologias) diferentes, por isso a quantidade de horas trabalhadas em cada momento pode diferir.* </p>
+**OBS -** *Considerando o a disciplina de **GPP**, o desenvolvimento do projeto se dá em dois momentos (metodologias) diferentes, por isso a quantidade de horas trabalhadas em cada momento pode diferir.* 
 
 **Siglas:**
 * **QP -** Quantidade de Pessoas (membros da equipe)
@@ -130,7 +130,7 @@ Há basicamente duas partes básicas: <b>Recursos Humanos</b> e <b>Equipamentos 
 
 #### *Cálculo do Custo de Equipamentos e Serviços*
 
-<p align="justify"> **OBS -** <i>Os equipamentos e serviços utilizados também variam por equipe, cada grupo deve considerar nesse tópico apenas aquilo que for realmente necessário para que o desenvolvimento do projeto possa ocorrer. Alguns exemplos são **notebooks, internet, energia elétrica e aluguel do local de trabalho.** </i> </p>
+**OBS -** <i>Os equipamentos e serviços utilizados também variam por equipe, cada grupo deve considerar nesse tópico apenas aquilo que for realmente necessário para que o desenvolvimento do projeto possa ocorrer. Alguns exemplos são **notebooks, internet, energia elétrica e aluguel do local de trabalho.** </i>
 
 ### 2.4 Controlar os Custos
 
@@ -148,7 +148,7 @@ Há basicamente duas partes básicas: <b>Recursos Humanos</b> e <b>Equipamentos 
 
 [Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/EAP.png)
 
-<p align="justify"> **Dica:** Pode ser feito na ferramenta [XMind](http://www.xmind.net/). </p>
+**Dica:** Pode ser feito na ferramenta [XMind](http://www.xmind.net/). 
 
 <p align="justify"><b>Passo 2:</b> A partir da EAP organizar o cronograma e todas as suas respectivas atividades necessárias para a realização do projeto. Segue modelo: </p>
 
@@ -363,7 +363,7 @@ O resultado das planilhas de acompanhamento dos membros:
 [Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/tempoTotalPorAtividade.png)    
 
   
-<p align="justify"> **Exemplo: Na atividade 1:Apresentar Equipe, tem-se quanto tempo cada aluno trabalhou nela, somando o tempo em que cada um trabalhou nela, tem-se o total de 11 horas gastas na atividade de apresentar a equipe. Portanto para saber o custo dessa atividade é só multiplicar 11:00 horas por 15,30 reais o custo da hora, que resulta em 168,30 reais.** </p>         
+**Exemplo: Na atividade 1:Apresentar Equipe, tem-se quanto tempo cada aluno trabalhou nela, somando o tempo em que cada um trabalhou nela, tem-se o total de 11 horas gastas na atividade de apresentar a equipe. Portanto para saber o custo dessa atividade é só multiplicar 11:00 horas por 15,30 reais o custo da hora, que resulta em 168,30 reais.**         
             
 <p align="justify"> Após descobrir o custo total de cada atividade deve-se somar o custo de todas as atividades e assim é possível saber o **custo real** de cada iteração ou do projeto inteiro. </p>   
 
@@ -376,7 +376,7 @@ O resultado das planilhas de acompanhamento dos membros:
 [Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/agregadoInicial.png)                  
     
 <p align="justify"> A imagem acima contém 6 colunas preenchidas. Abaixo será explicado cada uma delas. </p>        
-**Atividade:**  Representam as atividades de cada iteração, no caso da imagem a iteração 0 e a iteração 1.    
+**Atividade:** Representam as atividades de cada iteração, no caso da imagem a iteração 0 e a iteração 1.    
 
 **Tempo Planejado (em horas):** Tempo planejado para executar a atividade por completo.        
 
@@ -386,7 +386,7 @@ O resultado das planilhas de acompanhamento dos membros:
 
 **Custo real (em reais):**    Custo real que foi gasto na atividade.    
 
-<p align="justify"> **Participação da iteração (porcentagem):** Percentual que a atividade representa na iteração. Cada iteração representa 100% com todas as suas atividades, então no exemplo da iteração 0 que tem 2 atividades, dividindo 100% da iteração 0 em 2 atividades, cada atividade equivale a 50%, que é o valor da coluna. No exemplo da iteração 1 que tem 9 atividades, divide-se o 100% da iteração 1 em 9 atividades e tem o resultado que cada atividade equivale a aproximadamente 11.11%. </p>              
+**Participação da iteração (porcentagem):** Percentual que a atividade representa na iteração. Cada iteração representa 100% com todas as suas atividades, então no exemplo da iteração 0 que tem 2 atividades, dividindo 100% da iteração 0 em 2 atividades, cada atividade equivale a 50%, que é o valor da coluna. No exemplo da iteração 1 que tem 9 atividades, divide-se o 100% da iteração 1 em 9 atividades e tem o resultado que cada atividade equivale a aproximadamen             
         
           
 A imagem a seguir apresenta a próxima coluna.    
@@ -413,9 +413,9 @@ A imagem a seguir apresenta a próxima coluna.
     
 [Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/agregadoFinal.png)          
         
-<p align="justify"> **Ex: atividade Elaborar cronograma, multiplica (100% x 420.75) /100 e o custo final é 420.75, o resultado deu o mesmo que o custo planejado porque foi concluido 100% da atividade**</p>        
-<p align="justify"> **Ex: atividade Elaborar plano de escopo, multiplica (75% x 191.25) / 100 e o custo final é 143.44, o resultado de valor agregado deu menor que o planejado porque a atividade não foi concluida.** </p> <p align="justify">      
-Logo, está calculado o valor agregado de cada atividade, e ao fazer um somatório de cada atividade da iteração tem-se o valor agregado da iteração e é possível comparar com o custo planejado e o custo real. </p>
+**Ex: atividade Elaborar cronograma, multiplica (100% x 420.75) /100 e o custo final é 420.75, o resultado deu o mesmo que o custo planejado porque foi concluido 100% da atividade**     
+**Ex: atividade Elaborar plano de escopo, multiplica (75% x 191.25) / 100 e o custo final é 143.44, o resultado de valor agregado deu menor que o planejado porque a atividade não foi concluida.** 
+Logo, está calculado o valor agregado de cada atividade, e ao fazer um somatório de cada atividade da iteração tem-se o valor agregado da iteração e é possível comparar com o custo planejado e o custo real.
     
 <p align="justify"> A seguir será explicado como montar os gráficos dos índices de custo e prazo. </p> 
 
