@@ -78,6 +78,15 @@ Outro fator importante é que as metodologias ágeis não lidam com a mudança o
 O entendimento da natureza volátio de requisitos tem um grande impacto na capacidade das metodologias ágeis de serem _enxutos_. Em geral, uma arquitetura genérica e mais abrangente é esperada para suportar a variabilidade nos requisitos. Contudo, uma arquitetura mais complexa custa mais, não só para a equipe de desenvolvimento, mas também para a equipe de manutenção e correção de erros (Aurum; Wohlin, 2005).
 
 ## 3.0 Qualidade
+
+A qualidade de produtos de software pode ser provida através de processos preventivos ou de um processo iterativo de melhoria contínua que requer o controle de gerenciamento, coordenação e _feedback_ de muitos processos simultâneos: (1) os processos do ciclo de vida do software, (2) detecção, remoção e prevenção de defeitos, e (3) o processo de melhoria de qualidade (SWEBOK, 2014).
+
+A maioria das metodologias tentam implementar o conceito descrito pelo SWEBOK a sua maneira. Essencialmente, metodologias tradicionais e ágeis não se distinguem no quesito de qualidade, em ambos tem-se o controle da qualidade do produto realizados de diversos modos, seja de uma forma mais preventiva, através do comprimento de métricas, ou na adoção de práticas comumente ágeis pareamento ou TDD.
+
+Entretanto, no tradicional nota-se que o conceito de qualidade está mais associado a ações preventivas, conforme mostra o tópico de Gerenciamento de Qualidade do PMBOK, que é dividido na visão geral como: Planejar e gerenciar, realizar a garantia de qualidade e realizar o controle (PMI, 2013, ADAPTADO). Nas metodologias tradicionais é perceptível um esforço em se documentar mecanismos que irão suportar monitoria e controle da qualidade, tal como orienta o PMBOK, claro que na prática não se usa tudo que um _framework_ como o RUP fornece, nesse ponto, como em qualquer metodologia é necessário senso crítico.
+
+Nos métodos ágeis, conforme argumentado por (D’AMORIM, 2008), percebe-se uma tentativa de produção enxuta, inspirada na forma de produção _just-in-time_, o qual o gerenciamento da qualidade se dá através de práticas. Fato notável no manifesto ágil por: Indivíduos e interações mais que processos e ferramentas (BECK, 2013). O que não quer dizer que os processos ágeis não documentam e nem planejam insumos para melhoria de qualidade, mas que a visão da metodologia é de um viés mais prático. Por exemplo, no XP, vemos uma tentativa de controle de qualidade voltado fundamentalmente nos testes, tal que as métricas desses são o indicativo mínimo de qualidade que um projeto XP demanda. Nos processos tradicionais, essas métricas estão compreendidas em uma especificação previamente acordada, que pode acompanhar testes, métricas de código, conformidade da solução, entre outras expectativas de qualidade.
+
 ## 4.0 Custos
 
 A gerencia de custos do projeto tem como meta a inclusão dos processos
