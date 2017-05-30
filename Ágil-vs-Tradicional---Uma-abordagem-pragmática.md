@@ -1,7 +1,7 @@
 ## Sumário
 
-- 1.0 Introdução
-- 2.0 Escopo
+- [1.0 Introdução](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Ágil-vs-Tradicional---Uma-abordagem-pragmática#10-introdução)
+- [2.0 Escopo](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Ágil-vs-Tradicional---Uma-abordagem-pragmática#20-escopo)
 - 3.0 Qualidade
 - 4.0 Custos
 - 5.0 Riscos
