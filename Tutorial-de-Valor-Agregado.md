@@ -30,7 +30,7 @@
 
 * <p align="justify"> Determinar o orçamento </p>
 
-* Controlar os custos
+* <p align="justify"> Controlar os custos </p>
 
 ## 2. Fases do Plano de Gerenciamento de Custos
 
@@ -40,7 +40,7 @@
 
 <p align="justify">Os custos do projeto são calculados com base nos entregáveis de valor, presentes na <b>EAP</b> e no <b>cronograma</b> do projeto, esse último sendo indispensável para o controle dos custos durante as iterações. </p>
 
-O passo a passo de como determinar o Orçamento Inicial será feito no tópico [2.3](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#23-determinar-o-or%C3%A7amento)
+<p align="justify"> O passo a passo de como determinar o Orçamento Inicial será feito no tópico [2.3](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#23-determinar-o-or%C3%A7amento) </p>
 
 ### 2.2. Estimar os Custos
 
@@ -71,7 +71,7 @@ Há basicamente duas partes básicas: <b>Recursos Humanos</b> e <b>Equipamentos 
 
 **<i>Passo 1</i> - Determinar preço da hora do integrante:**
 
-**OBS -** *O método de determinar o preço de cada pessoa é algo que varia de grupo a grupo. Nesse tutorial será calculado com base no Relatório de Gestão da UnB.*
+<p align="justify"> **OBS -** *O método de determinar o preço de cada pessoa é algo que varia de grupo a grupo. Nesse tutorial será calculado com base no Relatório de Gestão da UnB.* </p>
 
 <table>
   <tr>
@@ -130,7 +130,7 @@ Há basicamente duas partes básicas: <b>Recursos Humanos</b> e <b>Equipamentos 
 
 #### *Cálculo do Custo de Equipamentos e Serviços*
 
-**OBS -** <i>Os equipamentos e serviços utilizados também variam por equipe, cada grupo deve considerar nesse tópico apenas aquilo que for realmente necessário para que o desenvolvimento do projeto possa ocorrer. Alguns exemplos são **notebooks, internet, energia elétrica e aluguel do local de trabalho.** </i>
+<p align="justify"> **OBS -** <i>Os equipamentos e serviços utilizados também variam por equipe, cada grupo deve considerar nesse tópico apenas aquilo que for realmente necessário para que o desenvolvimento do projeto possa ocorrer. Alguns exemplos são **notebooks, internet, energia elétrica e aluguel do local de trabalho.** </i> </p>
 
 ### 2.4 Controlar os Custos
 
@@ -138,7 +138,7 @@ Há basicamente duas partes básicas: <b>Recursos Humanos</b> e <b>Equipamentos 
 
 ## 3. Tutorial de Valor Agregado
         
-A estrutura analítica de projeto (EAP) é feita antes das atividades e do cronograma e servirá de base para faze-los posteriormente. Uma EAP é feita para mostrar os pacotes em alto nível o que será entregue de valor para o cliente. Também deve conter uma linguagem que o cliente entenda ao ler. Após fazer os pacotes da EAP, eles servirão de base para fazer as atividades, pois serão as macro atividades. A partir das macro atividades deve-se escrever todas as atividades, posteriormente ordenar as atividades, estimar prazos de entrega, colocar dependências entre atividades e ao estar gerenciando em paralelo tem-se o cronograma feito.    
+<p align="justify"> A estrutura analítica de projeto (EAP) é feita antes das atividades e do cronograma e servirá de base para faze-los posteriormente. Uma EAP é feita para mostrar os pacotes em alto nível o que será entregue de valor para o cliente. Também deve conter uma linguagem que o cliente entenda ao ler. Após fazer os pacotes da EAP, eles servirão de base para fazer as atividades, pois serão as macro atividades. A partir das macro atividades deve-se escrever todas as atividades, posteriormente ordenar as atividades, estimar prazos de entrega, colocar dependências entre atividades e ao estar gerenciando em paralelo tem-se o cronograma feito. </p>   
 
 ### 3.1 Tutorial Estimativa de 3 pontos
 
@@ -148,7 +148,7 @@ A estrutura analítica de projeto (EAP) é feita antes das atividades e do crono
 
 [Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/EAP.png)
 
-**Dica:** Pode ser feito na ferramenta [XMind](http://www.xmind.net/).
+<p align="justify"> **Dica:** Pode ser feito na ferramenta [XMind](http://www.xmind.net/). </p>
 
 <p align="justify"><b>Passo 2:</b> A partir da EAP organizar o cronograma e todas as suas respectivas atividades necessárias para a realização do projeto. Segue modelo: </p>
 
@@ -160,9 +160,9 @@ A estrutura analítica de projeto (EAP) é feita antes das atividades e do crono
 <p align="justify"><b>Passo 4:</b> Criar abas de planilhas que represente a quantidade de iterações que o grupo vai ter.</p> 
 <p align="justify"><b>Passo 5:</b> Na primeira planilha identificar informações como:</p>     
   
-   * Qual a semana      
-   * Qual o período da semana (dia de início e fim)       
-   * Hora total da semana     
+   * <p align="justify"> Qual a semana </p>      
+   * <p align="justify"> Qual o período da semana (dia de início e fim) </p>       
+   * <p align="justify"> Hora total da semana </p>    
 
 <p align="justify"><b>Passo 6:</b> Criar uma tabela para cada membro (GPP ou MDS), identificar com o nome do membro, data, hora, o nome da atividade e a <b>hora total</b>.</p>
 <p align="justify"><b>Passo 7:</b> Para automatizar a <b>hora total</b> e a <b>hora da semana</b>, utilize dos meios que a planilha oferece, para fazer um somatório automático a cada adição de informação.</p>
@@ -192,15 +192,15 @@ O resultado das planilhas de acompanhamento dos membros:
 <p align="justify"><b>Passo 15:</b> Em outra aba ou planilha é realizado a média dos cenários <b>otimista</b>, <b>realista</b> e <b>pessimista</b> para cada atividade. </p>
 <p align="justify"><b>Passo 16:</b> Em outra aba ou outra planilha com a descrição de todas as atividades, acrescenta as colunas:    
    
-   * Tempo Otimista (em horas)
-   * Tempo Realista (em horas)    
-   * Tempo Pessimista (em horas)   
-   * Quantidade de membros envolvidos    
-   * Tempo Planejado (em horas)    
-   * Tempo Total Planejado (em horas)     
-   * Custo Total Planejado (em reais)
-   * Desvio Padrão     
-   * Variância (em minutos)    
+   * <p align="justify"> Tempo Otimista (em horas) </p>
+   * <p align="justify"> Tempo Realista (em horas) </p>    
+   * <p align="justify"> Tempo Pessimista (em horas) </p>   
+   * <p align="justify"> Quantidade de membros envolvidos </p>    
+   * <p align="justify"> Tempo Planejado (em horas) </p>    
+   * <p align="justify"> Tempo Total Planejado (em horas) </p>    
+   * <p align="justify"> Custo Total Planejado (em reais) </p>
+   * <p align="justify"> Desvio Padrão </p>     
+   * <p align="justify"> Variância (em minutos) </p>    
 
 
 <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/wikiHorasEstimadas.png" >
@@ -222,13 +222,13 @@ O resultado das planilhas de acompanhamento dos membros:
 
 <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/pert2.png" >
 
-Por exemplo: 
+<p align="justify"> Por exemplo: </p> 
 
 |Tempo Otimista| Tempo Realista| Tempo Pessimista|Desvio Padrão|
 |:---:|:---:|:---:|:---:|
 |1:00|1:40|2:00|0:10|
 
-No caso foi feito o <b>Desvio Padrão</b> em minutos porque em horas o número ficaria muito pequeno.
+<p align="justify"> No caso foi feito o <b>Desvio Padrão</b> em minutos porque em horas o número ficaria muito pequeno. </p>
 
 <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/pert5.png" >
 
@@ -249,21 +249,21 @@ No caso foi feito o <b>Desvio Padrão</b> em minutos porque em horas o número f
 
 <p align="justify"> Podemos dizer que a GVA é uma abordagem estruturada que integra o escopo, o cronograma e os recursos, para então medir o desempenho e o progresso do que foi planejado. Esse desempenho pode ser mensurado a partir da comparação entre o valor agregado e o custo real. Já o progresso compara o valor agregado com o valor planejado. Entende-se como valor agregado o valor orçado para realizar o trabalho requerido pelo projeto em um tempo determinado.</p> 
 
-Quatro ideias centrais dão a tônica da Gestão de Valor Agregado no gerenciamento de projetos:
+<p align="justify"> Quatro ideias centrais dão a tônica da Gestão de Valor Agregado no gerenciamento de projetos: </p>
 
-1. Estabelecer as linhas de base de escopo, tempo e custo antes de iniciar um projeto;
+<p align="justify"> 1. Estabelecer as linhas de base de escopo, tempo e custo antes de iniciar um projeto; </p>
 
-2. Determinar qual será o ritmo de execução do projeto (entregas, tarefas e custos, sobretudo);
+<p align="justify"> 2. Determinar qual será o ritmo de execução do projeto (entregas, tarefas e custos, sobretudo); </p>
 
-3. Integrar as linhas de base do projeto;
+<p align="justify"> 3. Integrar as linhas de base do projeto; </p>
 
-4. Acompanhar a execução do projeto utilizando indicadores do método GVA.
+<p align="justify"> 4. Acompanhar a execução do projeto utilizando indicadores do método GVA. </p>
 
 <p align="justify"> GVA é diferença entre o <i>valor de planejamento</i> e o <i>valor agregado</i>. </p>
 
 <p align="justify"> Valor planejado, como o próprio nome diz, mostra o valor que foi determinado previamente para um projeto, enquanto valor agregado mostra o quanto de valor o projeto realmente ganhou ao longo de sua execução e também ao final. </p>
 
-<b>Vamos começar?!</b>
+<p align="justify"> <b>Vamos começar?! Basta Seguir os seguintes passos :D</b> </p>
 
 <p align="justify"><b>Passo 01:</b> Ter feito a <i>Estrutura Analítica de Projeto</i> e o cronograma. </p>
 
@@ -334,7 +334,8 @@ Quatro ideias centrais dão a tônica da Gestão de Valor Agregado no gerenciame
 
 
 #### 3.2.3 Planilha Valor Agregado
-Para gerar a planilha de valor agregado é necessário ter os valores planejados, reais e agregados. No tópico acima está explicando como calcular o valor planejado. A seguir será explicado como gerar o valor real e agregado.        
+
+<p align="justify"> Para gerar a planilha de valor agregado é necessário ter os valores planejados, reais e agregados. No tópico acima está explicando como calcular o valor planejado. A seguir será explicado como gerar o valor real e agregado. </p>        
 <h4> 3.2.3.1 Cálculo de valor real </h4>       
      O valor real é o valor do que realmente foi gasto pelo time, dos esforços que eles tiveram nas atividades. Para isso é necessário gerar uma tabela para monitorar as horas trabalhadas semanalmente por cada integrante e em qual atividade eles estavam trabalhando. A imagem a seguir mostra o exemplo de uma tabela para preencher horas semanais.    
 
@@ -343,37 +344,38 @@ Para gerar a planilha de valor agregado é necessário ter os valores planejados
 [Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/tabelaHorasVazia.png)   
    
     
-A tabela mostra que deve criar um campo para somar as horas totais trabalhadas por todos integrantes em cada semana. A seguir mostra uma imagem preenchida com exemplos de atividades, datas e tempo.    
+<p align="justify"> A tabela mostra que deve criar um campo para somar as horas totais trabalhadas por todos integrantes em cada semana. A seguir mostra uma imagem preenchida com exemplos de atividades, datas e tempo. </p>   
     
 <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/horasPreenchidas.png" >      
    
 [Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/horasPreenchidas.png)        
  
-Devem ser somadas todas as atividades em que os alunos trabalharam de todas as semanas.    
+<p align="justify"> Devem ser somadas todas as atividades em que os alunos trabalharam de todas as semanas. </p>    
     
-Após preencher as tabelas de horas, deve-se relacionar as atividades das tabelas de horas com as atividades que foram planejadas ao fazer o cronograma, para saber quanto tempo cada aluno gastou trabalhando nas atividades que foram planejadas no cronograma.         
-Após saber quanto tempo cada aluno trabalhou em cada atividade, deve-se multiplicar o tempo total gasto em cada atividade pelo custo da hora de trabalho, no caso dos alunos da UNB em 2017, o custo é 15.30 reais.    
+<p align="justify"> Após preencher as tabelas de horas, deve-se relacionar as atividades das tabelas de horas com as atividades que foram planejadas ao fazer o cronograma, para saber quanto tempo cada aluno gastou trabalhando nas atividades que foram planejadas no cronograma. </p>         
+
+<p align="justify"> Após saber quanto tempo cada aluno trabalhou em cada atividade, deve-se multiplicar o tempo total gasto em cada atividade pelo custo da hora de trabalho, no caso dos alunos da UNB em 2017, o custo é 15.30 reais. </p>   
     
-A imagem abaixo mostra quanto tempo cada aluno trabalhou em cada atividade e faz-se o somatório do tempo total gasto em cada atividade.    
+<p align="justify"> A imagem abaixo mostra quanto tempo cada aluno trabalhou em cada atividade e faz-se o somatório do tempo total gasto em cada atividade. </p>    
 
 <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/tempoTotalPorAtividade.png" >      
     
 [Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/tempoTotalPorAtividade.png)    
 
   
-**Exemplo: Na atividade 1:Apresentar Equipe, tem-se quanto tempo cada aluno trabalhou nela, somando o tempo em que cada um trabalhou nela, tem-se o total de 11 horas gastas na atividade de apresentar a equipe. Portanto para saber o custo dessa atividade é só multiplicar 11:00 horas por 15,30 reais o custo da hora, que resulta em 168,30 reais.**         
-       
-      
-Após descobrir o custo total de cada atividade deve-se somar o custo de todas as atividades e assim é possível saber o **custo real** de cada iteração ou do projeto inteiro.   
+<p align="justify"> **Exemplo: Na atividade 1:Apresentar Equipe, tem-se quanto tempo cada aluno trabalhou nela, somando o tempo em que cada um trabalhou nela, tem-se o total de 11 horas gastas na atividade de apresentar a equipe. Portanto para saber o custo dessa atividade é só multiplicar 11:00 horas por 15,30 reais o custo da hora, que resulta em 168,30 reais.** </p>         
+            
+<p align="justify"> Após descobrir o custo total de cada atividade deve-se somar o custo de todas as atividades e assim é possível saber o **custo real** de cada iteração ou do projeto inteiro. </p>   
 
-<h4> 3.2.3.2 Cálculo de valor agregado </h4>          
-O valor agregado é o que foi entregue para o cliente e que agrega valor para ele. O valor agregado será calculado por iteração. **Vale ressaltar que cada atividade da iteração agrega o mesmo tanto para o cliente, na metodologia tradicional.** Portanto o primeiro passo a se fazer é contar quantas atividades tem na iteração e dividir 100% pelo número de atividades, para descobrir o peso de cada atividade. A imagem abaixo explica melhor como descobrir o peso de cada atividade na iteração.        
+<h4> 3.2.3.2 Cálculo de valor agregado </h4>         
+
+<p align="justify"> O valor agregado é o que foi entregue para o cliente e que agrega valor para ele. O valor agregado será calculado por iteração. **Vale ressaltar que cada atividade da iteração agrega o mesmo tanto para o cliente, na metodologia tradicional.** Portanto o primeiro passo a se fazer é contar quantas atividades tem na iteração e dividir 100% pelo número de atividades, para descobrir o peso de cada atividade. A imagem abaixo explica melhor como descobrir o peso de cada atividade na iteração. </p>       
     
 <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/agregadoInicial.png" >      
     
 [Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/agregadoInicial.png)                  
     
-A imagem acima contém 6 colunas preenchidas. Abaixo será explicado cada uma delas.        
+<p align="justify"> A imagem acima contém 6 colunas preenchidas. Abaixo será explicado cada uma delas. </p>        
 **Atividade:**  Representam as atividades de cada iteração, no caso da imagem a iteração 0 e a iteração 1.    
 
 **Tempo Planejado (em horas):** Tempo planejado para executar a atividade por completo.        
@@ -384,11 +386,11 @@ A imagem acima contém 6 colunas preenchidas. Abaixo será explicado cada uma de
 
 **Custo real (em reais):**    Custo real que foi gasto na atividade.    
 
-**Participação da iteração (porcentagem):** Percentual que a atividade representa na iteração. Cada iteração representa 100% com todas as suas atividades, então no exemplo da iteração 0 que tem 2 atividades, dividindo 100% da iteração 0 em 2 atividades, cada atividade equivale a 50%, que é o valor da coluna. No exemplo da iteração 1 que tem 9 atividades, divide-se o 100% da iteração 1 em 9 atividades e tem o resultado que cada atividade equivale a aproximadamente 11.11%.              
+<p align="justify"> **Participação da iteração (porcentagem):** Percentual que a atividade representa na iteração. Cada iteração representa 100% com todas as suas atividades, então no exemplo da iteração 0 que tem 2 atividades, dividindo 100% da iteração 0 em 2 atividades, cada atividade equivale a 50%, que é o valor da coluna. No exemplo da iteração 1 que tem 9 atividades, divide-se o 100% da iteração 1 em 9 atividades e tem o resultado que cada atividade equivale a aproximadamente 11.11%. </p>              
         
           
 A imagem a seguir apresenta a próxima coluna.    
-**Esforço individual (porcentagem):** Representa o percentual que foi cumprido da tarefa. No exemplo abaixo todas as atividades da iteração 0 foram terminadas 100%, na iteração 1 a atividade elaborar CANVAS não foi nem iniciada, portanto 0% feito e a tarefa Elaborar plano de escopo foi realizado 75%.
+**Esforço individual (porcentagem):** Representa o percentual que foi cumprido da tarefa. No exemplo abaixo todas as atividades da iteração 0 foram terminadas 100%, na iteração 1 a atividade elaborar CANVAS não foi nem iniciada, portanto 0% feito e a tarefa Elaborar plano de escopo foi realizado 75%. </p>
        
    
 <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/percentualRealizado.png" >      
@@ -396,46 +398,41 @@ A imagem a seguir apresenta a próxima coluna.
 [Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/percentualRealizado.png)               
         
         
-A imagem a seguir contém o preenchimento do campo Esforço total (porcentagem). Que representa o quanto foi agregado de cada iteração, para conseguir esse valor tem que multiplicar o percentual agregado (Esforço individual(porcentagem)) pelo percentual que a atividade representa na iteração (Participação da iteração (porcentagem)) e dividir por 100% para manter o percentual.     
-**Ex: atividade apresentar equipe, (100% x 50%)/ 100% representa que foi agregado 50% da iteração.**     
-**Ex: atividade Elaborar plano de escopo 75% X 11.11% representa que foi agregado 8.33% da iteração.**    
+<p align="justify"> A imagem a seguir contém o preenchimento do campo Esforço total (porcentagem). Que representa o quanto foi agregado de cada iteração, para conseguir esse valor tem que multiplicar o percentual agregado (Esforço individual(porcentagem)) pelo percentual que a atividade representa na iteração (Participação da iteração (porcentagem)) e dividir por 100% para manter o percentual. </p>    
+<p align="justify">**Ex: atividade apresentar equipe, (100% x 50%)/ 100% representa que foi agregado 50% da iteração.** </p>    
+<p align="justify">**Ex: atividade Elaborar plano de escopo 75% X 11.11% representa que foi agregado 8.33% da iteração.** </p>   
      
-
 <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/agregado3.png" >      
     
 [Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/agregado3.png)         
-    
-    
-    
-Por fim, para calcular o valor agregado em reais é necessário multiplicar o Esforço individual(porcentagem) pelo custo planejado (em Reais) e dividir por 100. A imagem abaixo mostra melhor alguns exemplos.        
+        
+<p align="justify"> Por fim, para calcular o valor agregado em reais é necessário multiplicar o Esforço individual(porcentagem) pelo custo planejado (em Reais) e dividir por 100. A imagem abaixo mostra melhor alguns exemplos. </p>       
         
    
 <img src="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/agregadoFinal.png" >      
     
 [Clique aqui para visualizar a imagem ampliada](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/agregadoFinal.png)          
         
-**Ex: atividade Elaborar cronograma, multiplica (100% x 420.75) /100 e o custo final é 420.75, o resultado deu o mesmo que o custo planejado porque foi concluido 100% da atividade**        
-**Ex: atividade Elaborar plano de escopo, multiplica (75% x 191.25) / 100 e o custo final é 143.44, o resultado de valor agregado deu menor que o planejado porque a atividade não foi concluida.**        
-Logo, está calculado o valor agregado de cada atividade, e ao fazer um somatório de cada atividade da iteração tem-se o valor agregado da iteração e é possível comparar com o custo planejado e o custo real. 
+<p align="justify"> **Ex: atividade Elaborar cronograma, multiplica (100% x 420.75) /100 e o custo final é 420.75, o resultado deu o mesmo que o custo planejado porque foi concluido 100% da atividade**</p>        
+<p align="justify"> **Ex: atividade Elaborar plano de escopo, multiplica (75% x 191.25) / 100 e o custo final é 143.44, o resultado de valor agregado deu menor que o planejado porque a atividade não foi concluida.** </p> <p align="justify">      
+Logo, está calculado o valor agregado de cada atividade, e ao fazer um somatório de cada atividade da iteração tem-se o valor agregado da iteração e é possível comparar com o custo planejado e o custo real. </p>
     
-    
-A seguir será explicado como montar os gráficos dos índices de custo e prazo.
-   
- 
- 
+<p align="justify"> A seguir será explicado como montar os gráficos dos índices de custo e prazo. </p> 
 
 ### 3.2.4 Gráficos
-Quais dados pegar e como montar os gráficos 
+
+<p align="justify"> Quais dados pegar e como montar os gráficos </p> 
 
 ### 3.3.5 Análise de Índices    
-Após ter calculado os índices de orçamento e de tempo, é possível analisar como está o andamento do projeto segundo a tabela abaixo.   
+
+<p align="justify"> Após ter calculado os índices de orçamento e de tempo, é possível analisar como está o andamento do projeto segundo a tabela abaixo. </p>   
   
 ![Comparação de índices de custo x prazo](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/analiseTempoXorcamento.png)       
-Através dos índices obtidos no cálculo acima e olhando a tabela é capaz de localizar a situação do projeto. Escolha a célula que mostre o índice correto de custo e prazo e a célula escolhida indicará se a situação é boa, ruim ou simplesmente insuficiente avaliar devido à necessidade de mais dados.
 
+<p align="justify"> Através dos índices obtidos no cálculo acima e olhando a tabela é capaz de localizar a situação do projeto. Escolha a célula que mostre o índice correto de custo e prazo e a célula escolhida indicará se a situação é boa, ruim ou simplesmente insuficiente avaliar devido à necessidade de mais dados. </p>
 
 ## 4. Referências
 
-* PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK® 5a. ed. - EUA: Project Management Institute, 2013
-* Relatório de Custos - Grupo Escola X - [Planilha de Custos](https://docs.google.com/spreadsheets/d/1ITHRbZTwAj2IPA8qPYTSt6RcRUDaBT0GZIsA5mM1iCA/edit?usp=sharing)
-* Builder, P. [O que é gestão de valor agregado (GVA), e qual a importância dele para a minha empresa?](http://www.projectbuilder.com.br/blog-home/entry/projetos/o-que-e-gestao-de-valor-agregado-gva-e-qual-a-importancia-dele-para-a-minha-empresa). Acessado em maio de 2017.
+<p align="justify"> * PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK® 5a. ed. - EUA: Project Management Institute, 2013 </p>
+<p align="justify"> * Relatório de Custos - Grupo Escola X - [Planilha de Custos](https://docs.google.com/spreadsheets/d/1ITHRbZTwAj2IPA8qPYTSt6RcRUDaBT0GZIsA5mM1iCA/edit?usp=sharing)</p>
+<p align="justify"> * Builder, P. [O que é gestão de valor agregado (GVA), e qual a importância dele para a minha empresa?](http://www.projectbuilder.com.br/blog-home/entry/projetos/o-que-e-gestao-de-valor-agregado-gva-e-qual-a-importancia-dele-para-a-minha-empresa). Acessado em maio de 2017.</p>
