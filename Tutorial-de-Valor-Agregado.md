@@ -275,7 +275,11 @@ O resultado das planilhas de acompanhamento dos membros:
 
 <p align="justify"><b>Passo 03:</b> Fazer a <a href="https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#41-tutorial-estimativa-de-3-pontos"> Estimativa de 3 pontos</a>.</p>
 
-<p align="justify"><b>Passo 04:</b> </p>
+<p align="justify"><b>Passo 04:</b> Gerar planilha do <a href="https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#4-refer%C3%AAncias">valor agregado</a></p>
+
+<p align="justify"><b>Passo 05:</b> Gerar <a href="https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#324-gr%C3%A1ficos">gráfico</a></p>
+
+<p align="justify"><b>Passo 06:</b> Gerar <a href="https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#335-an%C3%A1lise-de-%C3%8Dndices">gráfico</a></p>
 
 
 #### 3.2.1 Siglas
@@ -391,7 +395,7 @@ O resultado das planilhas de acompanhamento dos membros:
 
 **Custo real (em reais):**    Custo real que foi gasto na atividade.    
 
-**Participação da iteração (porcentagem):** Percentual que a atividade representa na iteração. Cada iteração representa 100% com todas as suas atividades, então no exemplo da iteração 0 que tem 2 atividades, dividindo 100% da iteração 0 em 2 atividades, cada atividade equivale a 50%, que é o valor da coluna. No exemplo da iteração 1 que tem 9 atividades, divide-se o 100% da iteração 1 em 9 atividades e tem o resultado que cada atividade equivale a aproximadamen             
+**Participação da iteração (porcentagem):** Percentual que a atividade representa na iteração. Cada iteração representa 100% com todas as suas atividades, então no exemplo da iteração 0 que tem 2 atividades, dividindo 100% da iteração 0 em 2 atividades, cada atividade equivale a 50%, que é o valor da coluna. No exemplo da iteração 1 que tem 9 atividades, divide-se o 100% da iteração 1 em 9 atividades e tem o resultado que cada atividade equivale aproximadamente             
         
           
 A imagem a seguir apresenta a próxima coluna.    
@@ -443,4 +447,4 @@ Logo, está calculado o valor agregado de cada atividade, e ao fazer um somatór
 * <p align="justify"> PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK® 5a. ed. - EUA: Project Management Institute, 2013 </p>
 * <p align="justify"> Relatório de Custos - Grupo Escola X - <a href="https://docs.google.com/spreadsheets/d/1ITHRbZTwAj2IPA8qPYTSt6RcRUDaBT0GZIsA5mM1iCA/edit?usp=sharing">Planilha de Custos</a></p>
 * <p align="justify"> Builder, P. <a href="http://www.projectbuilder.com.br/blog-home/entry/projetos/o-que-e-gestao-de-valor-agregado-gva-e-qual-a-importancia-dele-para-a-minha-empresa">O que é gestão de valor agregado (GVA), e qual a importância dele para a minha empresa? </a>. Acessado em maio de 2017.</p>
-* <p align="justify">¹ <a href="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/orcamentoTI.pdf>Guia completo para planejar seu orçamento de TI</a>
+* <p align="justify">¹ <a href="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/orcamentoTI.pdf">Guia completo para planejar seu orçamento de TI</a>
