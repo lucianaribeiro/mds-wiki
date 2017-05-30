@@ -40,7 +40,7 @@
 
 <p align="justify">Os custos do projeto são calculados com base nos entregáveis de valor, presentes na <b>EAP</b> e no <b>cronograma</b> do projeto, esse último sendo indispensável para o controle dos custos durante as iterações. </p>
 
-<p align="justify"> O passo a passo de como determinar o Orçamento Inicial será feito no tópico [2.3] <a href="https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#23-determinar-o-or%C3%A7amento">Determinar o Orçamento</a>
+<p align="justify"> O passo a passo de como determinar o Orçamento Inicial será feito no tópico <a href="https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#23-determinar-o-or%C3%A7amento">2.3</a>
 
 ### 2.2. Estimar os Custos
 
@@ -121,7 +121,7 @@ Há basicamente duas partes básicas: <b>Recursos Humanos</b> e <b>Equipamentos 
 
 | | QP || HS || S || PP || Custo Final |
 | :---: | :---:| :---:| :---:| :---:| :---:| :---:| :---:| :---:| :---:|
-| Membro (Metodologia Tradicional) | *QP1* | x | *HS1* | x | *S1* | x | *PP1* | = | R$ W.WWW,WW |
+| Membro (Metodologia Tradicional) | *QP1* | x | *HS1* | x | *S1* | x | *PP1* | = | R$ H.HHH,HH |
 |||||||||| + |
 | Membro (Metodologia Ágil) | *QP2* | x | *HS2* | x | *S2* | x | *PP2* | = | R$ Y.YYY,YY |
 |||||||||| + |
@@ -133,6 +133,29 @@ Há basicamente duas partes básicas: <b>Recursos Humanos</b> e <b>Equipamentos 
 #### *Cálculo do Custo de Equipamentos e Serviços*
 
 **OBS -** <i>Os equipamentos e serviços utilizados também variam por equipe, cada grupo deve considerar nesse tópico apenas aquilo que for realmente necessário para que o desenvolvimento do projeto possa ocorrer. Alguns exemplos são **notebooks, internet, energia elétrica e aluguel do local de trabalho.** </i>
+
+**Siglas:**
+* **EQ -** Equipamentos/Serviços
+* **PU -** Preço Unitário
+* **Q -** Quantidade
+
+| | PU || Q || Custo Final |
+| :---: | :---:| :---:| :---:| :---:| :---:|
+| EQ1 | *PU1* | x | *Q1* | = | R$ H.HHH,HH |
+|||||| + |
+| EQ2 | *PU2* | x | *Q2* | = | R$ Y.YYY,YY |
+|||||| + |
+| EQ3 | *PU3* | x | *Q3* | = | R$ Z.ZZZ,ZZ |
+|||||| = |
+| Custo Estimado | |  | | | **R$ X.XXX,XX** |
+
+
+#### *Custo Total*
+
+| Custo de Recursos Humanos | | Custo de Equipamentos e Serviços | |Custo Total Estimado |
+| :---: | :---: | :---: | :---: | :---: |
+| R$ Y.YYY,YY | + | R$ Z.ZZZ,ZZ | = | **R$ X.XXX,XX** |
+
 
 ### 2.4 Controlar os Custos
 
