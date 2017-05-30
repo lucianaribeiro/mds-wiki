@@ -131,5 +131,4 @@ Durante o trabalho prático, apresentamos uma problemática e solicitamos a reso
 
 Para a realização da dinâmica, é necessário que cada dupla possua acesso a um computador que seja capaz de rodar a plataforma de testes escolhida. Além disso, quem aplica o treinamento deve possuir uma forma de projetar o código resultado para que todos consigam ver um exemplo de código ideal.
 
-O código utilizado no treinamento está disponível![aqui](google.com).
-- Treinamento em, pelo menos 2 linguagens
+A problemática apresentada no treinamento foi a necessidade de se criar uma classe Banco que realizasse as operações de saque e depósito. O exemplo de [código](https://github.com/fga-gpp-mds/00-Disciplina/blob/master/MDS_Material/TDD/banco.py) e a [apresentação](https://github.com/fga-gpp-mds/00-Disciplina/blob/master/MDS_Material/TDD/TDD%20Apresenta%C3%A7%C3%A3o.pptx) estão disponíveis no repositório da disciplina.
