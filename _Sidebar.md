@@ -121,3 +121,6 @@
 [Estrutura Analítica de Projeto (EAP)](https://github.com/fga-gpp-mds/00-Disciplina/wiki/EAP)
 
 [REST API em Node.js + RethinkDB](https://github.com/fga-gpp-mds/00-Disciplina/wiki/REST-API-em-Node.js-e-RethinkDB)
+
+# Estudo de Caso
+[Valve desenvolvimento sem gestão](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Estudo-de-Caso:-Valve,-desenvolvimento-sem-gestão)
