@@ -277,9 +277,9 @@ O resultado das planilhas de acompanhamento dos membros:
 
 <p align="justify"><b>Passo 04:</b> Gerar planilha do <a href="https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#4-refer%C3%AAncias">valor agregado</a></p>
 
-<p align="justify"><b>Passo 05:</b> Gerar <a href="https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#324-gr%C3%A1ficos">gráfico</a></p>
+<p align="justify"><b>Passo 05:</b> Gerar <a href="https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#324-gr%C3%A1ficos">gráficos</a>.</p>
 
-<p align="justify"><b>Passo 06:</b> Gerar <a href="https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#335-an%C3%A1lise-de-%C3%8Dndices">gráfico</a></p>
+<p align="justify"><b>Passo 06:</b> Realizar <a href="https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#335-an%C3%A1lise-de-%C3%8Dndices">análise de índices</a>.</p>
 
 
 #### 3.2.1 Siglas
