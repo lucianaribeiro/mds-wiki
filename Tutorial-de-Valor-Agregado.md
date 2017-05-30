@@ -62,7 +62,9 @@
 
 ### 2.3 Determinar o Orçamento
 
-**Orçamento vem antes do custo.. Fazer uma lista do que deve ser levado em consideração para fazer o orçamento (colocar um exemplo, por exemplo, os seus) -- boa referencia: http://materiais.resultadosdigitais.com.br/planejamento-orcamento-ti**
+<p align="justify">Para a realização de um bom orçamento em TI é fundamental o conhecimento ou familiaridade com planejamento financeiro e as finanças da organização (se for o caso). A premissa básica para o orçamento de qualquer setor é estar alinhado ao planejamento estratégico. O orçamento é feito primeiro, com ajuda de planilhas e pesquisas, sobre tudo o que é preciso para o projeto/organização como composições, serviços, mão-de-obra, impostos, máquinas e equipamentos, além de custos indiretos. </p>
+
+<p align="justify">O orçamento em TI também deve alinhar o que foi provisionado anteriormente e o que foi efetivamente realizado. O ideal é que esse balanço seja feito periodicamente para evitar um desequilíbrio entre o aprovado nos orçamentos anteriores e o posto em prática pela empresa. Essa diferença é o temido “backlog”. Quanto menor ele for, melhor. Além disso, todo orçamento deve prever uma “margem de segurança”, que é uma reserva financeira para gastos que não possam ser previstos e demais emergências. <a href"https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#4-refer%C3%AAncias">¹</a></p>
 
 <p align="justify"> Nesta etapa é determinado qual será o orçamento do projeto a ser desenvolvido.
 Há basicamente duas partes básicas: <b>Recursos Humanos</b> e <b>Equipamentos e Serviços</b>. </p>
@@ -441,3 +443,4 @@ Logo, está calculado o valor agregado de cada atividade, e ao fazer um somatór
 * <p align="justify"> PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK® 5a. ed. - EUA: Project Management Institute, 2013 </p>
 * <p align="justify"> Relatório de Custos - Grupo Escola X - <a href="https://docs.google.com/spreadsheets/d/1ITHRbZTwAj2IPA8qPYTSt6RcRUDaBT0GZIsA5mM1iCA/edit?usp=sharing">Planilha de Custos</a></p>
 * <p align="justify"> Builder, P. <a href="http://www.projectbuilder.com.br/blog-home/entry/projetos/o-que-e-gestao-de-valor-agregado-gva-e-qual-a-importancia-dele-para-a-minha-empresa">O que é gestão de valor agregado (GVA), e qual a importância dele para a minha empresa? </a>. Acessado em maio de 2017.</p>
+* <p align="justify">¹ <a href="https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/orcamentoTI.pdf>Guia completo para planejar seu orçamento de TI</a>
