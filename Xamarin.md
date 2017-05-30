@@ -1,9 +1,9 @@
 ### Histórico de Revisões
 
-| Data       |  Descrição                      | Autor             |
-|:----------:|:-------------------------------:|:-----------------:|
-| 07/05/2017 | Introdução e Guia de Instalação | Felipe Hargreaves |
-| 30/05/2017 | Arquitetura MVVM                | Felipe Hargreaves |
+| Data       |  Descrição                      | Autor                          |
+|:----------:|:-------------------------------:|:------------------------------:|
+| 07/05/2017 | Introdução e Guia de Instalação | Felipe Hargreaves (15/0009313) |
+| 30/05/2017 | Arquitetura MVVM                | Felipe Hargreaves (15/0009313) |
 
 [Introdução](#introdução)  
 [Configuração de Ambiente](#configuração-de-ambiente)
