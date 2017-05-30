@@ -466,6 +466,8 @@ Serão gerados 3 tipos de gráficos:
 
 <p align="justify"> Para gerar um gráfico que percorra todas as iterações realizadas é necessário que os valores presentes no gráfico sejam <b>acumulados</b>. Portanto precisa criar uma tabela que liste os valores acumulados, como no exemplo abaixo: </p>
 
+![Gráfico 1](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/graPrint1.png)
+
 #### **Variação de Custos X Variação de Prazos**
 
 #### **Índice de Desenvolvimento de Custos X Índice de Desenvolvimento de Prazos**
