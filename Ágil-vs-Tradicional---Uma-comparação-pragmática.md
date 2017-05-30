@@ -1,3 +1,8 @@
+## Alunos
+- Filipe Ribeiro - 12/0117738
+- Gabriel Silva - 12/0118220
+- Phelipe Wener - 12/0132893
+
 ## Sumário
 
 - [1.0 Introdução](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Ágil-vs-Tradicional---Uma-abordagem-pragmática#10-introdução)
