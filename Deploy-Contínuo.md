@@ -1,5 +1,3 @@
-# Deploy Contínuo
-
 ## Tutorial
 
 1. Se cadastre (ou faça login se já tiver uma conta) no site da ferramenta de deploy Heroku https://www.heroku.com/home.
