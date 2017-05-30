@@ -24,7 +24,7 @@ Apesar de ser um grupo de processos com menos processos (assim como Grupo de Pro
 ![Iniciação](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/Iniciacao.png)
 
 Representação da fase de Iniciação, contendo as atividades do PMBok de acordo com:
-[Fonte: Ricardo Vargas](http://www.ricardo-vargas.com/pt/videos/1) 
+[Ricardo Vargas](http://www.ricardo-vargas.com/pt/videos/1) 
 
 ### Detalhe as atividades realizadas por GPP nessa fase
 O trabalho de GPP's nesta fase é fazer toda a parte de preparação do projeto, de modo que seja analisada a viabilidade de projeto. Além disso capacitar a equipe e o ambiente de trabalho, deve-se:
@@ -40,7 +40,7 @@ O trabalho de GPP's nesta fase é fazer toda a parte de preparação do projeto,
 
 ### Quais os processos do RUP são executados - ilustre
 ### Detalhe as atividades realizadas por MDS nessa fase
-<p align = "justify" >O principal trabalho de MDS na fase de iniciação é fazer a primeira versão do documento de visão, que é de extrema importância para o desenvolvimento do _software_. Contudo, deve-se, também, realizar diversas tarefas importantes, como:
+<p align = "justify" >O principal trabalho de MDS na fase de iniciação é fazer a primeira versão do documento de visão, que é de extrema importância para o desenvolvimento do <i>software</i>. Contudo, deve-se, também, realizar diversas tarefas importantes, como:
 
 > * Definir linguagem de programação e ambiente.
 > * Realizar estudos de como utilizar linguagem e ambiente escolhidos.
@@ -71,19 +71,20 @@ O trabalho de GPP's nesta fase é fazer toda a parte de preparação do projeto,
 <http://www.funpar.ufpr.br:8080/rup/process/artifact/ovu_arts.htm>
 
 ### Quais os papéis desempenhados por GPP nessa fase? - descreva
-<p align = "justify" >Entre os papéis desenvolvidos por GPP nesta fase temos:
-> * Elaborar cronograma inicial.
-> * Definir tecnologias.
-> * Treinamento sobre linguagem e ambiente.
-> * Iniciar gestão de configuração de software.
-> * Elaborar termo de abertura do projeto.
-> * Elaborar registro de partes interessadas.
-> * Elicitar requisitos dos clientes.
-> * Refinar e priorizar os requisitos.
+Entre os papéis desenvolvidos por GPP nesta fase temos:
+* Elaborar cronograma inicial.
+* Definir tecnologias.
+* Treinamento sobre linguagem e ambiente.
+* Iniciar gestão de configuração de software.
+* Elaborar termo de abertura do projeto.
+* Elaborar registro de partes interessadas.
+* Elicitar requisitos dos clientes.
+* Refinar e priorizar os requisitos.
 
 
 ### Quais os papéis desempenhados por MDS nessa fase? descreva  
 <p align = "justify" >Nesta fase de iniciação a equipe de Desenvolvimento se mantém focada em projetar o documento de visão que possa garantir um escopo bem definido, respeitando os padrões desejados pelo cliente e que consiga ser implementável pela equipe. Preocupa-se também em pensar maneiras de modelar o sistema da melhor forma, afim de proporcionar um ferramenta de auxílio durante o desenvolvimento da solução do problema proposto.
+
 #### Analista de Sistema 
 Papel responsável por delimitar o sistema.
 * Atividades: Desenvolver a visão, identificar solicitações dos principais envolvidos.
@@ -91,9 +92,9 @@ Papel responsável por delimitar o sistema.
  
 ### Quais são principais critérios de avaliação para passagem de fase? (RUP)
 
-<p align = "justify" >O principal critério para passagem na fase de iniciação é que se tenha um escopo de projeto bem definido, onde haja concordância entre os _stakeholders_ - as partes interessadas - e o planejamento do projeto. Para que se possa abstrair todo o conjunto de ideias que constituem o escopo do projeto e formar algo mais sólido, na fase de Iniciação, assim como nas demais fases, deve-se gerar uma *baseline*, ou seja, *um artefato estável*. Podemos dizer que no contexto da disciplina, a *baseline* gerada na fase de Iniciação é o *Documento de Visão*.
+<p align = "justify" >O principal critério para passagem na fase de iniciação é que se tenha um escopo de projeto bem definido, onde haja concordância entre os <i>stakeholders</i> - as partes interessadas - e o planejamento do projeto. Para que se possa abstrair todo o conjunto de ideias que constituem o escopo do projeto e formar algo mais sólido, na fase de Iniciação, assim como nas demais fases, deve-se gerar uma <i>baseline</i>, ou seja, <i>um artefato estável</i>. Podemos dizer que no contexto da disciplina, a <i>baseline</i> gerada na fase de Iniciação é o <i>Documento de Visão</i>.
 
-### Quais são principais critérios de avaliação para passagem de fase? (PMBOK)
+### Quais são os principais critérios de avaliação para passagem de fase? (PMBOK)
 
 <p align = "justify" >Exceto em casos em que há paralelismo entre as fases, uma transição entre fases é realizada quando uma fase é concluída. Uma fase é concluída quando os seus produtos de trabalho (representa algo resultante da fase) forem revisados e aprovados, além de ser necessário uma análise se é necessário mais alguma atividade. Os critérios de aceitação das fases é definida pela gerência do projeto. Pode ocorrer uma transição entre fases sem que ocorra a revisão e aprovação se os riscos não forem significativos. 
 
