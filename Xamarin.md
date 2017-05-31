@@ -75,4 +75,4 @@ Alguns pontos importantes e dicas para o cumprimento dos padrões de arquitetura
 
 # Testes unitários
 
-Testes de aceitação
+# Testes de aceitação
