@@ -131,6 +131,8 @@ esse custo inicial tende a sofrer variações (MACEDO, 2014).
 * **VNT** - Variação no Términoi (quanto acima ou abaixo do orçamento esperamos
 estar no fim do projeto).
 
+|                          Sigla                          |             Fórmula            |                                                               Descrição                                                               |
+|:-------------------------------------------------------:|:------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
 |                  Variação de Custo (VC)                 |           VC = VA-CR           | Negativa está acima do orçamento Positiva está abaixo do orçamento                                                                    |
 |                 Variação do Prazo (VPR)                 |          VPR = VA – VP         | Negativa o projeto está atrasado em relação ao cronograma Positiva está adiantado em relação ao cronograma.                           |
 |           Índice de Desempenho de Custo (IDC)           |          IDC = VA / CR         | Um valor igual ou maior que 1 indica condição favorável. Um valor menor que 1 indica condição desfavorável.                           |
