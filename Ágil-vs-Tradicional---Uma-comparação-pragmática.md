@@ -118,8 +118,12 @@ base de custos.
 
 ### 4.2 Gerência de Custos em Metodologias Ágeis
 
-
 ## 5.0 Riscos
+
+Riscos: Eventos específicos que podem ocorrer em um certo nível de probabilidade e os quais, se acontecerem, terão um impacto sobre alguns aspectos do projeto(duração, custo ou escopo)(IESE, 2013).
+
+Em ambas abordagens vê-se mecanismos para controle dos riscos do projeto. Nos projetos tradicionais percebe-se um esforço mais preventivo, tal que seja feito um planejamento de como os riscos do projeto serão gerenciados, suas ações corretivas e níveis de impacto. Nos ágeis, esses riscos são mitigados com a prática, onde as técnicas de _metting_ são fundamentais para identificação desses.
+
 ## 6.0 Conclusão
 ## 7.0 Refências
 
