@@ -193,6 +193,12 @@ que norteia o desenvolvimento. Por outro lado o tradicional define cada papel e
 cada etapa do processo, dando insumos para guiar equipes imaturas com relação as
 atividades que devem ser realizadas em seus respectivos momentos.
 
+Sabe-se que dentro do contexto de desenvolvimento de software não há um modelo
+perfeito e todas as decisões devem ser tomadas com relação a descrição do projeto,
+pessoas envolvidas e processo a ser seguido. Cabe aos membros de cada equipe
+terem a maturidade necessária para adoção da melhor metodologia que se encaixa
+no contexto de trabalho.
+
 ## 7.0 Refências
 
 - VIEIRA, M. Gerenciamento de Projetos de Tecnologia da Informação. Rio Janeiro, Brasil. 2003.
