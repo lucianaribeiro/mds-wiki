@@ -151,13 +151,13 @@ relacionados a Gerenciamento de Custo, com isso, pode-se dizer que o Scrum não
 cuida desta prática formalmente. Porém a outros pontos a serem analisados. O **MVP**
 é o _Minimum Viable Product_, que significa a menor parte utilizável de um
 produto, que uma vez lançada  agrega retorno imediato ao investimento para um 
-determinado cliente. 
+determinado cliente (DIAS, 2009). 
 
 Com o MVP consolidade, cria-se então a entrada para o Planejamento da Release,
 sendo que o próximo passo é a descoberta da **velocidade** do time para
 consolidar um plano funcional (se não houver um registro da velocidade do time,
 pelo fato de ser um time novo; deve-se estimar analogamente com base na
-experiência).
+experiência) (OLIVEIRA, 2015).
 
 Uma vez que esse cenário está estabelecido, o próximo passo é estimar o tamanho,
 esforço e complexidade das _User Stories_. Nesse caso deve-se separar todas as
@@ -174,7 +174,7 @@ do inglês, o _**Earned Value Management**_ (EVM). O EVM nada mais é do que uma
 técnica que permiti, de forma clara e objetiva, avaliar e medir o avanço de um
 projeto no que se refere a custos e prazos, baseando-se no trabalho realizado
 versus o planejado. O valor agregado é obtido a partir do produto da porcentagem
-de conclusão daquilo que foi planejado, junto ao valor estimado.
+de conclusão daquilo que foi planejado, junto ao valor estimado (OLIVEIRA, 2015).
 
 ## 5.0 Riscos
 
@@ -193,8 +193,10 @@ Em ambas abordagens vê-se mecanismos para controle dos riscos do projeto. Nos p
 - Paetsch F., Eberlein A., Maurer F. Requirements engineering and Agile software development. In Proceedings of 8th International Workshop on Enterprise Security, Linz, Austria. 2003.
 - Tomayko JE. Engineering of unstable requirements using Agile methods. In: Proceedings of International Conference on Time-Constrained Requirements Engineering, Essen, Germany. 2002.
 - Leffingwell, D., Widrig, D. Managing Software Requirements: A Use Case Approach, 2a. Edição, Addison-Wesley. 2003.
-- BONFIM, D. F.; NUNES, P. C. A.; HASTENREITER, F. Project Management by PMBOK Guide: Challenges for Managers. São Paulo, Brasil. 2012; 
-- MACEDO, D. Gerencuamento dos Custos do Projeto. 2014;
+- BONFIM, D. F.; NUNES, P. C. A.; HASTENREITER, F. Project Management by PMBOK Guide: Challenges for Managers. São Paulo, Brasil. 2012;
+- OLIVEIRA, P. P. MVP e a Gestão de Custos em Projetos Ágeis. 2015;
+- DIAS, A. Existe Gestão de Custo no Scrum?. 2009;
+- MACEDO, D. Gerenciamento dos Custos do Projeto. 2014;
 - Beck K. Extreme programming explained: Embrace change. Addison-Wesley, United Kingdom. 1999.
 - Leffingwell, D., Widrig, D., Managing Software Requirements: A Use Case Approach, 2a. Edição, Addison-Wesley, 2003.
 - SWEBOK, Guide to the Software Engineering Body of Knowledge. IEEE, 2014.
