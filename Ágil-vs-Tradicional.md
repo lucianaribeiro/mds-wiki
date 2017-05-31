@@ -23,17 +23,17 @@ O produto de software também possui outra característica única, é totalmente
 
 Com base nessas dificuldades, vários processo durante a história da Engenharia de Software foram desenvolvidos, par amenizar esses problemas. Podemos citar destes processos, os processos cascata, interativo, espiral, incremental.
 
-Considerando que para cada contexto de desenvolvimento, um processo pode ser melhor aplicado, foram analisadas e comparadas - nos quisitos de escopo, custo, qualidade e risco - uma versus a outra duas abordagens: Rational Unified Process(RUP) e metodologias ágeis(MA).
+Considerando que para cada contexto de desenvolvimento, um processo pode ser melhor aplicado, foram analisadas e comparadas - nos quesitos de escopo, custo, qualidade e risco - uma versus a outra duas abordagens: Rational Unified Process(RUP) e metodologias ágeis(MA).
 
 ## 2.0 Escopo
 
-Nessa sessão, visa-se mostrar a diferente abortagem e mentalidade entre a definição de escopo, ou seja, mostrar as diferenças em como é desenvolvido e gerenciado os requisito em abordagens tradicionais versus a abordagem em metodologias ágeis trazendo primeiro uma visão geral do que é requisito e seu gerênciamento.
+Nessa sessão, visa-se mostrar a diferente abordagem e mentalidade entre a definição de escopo, ou seja, mostrar as diferenças em como é desenvolvido e gerenciado os requisito em abordagens tradicionais versus a abordagem em metodologias ágeis trazendo primeiro uma visão geral do que é requisito e seu gerenciamento.
 
 ### 2.1 Requisito
 
-A elicitação, compreenção e manutenção de requisitos é um fator comum à todas as metodologias de desenvolvimento de software, uma vez que esse item (requisito) é o fundamento de qualquer produto de software.(Aurum; Wohlin, 2005)
+A elicitação, compreensão e manutenção de requisitos é um fator comum à todas as metodologias de desenvolvimento de software, uma vez que esse item (requisito) é o fundamento de qualquer produto de software.(Aurum; Wohlin, 2005)
 
-O fato de que requitos são vitáis ao desenvolvimento de software deve-se principalmente às responsabilidades que um requisito desenpenha no produto, isto é, este identifica, modela, comunica e documenta o sistema, o ambiente de uso e quem o usará. (Paetsch; Eberlein; Maurer, 2003)
+O fato de que requisitos são vitais ao desenvolvimento de software deve-se principalmente às responsabilidades que um requisito desempenha no produto, isto é, este identifica, modela, comunica e documenta o sistema, o ambiente de uso e quem o usará. (Paetsch; Eberlein; Maurer, 2003)
 
 ### 2.2 Processo genérico de Gerênciamento de Requisitos
 
@@ -45,11 +45,11 @@ Nessa atividade do processo genérico, tenta-se descobrir e definir o que faz e 
 
 #### 2.2.2 Análise e Negociação
 
-Nessa etapa do processo a checagem dos requisisto é realizado. Verifica-se a consistência, a necessidade, a capacidade de realização e a completude. De forma geral, há uma verificação se é possivel fazer, se o que foi definido realmente é necessario para o sistema e se nada está em conflito ou incompleto. Essa é uma forma de melhorar a definição do produto. (Leffingwell, 2003)
+Nessa etapa do processo a checagem dos requisitos é realizado. Verifica-se a consistência, a necessidade, a capacidade de realização e a completude. De forma geral, há uma verificação se é possível fazer, se o que foi definido realmente é necessário para o sistema e se nada está em conflito ou incompleto. Essa é uma forma de melhorar a definição do produto. (Leffingwell, 2003)
 
 #### 2.2.3 Documentação
 
-Nessa etapa é documentado todos os requisitos definidos. Dessa forma é possivel uma visão do produto à ser realizado por todos os envolvidos. Assim como também servirá como insumo para as atividade de manutenção. (Leffingwell, 2003)
+Nessa etapa é documentado todos os requisitos definidos. Dessa forma é possível uma visão do produto à ser realizado por todos os envolvidos. Assim como também servirá como insumo para as atividade de manutenção. (Leffingwell, 2003)
 
 #### 2.2.4 Validação
 
@@ -61,7 +61,7 @@ O objetivo do gerenciamento é capturar, armazenar, disseminar e gerenciar infor
 
 ### 2.3 Aplicação nas abordagens
 
-Na abordagem tradicional, a definição e gerênciamento de requisitos é realizada por uma equipe específica dentro do projeto. Por exemplo o papel de engenheiro de requistos é fundamental para essa abordagem. Nas metodologias ágeis toda a equipe é responsável pela elicitação e gerencimento de requisitos.
+Na abordagem tradicional, a definição e gerenciamento de requisitos é realizada por uma equipe específica dentro do projeto. Por exemplo o papel de engenheiro de requisitos é fundamental para essa abordagem. Nas metodologias ágeis toda a equipe é responsável pela elicitação e gerenciamento de requisitos.
 
 Um outro ponto que podemos levar em consideração são os padrões estabelecidos pelas abordagens tradicionais:
 
@@ -69,11 +69,11 @@ Um outro ponto que podemos levar em consideração são os padrões estabelecido
 - Padrão IEEE 1233 – Guia para Desenvolvimento de Especificação de Requisitos de Sistemas (IEEE, 1998);
 - Padrão IEEE 1362 – Guia para Tecnologia da Informação – Definição de Sistema – Documento de Conceito de Operações (IEEE, 1998)
 
-Uma vez que a abordagem tradicional define um processo metódico, há a necessidade de definir diretrizes. Dessa forma toda a equipe deve ser guiada por essas diretrizes tornando o processo reproduzivel e bem definido.
+Uma vez que a abordagem tradicional define um processo metódico, há a necessidade de definir diretrizes. Dessa forma toda a equipe deve ser guiada por essas diretrizes tornando o processo reproduzível e bem definido.
 
-Por outro lado, as metodológias ágeis não se baseiam nestes padrões para elicitação e gerenciamento de requisitos. Nessa abordagem, o processo é mais pragmático. E a equipe tem a autonomia de aprender no decorrer do processo o que melhor se adapta ao contexto dos envolvidos e do projeto (Aurum; Wohlin, 2005). Por exemplo: na abordagem tradicional há todo um processo bem definido de gerênciamento de mudança, com responsável e entrada e saída. Já a abordagem ágio lida com a mudança de forma diferente, o entendimento dessa aborgem é que variabilidade de requisitos é um problema constante em praticamente todos os projetos de software, portanto, o suporte a essas mudanças está incluso em seu processo como um ponto forte dando liberdade à cada equipe para definir como deve ser realizada (Tomayko JE, 2002).
+Por outro lado, as metodologias ágeis não se baseiam nestes padrões para elicitação e gerenciamento de requisitos. Nessa abordagem, o processo é mais pragmático. E a equipe tem a autonomia de aprender no decorrer do processo o que melhor se adapta ao contexto dos envolvidos e do projeto (Aurum; Wohlin, 2005). Por exemplo: na abordagem tradicional há todo um processo bem definido de gerenciamento de mudança, com responsável e entrada e saída. Já a abordagem ágil, lida com a mudança de forma diferente, o entendimento dessa abordagem é que variabilidade de requisitos é um problema constante em praticamente todos os projetos de software, portanto, o suporte a essas mudanças está incluso em seu processo como um ponto forte dando liberdade à cada equipe para definir como deve ser realizada (Tomayko JE, 2002).
 
-Outro fator importante é que as metodologias ágeis não lidam com a mudança ou necessidade de forma futura. Foca-se nas necessidade pela quais agregam valor ao cliente. Assim, evita-se o desenvolvimento de uma arquitetura geral e robusta que requer um esforço grande. Busca-se incrementar o software modulo por modulo . Diferente da abordagem tradicional onde há a necessidade de uma definição de uma arquitetura robusta (Beck K, 1999).
+Outro fator importante é que as metodologias ágeis não lidam com a mudança ou necessidade de forma futura. Foca-se nas necessidade pela quais agregam valor ao cliente. Assim, evita-se o desenvolvimento de uma arquitetura geral e robusta que requer um esforço grande. Busca-se incrementar o software modulo por modulo . Diferente da abordagem tradicional onde há a necessidade de uma definição de uma arquitetura robusta (Beck, 1999).
 
 O entendimento da natureza volátio de requisitos tem um grande impacto na capacidade das metodologias ágeis de serem _enxutos_. Em geral, uma arquitetura genérica e mais abrangente é esperada para suportar a variabilidade nos requisitos. Contudo, uma arquitetura mais complexa custa mais, não só para a equipe de desenvolvimento, mas também para a equipe de manutenção e correção de erros (Aurum; Wohlin, 2005).
 
@@ -153,7 +153,7 @@ cuida desta prática formalmente. Porém a outros pontos a serem analisados. O *
 produto, que uma vez lançada  agrega retorno imediato ao investimento para um 
 determinado cliente (DIAS, 2009). 
 
-Com o MVP consolidade, cria-se então a entrada para o Planejamento da Release,
+Com o MVP consolidado, cria-se então a entrada para o Planejamento da Release,
 sendo que o próximo passo é a descoberta da **velocidade** do time para
 consolidar um plano funcional (se não houver um registro da velocidade do time,
 pelo fato de ser um time novo; deve-se estimar analogamente com base na
@@ -164,7 +164,7 @@ esforço e complexidade das _User Stories_. Nesse caso deve-se separar todas as
 histórias que compõem o seu MVP. Feito isso, é feita uma reunião com o time e
 iniciada uma sessão de estimativa, utilizando por exemplo o _Planing Poker_
 
-Com o planejamento concluído e as hitórias pontuadas, sendo por exemplo uma de
+Com o planejamento concluído e as histórias pontuadas, sendo por exemplo uma de
 7 pontos, uma de 2 pontos e uma de 1 ponto, pode-se fazer a seguinte distribuição de
 custo que será empregado para cada história: 70% do custo na história 7 pontos,
 20% na de 2 pontos e 10% na de 1 ponto.
@@ -180,14 +180,14 @@ de conclusão daquilo que foi planejado, junto ao valor estimado (OLIVEIRA, 2015
 
 Riscos: Eventos específicos que podem ocorrer em um certo nível de probabilidade e os quais, se acontecerem, terão um impacto sobre alguns aspectos do projeto(duração, custo ou escopo)(IESE, 2013).
 
-Em ambas abordagens vê-se mecanismos para controle dos riscos do projeto. Nos projetos tradicionais percebe-se um esforço mais preventivo, tal que seja feito um planejamento de como os riscos do projeto serão gerenciados, suas ações corretivas e níveis de impacto. Nos ágeis, esses riscos são mitigados com a prática, onde as técnicas de _mettings_ são fundamentais para a idetificação, mitigação ou até mesmo eliminação desses riscos.
+Em ambas abordagens vê-se mecanismos para controle dos riscos do projeto. Nos projetos tradicionais percebe-se um esforço mais preventivo, tal que seja feito um planejamento de como os riscos do projeto serão gerenciados, suas ações corretivas e níveis de impacto. Nos ágeis, esses riscos são mitigados com a prática, onde as técnicas de _mettings_ são fundamentais para a identificação, mitigação ou até mesmo eliminação desses riscos.
 
 ## 6.0 Conclusão
 
 Pode-se concluir que metodologias de desenvolvimento ágeis são melhor executadas
-em times com maior experiência, uma vez  que se basea muito em experimentar e analisar os resultados. Com isso em mente, é difícil imaginar que
+em times com maior experiência, uma vez  que se baseiam muito em experimentar e analisar os resultados. Com isso em mente, é difícil imaginar que
 um projeto possa apresentar um grande sucesso usando essa forma de trabalho uma
-vez que os membros não tenham tantas experiências para basear o empirísmo que
+vez que os membros não tenham tantas experiências para basear o empirismo que
 que norteia o desenvolvimento. Por outro lado o tradicional define cada papel e
 cada etapa do processo, dando insumos para guiar equipes imaturas com relação as
 atividades que devem ser realizadas em seus respectivos momentos.
@@ -198,7 +198,7 @@ pessoas envolvidas e processo a ser seguido. Cabe aos membros de cada equipe
 terem a maturidade necessária para adoção da melhor metodologia que se encaixa
 no contexto de trabalho.
 
-## 7.0 Refências
+## 7.0 Referências
 
 - VIEIRA, M. Gerenciamento de Projetos de Tecnologia da Informação. Rio Janeiro, Brasil. 2003.
 - TAVARES, A. Gerência de Projetos com PMBOK e Scrum: um estudo de caso. Gravataí, Brasil. 2008.
@@ -208,12 +208,13 @@ no contexto de trabalho.
 - Paetsch F., Eberlein A., Maurer F. Requirements engineering and Agile software development. In Proceedings of 8th International Workshop on Enterprise Security, Linz, Austria. 2003.
 - Tomayko JE. Engineering of unstable requirements using Agile methods. In: Proceedings of International Conference on Time-Constrained Requirements Engineering, Essen, Germany. 2002.
 - Leffingwell, D., Widrig, D. Managing Software Requirements: A Use Case Approach, 2a. Edição, Addison-Wesley. 2003.
-- BONFIM, D. F.; NUNES, P. C. A.; HASTENREITER, F. Project Management by PMBOK Guide: Challenges for Managers. São Paulo, Brasil. 2012;
-- OLIVEIRA, P. P. MVP e a Gestão de Custos em Projetos Ágeis. 2015;
-- DIAS, A. Existe Gestão de Custo no Scrum?. 2009;
-- MACEDO, D. Gerenciamento dos Custos do Projeto. 2014;
+- BONFIM, D. F.; NUNES, P. C. A.; HASTENREITER, F. Project Management by PMBOK Guide: Challenges for Managers. São Paulo, Brasil. 2012.
+- OLIVEIRA, P. P. MVP e a Gestão de Custos em Projetos Ágeis. 2015.
+- DIAS, A. Existe Gestão de Custo no Scrum?. 2009.
+- MACEDO, D. Gerenciamento dos Custos do Projeto. 2014.
 - Beck K. Extreme programming explained: Embrace change. Addison-Wesley, United Kingdom. 1999.
 - Leffingwell, D., Widrig, D., Managing Software Requirements: A Use Case Approach, 2a. Edição, Addison-Wesley, 2003.
+- IESE, A Project Management Methodology. University of Navarra. 2013.
 - SWEBOK, Guide to the Software Engineering Body of Knowledge. IEEE, 2014.
 - IEEE Standard 830 IEEE recommended practice for software requirements. 1998.
 - IEEE Standard 1233 IEEE guide for developing system requirements specifications. 1998.
