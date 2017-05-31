@@ -183,17 +183,19 @@ Em ambas abordagens vê-se mecanismos para controle dos riscos do projeto. Nos p
 ## 6.0 Conclusão
 ## 7.0 Refências
 
-- VIEIRA, M. Gerenciamento de Projetos de Tecnologia da Informação. Rio Janeiro, Brasil. 2003;
-- TAVARES, A. Gerência de Projetos com PMBOK e Scrum: um estudo de caso. Gravataí, Brasil. 2008;
-- SCHWABER, K. Agile Project Management with Scrum. Microsoft Press. 2004;
+- VIEIRA, M. Gerenciamento de Projetos de Tecnologia da Informação. Rio Janeiro, Brasil. 2003.
+- TAVARES, A. Gerência de Projetos com PMBOK e Scrum: um estudo de caso. Gravataí, Brasil. 2008.
+- SCHWABER, K. Agile Project Management with Scrum. Microsoft Press. 2004.
+- D'AMORIM, F. Engenharia de requisitos para métodos ágeis. Universidade Federal de Pernambuco. Brasil. 2008.
 - Aurum, Aybüke; Wohlin, Claes (Eds.) “Engineering and Managing Software Requirements” 2005.
-- Paetsch F, Eberlein A, Maurer F (2003) Requirements engineering and Agile software development. In Proceedings of 8th International Workshop on Enterprise Security, Linz, Austria, 9-11 June.
-- IEEE Standard 830 (1998) IEEE recommended practice for software requirements.
-- IEEE Standard 1233 (1998) IEEE guide for developing system requirements specifications
-- IEEE Standard 1362 (1998) IEEE guide for information technology: System definition, concept of operations document.
-- Tomayko JE (2002) Engineering of unstable requirements using Agile methods. In: Proceedings of International Conference on Time-Constrained Requirements Engineering, Essen, Germany, 9-13 September.
-- Beck K (1999) Extreme programming explained: Embrace change. Addison-Wesley, UK.
-- Leffingwell, D., Widrig, D., Managing Software Requirements: A Use Case Approach, 2a. Edição, Addison-Wesley, 2003.
-- IEEE SWEBOK, Guide to the Software Engineering Body of Knowledge 2014.
-- BONFIM, D. F.; NUNES, P. C. A.; HASTENREITER, F. Project Management by PMBOK Guide: Challenges for Managers. São Paulo, Brasil, 2012; 
+- Paetsch F., Eberlein A., Maurer F. Requirements engineering and Agile software development. In Proceedings of 8th International Workshop on Enterprise Security, Linz, Austria. 2003.
+- Tomayko JE. Engineering of unstable requirements using Agile methods. In: Proceedings of International Conference on Time-Constrained Requirements Engineering, Essen, Germany. 2002.
+- Leffingwell, D., Widrig, D. Managing Software Requirements: A Use Case Approach, 2a. Edição, Addison-Wesley. 2003.
+- BONFIM, D. F.; NUNES, P. C. A.; HASTENREITER, F. Project Management by PMBOK Guide: Challenges for Managers. São Paulo, Brasil. 2012; 
 - MACEDO, D. Gerencuamento dos Custos do Projeto. 2014;
+- Beck K. Extreme programming explained: Embrace change. Addison-Wesley, United Kingdom. 1999.
+- Leffingwell, D., Widrig, D., Managing Software Requirements: A Use Case Approach, 2a. Edição, Addison-Wesley, 2003.
+- SWEBOK, Guide to the Software Engineering Body of Knowledge. IEEE, 2014.
+- IEEE Standard 830 IEEE recommended practice for software requirements. 1998.
+- IEEE Standard 1233 IEEE guide for developing system requirements specifications. 1998.
+- IEEE Standard 1362 IEEE guide for information technology: System definition, concept of operations document. 1998.
