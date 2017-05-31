@@ -79,7 +79,7 @@ nome : tipo[multiplicidade]
 
 <h3><b> Exemplo: </b></h3>
 
-![Imagem 4](img/tuto_diag_classe_exemplo_4.jpg)
+![Imagem 4](img/tuto_diag_classe_exemplo_4.png)
 
 ## Composição
 
