@@ -135,7 +135,7 @@ nome : tipo[multiplicidade]
 
 ![Imagem 9](img/tuto_diag_classe_exemplo_9.jpg)
 
-#Herança
+# Herança
 
 <p align="justify">É uma hierarquia de abstrações, isso quer dizer que uma subclasse herda, recebe, a estrutura e/ou comportamento de uma ou mais superclasses, o fato de receber de uma ou mais superclasses distingue a herança de simples e múltipla.
 
@@ -149,20 +149,21 @@ nome : tipo[multiplicidade]
 
 # Referências
 
-CAELUM. Java e Orientação a Objetos: Classe Abstrata. Disponível em: <https://www.caelum.com.br/apostila-java-orientacao-objetos/classes-abstratas/#9-2-classe-abstrata>. Acesso em: 24 maio 2017.
+## CAELUM. Java e Orientação a Objetos: Classe Abstrata. Disponível em: <https://www.caelum.com.br/apostila-java-orientacao-objetos/classes-abstratas/#9-2-classe-abstrata>. Acesso em: 24 maio 2017.
 
-VICENTE, Angelo. Classes Abstratas e Encapsulamento. Disponível em: <http://www.devmedia.com.br/classes-abstratas-e-encapsulamento/7515>. Acesso em: 24 maio 2017.
+## VICENTE, Angelo. Classes Abstratas e Encapsulamento. Disponível em: <http://www.devmedia.com.br/classes-abstratas-e-encapsulamento/7515>. Acesso em: 24 maio 2017.
 
-COMPUTAÇÃO, Universidade Federal de Campina Grande (UFCG). Diagrama de Classes: Um diagrama de três faces. Disponível em: <http://www.dsc.ufcg.edu.br/~jacques/cursos/map/html/uml/diagramas/classes/classes2.htm>. Acesso em: 24 maio 2017.
+## COMPUTAÇÃO, Universidade Federal de Campina Grande (UFCG). Diagrama de Classes: Um diagrama de três faces. Disponível em: <http://www.dsc.ufcg.edu.br/~jacques/cursos/map/html/uml/diagramas/classes/classes2.htm>. Acesso em: 24 maio 2017.
 
-NOGUEIRA, Admilson. UML - Unified Modeling Language: Generalização, agregação, composição e dependência. Disponível em: <http://www.linhadecodigo.com.br/artigo/943/uml-unified-modeling-language-generalizacao-agregacao-composicao-e-dependencia.aspx>. Acesso em: 24 maio 2017.
+## NOGUEIRA, Admilson. UML - Unified Modeling Language: Generalização, agregação, composição e dependência. Disponível em: <http://www.linhadecodigo.com.br/artigo/943/uml-unified-modeling-language-generalizacao-agregacao-composicao-e-dependencia.aspx>. Acesso em: 24 maio 2017.
 
-SAKURAI, Rafael; CASCARROLHO, Rodrigo. UML - Criando Diagrama de Classes Eficientes, Disponível em: <https://pt.slideshare.net/rodrigocasca/uml-criando-diagramas-eficientes>. Acesso em: 22 maio 2017.
+## SAKURAI, Rafael; CASCARROLHO, Rodrigo. UML - Criando Diagrama de Classes Eficientes, Disponível em: <https://pt.slideshare.net/rodrigocasca/uml-criando-diagramas-eficientes>. Acesso em: 22 maio 2017.
 WIKIPEDIA. Diagrama de Classes, Disponível em: <https://pt.wikipedia.org/wiki/Diagrama_de_classes>. Acesso em: 22 maio 2017.
-SAUVÉ, Jacques Philippe. Diagramas - Construindo um diagrama UML, Disponível em: <http://www.dsc.ufcg.edu.br/~jacques/cursos/map/html/uml/diagramas/diagramas.htm>. Acesso 22 maio 2017.
 
-PUC LES, Laboratório de Software, UML: Diagrama de Classes. Disponível em: <http://www.les.inf.puc-rio.br/wiki/images/7/7f/Aula1-diagrama_classes.pdf>. Acesso em: 23 maio 2017.
+## SAUVÉ, Jacques Philippe. Diagramas - Construindo um diagrama UML, Disponível em: <http://www.dsc.ufcg.edu.br/~jacques/cursos/map/html/uml/diagramas/diagramas.htm>. Acesso 22 maio 2017.
 
-UFCG, Diagrama de Classes: um diagrama de três faces. Disponível em: <http://www.dsc.ufcg.edu.br/~jacques/cursos/map/html/uml/diagramas/classes/classes3.htm>.
+## PUC LES, Laboratório de Software, UML: Diagrama de Classes. Disponível em: <http://www.les.inf.puc-rio.br/wiki/images/7/7f/Aula1-diagrama_classes.pdf>. Acesso em: 23 maio 2017.
+
+## UFCG, Diagrama de Classes: um diagrama de três faces. Disponível em: <http://www.dsc.ufcg.edu.br/~jacques/cursos/map/html/uml/diagramas/classes/classes3.htm>.
 Acesso em: 23 maio 2017.
 
