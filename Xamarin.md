@@ -4,9 +4,16 @@
 |:----------:|:-------------------------------:|:------------------------------:|
 | 07/05/2017 | Introdução e Guia de Instalação | Felipe Hargreaves (15/0009313) |
 | 30/05/2017 | Arquitetura MVVM                | Felipe Hargreaves (15/0009313) |
+| 30/05/2017 | Arquivos ignorados              | Clarissa Borges (15/0007973)   |
 
 [Introdução](#introdução)  
-[Configuração de Ambiente](#configuração-de-ambiente)
+[Configuração de Ambiente](#configuração-de-ambiente)  
+[Arquitetura MVVM](#arquitetura-mvvm)  
+[Criação de um projeto de Xamarin.Forms](#criação-de-um-projeto)  
+[Arquivos ignorados](#arquivos-ignorados)  
+[Atualização do projeto local com o remoto](#atualização-do-projeto-local-com-o-remoto)  
+[Testes unitários](#testes-unitários)  
+[Testes de aceitação](#testes-de-aceitação)  
 
 ---
 
@@ -58,3 +65,14 @@ Alguns pontos importantes e dicas para o cumprimento dos padrões de arquitetura
 [Xamarin Guides - From Data Binding to MVVM](https://developer.xamarin.com/guides/xamarin-forms/xaml/xaml-basics/data_bindings_to_mvvm/)
 
 [Xamarin Developers - Introduction to Data Binding](https://blog.xamarin.com/introduction-to-data-binding/)
+
+# Criação de um projeto de Xamarin.Forms
+
+# Arquivos ignorados
+<p align="justify"> A construção de um projeto em <i>Xamarin</i> no <i>Visual Studio</i> resulta na geração automática de vários arquivos que não precisam e nem devem ser mandados no repositório. Para lidar com tais arquivos, um .gitignore é adicionado ao repositório, assim, tudo o que não deve mais ser monitorado é dispensado. [Este arquivo](https://github.com/fga-gpp-mds/2017.1-Forum-Coordenadores-DEG/blob/master/.gitignore) pode ser utilizado no projeto que deseja-se desenvolver.
+
+# Atualização do projeto local com o remoto
+
+# Testes unitários
+
+# Testes de aceitação

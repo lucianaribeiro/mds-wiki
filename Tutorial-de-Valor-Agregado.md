@@ -1,3 +1,12 @@
+### Colaboradores
+
+|Integrante|Matrícula|
+| :---:    | :---:   |
+| Leonardo Arthur Degolim Oliveira | **14/0025171** |
+| Matheus Figueiredo Pimenta| **14/0047743** |
+| Naiara Andrade Camelo| **15/0043449** |
+|Victor Hugo Lopes Mota | **13/0136581** |
+
 ### Sumário
 
 1. [Objetivo](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#1-objetivo)    
