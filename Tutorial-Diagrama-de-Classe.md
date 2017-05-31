@@ -145,7 +145,7 @@ nome : tipo[multiplicidade]
 
 <h3><b> Exemplo: </b></h3>
 
-![Imagem 10](img/tuto_diag_classe_exemplo_10 .jpg)
+![Imagem 10](img/tuto_diag_classe_exemplo_10.jpg)
 
 # Referências
 
