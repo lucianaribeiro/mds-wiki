@@ -10,7 +10,7 @@
 
 <h3><b> Exemplo: </b></h3>
 
-[Imagem 1](img/tuto_diag_classe_exemplo_1.jpg)
+![Imagem 1](img/tuto_diag_classe_exemplo_1.jpg)
 
 <p align="justify">Para a construção de um bom Diagrama de Classes, tem-se a necessidade de, além de compreender completamente o projeto ao qual está trabalhando, conhecer como é representada graficamente cada componente do diagrama de classe, como as classes em si e os relacionamentos.
 <p align="justify">Para uma classe ser representada graficamente no diagrama, é necessário que ela tenhas a seguinte estrutura:
@@ -35,7 +35,7 @@ visibilidade nome : tipo[multiplicidade] = valor inicial {propriedades} (caso ne
 
 <h3><b> Exemplo: </b></h3>
 
-[Imagem 2](img/tuto_diag_classe_exemplo_2.jpg)
+![Imagem 2](img/tuto_diag_classe_exemplo_2.jpg)
 
 ### Operação
 
@@ -49,7 +49,7 @@ nome : tipo[multiplicidade]
 
 <h3><b> Exemplo: </b></h3>
 
-[Imagem 3](img/tuto_diag_classe_exemplo_3.jpg)
+![Imagem 3](img/tuto_diag_classe_exemplo_3.jpg)
 
 # O que é necessário ter em um bom Diagrama de Classes?
 
@@ -79,7 +79,7 @@ nome : tipo[multiplicidade]
 
 <h3><b> Exemplo: </b></h3>
 
-[Imagem 4](img/tuto_diag_classe_exemplo_4.jpg)
+![Imagem 4](img/tuto_diag_classe_exemplo_4.jpg)
 
 ## Composição
 
@@ -88,7 +88,7 @@ nome : tipo[multiplicidade]
 
 <h3><b> Exemplo: </b></h3>
 
-[Imagem 5](img/tuto_diag_classe_exemplo_5.jpg)
+![Imagem 5](img/tuto_diag_classe_exemplo_5.jpg)
 
 ## Agregação
 
@@ -97,7 +97,7 @@ nome : tipo[multiplicidade]
 
 <h3><b> Exemplo: </b></h3>
 
-[Imagem 6](img/tuto_diag_classe_exemplo_6.jpg)
+![Imagem 6](img/tuto_diag_classe_exemplo_6.jpg)
 
 
 ## Composição x Agregação
@@ -116,7 +116,7 @@ nome : tipo[multiplicidade]
 
 <h3><b> Exemplo: </b></h3>
 
-[Imagem 7](img/tuto_diag_classe_exemplo_7.jpg)
+![Imagem 7](img/tuto_diag_classe_exemplo_7.jpg)
 
 ## Dependência
 
@@ -124,7 +124,7 @@ nome : tipo[multiplicidade]
 
 <h3><b> Exemplo: </b></h3>
 
-[Imagem 8](img/tuto_diag_classe_exemplo_8.jpg)
+![Imagem 8](img/tuto_diag_classe_exemplo_8.jpg)
 
 ## Classe Abstrata
 
@@ -133,7 +133,7 @@ nome : tipo[multiplicidade]
 
 <h3><b> Exemplo: </b></h3>
 
-[Imagem 9](img/tuto_diag_classe_exemplo_9.jpg)
+![Imagem 9](img/tuto_diag_classe_exemplo_9.jpg)
 
 #Herança
 
@@ -145,7 +145,7 @@ nome : tipo[multiplicidade]
 
 <h3><b> Exemplo: </b></h3>
 
-[Imagem 10](img/tuto_diag_classe_exemplo_10 .jpg)
+![Imagem 10](img/tuto_diag_classe_exemplo_10 .jpg)
 
 # Referências
 
