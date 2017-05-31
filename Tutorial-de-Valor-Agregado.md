@@ -479,6 +479,37 @@ Serão gerados 3 tipos de gráficos:
 
 ![Gráfico 1](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/graPrint1.png)
 
+[Clique aqui para visualizar a imagem maior](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/graPrint1.png) 
+
+
+<p align="justify"> Deverá ser exportado 3 colunas da planilha de <i>Valor Agregado</i>, como as mostradas abaixo: </p> 
+
+![Gráfico 1](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/graPrint2.png)
+
+[Clique aqui para visualizar a imagem maior](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/graPrint2.png) 
+
+<p align="justify"> Na mesma planilha deve-se criar 3 colunas, como mostrado abaixo. Nessas colunas haverá o valor acumulado referente à coluna exportada da planilha <i>Valor Agregado</i>. </p> 
+
+![Gráfico 1](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/graPrint3.png)
+
+[Clique aqui para visualizar a imagem maior](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/graPrint3.png) 
+
+**Passo 2 -** *Pegar os valores das iterações*
+
+<p align="justify"> Para se formar o gráfico os valores que nele serão inseridos, são os referentes as iteração, como no exemplo abaixo: </p> 
+
+![Gráfico 1](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/graPrint4.png)
+
+[Clique aqui para visualizar a imagem maior](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/graPrint4.png) 
+
+**Passo 3 -** *Gerar o gráfico*
+
+<p align="justify"> Para se formar o gráfico os valores que nele serão inseridos, são os referentes as iteração, como no exemplo abaixo: </p> 
+
+![Gráfico 1](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/graPrint5.png)
+
+[Clique aqui para visualizar a imagem maior](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/graPrint5.png) 
+
 #### **Variação de Custos X Variação de Prazos**
 
 #### **Índice de Desenvolvimento de Custos X Índice de Desenvolvimento de Prazos**
@@ -487,7 +518,7 @@ Serão gerados 3 tipos de gráficos:
 
 <p align="justify"> Após ter calculado os índices de orçamento e de tempo, é possível analisar como está o andamento do projeto segundo a tabela abaixo. </p>   
   
-![Comparação de índices de custo x prazo](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/analiseTempoXorcamento.png)       
+![Comparação de índices de custo x prazo](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/analiseTempoXorcamento.png)     
 
 <p align="justify"> Através dos índices obtidos no cálculo acima e olhando a tabela é capaz de localizar a situação do projeto. Escolha a célula que mostre o índice correto de custo e prazo e a célula escolhida indicará se a situação é boa, ruim ou simplesmente insuficiente avaliar devido à necessidade de mais dados. </p>
 
