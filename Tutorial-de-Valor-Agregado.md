@@ -514,7 +514,7 @@ Serão gerados 3 tipos de gráficos:
 
 **Passo 1 -** *Criar planilha de valores acumulados da Variação de Custos*
 
-<p align="justify"> Seguindo a fórmula que fora mostrada no tópico XXXX, aqui deve-se calcular a <i>Variação de Custos</i> de cada atividade e depois fazer o acumulado desses valores, como no exemplo abaixo: </p> 
+<p align="justify"> Seguindo a fórmula que fora mostrada no tópico <a href="https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#322-%C3%8Dndices">Índices</a>, aqui deve-se calcular a <i>Variação de Custos</i> de cada atividade e depois fazer o acumulado desses valores, como no exemplo abaixo: </p> 
 
 ![Gráfico 1](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/graPrint6.png)
 
@@ -522,7 +522,7 @@ Serão gerados 3 tipos de gráficos:
 
 **Passo 2 -** *Criar planilha de valores acumulados da Variação de Prazos*
 
-<p align="justify"> Seguindo a fórmula que fora mostrada no tópico XXXX, aqui deve-se calcular a <i>Variação de Prazos</i> de cada atividade e depois fazer o acumulado desses valores, como no exemplo abaixo: </p> 
+<p align="justify"> Seguindo a fórmula que fora mostrada no tópico <a href="https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#322-%C3%8Dndices">Índices</a>, aqui deve-se calcular a <i>Variação de Prazos</i> de cada atividade e depois fazer o acumulado desses valores, como no exemplo abaixo: </p> 
 
 ![Gráfico 1](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/graPrint7.png)
 
@@ -540,7 +540,7 @@ Serão gerados 3 tipos de gráficos:
 
 **Passo 1 -** *Criar planilha de Índice de Desenvolvimento de Custos*
 
-<p align="justify"> Seguindo a fórmula que fora mostrada no tópico XXXX, aqui deve-se calcular a <i>Índice de Desenvolvimento de Custos</i> de cada atividade, como no exemplo abaixo: </p> 
+<p align="justify"> Seguindo a fórmula que fora mostrada no tópico <a href="https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#322-%C3%8Dndices">Índices</a>, aqui deve-se calcular a <i>Índice de Desenvolvimento de Custos</i> de cada atividade, como no exemplo abaixo: </p> 
 
 ![Gráfico 1](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/graPrint9.png)
 
@@ -548,7 +548,7 @@ Serão gerados 3 tipos de gráficos:
 
 **Passo 2 -** *Criar planilha de Índice de Desenvolvimento de Prazos*
 
-<p align="justify"> Seguindo a fórmula que fora mostrada no tópico XXXX, aqui deve-se calcular a <i>Índice de Desenvolvimento de Prazos</i> de cada atividade, como no exemplo abaixo: </p> 
+<p align="justify"> Seguindo a fórmula que fora mostrada no tópico <a href="https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado#322-%C3%8Dndices">Índices</a>, aqui deve-se calcular a <i>Índice de Desenvolvimento de Prazos</i> de cada atividade, como no exemplo abaixo: </p> 
 
 ![Gráfico 1](https://raw.githubusercontent.com/wiki/fga-gpp-mds/00-Disciplina/img/graPrint10.png)
 
