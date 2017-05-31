@@ -185,8 +185,7 @@ Em ambas abordagens vê-se mecanismos para controle dos riscos do projeto. Nos p
 ## 6.0 Conclusão
 
 Pode-se concluir que metodologias de desenvolvimento ágeis são melhor executadas
-em times competentes e experientes, uma vez  que se basea muito em experimentar
-alguma coisa e replicar os resultandos. Com isso em mente, é difícil imaginar que
+em times com maior experiência, uma vez  que se basea muito em experimentar e analisar os resultados. Com isso em mente, é difícil imaginar que
 um projeto possa apresentar um grande sucesso usando essa forma de trabalho uma
 vez que os membros não tenham tantas experiências para basear o empirísmo que
 que norteia o desenvolvimento. Por outro lado o tradicional define cada papel e
