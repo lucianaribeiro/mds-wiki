@@ -6,11 +6,15 @@
 | 30/05/2017 | Arquitetura MVVM                          | Felipe Hargreaves (15/0009313) |
 | 30/05/2017 | Arquivos ignorados                        | Clarissa Borges (15/0007973)   |
 | 30/05/2017 | Atualização do projeto local com o remoto | Clarissa Borges (15/0007973)   |
+| 30/05/2017 | Criando um Projeto Xamarin.Forms | Mariana Pícolo (15/0017502)   |
+
+
+----
 
 [Introdução](#introdução)  
 [Configuração de Ambiente](#configuração-de-ambiente)  
 [Arquitetura MVVM](#arquitetura-mvvm)  
-[Criação de um projeto de Xamarin.Forms](#criação-de-um-projeto)  
+[Criação de um projeto Xamarin.Forms](#criação-de-um-projeto-Xamarin.Forms)  
 [Atualização do projeto local com o remoto](#atualização-do-projeto-local-com-o-remoto)  
 [Testes unitários](#testes-unitários)  
 [Testes de aceitação](#testes-de-aceitação)  
@@ -66,7 +70,19 @@ Alguns pontos importantes e dicas para o cumprimento dos padrões de arquitetura
 
 [Xamarin Developers - Introduction to Data Binding](https://blog.xamarin.com/introduction-to-data-binding/)
 
-# Criação de um projeto de Xamarin.Forms
+# Criação de um projeto Xamarin.Forms
+
+1. <p align="justify">Após a instalação da versão mais recente do Visual Studio, para criar um novo projeto execute: <b>Arquivo > Novo > Projeto</b>.</p>
+![NovoProjetoXamarin](img/01-NovoProjeto.png)   
+
+2. <p align="justify">No painel esquerdo da janela Novo Projeto, selecione <b>Visual C# > Cross-Platform</b> para indicar que deseja criar um aplicativo para multi-plataforma. No painel central, selecione <b>Aplicativo Multiplataforma (Xamarin.Forms ou Nativo)</b>. Ainda no painel central, na parte inferior, dê nome e local ao novo projeto, e clique em <b>OK</b>.</p>
+![NovoProjetoXamarin2](img/02-NovoProjeto.png)
+
+3. <p align="justify"> Selecione <b>Aplicativo em Branco</b>, a tecnologia de interface de usuário como <b>Xamarin.Forms</b>, e a estratégia de compartilhamento de código como <b>Biblioteca de Classes Portátil (PCL)</b>.</p>
+
+![NovoProjetoXamarin3](img/03-NovoProjeto.png)
+
+4. Aguarde a criação do projeto, ignorando qualquer instrução de conectar com o Mac.   
 
 ## Arquivos ignorados
 <p align="justify"> A construção de um projeto em <i>Xamarin</i> no <i>Visual Studio</i> resulta na geração automática de vários arquivos que não precisam e nem devem ser mandados no repositório. Para lidar com tais arquivos, um .gitignore é adicionado ao repositório, assim, tudo o que não deve mais ser monitorado é dispensado. O arquivo abaixo de .gitignore pode ser utilizado no projeto que deseja-se desenvolver:
