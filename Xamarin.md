@@ -11,7 +11,6 @@
 [Configuração de Ambiente](#configuração-de-ambiente)  
 [Arquitetura MVVM](#arquitetura-mvvm)  
 [Criação de um projeto de Xamarin.Forms](#criação-de-um-projeto)  
-[Arquivos ignorados](#arquivos-ignorados)  
 [Atualização do projeto local com o remoto](#atualização-do-projeto-local-com-o-remoto)  
 [Testes unitários](#testes-unitários)  
 [Testes de aceitação](#testes-de-aceitação)  
