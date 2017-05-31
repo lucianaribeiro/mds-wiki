@@ -123,7 +123,7 @@
 
 [REST API em Node.js + RethinkDB](https://github.com/fga-gpp-mds/00-Disciplina/wiki/REST-API-em-Node.js-e-RethinkDB)
 
-[Ágio vs Tradicional](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Ágil-vs-Tradicional---Uma-comparação-pragmática)
+[Ágio vs Tradicional](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Ágil-vs-Tradicional)
 
 # Estudo de Caso
 [Valve desenvolvimento sem gestão](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Estudo-de-Caso:-Valve,-desenvolvimento-sem-gestão)
