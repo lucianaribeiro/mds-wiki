@@ -1,10 +1,11 @@
 ### Histórico de Revisões
 
-| Data       |  Descrição                      | Autor                          |
-|:----------:|:-------------------------------:|:------------------------------:|
-| 07/05/2017 | Introdução e Guia de Instalação | Felipe Hargreaves (15/0009313) |
-| 30/05/2017 | Arquitetura MVVM                | Felipe Hargreaves (15/0009313) |
-| 30/05/2017 | Arquivos ignorados              | Clarissa Borges (15/0007973)   |
+| Data       |  Descrição                                | Autor                          |
+|:----------:|:-----------------------------------------:|:------------------------------:|
+| 07/05/2017 | Introdução e Guia de Instalação           | Felipe Hargreaves (15/0009313) |
+| 30/05/2017 | Arquitetura MVVM                          | Felipe Hargreaves (15/0009313) |
+| 30/05/2017 | Arquivos ignorados                        | Clarissa Borges (15/0007973)   |
+| 30/05/2017 | Atualização do projeto local com o remoto | Clarissa Borges (15/0007973)   |
 
 [Introdução](#introdução)  
 [Configuração de Ambiente](#configuração-de-ambiente)  
@@ -68,10 +69,38 @@ Alguns pontos importantes e dicas para o cumprimento dos padrões de arquitetura
 
 # Criação de um projeto de Xamarin.Forms
 
-# Arquivos ignorados
-<p align="justify"> A construção de um projeto em <i>Xamarin</i> no <i>Visual Studio</i> resulta na geração automática de vários arquivos que não precisam e nem devem ser mandados no repositório. Para lidar com tais arquivos, um .gitignore é adicionado ao repositório, assim, tudo o que não deve mais ser monitorado é dispensado. [Este arquivo](https://github.com/fga-gpp-mds/2017.1-Forum-Coordenadores-DEG/blob/master/.gitignore) pode ser utilizado no projeto que deseja-se desenvolver.
+## Arquivos ignorados
+<p align="justify"> A construção de um projeto em <i>Xamarin</i> no <i>Visual Studio</i> resulta na geração automática de vários arquivos que não precisam e nem devem ser mandados no repositório. Para lidar com tais arquivos, um .gitignore é adicionado ao repositório, assim, tudo o que não deve mais ser monitorado é dispensado. O arquivo abaixo de .gitignore pode ser utilizado no projeto que deseja-se desenvolver:
+
+[Git ignore](https://github.com/fga-gpp-mds/2017.1-Forum-Coordenadores-DEG/blob/master/.gitignore)
 
 # Atualização do projeto local com o remoto
+<p align="justify"> Para a atualização do projeto local com o remoto, é necessário abrir o Git Bash na pasta do repositório e executar o seguinte comando:
+
+    git pull --rebase [nome do remoto] [branch]
+
+<p align="justify"> É recomendado que isso seja feito apenas depois que um commit for criado para que não se corra riscos de perder alterações e para que, ao enviar o push force depois que não houver conflitos, não existam alterações que não sejam do rebase sem estarem atreladas a um commit.  
+
+## Resolvendo conflitos
+<p align="justify"> É muito comum que, executando este comando, o Git Bash acuse conflitos. Para resolver os conflitos, fecha-se a solução no <i>Visual Studio</i>, mantendo apenas o programa aberto e se executa o comando no Git Bash:
+
+    git status
+
+<p align="justify"> Os arquivos destacados em vermelho são os arquivos onde existem conflitos entre a branch do repositório local e a do repositório remoto. Em nome de uma maior praticidade, recomenda-se que os conflitos sejam resolvidos no próprio <i>Visual Studio</i>, mas é possível consertá-los em qualquer outro editor de texto. Para abrir o arquivo com conflito no <i>Visual Studio</i>, basta pressionar Ctrl + O no teclado e procurar um dos arquivos com conflitos no explorador.
+<p align="justify"> Aberto o arquivo, é hora de consertar as divergências. Normalmente, elas são indicadas por um <b>&lt;&lt;&lt;&lt;&lt;&lt;&lt;</b>, que mostra o início da parte conflitante do repositório remoto, um <b>=======</b>, onde termina o trecho em conflito do remoto e inicia-se a parte conflitante do repositório local e um <b>&gt;&gt;&gt;&gt;&gt;&gt;&gt;</b> onde termina o conflito. Cabe ao desenvolvedor decidir qual parte deverá ser mantida e qual parte deverá ser deletada. Os indicadores dos conflitos precisam ser apagados e o arquivo deverá ser salvo. É possível que haja mais de um conflito em apenas um arquivo.
+<p align="justify"> Resolvidos os conflitos no arquivo, é necessário dar um comando no Git Bash para adicionar o arquivo que já está pronto:
+
+    git add [nome do arquivo]
+
+<p align="justify"> O procedimento de resolver conflitos nos arquivos deve ser repetido em todos os arquivos destacados em vermelho no Git Bash até que não haja mais nenhum. Depois que não houver mais nenhum arquivo indicado como modificado, é preciso dar continuidade a resolução dos conflitos usando:
+
+    git rebase --continue
+
+<p align="justify"> Novamente, outros arquivos aparecerão destacados com conflitos e será necessário repetir os passos de abrir e editar cada arquivo até que o Git Bash não mostre mais que existem conflitos. Quando isso acontecer, é importante carregar a solução do projeto no <i>Visual Studio</i> e testar se a aplicação está funcionando como deveria. Para finalizar, basta mandar as alterações em um push force no Git Bash usando:
+
+    git push -f [nome do remoto] [branch]
+
+<p align="justify"> É importante frisar que é preciso ter cuidado ao utilizar o comando do push force: o uso indevido do comando pode trazer problemas para o projeto. Vale ressaltar também que os comandos para a atualização do repositório local com o repositório remoto devem variar de acordo com a política de commits da equipe.
 
 # Testes unitários
 
