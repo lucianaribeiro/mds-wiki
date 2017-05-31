@@ -99,7 +99,7 @@ custo recorrente a subsequencia do uso, prestando a manutenção e o suporte do
 produto, serviço ou qualquer produto do projeto. O  planejamento de
 gerenciamento dos custos ocorre nas fases iniciais do projeto fornecendo a
 estrutura para cada processo do gerenciamento dos custos para que seu
-desempenho seja eficiente e coordenado.
+desempenho seja eficiente e coordenado (BONFIN; NUNES; HESTENREITER, 2012).
 
 ### 4.1 Gerência de Custos em Metodologias Tradicionais
 
@@ -114,12 +114,12 @@ atividades individuais ou pacotes de trabalho para estabelecer uma linha de
 base dos custos autorizada;
 * Controlar os Custos: processo de monitoramento do andamento do projeto para
 atualização do seu orçamento e gerenciamento das mudanças feitas na linha de
-base de custos.
+base de custos (MACEDO, 2014).
 
 Os custos são determinados com base na agregação dos custos estimados de
 atividades individuais, ou seja, a entrega do que foi inicialmente planejado,
 sendo que uma vez que a entrega foi feita em um tempo diferente do combinado,
-esse custo inicial tende a sofrer variações.
+esse custo inicial tende a sofrer variações (MACEDO, 2014).
 
 #### 4.1.1 Termos e fórmulas para cálculo de valores
 * **VP** - Valor Planejado;
@@ -144,6 +144,35 @@ estar no fim do projeto).
 
 ### 4.2 Gerência de Custos em Metodologias Ágeis
 
+Tendo como base a definição no _Framework_ Scrum, não se encontram registros
+relacionados a Gerenciamento de Custo, com isso, pode-se dizer que o Scrum não
+cuida desta prática formalmente. Porém a outros pontos a serem analisados. O **MVP**
+é o _Minimum Viable Product_, que significa a menor parte utilizável de um
+produto, que uma vez lançada  agrega retorno imediato ao investimento para um 
+determinado cliente. 
+
+Com o MVP consolidade, cria-se então a entrada para o Planejamento da Release,
+sendo que o próximo passo é a descoberta da **velocidade** do time para
+consolidar um plano funcional (se não houver um registro da velocidade do time,
+pelo fato de ser um time novo; deve-se estimar analogamente com base na
+experiência).
+
+Uma vez que esse cenário está estabelecido, o próximo passo é estimar o tamanho,
+esforço e complexidade das _User Stories_. Nesse caso deve-se separar todas as
+histórias que compõem o seu MVP. Feito isso, é feita uma reunião com o time e
+iniciada uma sessão de estimativa, utilizando por exemplo o _Planing Poker_
+
+Com o planejamento concluído e as hitórias pontuadas, sendo por exemplo uma de
+7 pontos, uma de 2 pontos e uma de 1 ponto, pode-se fazer a seguinte distribuição de
+custo que será empregado para cada história: 70% do custo na história 7 pontos,
+20% na de 2 pontos e 10% na de 1 ponto.
+
+Esses insumos são fundamentais para fornecer o **Gerenciamento do Valor Agregado**,
+do inglês, o _**Earned Value Management**_ (EVM). O EVM nada mais é do que uma
+técnica que permiti, de forma clara e objetiva, avaliar e medir o avanço de um
+projeto no que se refere a custos e prazos, baseando-se no trabalho realizado
+versus o planejado. O valor agregado é obtido a partir do produto da porcentagem
+de conclusão daquilo que foi planejado, junto ao valor estimado.
 
 ## 5.0 Riscos
 ## 6.0 Conclusão
@@ -161,3 +190,5 @@ estar no fim do projeto).
 - Beck K (1999) Extreme programming explained: Embrace change. Addison-Wesley, UK.
 - Leffingwell, D., Widrig, D., Managing Software Requirements: A Use Case Approach, 2a. Edição, Addison-Wesley, 2003.
 - IEEE SWEBOK, Guide to the Software Engineering Body of Knowledge 2014.
+- BONFIM, D. F.; NUNES, P. C. A.; HASTENREITER, F. Project Management by PMBOK Guide: Challenges for Managers. São Paulo, Brasil, 2012; 
+- MACEDO, D. Gerencuamento dos Custos do Projeto. 2014;
