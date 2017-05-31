@@ -183,6 +183,16 @@ Riscos: Eventos específicos que podem ocorrer em um certo nível de probabilida
 Em ambas abordagens vê-se mecanismos para controle dos riscos do projeto. Nos projetos tradicionais percebe-se um esforço mais preventivo, tal que seja feito um planejamento de como os riscos do projeto serão gerenciados, suas ações corretivas e níveis de impacto. Nos ágeis, esses riscos são mitigados com a prática, onde as técnicas de _mettings_ são fundamentais para a idetificação, mitigação ou até mesmo eliminação desses riscos.
 
 ## 6.0 Conclusão
+
+Pode-se concluir que metodologias de desenvolvimento ágeis são melhor executadas
+em times competentes e experientes, uma vez  que se basea muito em experimentar
+alguma coisa e replicar os resultandos. Com isso em mente, é difícil imaginar que
+um projeto possa apresentar um grande sucesso usando essa forma de trabalho uma
+vez que os membros não tenham tantas experiências para basear o empirísmo que
+que norteia o desenvolvimento. Por outro lado o tradicional define cada papel e
+cada etapa do processo, dando insumos para guiar equipes imaturas com relação as
+atividades que devem ser realizadas em seus respectivos momentos.
+
 ## 7.0 Refências
 
 - VIEIRA, M. Gerenciamento de Projetos de Tecnologia da Informação. Rio Janeiro, Brasil. 2003.
