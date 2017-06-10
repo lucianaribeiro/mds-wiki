@@ -32,10 +32,9 @@ Não são descrições definitivas de processo, mas sim abstrações úteis, que
 
     - <p align = "justify"><b>Funcionais:</b> São os requisitos relacionados às funcionalidades do <i>software</i>;
     - <p align = "justify"><b>Não Funcionais:</b> São os requisitos relacionados às necessidades do <i>software</i>;
-    - <p align = "justify"><b>Inversos:</b> São os requisitos que definem o que o <i>software</i> não pode fazer.
+    - <p align = "justify"><b>Inversos:</b> São os requisitos que definem o que o <i>software</i> não pode fazer.   
 
-       
-       <p align = "justify">O objetivo de levantar requisitos é guiar o desenvolvimento para que o sistema correto seja feito. Para isso, é necessário descrever as condições e capacidades do sistema bem o suficiente,
+<p align = "justify">O objetivo de levantar requisitos é guiar o desenvolvimento para que o sistema correto seja feito. Para isso, é necessário descrever as condições e capacidades do sistema bem o suficiente,
 de forma a ter um acordo entre cliente e os desenvolvedores do sistema, no quesito do que o sistema deve ou não fazer. O grande desafio dessa etapa é que o cliente, mesmo que não seja um especialista da área de computação, deve ser capaz de ler e entender os resultados da captura de requisitos. O resultado do levantamento de requisitos também ajuda o gestor do projeto a planejar o cronograma do projeto (JACOBSON,2007).
       
 
@@ -67,10 +66,11 @@ de forma a ter um acordo entre cliente e os desenvolvedores do sistema, no quesi
 
 - <p align = "justify"><b><i>Design</i> Geral</b> : Essa fase consiste no detalhamento de como o <i>software</i> será desenvolvido, ou seja, a linguagem que será utilizada, assim como a arquitetura que o projeto deverá seguir. Feito isso, espera-se que todos os desenvolvedores tenham visões semelhantes do que deve ser produzido, assim como a maneira que essa produção deve ocorrer. Essa etapa é crucial, pois sem ela, é possível que o projeto inteiro falhe por divergências de visões entre os desenvolvedores.
 
-## 4. Estudo de caso da influencia do modelo de processo no sucesso de um projeto 
+## 4. Estudo de caso da influência do modelo de processo no sucesso de um projeto 
 
-resumo do texto (e podem sugerir outros casos): 
-[A partir do texto:  http://sloanreview.mit.edu/article/what-successful-project-managers-do/](A partir do texto:  http://sloanreview.mit.edu/article/what-successful-project-managers-do/)
+Resumo do texto: (e podem sugerir outros casos) <a href="http://sloanreview.mit.edu/article/what-successful-project-managers-do/">What Successful Project Managers Do</a>
+
+
 
 ## 5. Referências
 
