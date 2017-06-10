@@ -2,7 +2,12 @@
 # Programação Pareada
 ![Pair Programming](http://www.extremeprogramming.org/map/images/codesml.gif)
 
-<p align = "justify" >A Programação Pareada é uma das práticas do <i>Extreme Programming (XP)</i>, que sugere que o código seja sempre trabalhado em dupla em um mesmo computador, revezando quem está digitando. Assim, existem dois papéis nessa atividade, o piloto e o co-piloto. Os dois trabalham de forma análoga a pilotos e co-pilotos de aeronaves. O piloto é o responsável pela digitação do código, a sintaxe, e por deixar o seu parceiro ciente do que está fazendo, sempre explicando seu raciocínio durante a execução. O co-piloto acompanha a elaboração do código, os testes que deverão passar, a próxima história a ser entregue, o tempo gasto na execução dos testes, o tempo decorrido desde o último <i>commit</i>, e a qualidade do código em geral. A ideia é que o pareamento ajude a disseminar o conhecimento entre o time de desenvolvimento, que a aplicação tenha menos <i>bugs</i> e que mais funcionalidades sejam acrescentadas num menor período de tempo, resultando em melhores projetos.</p>
+<p align = "justify" >A Programação Pareada é uma das práticas do <i>Extreme Programming (XP)</i>, que sugere que o código seja sempre trabalhado em dupla em um mesmo computador, revezando quem está digitando. Assim, existem dois papéis nessa atividade, o piloto e o co-piloto. Os dois trabalham de forma análoga a pilotos e co-pilotos de aeronaves.</p>
+
+<p align = "justify" >O piloto é o responsável pela digitação do código, a sintaxe, e por deixar o seu parceiro ciente do que está fazendo, sempre explicando seu raciocínio durante a execução. 
+O co-piloto acompanha a elaboração do código, os testes que deverão passar, a próxima história a ser entregue, o tempo gasto na execução dos testes, o tempo decorrido desde o último <i>commit</i>, e a qualidade do código em geral.</p> 
+
+<p align = "justify" >A ideia é que o pareamento ajude a disseminar o conhecimento entre o time de desenvolvimento, que a aplicação tenha menos <i>bugs</i> e que mais funcionalidades sejam acrescentadas num menor período de tempo, resultando em melhores projetos.</p>
 
 # Programação Pareada Remota
 <p align = "justify" >Pareamento remoto significa pareamento a distância. Esse tipo de pareamento é necessário quando os desenvolvedores não podem se encontrar pessoalmente.  
