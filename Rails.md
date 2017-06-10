@@ -2,12 +2,13 @@
 ## Instalando Ruby on Rails no Ubuntu
 ### Usando RVM (Ruby Version Manager)
 
-O RVM é uma ferramenta muito popular e bem suportada pela comunidade, utilizada para facilitar a mudança entre as versões do Ruby e gerenciar as gemas. Convenientemente o RVM pode ser utilizado para instalar o Ruby.
+<p align = "justify" >O RVM é uma ferramenta muito popular e bem suportada pela comunidade, utilizada para facilitar a mudança entre as versões do Ruby e gerenciar as gemas. Convenientemente o RVM pode ser utilizado para instalar o Ruby.</p>
 
 ### Preparação do sistema
 
-Para a instalação do Ruby on Rails, é necessário uma preparação prévia na sua máquina. 
-Também é necessário ter acesso de superusuário (root) para atualizar os softwares do sistema.
+<p align = "justify" >Para a instalação do Ruby on Rails, é necessário uma preparação prévia na sua máquina. 
+Também é necessário ter acesso de superusuário (root) para atualizar os softwares do sistema.</p>   
+
 Primeiramente atualize o gerenciador de pacotes:
 
 `$ sudo apt-get update`
@@ -19,7 +20,7 @@ Instale o [CURL](http://en.wikipedia.org/wiki/CURL):
 ### Instale Ruby usando RVM
 Use RVM, para instalar o Ruby e gerenciar suas versões do Rails.
 
-Se houver uma versão antiga do Ruby instalada na máquina, não há necessidade de removê-la. RVM deixará a versão do sistema como está e usará o SHELL para interceptar qualquer chamada ao Ruby. 
+<p align = "justify" >Se houver uma versão antiga do Ruby instalada na máquina, não há necessidade de removê-la. RVM deixará a versão do sistema como está e usará o SHELL para interceptar qualquer chamada ao Ruby. </p>
 
 O [site do RVM](https://rvm.io/rvm/install/) explica como instalar o RVM. Está é a forma mais simples:
 
@@ -93,29 +94,25 @@ Por exemplo, se for necessária a versão do Rails 3.2.18:
 Fonte de informação: [Site RAILSAPPS](http://railsapps.github.io/installrubyonrails-ubuntu.html)
 
 # Arquitetura MVC Ruby on Rails
+<ol type="1">
+<li><b>Model</b>: Contém dados ou Informações sobre a aplicação, além do estado da mesma, juntamente com as regras do negócio;</li>    
+<li><b>View</b>: Interface para ver e modificar os dados/informações. É passiva – o que quer dizer que não processa nada;</li>     
+<li><b>Controller</b>: Realiza operações ou manipulações nos dados/informações interagindo com a Model e interpreta os eventos realizados na View.</li>     
+</ol>
 
-1 - MODEL: Contém dados ou Informações sobre a aplicação, além do estado da mesma, juntamente com as regras do negócio;
-
-2 - VIEW: Interface para ver e modificar os dados/informações. É passiva – o que quer dizer que não processa nada;
-
-3 - CONTROLLER: Realiza operações ou manipulações nos dados/informações interagindo com a Model e interpreta os eventos realizados na View.
-
-A _Model_ representará as informações ou dados abstraídos do mundo real, de modo que esta também não depende da _Controller_ ou _View_. A _View_ mostrará o dados contidos na _Model_ e pode também obter e/ou atualizar os dados da mesma e envia as ações executadas pelo usuário para a _Controller_. A _Controller_ proverá os dados contidos na _Model_ para a _View_, além de interpretar as ações do usuário – como clicar em um botão, funciona como um _link_ entre o usuário e o próprio sistema em si.
+<p align = "justify" >A <i>Model</i> representará as informações ou dados abstraídos do mundo real, de modo que esta também não depende da <i>Controller</i> ou <i>View</i>. A <i>View</i> mostrará o dados contidos na <i>Model</i> e pode também obter e/ou atualizar os dados da mesma e envia as ações executadas pelo usuário para a <i>Controller</i>. A <i>Controller</i> proverá os dados contidos na <i>Model</i> para a <i>View</i>, além de interpretar as ações do usuário – como clicar em um botão, funciona como um <i>link</i> entre o usuário e o próprio sistema em si.</p>
 
 # WebSockets
 
-##O que é?
+## O que é?
 
-WebSockets é uma tecnologia avançada que torna possível abrir uma comunicação 
-interativa entre o navegador do usuário e o servidor, criando um canal bidirecional 
-para a comunicação entre eles. Esta tecnologia é a chave para o desenvolvimento de
-aplicações em tempo real.
+<p align = "justify" >WebSockets é uma tecnologia avançada que torna possível abrir uma comunicação interativa entre o navegador do usuário e o servidor, criando um canal bidirecional para a comunicação entre eles. Esta tecnologia é a chave para o desenvolvimento de aplicações em tempo real.</p>
 
 ## WebSockets VS Protocolo HTTP
 
-A tecnologia de WebSockets veio para satisfazer uma demanda mundial: a _instantaneidade_ das informações. Desta forma, o paradigma "Requisição-Resposta" entre usuário e servidor do HTTP torna-se obsoleto em vista das exigências modernas.
+<p align = "justify" >A tecnologia de WebSockets veio para satisfazer uma demanda mundial: a <i>instantaneidade</i> das informações. Desta forma, o paradigma "Requisição-Resposta" entre usuário e servidor do HTTP torna-se obsoleto em vista das exigências modernas.</p>
 
-Websockets utilizam um canal para manter a conexão aberta, o _Action Cable_. Assim, as requisições dos usuários e servidores podem ser efetuadas em tempo real.
+<p align = "justify" >Websockets utilizam um canal para manter a conexão aberta, o <i>Action Cable</i>. Assim, as requisições dos usuários e servidores podem ser efetuadas em tempo real.</p>
 
 # DOJO de linguagem (material didático)
 
@@ -135,6 +132,7 @@ Websockets utilizam um canal para manter a conexão aberta, o _Action Cable_. As
 > https://www.caelum.com.br/apostila-ruby-on-rails/ruby-on-rails/
 
 > ### Ruby Gems
+
 > https://rubygems.org/
 
 # DOJO de testes (material didático)
