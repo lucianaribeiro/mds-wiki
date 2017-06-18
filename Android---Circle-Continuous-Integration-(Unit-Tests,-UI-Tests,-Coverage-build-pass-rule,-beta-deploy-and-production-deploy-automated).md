@@ -1,27 +1,26 @@
+
+# Sumário 
+
+[1. Introdução](#1-introdução)
+
+[2. Circle CI](#2-circle-ci) 
+
+[3. Script para checar se atingiu cobertura ](#3-Script-para-checar-se-atingiu-cobertura) 
+
+[4. Gradle](#4-gradle) 
+
+[5. Fastlane](#5-fastlane) 
+
+
 ***
 
-#Sumário 
+# 1. Introdução
 
-[1 Introdução](#1-introdução)
+<p align="justify">Este documento descreve o plano de gerenciamento de configuração de mudanças e tem como objetivo deixar todos os integrantes do projeto por dentro de como ocorrerão as configurações de ambiente, as rotinas e padrões de nomenclatura realizadas durante as mudanças do mesmo.</p>
 
-[2 Circle CI](#2-circle-ci) 
-
-[3 Script para checar se atingiu cobertura ](#3-Script-para-checar-se-atingiu-cobertura) 
-
-[4 Gradle](#4-gradle) 
-
-[5 Fastlane](#5-fastlane) 
-
-
-***
-
-#1 Introdução
-
-Este documento descreve o plano de gerenciamento de configuração de mudanças e tem como objetivo deixar todos os integrantes do projeto por dentro de como ocorrerão as configurações de ambiente, as rotinas e padrões de nomenclatura realizadas durante as mudanças do mesmo.
-
-#2 Circle CI
-CircleCI foi a ferramenta de integração contínua decidida por ser utilizada. Sua configuração é feita através de um arquivo .yml na pasta raiz do projeto.
-As builds geradas pela ferramenta podem ser acessadas neste [link](https://circleci.com/gh/fga-gpp-mds/2016.2-CidadeDemocratica/tree/master).
+# 2. Circle CI
+<p align="justify"><i>CircleCI</i> foi a ferramenta de integração contínua decidida por ser utilizada. Sua configuração é feita através de um arquivo <i>.yml</i> na pasta raiz do projeto.
+As builds geradas pela ferramenta podem ser acessadas neste <a href="https://circleci.com/gh/fga-gpp-mds/2016.2-CidadeDemocratica/tree/master"><i>link</i></a>.</p>
 
 ```yml
 #Install android build tools, platforms
@@ -80,7 +79,7 @@ deployment:
     commands:
       - fastlane beta
 ```
-#3 Script para checar se atingiu cobertura 
+# 3. Script para checar se atingiu cobertura 
 ```shell
 #!/bin/bash
 
@@ -103,9 +102,9 @@ fi
 
 ```
 
-#4 Gradle
+# 4. Gradle
 
- Task gradle para configurar o identificador da versão do apk que será enviado e os certificados de cosntrucao do .apk. A versão está sendo identificada de acordo com a data atual para que sempre automaticamente ao criar um apk a versão atual seja maior que a antiga.
+ <p align="justify"><i>Task gradle</i> para configurar o identificador da versão do <i>apk</i> que será enviado e os certificados de cosntrucao do <i>.apk</i>. A versão está sendo identificada de acordo com a data atual para que sempre automaticamente ao criar um <i>apk</i> a versão atual seja maior que a antiga.</p>
 
 ```groovy 
 apply plugin: 'com.android.application'
@@ -204,11 +203,11 @@ apply plugin: 'com.google.gms.google-services'
 ```
 
 Antes de configurar a task, voce deve adiquirir o serviceAccountEmail e o jsonFile como descrito no 
-[Tutorial de Deploy Automatico na Google Play PDF](https://github.com/GPP-MDS-2016/ImagensDaWiki/raw/master/tutorial_deploy_automático_google_play.pdf)
+[Tutorial de Deploy Automatico na Google Play PDF](https://github.com/GPP-MDS-2016/ImagensDaWiki/raw/master/tutorial_deploy_automático_google_play.pdf).
 
-#5 Fastlane
+# 5. Fastlane
 
- Fastfile com a configuração do fastlane ferramenta para organizar scripts de automação em simples comandos
+ <i>Fastfile</i> com a configuração do fastlane ferramenta para organizar <i>scripts</i> de automação em simples comandos:  
 ```ruby 
 # Update this, if you use features of a newer version
 fastlane_version "1.105.3"
@@ -245,6 +244,6 @@ end
 ```
 
 
-Basicamente, o CircleCI gera a build do produto, rodando os testes unitários e de aceitação, checa se atingiu o limite aceitável de cobertura de testes, comunica a ferramenta de cobertura de teste enviando a cobertura atual do software. 
+<p align="justify">Basicamente, o <i>CircleCI</i> gera a <i>build</i> do produto, executando os testes unitários e de aceitação, checa se atingiu o limite aceitável de cobertura de testes, comunica a ferramenta de cobertura de teste enviando a cobertura atual do <i>software</i>.</p>
 
-No caso das branchs production e beta ao criar uma branch com o nome production ou com nome beta ele também envia para deploy no respectivo contexto.
+<p align="justify">No caso das <i>branchs production</i> e <i>beta</i>, ao criar uma <i>branch</i> com o nome <i><b>production</b></i> ou com nome <i><b>beta</b></i>, ele também envia para <i>deploy</i> no respectivo contexto.</p>
