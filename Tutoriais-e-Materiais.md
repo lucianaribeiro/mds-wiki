@@ -23,22 +23,20 @@ Porém usando apenas este comando ao reiniciar sua máquina ele perderá o apeli
 
 E pronto! Você já pode usar seus comandos personalizados.
 
-
-
 # Materiais
 
 ## Django Girls
-O tutorial do [Django Girls](https://tutorial.djangogirls.org/pt/) é extremamente completo para quem deseja aprender a desenvolver em Python utilizando o Django como framework. O mesmo explica e ensina desde a instalação, passando por criação de projeto, URLs, implementação de models, views, templates, até estilização com CSS. Além disso, aborda formulários, administração e Querysets. E o melhor, tudo em português!
+<p align = "justify"> O tutorial do <a href="https://tutorial.djangogirls.org/pt/"><i>Django Girls</i></a> é extremamente completo para quem deseja aprender a desenvolver em Python utilizando o Django como framework. O mesmo explica e ensina desde a instalação, passando por criação de projeto, URLs, implementação de models, views, templates, até estilização com CSS. Além disso, aborda formulários, administração e Querysets. E o melhor, tudo em português!</p>
 
 >https://tutorial.djangogirls.org/pt/
 
-## Guia do Scrum em Português
+## Guia do _Scrum_ em Português
 >http://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-Portuguese-BR.pdf
 
 ## Tutorial Terminal 
 > ### Codecademy 
 > https://www.codecademy.com/pt/learn/learn-the-command-line
-### Comunidade Ubuntu
+> ### Comunidade Ubuntu
 > https://help.ubuntu.com/community/UsingTheTerminal
 
 ## Tutorial Android
@@ -53,3 +51,6 @@ O tutorial do [Django Girls](https://tutorial.djangogirls.org/pt/) é extremamen
 
 ## Tutorial Markdown (Edição de Wiki) em inglês
 > https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+## Tutorial Xamarin Cross-Platform em inglês
+> https://developer.xamarin.com/guides/cross-platform/getting_started/
