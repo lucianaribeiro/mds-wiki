@@ -18,6 +18,7 @@
 [Atualização do projeto local com o remoto](#atualização-do-projeto-local-com-o-remoto)  
 [Testes unitários](#testes-unitários)  
 [Testes de aceitação](#testes-de-aceitação)  
+[Links Úteis](#links-uteis)   
 
 ---
 
@@ -120,3 +121,7 @@ Alguns pontos importantes e dicas para o cumprimento dos padrões de arquitetura
 # Testes unitários
 
 # Testes de aceitação
+
+# Links Úteis
+
+ <a href="https://developer.xamarin.com/guides/"> All Guides, Xamarin</a>
