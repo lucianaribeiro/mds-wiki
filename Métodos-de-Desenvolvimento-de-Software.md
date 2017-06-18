@@ -68,9 +68,10 @@ de forma a ter um acordo entre cliente e os desenvolvedores do sistema, no quesi
 
 ## 4. Estudo de caso da influência do modelo de processo no sucesso de um projeto 
 
-Resumo do texto: (e podem sugerir outros casos) <a href="http://sloanreview.mit.edu/article/what-successful-project-managers-do/">What Successful Project Managers Do</a>
+Resumo do texto: (e podem sugerir outros casos) <a href="http://sloanreview.mit.edu/article/what-successful-project-managers-do/">What Successful Project Managers Do.</a>
 
-
+<p align = "justify">Atualmente, gerentes de projeto combinam métodos tradicionais e ágeis, visando mais flexibilidade e melhores resultados.</p>
+<p align = "justify">Gerentes de projeto sempre enfrentarão situações inesperadas, mesmo tendo o melhor planejamento e gerenciamento de riscos possível. Situações como por exemplo, falta de empregados, a falência de um fornecedor, ou mudanças de requisitos por parte do cliente.</p>
 
 ## 5. Referências
 
