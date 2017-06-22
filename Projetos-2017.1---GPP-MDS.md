@@ -1,11 +1,10 @@
-#Tema Projetos MDS/GPP 2017.1:
+# Projetos MDS/GPP 2017.1:
 
 ## Educação - Melhorando a Educação por meio de software
 
-A disciplina MDS/GPP terá tema único: Educação.  As equipes são responsáveis por desenvolver pelo menos 2 propostas de projetos de software no tema. Os temas serão apresentados na sala de aula para aprovação do projeto. 
+<p align="justify"> A disciplina MDS/GPP terá tema único: Educação. As equipes são responsáveis por desenvolver pelo menos 2 propostas de projetos de software no tema. Os temas serão apresentados na sala de aula para aprovação do projeto.</p> 
 
-Os 
-Alguns áreas de interesse são:
+Algumas áreas de interesse são:
 
 *  Como melhorar as interações em sala de aula? 
 *  Automatizando a presença e acompanhamento do rendimento do aluno
@@ -27,9 +26,11 @@ Algumas propostas de interesse são:
 
 Propostas de projetos de software demandados pela UNB:
 
-* Sistema de Controle de cirurgia laparoscópica minimamente invasiva (software crítico e tolerante a falha) - cliente: laboratório Lara UNB ([https://github.com/lara-unb](https://github.com/lara-unb))
+* Sistema de Controle de cirurgia laparoscópica minimamente invasiva (software crítico e tolerante a falha) - cliente: laboratório Lara UNB. ([https://github.com/lara-unb](https://github.com/lara-unb))
 * Simulador bike reabilitação - cliente: laboratórios LART/LARA UNB
 * Jogo labirintos urbanos - cliente:  Laboratório Transdisciplinar de Cenografia da UnB ([http://laboratoriodecenografia.blogspot.com.br/](http://laboratoriodecenografia.blogspot.com.br/))
 * Plataforma para projetos de cadernos digitais - cliente:  Laboratório Transdisciplinar de Cenografia da UnB ([http://laboratoriodecenografia.blogspot.com.br/](http://laboratoriodecenografia.blogspot.com.br/))
 
-* Aplicativo lei rouanet - cliente: ministério da cultura-- contato: ricardo poppi https://github.com/culturagovbr/salic-api
+* Aplicativo lei rouanet - cliente: Ministério da Cultura.    
+     -  Contato: Ricardo Poppi: 
+[http://laboratoriodecenografia.blogspot.com.br/](https://github.com/culturagovbr/salic-api)

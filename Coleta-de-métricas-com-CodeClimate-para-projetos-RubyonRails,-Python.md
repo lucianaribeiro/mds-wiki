@@ -1,8 +1,8 @@
 
-##CodeClimate
+## CodeClimate
 
-Ferramenta de análise estática de código bastante utilizada pelos desenvolvedores rubyonrails. O codeClimate analisa vários aspectos do projeto, e classifica o projeto segundo um indice. 
-Dentre os recursos disponíveis destacam-se
+Ferramenta de análise estática de código bastante utilizada pelos desenvolvedores rubyonrails. O CodeClimate analisa vários aspectos do projeto, e classifica o projeto segundo um índice. 
+Dentre os recursos disponíveis destacam-se:
 
 * Análise de complexidade
 

@@ -1,6 +1,3 @@
-# Backlog Wiki
-[Backlog da Wiki][BacklogWiki]
-
 # Seja Bem-vindo!
 
 [Home][home]
@@ -9,7 +6,7 @@
 
 [Projetos 2016.2][Projetos]
 
-[Projetos 2017.1][Projetos2017]
+[Projetos 2017.1](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Projetos-2017.1---GPP-MDS)
 
 # Disciplinas
 
@@ -19,15 +16,15 @@
 
 # Fases Rup e PMBOK
 
-[RUP(Rational Unified Process)][rup]
+[RUP (Rational Unified Process)][rup]
 
 [Fase Iniciação][01-fase]
 
-[Fase Elaboração(RUP) Planejamento(PMBOK)][02-fase]
+[Fase Elaboração (RUP) Planejamento(PMBOK)][02-fase]
 
-[Fase de Construção(RUP), Execução/Monitoramente e Controle(PMBOK)][03-fase]
+[Fase de Construção (RUP), Execução/Monitoramente e Controle (PMBOK)][03-fase]
 
-[Fase Transição(RUP), Finalização(PMBOK)][04-fase]
+[Fase Transição (RUP), Finalização (PMBOK)][04-fase]
 
 # Métodos Ágeis
 
@@ -47,11 +44,15 @@
 
 [Refactoring](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Refactoring)
 
+[Integração continua](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Integra%C3%A7%C3%A3o-Cont%C3%ADnua)
 
 [Integração Contínua Deploy Contínuo](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Integra%C3%A7%C3%A3o-Cont%C3%ADnua---Deploy-Cont%C3%ADnuo)
 
 
 # Material Técnico
+
+[Tutoriais e Materiais][tutoriaismateriais]
+
 [Git](https://github.com/fga-gpp-mds/00-Disciplina/wiki/git)
 
 [Python/Django][python]
@@ -64,7 +65,9 @@
 
 [Ionic][ionic]
 
-[[Configurar Ambiente, Automação de deploy (chake)]]
+[Xamarin][xamarin]
+
+[Configurar Ambiente, Automação de deploy (chake)](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Configurar-Ambiente%2C-Automa%C3%A7%C3%A3o-de-deploy-%28chake%29)
 
 [Integração Contínua com o Travis-CI](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Integração-Cont%C3%ADnua-Travis-CI)
 
@@ -72,9 +75,8 @@
 
 [Configuração de um ambiente virtual utilizando o Vagrant](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Configura%C3%A7%C3%A3o-de-um-ambiente-virtual-utilizando-o-Vagrant)
 
-[Tutoriais e Materiais][tutoriaismateriais]
 
-[Teste Automatizado com Selenium IDE][testeAutomatizadoComSeleniumIDE]
+[Teste Automatizado com Selenium IDE][testeAutomatizadoComSeleniumIDE]    
 
 [Teste Automatizado com Cucumber em Rails][testeAutomatizadoCucumberRails]
 
@@ -101,6 +103,7 @@
 [testeAutomatizadoCucumberRails]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Teste-Automatizado-Cucumber-Rails
 [testeAutomatizadoComSeleniumIDE]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Teste-Automatizado-com-Selenium-IDE
 [testeAutomatizadoCucumberJavaScript]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Teste-Automatizado-Cucumber-JS
+[xamarin]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/xamarin
 
 [Teste de Aceitação Python/Django com Selenium](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-para-Teste-de-Aceitação-Python-Django-com-Selenium)
 
@@ -108,8 +111,20 @@
 
 [Colocando a aplicação em produção com NGINX](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Colocando-a-aplica%C3%A7%C3%A3o-em-produ%C3%A7%C3%A3o-com-NGINX)
 
-[Método Kanban](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Karban)
+[Método Kanban](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Karban) 
 
-[Refatoração]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Refatoração
-[Projetos2017]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Projetos-2017.1---GPP-MDS
-[BacklogWiki]: https://github.com/fga-gpp-mds/00-Disciplina/wiki/Backlog-wiki
+[Refatoração](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Refatoração)      
+ 
+[Tutorial de Valor Agregado](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Tutorial-de-Valor-Agregado)
+
+[Estrutura Analítica de Projeto (EAP)](https://github.com/fga-gpp-mds/00-Disciplina/wiki/EAP)
+
+[REST API em Node.js + RethinkDB](https://github.com/fga-gpp-mds/00-Disciplina/wiki/REST-API-em-Node.js-e-RethinkDB)
+
+[Ágil vs Tradicional](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Ágil-vs-Tradicional)
+
+# Estudo de Caso
+[Valve desenvolvimento sem gestão](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Estudo-de-Caso:-Valve,-desenvolvimento-sem-gestão)  
+
+# Backlog Wiki
+[Backlog da Wiki](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Backlog-wiki)

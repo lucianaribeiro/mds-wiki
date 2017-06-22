@@ -6,8 +6,8 @@ Este documento tem como objetivo principal criar um tutorial básico sobre o cuc
 
 ## Introdução
 
-Controlar se todos os critérios de aceitação de um sistema foram cumpridos nem sempre é uma tarefa fácil, e para simplificar esta tarefa, o BDD foi criado.
-Neste tipo de teste o sistema é testado como um todo, sem considerar diferenças entre servidor e cliente, ou até mesmo banco de dados, garantindo assim que a funcionalidade como um todo funciona, porém nunca garantindo que ao encontrar um erro, torne mais fácil o _debug_.
+<p align="justify"> Controlar se todos os critérios de aceitação de um sistema foram cumpridos nem sempre é uma tarefa fácil, e para simplificar esta tarefa, o BDD foi criado.
+Neste tipo de teste o sistema é testado como um todo, sem considerar diferenças entre servidor e cliente, ou até mesmo banco de dados, garantindo assim que a funcionalidade como um todo funciona, porém nunca garantindo que ao encontrar um erro, torne mais fácil o <i>debug</i>.</p>
 
 ## Objetivo do teste
 
@@ -31,7 +31,7 @@ Serão apresentadas várias perguntas, aperte enter em todas =D.
 
 ### Estrutura de arquivos
 
-Os arquivos devem estar disponibilizados da seguinte forma
+Os arquivos devem estar disponibilizados da seguinte forma:
 
 raiz<br>
 |- package.json
@@ -47,7 +47,7 @@ ____________________|-hook.js<br>
 ____________________|-world.js<br>
 
 
-#### gulpfile.js
+#### Gulpfile.js
 
     var gulp = require('gulp');
     var runSequence = require('run-sequence').use(gulp);
@@ -66,7 +66,7 @@ ____________________|-world.js<br>
       }))
     })
 
-### env.js
+### Env.js
 
     'use strict';
 
@@ -76,7 +76,7 @@ ____________________|-world.js<br>
 
     module.exports = configure;
 
-### hooks.js
+### Hooks.js
 
     'use strict';
 
@@ -107,7 +107,7 @@ ____________________|-world.js<br>
 
     module.exports = myHooks;
 
-### world.js
+### World.js
 
     'use strict';
 
@@ -212,9 +212,9 @@ ____________________|-world.js<br>
     module.exports.World = World;
     module.exports.getDriver = getDriver;
 
-## testes
+## Testes
 
-Finalmente com todos os testes prontos configurados, podemos começar a desenvolver os cases de testes, os quais se encontram nos arquivos .feature
+Finalmente com todos os testes prontos configurados, podemos começar a desenvolver os cases de testes, os quais se encontram nos arquivos .feature.
 
 ### gpp_mds.feature
 
@@ -229,7 +229,7 @@ Finalmente com todos os testes prontos configurados, podemos começar a desenvol
       When I click search button
       Then I should see https://github.com/fga-gpp-mds
 
-### commom_steps.js
+### Commom_steps.js
 
 Agora é necessário desenvolver os steps, para que o cucumberJS possa identificar qual a tarefa que deve ser realizada a cada linha do _Scenario_.
 
@@ -279,7 +279,7 @@ Agora é necessário desenvolver os steps, para que o cucumberJS possa identific
 
 ## Executando
 
-finalmente poderemos executar nossos testes, e para isso é só executar o comando:
+Finalmente poderemos executar nossos testes, e para isso é só executar o comando:
 
 `gulp cucumber`
 
