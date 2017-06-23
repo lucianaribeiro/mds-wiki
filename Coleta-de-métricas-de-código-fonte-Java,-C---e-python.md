@@ -1,10 +1,25 @@
-#1. Analizo
+# Sumário
 
-##1.1. Instalação
+[1. Analiso](#1-analiso)
+
+>[1.1 Instalação](#11-instalacao)
+
+>[1.2 Rodando o Analizo no seu Projeto](#12-rodando-o-analizo-no-seu-projeto)
+
+>[1.3 Entendendo as Métricas](#13-entendendo-as-métricas)
+
+[2. Mezuro](#2-mezuro)
+
+[3. Mezuro vs Analizo](#3-mezuro-vs-analizo)
+
+
+# 1. Analizo
+
+## 1.1 Instalação
 
 Esta instalação está disponível em inglês na página [https://github.com/analizo/analizo/blob/master/INSTALL.md](https://github.com/analizo/analizo/blob/master/INSTALL.md).
 
-###Pacote Debian
+### Pacote Debian
 
 1) Crie um arquivo "analizo.list" na pasta /etc/apt/sources.list.d/
 
@@ -40,7 +55,7 @@ $ apt-get update
 $ apt-get install analizo
 ```
 
-##1.2. Rodando o analizo no seu projeto
+## 1.2 Rodando o Analizo no seu Projeto
 
 
 1) Vá até a pasta de código fonte do seu projeto pelo terminal
@@ -60,9 +75,7 @@ analizo metrics > metrics.out
 
 <p align = "justify" >Pronto, as métricas do seu código já estão no arquivo metrics.out, podendo ser aberto com seu editor de texto favorito.</p>
 
-##1.3. Entendendo as métricas
-
-[IMG]
+## 1.3 Entendendo as Métricas
 
 <p align = "justify" >Ao ver esses números, não se assuste. Faça a pesquisa sobre as métricas importantes para o seu contexto e tenha anotado as abreviações (Exemplo: accm = Avarage cyclomatic complexity = Complexidade ciclomática média). Nem tudo que está aqui você quer. Ele te dará variações da mesma métrica, mas você não precisará de todas. Algumas variações que merecem menção honrosa são:</p>
 
@@ -78,16 +91,13 @@ Para um melhor entendimento das métricas de Percentil veja o [artigo](https://s
 
 <p align = "justify" >Além das métricas Gerais média de todo o código, mais pra baixo ele te dará o valor em cada classe, o que pode ser útil para encontrar as classes que estão abaixando os valores das suas métricas e deixando seus indicadores ruins.</p>
 
-[IMG]
+# 2. Mezuro
 
-#Mezuro
+<p align = "justify" >O Mezuro é um ferramenta de análise de métricas de qualidade de código produzido pelo Centro de Competência em Software Livre (CCSL), da Universidade de São Paulo (USP). Este utiliza do Analizo para calcular as métricas e análisá-las, para posteriomente mostrar as resultantes de código em seu portal. 
 
-O Mezuro é um ferramenta de análise de métricas de qualidade de código produzido pelo Centro de Competência em Software Livre (CCSL), da Universidade de São Paulo (USP). O Mezuro utiliza do Analizo para calcular as métricas e análisá-las, para posteriomente mostrar as resultantes de código em seu portal. O mezuro é uma aplicação web e por isso não necessita de instalação. Sua utilização é bem intuitiva e fácil, dispondo de uma interface gráfica amigável.
+<p align = "justify" >O Mezuro é uma aplicação web e por isso não necessita de instalação, sendo necessário criar uma conta e adicionar o repositório de seu projeto nele. Sua utilização é bem intuitiva e fácil, dispondo de uma interface gráfica amigável.
 
-[IMG]
+# 3. Mezuro vs Analizo
 
-Para utilizar-se dele, é necessário criar uma conta e adicionar o repositório do seu projeto ao mezuro. 
-e duas outras ferramentas o Kalibro e o 
-# Mezuro vs Analizoe
-
-Apesar do mezuro ser mais User friendly, ele não te dá a liberdade de escolher as métricas, como o analizo dá, por outro lado ele já te dá indicadores de forma formatada e pronta para ser apresentada em uma wiki por exemplo. Outro ponto bom do analizo é que como ele é rodado na máquina, então ele roda de forma instantânea, ao contrário do mezuro que pode demorar, dependendo do servidor.
+<p align = "justify" >Apesar do Mezuro ser mais <i>User friendly</i>, ele não te dá a liberdade de escolher as métricas como o Analizo dá. Por outro lado, ele já te dá indicadores de forma formatada e pronta para ser apresentada em uma <i>Wiki</i> por exemplo. 
+<p align = "justify" >Outro ponto positivo do Analizo é ser situado em sua máquina, assim não ocorre a possível demora causada pela dependência de servidor, como temos com o Mesuro.
