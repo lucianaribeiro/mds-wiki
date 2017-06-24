@@ -216,6 +216,7 @@ Os principais artefatos gerados nesta fase foram:
 <p>A passagem de fase ocorre quando existe uma entrega de artefato, ou seja, uma interação com o cliente, de maneira que ele fique ciente de como o projeto está sendo levado e dos avanços que estão sendo feitos. Por exemplo, uma passagem de fase é a entrega do documento de visão, que marca o fim da fase de iniciação.</p>
 
 <p>A fase de elaboração tem como objetivo analisar o domínio do problema, estabelecer uma arquitetura sólida para o desenvolvimento do <i>software</i> e eliminar os elementos de maior risco do projeto, além de desenvolver o plano de projeto. Seu final deve resultar em:</p>
+
 * Modelo de Caso de Uso pelo menos 80% completo (ele é iniciado na fase anterior)
 * Especificação Suplementar para capturar os requisitos não funcionais e quaisquer requisitos que não estão associados com casos de uso específicos.
 * Documento de Arquitetura, ou uma descrição da arquitetura do _software_
@@ -236,5 +237,4 @@ Os principais artefatos gerados nesta fase foram:
 
 [Rational Unified Process (RUP): Papéis e Atividades](http://www.funpar.ufpr.br:8080/rup/process/workers/ovu_works.htm)
 
-[Rational Unified Process: Best Practices for Software Development Teams]
-(https://www.ibm.com/developerworks/rational/library/content/03July/1000/1251/1251_bestpractices_TP026B.pdf)
+[Rational Unified Process: Best Practices for Software Development Teams](https://www.ibm.com/developerworks/rational/library/content/03July/1000/1251/1251_bestpractices_TP026B.pdf)
