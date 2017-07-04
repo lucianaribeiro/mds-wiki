@@ -75,7 +75,7 @@
 
 [Configuração de um ambiente virtual utilizando o Vagrant](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Configura%C3%A7%C3%A3o-de-um-ambiente-virtual-utilizando-o-Vagrant)
 
-[Configuração de um ambiente virtual utilizando o Docker](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Configuracao-de-ambiente-virtual-utilizando-docker)
+[Configuração de um ambiente virtual utilizando Docker](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Configuracao-de-ambiente-virtual-utilizando-docker)
 
 [Teste Automatizado com Selenium IDE][testeAutomatizadoComSeleniumIDE]    
 
