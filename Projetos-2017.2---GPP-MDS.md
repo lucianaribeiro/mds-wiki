@@ -18,6 +18,11 @@ Algumas áreas de interesse são:
 
 * Aplicativos multiplataformas/ webapp para Conselheiros da Merenda Escolar - Cliente: TCU (Minimo 2 grupos)
 [http://portal.tcu.gov.br/imprensa/noticias/cartilha-do-tcu-e-fnde-vai-ajudar-na-fiscalizacao-da-merenda-escolar.htm](http://portal.tcu.gov.br/imprensa/noticias/cartilha-do-tcu-e-fnde-vai-ajudar-na-fiscalizacao-da-merenda-escolar.htm)
+     - Problema big data: atender a 70.000 potenciais usuários (armazenamento e processamento dos dados). Uso da nuvem civica
+     - Contato: a definir
+
+* Sistema de analise de dados de segurança publica - Cliente: TCU 
+[https://github.com/AppCivicoPlataforma/AppCivico](https://github.com/AppCivicoPlataforma/AppCivico)
      - Problema big data: atender a 70.000 potenciais usuários (armazenamento e processamento dos dados)
      - Contato: a definir
 
