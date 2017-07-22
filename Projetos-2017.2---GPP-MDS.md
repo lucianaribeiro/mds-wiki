@@ -1,6 +1,6 @@
-# Projetos MDS/GPP 2017.1:
+# Projetos MDS/GPP:
 
-## Educação - Melhorando a Educação por meio de software
+## 2017.2 Uso de conceitos de Big data e data analytics
 
 <p align="justify"> A disciplina MDS/GPP terá tema único: BIG DATA/DATA ANALYTICS. As equipes são responsáveis por desenvolver pelo menos 2 propostas de projetos de software no tema. Os temas serão apresentados na sala de aula para aprovação do projeto.</p> 
 
