@@ -1,8 +1,8 @@
 # Projetos MDS/GPP:
 
-## 2017.2 Uso de conceitos de Big data e data analytics
+## 2017.2 Uso de conceitos de Data science
 
-<p align="justify"> A disciplina MDS/GPP terá tema único: BIG DATA/DATA ANALYTICS. As equipes são responsáveis por desenvolver pelo menos 2 propostas de projetos de software no tema. Os temas serão apresentados na sala de aula para aprovação do projeto.</p> 
+<p align="justify"> A disciplina MDS/GPP terá tema único: **Data Science**. As equipes são responsáveis por desenvolver pelo menos 2 propostas de projetos de software no tema. Os temas serão apresentados na sala de aula para aprovação do projeto.</p> 
 
 Algumas áreas de interesse são:
 
@@ -21,12 +21,12 @@ Algumas áreas de interesse são:
      - Problema big data: atender a 70.000 potenciais usuários (armazenamento e processamento dos dados). Uso da nuvem civica
      - Contato: a definir
 
-* Sistema de analise de dados de segurança publica - Cliente: TCU 
+* Observatório segurança publica - Cliente: TCU 
 [https://github.com/AppCivicoPlataforma/AppCivico](https://github.com/AppCivicoPlataforma/AppCivico)
      - Problema big data: atender a 70.000 potenciais usuários (armazenamento e processamento dos dados)
      - Contato: a definir
 
-* Webapp   Legislativo 2017 -
+* Webapp   Legislativo 2017 - ???
       - http://www.desafio.leg.br
       - Cliente: não tem
       - Problema big data
@@ -38,6 +38,10 @@ Algumas áreas de interesse são:
 * Sistema de monitoramento e controle de projetos de software livre
   - Cliente: GPP/MDS - Contato: João Guilherme Silva <joaaogui@gmail.com>
   - Problema: Sistema BI - identificar anomalias, gerar indicadores/metricas em tempo real
+
+* Catálogo de software/inovação unb
+  - Cliente - CPD/DGTI - Contato: a definir
+  - Problema: 
 
 ***
 
