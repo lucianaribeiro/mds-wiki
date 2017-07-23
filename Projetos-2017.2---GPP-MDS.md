@@ -13,26 +13,26 @@ Algumas áreas de interesse são:
 ### Os temas propostos 2017.2
 * Web App lei rouanet - cliente: Ministério da Cultura. 
      - Contato: Ricardo Poppi (ricabras@gmail.com)
-     - Problema Big data: identificar anomalias
+     - Problema: identificar anomalias
 [http://laboratoriodecenografia.blogspot.com.br/](https://github.com/culturagovbr/salic-api)
 
 * Aplicativos multiplataformas/ webapp para Conselheiros da Merenda Escolar - Cliente: TCU (Minimo 2 grupos)
 [http://portal.tcu.gov.br/imprensa/noticias/cartilha-do-tcu-e-fnde-vai-ajudar-na-fiscalizacao-da-merenda-escolar.htm](http://portal.tcu.gov.br/imprensa/noticias/cartilha-do-tcu-e-fnde-vai-ajudar-na-fiscalizacao-da-merenda-escolar.htm)
-     - Problema big data: atender a 70.000 potenciais usuários (armazenamento e processamento dos dados). Uso da nuvem civica
+     - Problema: atender a 70.000 potenciais usuários (armazenamento e processamento dos dados). Uso da nuvem civica
      - Contato: a definir
 
 * Observatório segurança publica - Cliente: TCU 
 [https://github.com/AppCivicoPlataforma/AppCivico](https://github.com/AppCivicoPlataforma/AppCivico)
-     - Problema big data: atender a 70.000 potenciais usuários (armazenamento e processamento dos dados)
+     - Problema: atender a 70.000 potenciais usuários (armazenamento e processamento dos dados)
      - Contato: a definir
 
 * Webapp   Legislativo 2017 - ???
       - http://www.desafio.leg.br
       - Cliente: não tem
-      - Problema big data
+      - Problema 
 * Faculdade de saúde - 
      - Contato: Fabio Mendes (
-     - Problema Big data: atender grande publico, analise dos dados
+     - Problema: atender grande publico, analise dos dados
 [http://laboratoriodecenografia.blogspot.com.br/](https://github.com/culturagovbr/salic-api)
 
 * Sistema de monitoramento e controle de projetos de software livre
