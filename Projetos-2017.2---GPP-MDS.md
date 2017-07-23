@@ -1,14 +1,14 @@
 # Projetos MDS/GPP:
 
-## 2017.2 Uso de conceitos de Data science
+## 2017.2 Uso de conceitos de Data Science
 
-<p align="justify"> A disciplina MDS/GPP terá tema único: **Data Science**. As equipes são responsáveis por desenvolver pelo menos 2 propostas de projetos de software no tema. Os temas serão apresentados na sala de aula para aprovação do projeto.</p> 
+<p align="justify"> A disciplina MDS/GPP terá tema único: Data Science. As equipes são responsáveis por desenvolver pelo menos 2 propostas de projetos de software no tema (pelo menos 1 dos temas deve estar entre os propostos pela professora). Os temas serão apresentados na sala de aula para aprovação do projeto.</p> 
 
 Algumas áreas de interesse são:
 
 *  Segurança
 *  Educação/merenda escolar
-*  Saude
+*  Saúde
 
 ### Os temas propostos 2017.2
 * Web App lei rouanet - cliente: Ministério da Cultura. 
