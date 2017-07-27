@@ -21,10 +21,6 @@ Algumas áreas de interesse são:
      - Palavras-chave: atender a 70.000 potenciais usuários (armazenamento e processamento dos dados). Uso da nuvem civica
      - Contato: a definir
 
-* Observatório segurança publica - Cliente: TCU 
-[https://github.com/AppCivicoPlataforma/AppCivico](https://github.com/AppCivicoPlataforma/AppCivico)
-     - Problema: atender a 70.000 potenciais usuários (armazenamento e processamento dos dados)
-     - clientes: a definir
 * Faculdade de saúde - 
      - Contato: Fabio Mendes (
      - Palavras-chave: atender grande publico, analise dos dados
@@ -38,9 +34,14 @@ Algumas áreas de interesse são:
   - Cliente - CPD/DGTI - Contato: a definir
   - Palavras-chave: 
 
-* Triagem pediátrica inteligente
+* Smart Triagem pediátrica
 Cliente:  Startup healthTech
 Palavras-chave: webapp, arvore de decisões, 
+
+* smart Receituario eletrônico 
+Cliente:  Startup healthTech
+Palavras-chave: webapp, arvore de decisões, big data
+
 ***
 
 ### Os temas de 2017.1 foram
