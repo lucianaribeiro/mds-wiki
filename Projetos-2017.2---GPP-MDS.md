@@ -34,12 +34,12 @@ Algumas áreas de interesse são:
   - Palavras-chave: 
 
 * Smart Triagem pediátrica
-Cliente:  Startup healthTech
-Palavras-chave: webapp, arvore de decisões, 
+  - Cliente:  Startup healthTech
+  - Palavras-chave: webapp, arvore de decisões, 
 
 * smart Receituario eletrônico 
-Cliente:  Startup healthTech
-Palavras-chave: webapp, arvore de decisões, big data
+  - Cliente:  Startup healthTech
+  - Palavras-chave: webapp, arvore de decisões, big data
 
 ***
 
