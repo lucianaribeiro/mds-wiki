@@ -11,38 +11,36 @@ Algumas áreas de interesse são:
 *  Saúde
 
 ### Os temas propostos 2017.2
-* Web App lei rouanet - cliente: Ministério da Cultura. 
+* Web App mapas culturais - cliente: Ministério da Cultura. 
      - Contato: Ricardo Poppi (ricabras@gmail.com)
-     - Problema: identificar anomalias
-[http://laboratoriodecenografia.blogspot.com.br/](https://github.com/culturagovbr/salic-api)
+     - Palavras-chave: identificar anomalias
+[https://github.com/hacklabr/mapasculturais](https://github.com/hacklabr/mapasculturais)
 
 * Aplicativos multiplataformas/ webapp para Conselheiros da Merenda Escolar - Cliente: TCU (Minimo 2 grupos)
 [http://portal.tcu.gov.br/imprensa/noticias/cartilha-do-tcu-e-fnde-vai-ajudar-na-fiscalizacao-da-merenda-escolar.htm](http://portal.tcu.gov.br/imprensa/noticias/cartilha-do-tcu-e-fnde-vai-ajudar-na-fiscalizacao-da-merenda-escolar.htm)
-     - Problema: atender a 70.000 potenciais usuários (armazenamento e processamento dos dados). Uso da nuvem civica
+     - Palavras-chave: atender a 70.000 potenciais usuários (armazenamento e processamento dos dados). Uso da nuvem civica
      - Contato: a definir
 
 * Observatório segurança publica - Cliente: TCU 
 [https://github.com/AppCivicoPlataforma/AppCivico](https://github.com/AppCivicoPlataforma/AppCivico)
      - Problema: atender a 70.000 potenciais usuários (armazenamento e processamento dos dados)
-     - Contato: a definir
-
-* Webapp   Legislativo 2017 - ???
-      - http://www.desafio.leg.br
-      - Cliente: não tem
-      - Problema 
+     - clientes: a definir
 * Faculdade de saúde - 
      - Contato: Fabio Mendes (
-     - Problema: atender grande publico, analise dos dados
+     - Palavras-chave: atender grande publico, analise dos dados
 [http://laboratoriodecenografia.blogspot.com.br/](https://github.com/culturagovbr/salic-api)
 
 * Sistema de monitoramento e controle de projetos de software livre
   - Cliente: GPP/MDS - Contato: João Guilherme Silva <joaaogui@gmail.com>
-  - Problema: Sistema BI - identificar anomalias, gerar indicadores/metricas em tempo real
+  - Palavras-chave: Sistema BI - identificar anomalias, gerar indicadores/metricas em tempo real
 
 * Catálogo de software/inovação unb
   - Cliente - CPD/DGTI - Contato: a definir
-  - Problema: 
+  - Palavras-chave: 
 
+* Triagem pediátrica inteligente
+Cliente:  Startup healthTech
+Palavras-chave: webapp, arvore de decisões, 
 ***
 
 ### Os temas de 2017.1 foram
