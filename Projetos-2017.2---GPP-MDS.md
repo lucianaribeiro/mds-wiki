@@ -6,7 +6,6 @@
 
 Algumas áreas de interesse são:
 
-*  Segurança
 *  Educação/merenda escolar
 *  Saúde
 
