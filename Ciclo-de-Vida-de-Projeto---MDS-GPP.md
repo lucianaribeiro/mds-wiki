@@ -19,8 +19,8 @@
   * Conceitos Básicos - PMBOK + RUP
 ### Treinamentos Sugeridos
   * *MDS* - [Git](./Git)
-  * *GPP* - [Configuração ambiente (vagrant)](./Configurar-Ambiente,-Automação-de-deploy-(chake).md)
-  * *GPP* - [Configuração ambiente (docker)](./Configuracao-de-ambiente-virtual-utilizando-docker.md)
+  * *GPP* - [Configuração ambiente (vagrant)](./Configurar-Ambiente,-Automação-de-deploy-(chake))
+  * *GPP* - [Configuração ambiente (docker)](./Configuracao-de-ambiente-virtual-utilizando-docker)
   * *GPP* - [Guia PMBOK](https://github.com/fga-gpp-mds/00-Disciplina/tree/master/GPP_Material/08-Mapa_PMbOK)
 
 ## Semana 2 - Fase de Iniciação
@@ -30,7 +30,7 @@
     * [Atualizar Planilha](https://docs.google.com/spreadsheets/d/1BStvr8DXzdJIosPcJHOZnzmAtOetI5Bh8ZbLAZ1QiT8/edit?usp=sharing)
 * **ENTREGA 4 - EAP - Rascunho**
     * [Tutorial](https://github.com/fga-gpp-mds/00-Disciplina/tree/master/GPP_Material/13-EAP)
-    * [Tutorial](./EAP.md)
+    * [Tutorial](./EAP)
 * **ENTREGA 5 - Cronograma atividades (2 semanas): horas por atividade alocado para cada membro**
     * Planejamento treinamentos R1/R2 completo (tempo por treinamento) motoramento/controle do aprendizado
 * **ENTREGA 6 - Comunicacao Interna e Externa**
