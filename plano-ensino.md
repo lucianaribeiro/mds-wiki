@@ -18,7 +18,7 @@
   * Ciclo de Vida de Projeto
   * Conceitos Básicos - PMBOK + RUP
 ### Treinamentos Sugeridos
-  * *MDS* - [Git](./Git.md)
+  * *MDS* - [Git](./Git)
   * *GPP* - [Configuração ambiente (vagrant)](./Configurar-Ambiente,-Automação-de-deploy-(chake).md)
   * *GPP* - [Configuração ambiente (docker)](./Configuracao-de-ambiente-virtual-utilizando-docker.md)
   * *GPP* - [Guia PMBOK](https://github.com/fga-gpp-mds/00-Disciplina/tree/master/GPP_Material/08-Mapa_PMbOK)
