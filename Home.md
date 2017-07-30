@@ -37,7 +37,7 @@ Bem-vindo às disciplinas de Gestão de Portfólios e Projetos de _Software_ e M
 ## Por que fazer esse curso
 
 ## Estrutura do Curso
-[Etapas do curso](./plano-ensino.md)
+[Etapas do curso](https://github.com/fga-gpp-mds/00-Disciplina/wiki/plano-ensino)
 
 # O que eu preciso saber
 
