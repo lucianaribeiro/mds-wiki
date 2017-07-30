@@ -37,6 +37,7 @@ Bem-vindo às disciplinas de Gestão de Portfólios e Projetos de _Software_ e M
 ## Por que fazer esse curso
 
 ## Estrutura do Curso
+[Etapas do curso](./plano-ensino.md)
 
 # O que eu preciso saber
 
