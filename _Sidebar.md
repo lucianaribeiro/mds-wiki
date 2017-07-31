@@ -1,27 +1,27 @@
 # Seja Bem-vindo!
 
-[Home][home]
+[Home](./Home)
 
 
 [Projetos 2017.2](./Projetos-2017.2---GPP-MDS)
 
 # Disciplinas
 
-[Métodos de Desenvolvimento de Software][mds]
+[Métodos de Desenvolvimento de Software](./Métodos-de-Desenvolvimento-de-Software)
 
-[Gestão de Portfólio e Projetos de Software][gpp]
+[Gestão de Portfólio e Projetos de Software](./Gestão-de-Portfólios-e-Projetos-de-Software)
 
 # Fases Rup e PMBOK
 
-[RUP (Rational Unified Process)][rup]
+[RUP (Rational Unified Process)](./RUP-(Rational-Unified-Process))
 
-[Fase Iniciação][01-fase]
+[Fase Iniciação](./01---Fase-Iniciação)
 
-[Fase Elaboração (RUP) Planejamento(PMBOK)][02-fase]
+[Fase Elaboração (RUP) Planejamento(PMBOK)](./02---Fase-Elaboração-(RUP)-Planejamento-(PMBok))
 
-[Fase de Construção (RUP), Execução/Monitoramente e Controle (PMBOK)][03-fase]
+[Fase de Construção (RUP), Execução/Monitoramente e Controle (PMBOK)](./03---Fase-de-Construção-(RUP),-Monitoramente-e-Controle-(PMBok))
 
-[Fase Transição (RUP), Finalização (PMBOK)][04-fase]
+[Fase Transição (RUP), Finalização (PMBOK)](./04---Fase-Transição-(RUP),-Finalização-(PMBok))
 
 # Métodos Ágeis
 
