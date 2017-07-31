@@ -10,6 +10,10 @@ Algumas áreas de interesse são:
 *  Saúde
 
 ### Os temas propostos 2017.2
+* Sistema de gestão de infraestrutura de rede metropolitana
+   - cliente: Giga candanga - prof. Lazarte (llazarte@unb.br)
+
+
 * Web App mapas culturais - cliente: Ministério da Cultura. 
      - Contato: Ricardo Poppi (ricabras@gmail.com)
      - Palavras-chave: identificar anomalias
