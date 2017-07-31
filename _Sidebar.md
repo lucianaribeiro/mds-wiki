@@ -29,19 +29,19 @@
 
 [Programação Extrema (XP)](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Programa%C3%A7%C3%A3o-Extrema-(XP))
 
-[Indicadores Ágeis](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Indicadores-%C3%81geis)
+[Indicadores Ágeis](./Indicadores-%C3%81geis)
 
 # Programação Extrema (XP)
-[Pair Programming](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Pair-Programming)
+[Pair Programming](./Pair-Programming)
 
-[Test Driven Development](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Test-Driven-Development)
+[Test Driven Development](./Test-Driven-Development)
 
-[Acceptance Test Driven Development (ATDD)](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Acceptance-Test-Driven-Development-(ATDD))
+[Acceptance Test Driven Development (ATDD)](./Acceptance-Test-Driven-Development-(ATDD))
 
 
-[Refactoring](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Refactoring)
+[Refactoring](./Refactoring)
 
-[Integração continua](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Integra%C3%A7%C3%A3o-Cont%C3%ADnua)
+[Integração continua](./Integra%C3%A7%C3%A3o-Cont%C3%ADnua)
 
-[Integração Contínua Deploy Contínuo](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Integra%C3%A7%C3%A3o-Cont%C3%ADnua---Deploy-Cont%C3%ADnuo)
+[Integração Contínua Deploy Contínuo](./Integra%C3%A7%C3%A3o-Cont%C3%ADnua---Deploy-Cont%C3%ADnuo)
 
