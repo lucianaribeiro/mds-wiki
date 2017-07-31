@@ -11,7 +11,7 @@ Algumas áreas de interesse são:
 
 ### Os temas propostos 2017.2
 * Sistema de gestão de infraestrutura de rede metropolitana
-   - cliente: Giga candanga - prof. Lazarte (llazarte@unb.br)
+   - cliente: Giga candanga - prof. Lazarte (llazarte@unb.br, pa@pauloangelo.com)
 
 
 * Web App mapas culturais - cliente: Ministério da Cultura. 
