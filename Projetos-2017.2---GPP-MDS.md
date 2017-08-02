@@ -14,8 +14,8 @@ Algumas áreas de interesse são:
    - cliente: Giga candanga - prof. Lazarte (llazarte@unb.br, pa@pauloangelo.com)
 
 
-* Web App mapas culturais - cliente: Ministério da Cultura. 
-     - Contato: Ricardo Poppi (ricabras@gmail.com)
+* Web monitoramento de indicadores culturais 
+     - Contato: Nitai
      - Palavras-chave: identificar anomalias
 [https://github.com/hacklabr/mapasculturais](https://github.com/hacklabr/mapasculturais)
 
