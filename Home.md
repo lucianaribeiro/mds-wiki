@@ -10,15 +10,7 @@
 
 [ Um pouco da Metodologia](#um-pouco-da-metodologia)
 
-------
-## Introdução
-Bem-vindo às disciplinas de Gestão de Portfólios e Projetos de _Software_ e Métodos de Desenvolvimento de _Software_.
 
-<p align = "justify" >Desde meados de 2013 essas duas disciplinas passaram a fazer parte de um projeto multidisciplinar. Esse consiste em criar um ambiente de produção de <i>software</i> a partir da interação entre os estudantes de GPP (Gestão de Portfólios e Projetos de <i>Software</i>) e MDS (Métodos de Desenvolvimento de <i>Software</i>). Por meio desse ambiente, os estudantes passaram a ter uma experiência mais completa de todo o processo de produção de <i>software</i>. Isso permitiu também que os estudantes experimentassem os conhecimentos adquiridos em um nível mais prático, conferindo conhecimento prático ainda na faculdade.
-
-<p align = "justify" >A disciplina de MDS busca uma compreensão, mesmo que inicialmente de forma mais superficial, de duas metodologias especificas, o RUP e a metodologia ágil. Aplicando os conceitos por trás das duas metodologias os alunos aprendem nos primeiros meses o RUP, uma metodologia muito utilizada em empresas atualmente pois consegue manter uma organização maior em projetos grandes, e nos meses finais a metodologia ágil, também muito utilizada e que, por possuir foco maior na programação de fato, produz um resultado mais rapidamente sendo ideal em  projetos menores.
-
-<p align = "justify" >Essa metodologia de ensino das duas disciplinas foi iniciada pelo professor  <a href="https://fga.unb.br/hilmer.neri">Hilmer Neri</a>, na <a href="https://fga.unb.br/">FGA</a>   (Faculdade Gama), na Universidade de Brasília. Atualmente, essas duas disciplinas são ministradas pela professora <a href="https://fga.unb.br/carla.rocha">Carla Rocha</a>, que adotou a metodologia multidisciplinar de GPP e MDS.</p>
 
 ## Motivação
 <p align = "justify" >Para o projeto multidisciplinar foi necessário a integração entre os estudantes da disciplina de <a href="https://github.com/fga-gpp-mds/00-Disciplina/wiki/Gest%C3%A3o-de-Portf%C3%B3lios-e-Projetos-de-Software">GPP</a> e <a href="https://github.com/fga-gpp-mds/00-Disciplina/wiki/M%C3%A9todos-de-Desenvolvimento-de-Software">MDS</a>.</p>
