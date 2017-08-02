@@ -24,8 +24,8 @@ Algumas áreas de interesse são:
      - Palavras-chave: atender a 70.000 potenciais usuários (armazenamento e processamento dos dados). Uso da nuvem civica
      - Contato: a definir
 
-* Faculdade de saúde - sistema arbovirose
-     - Contato: Fabio Mendes (
+* Faculdade de saúde - sistema arbovirose analise de dados/visualização de dados - viewflow
+     - Contato: Fabio Mendes (fabiomacedomendes@gmail.com)
      - Palavras-chave: atender grande publico, analise dos dados
 [http://laboratoriodecenografia.blogspot.com.br/](https://github.com/culturagovbr/salic-api)
 
