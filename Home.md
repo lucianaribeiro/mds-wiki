@@ -32,7 +32,7 @@
 [Etapas do curso](https://github.com/fga-gpp-mds/00-Disciplina/wiki/plano-ensino)
 
 # O que eu preciso saber
-
+ * Programação Orientada a Objetos
 
 [fga]: https://fga.unb.br/
 [carla]: https://fga.unb.br/carla.rocha
