@@ -37,6 +37,8 @@ Algumas áreas de interesse são:
   - Cliente - CPD/DGTI - Contato: a definir
   - Palavras-chave: 
 
+* Jarbas
+  - cliente - fabio
 * Smart Triagem pediátrica
   - Cliente:  Startup healthTech
   - Palavras-chave: webapp, arvore de decisões, 
