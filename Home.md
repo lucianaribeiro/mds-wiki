@@ -29,7 +29,7 @@
 ## Por que fazer esse curso
 
 ## Estrutura do Curso
-[Etapas do curso](https://github.com/fga-gpp-mds/00-Disciplina/wiki/plano-ensino)
+[Etapas do curso](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Ciclo-de-Vida-de-Projeto---MDS-GPP)
 
 # O que eu preciso saber
  * Programação Orientada a Objetos
