@@ -4,8 +4,6 @@
 
  _Trust is the bedrock of all effective teams. When it exists, team members speak freely, don’t second guess each other and formal hierarchy fades into the distance._
 
-[ Introdução](#introdução)
-
 [ Motivação](#motivação)
 
 [ Um pouco da Metodologia](#um-pouco-da-metodologia)
