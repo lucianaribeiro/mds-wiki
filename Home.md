@@ -9,6 +9,7 @@
 [ Um pouco da Metodologia](#um-pouco-da-metodologia)
 
 
+[ Etapas da Disciplina](#Estrutura-do-Curso)
 
 ## Motivação
 <p align = "justify" >Para o projeto multidisciplinar foi necessário a integração entre os estudantes da disciplina de <a href="https://github.com/fga-gpp-mds/00-Disciplina/wiki/Gest%C3%A3o-de-Portf%C3%B3lios-e-Projetos-de-Software">GPP</a> e <a href="https://github.com/fga-gpp-mds/00-Disciplina/wiki/M%C3%A9todos-de-Desenvolvimento-de-Software">MDS</a>.</p>
