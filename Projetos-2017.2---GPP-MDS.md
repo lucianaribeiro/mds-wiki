@@ -23,22 +23,15 @@ Algumas áreas de interesse são:
 [http://portal.tcu.gov.br/imprensa/noticias/cartilha-do-tcu-e-fnde-vai-ajudar-na-fiscalizacao-da-merenda-escolar.htm](http://portal.tcu.gov.br/imprensa/noticias/cartilha-do-tcu-e-fnde-vai-ajudar-na-fiscalizacao-da-merenda-escolar.htm)
      - Palavras-chave: atender a 70.000 potenciais usuários (armazenamento e processamento dos dados). Uso da nuvem civica
      - Contato: a definir
+* Me representa - auxiliar o eleitor brasileiro a decidirm de forma refletida e individual, seu voto nas próximas eleições do legislativo nacional. App que cruze dados sobre o comportamento de deputdo federais e senadores nas principais votações realizadas na camara e no senado nos ultimos anos.
+     - cliente Elida Silpe (BH)
 
-* Faculdade de saúde - sistema arbovirose analise de dados/visualização de dados - viewflow
-     - Contato: Fabio Mendes (fabiomacedomendes@gmail.com)
-     - Palavras-chave: atender grande publico, analise dos dados
-[http://laboratoriodecenografia.blogspot.com.br/](https://github.com/culturagovbr/salic-api)
-
-* Sistema de monitoramento e controle de projetos de software livre
-  - Cliente: GPP/MDS - Contato: João Guilherme Silva <joaaogui@gmail.com>
-  - Palavras-chave: Sistema BI - identificar anomalias, gerar indicadores/metricas em tempo real
-
-* Catálogo de software/inovação unb
-  - Cliente - CPD/DGTI - Contato: a definir
-  - Palavras-chave: 
 
 * Jarbas
   - cliente - fabio
+* Sistema de monitoramento e controle de projetos de software livre
+  - Cliente: GPP/MDS - Contato: João Guilherme Silva <joaaogui@gmail.com>
+  - Palavras-chave: Sistema BI - identificar anomalias, gerar indicadores/metricas em tempo real
 * Smart Triagem pediátrica
   - Cliente:  Startup healthTech
   - Palavras-chave: webapp, arvore de decisões, 
