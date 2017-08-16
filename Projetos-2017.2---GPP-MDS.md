@@ -15,29 +15,29 @@ Algumas áreas de interesse são:
 
 
 * Web monitoramento de indicadores culturais 
-     - Contato: Nitai
-     - Palavras-chave: identificar anomalias
-[https://github.com/hacklabr/mapasculturais](https://github.com/hacklabr/mapasculturais)
+     - Contato: Nitai (coodenador TI ministério da cultura) - nitai.silva@cultura.gov.br
+     - Palavras-chave: Business Intelligence
+
+
 
 * Aplicativos multiplataformas/ webapp para Conselheiros da Merenda Escolar - Cliente: TCU (Minimo 2 grupos)
 [http://portal.tcu.gov.br/imprensa/noticias/cartilha-do-tcu-e-fnde-vai-ajudar-na-fiscalizacao-da-merenda-escolar.htm](http://portal.tcu.gov.br/imprensa/noticias/cartilha-do-tcu-e-fnde-vai-ajudar-na-fiscalizacao-da-merenda-escolar.htm)
      - Palavras-chave: atender a 70.000 potenciais usuários (armazenamento e processamento dos dados). Uso da nuvem civica
-     - Contato: a definir
+     - Contato: Marcela de Oliveira Timoteo  (assessora secretário da educação) - marcela.timoteo@tcu.gov.br
 * Me representa - auxiliar o eleitor brasileiro a decidirm de forma refletida e individual, seu voto nas próximas eleições do legislativo nacional. App que cruze dados sobre o comportamento de deputdo federais e senadores nas principais votações realizadas na camara e no senado nos ultimos anos.
-     - cliente Elida Silpe (BH)
+     - cliente Elida Silpe (BH) - elidasilpe@gmail.com
 
 
-* Jarbas
-  - cliente - fabio
+
 * Sistema de monitoramento e controle de projetos de software livre
   - Cliente: GPP/MDS - Contato: João Guilherme Silva <joaaogui@gmail.com>
   - Palavras-chave: Sistema BI - identificar anomalias, gerar indicadores/metricas em tempo real
 * Smart Triagem pediátrica
-  - Cliente:  Startup healthTech
+  - Cliente:  Dr. Getúlio Morato (medico pediatra)- drgetulio@clinimeta.com
   - Palavras-chave: webapp, arvore de decisões, 
 
 * smart Receituario eletrônico 
-  - Cliente:  Startup healthTech
+  - Cliente:  Dr. Getúlio Morato (medico pediatra)- drgetulio@clinimeta.com
   - Palavras-chave: webapp, arvore de decisões, big data
 
 ***
