@@ -112,3 +112,29 @@ gulp.task('watch', function() {
 gulp.task('default',['browserSync', 'watch']);
 
 ```
+
+##### Dependências necessárias
+
+As dependências necessárias para o gulp é o node.js que é um interpretador de código javascript e o npm que é um gerenciador de pacotes do node.js.
+
+Como instalar o node.js:
+
+```apt-get install -y nodejs```
+
+
+Como instalar o npm:
+
+```apt-get install npm -y```
+
+PS: Algumas dependências internas do gulp necessitam de uma versão do node.js específica. 
+
+Após a instalação das dependêncais acima é necessário instalar o gulp e o browser-sync, com os seguintes comandos:
+
+```npm install -g gulp-cli gulp```
+
+```npm install browser-sync```
+
+
+É mais recomendado utilizar um arquivo de dependências node: O packge.json.  Com o arquivo configurado basta utilizar o seguinte comando comando:
+
+```npm install```
