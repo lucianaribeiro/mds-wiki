@@ -138,3 +138,33 @@ Após a instalação das dependêncais acima é necessário instalar o gulp e o 
 É mais recomendado utilizar um arquivo de dependências node: O packge.json.  Com o arquivo configurado basta utilizar o seguinte comando comando:
 
 ```npm install```
+
+##### Utilizando Django com  o Gulp
+
+Para utilizar o servidor do django integrado com o gulp para sincronizar arquivos estáticos ao *browser* é simples basta executar os servidores juntamente, mapeando o proxy do browser-sync com o server do django(pode ser visto acima). Utilize o seguinte comando:
+
+```
+python3 aplication/manage.py runserver & .
+
+npm run gulp
+```
+
+Note que é possível acessar o localhost:8000, no entanto a sincronização só é feita no endereço localhost:3000.
+
+##### Utilizando Gulp e Django no docker-compose
+
+Para utilizar o gulp e django no docker-compose é necessario mapear as portas 8000:8000 e a 3000:3000. Além disso é preciso adiconar os seguintes comandos no docker-compose.yml para executar os servidores: 
+
+```
+python3 medical_prescription/manage.py runserver 0.0.0.0:8000 & .
+
+./node_modules/.bin/gulp default
+```
+
+### Referências
+
+> <p align="justify"> SOUZA, Leonardo. Bye bye Grunt.js, hello Gulp.js!. Disponível em:< http://blog.caelum.com.br/bye-bye-grunt-js-hello-gulp-js/ > Acesso em: 29 de Novembro de 2017 </p>
+
+> <p align="justify"> TRAVIS. Heroku Deployment. Disponível em :< https://docs.travis-ci.com/user/deployment/heroku/ >. Acesso em: 29 de Novembro de 2017 </p>
+
+> <p align="justify"> TRAVIS. Using Docker in Builds. Disponível em : < https://docs.travis-ci.com/user/docker/ > Acesso em: 29 de Novembro de 2017  </p>
