@@ -57,6 +57,10 @@
 
 <p align = "justify">Um outro indicador que consegue nos trazer melhor ainda a progressão do trabalho da equipe durante a sprint é o quadro de <i>commit</i>. Com esse quadro é possível se ter uma ideia bem melhor da divisão do trabalho entre a semana, pois se tratando do contexto universitário da matéria de GPP-MDS se torna muito difícil em detrimento de inúmeras razões conseguir manter um burndown aceitável. E com esse quadro de commits tudo fica mais transparente.</p>
 
+![](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2017.2-Receituario-Medico/imagens/sprint_07/commits.png)
+
+<p align="justify">Diferente do burndown o quadro de commits demonstra melhor o trabalho da equipe. Como pode ser visto no exemplo acima no começo da semana houve um progresso considerável nas histórias como mostra o gráfico de commits, mas pode-se notar que quinta e sexta houve uma queda nos commits por conta dos trabalhos de todos os membros da equipe. Dados esses que não conseguem ser observados no burndown dependendo da dificuldade das histórias.</p>
+
 ## 2. Indicadores de Qualidade de Código
 
 ### 2.1 Métricas
