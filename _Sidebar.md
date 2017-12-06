@@ -31,6 +31,8 @@
 
 [Indicadores Ágeis](./Indicadores-%C3%81geis)
 
+[Como pontuar o backlog](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Como-pontuar-)
+
 # Programação Extrema (XP)
 [Pair Programming](./Pair-Programming)
 
