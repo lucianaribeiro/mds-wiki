@@ -21,7 +21,7 @@ No exemplo, cria-se um serviço `redis` utilizando o `Dockerfile` que se encontr
 ### portas
 A comunicação com um container é normalmente feita via porta exposta. No exemplo acima, a porta `6379` do container é mapeada para a porta de mesmo número do `host`. Isto significa que ao acessar a porta 6379 no localhost o conteúdo apresentado refere-se à aplicação em execução no container. 
 
-A ordem de mapeamento é sempre a porta do host para a do container `"host:conatainer"`.
+O mapeamento é iniciado pela porta do host seguida pela porta do container: `"host:conatainer"`.
 
 ### volumes
 ```yml
@@ -34,6 +34,7 @@ services:
       - ./nginx.conf:/etc/nginx/nginx.conf:ro
 ```
 ### depends_on
+Muitas vezes é preciso subir containers em uma ordem específica por questões de dependência. A chave `depends_on` evita que um container suba antes de suas dependencias estarem em execução. No exemplo, o serviço `web` irá esperar o serviço `redis` para iniciar.
 ```yml
   web:
     build: .
@@ -44,6 +45,7 @@ services:
 ```
 
 ### command
+Esta chave executa o comando passado como seu valor assim que o container está em execução. No exemplo, ao terminar a build da imagem, será levantado o servidor do django.
 ```yml
   web:
     build: .
@@ -51,6 +53,7 @@ services:
 ```
 
 ### environment
+Variáveis de ambiente podem ser passadas aos containers usando a chave `enviroment`, como no exemplo abaixo:
 ```yml
 postgres:
     image: postgres
@@ -58,6 +61,12 @@ postgres:
         POSTGRES_PASSWORD: 1234
         POSTGRES_DB: postgres
         POSTGRES_USER: eu
+```
+Porém, por questões de seguraça não é legal expor senhas e chaves desta maneira. O docker compose disponibiliza ainda, uma outra chave chamada `env_file`, onde é possível externalizar as variáveis para um arquivo `.env` e utilizá-lo como a seguir:
+```yml
+web:
+  env_file:
+    - web-variables.env
 ```
 
 ## Executando o Docker Compose
