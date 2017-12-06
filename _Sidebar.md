@@ -57,3 +57,8 @@
 [Integração Contínua com Travis CI](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Integra%C3%A7%C3%A3o-Cont%C3%ADnua-Travis-CI)
 
 [Disponibilizando a Aplicação com o Proxy Reverso Nginx Reverse](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Colocando-a-aplica%C3%A7%C3%A3o-em-produ%C3%A7%C3%A3o-com-NGINX)
+
+# Tutoriais
+[Tutorial de Instalação do Ionic](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Configura%C3%A7%C3%A3o-de-Ambiente)
+
+[Android Integração contínua com Circle CI](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Android---Circle-Continuous-Integration-(Unit-Tests,-UI-Tests,-Coverage-build-pass-rule,-beta-deploy-and-production-deploy-automated))
