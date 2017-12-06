@@ -5,8 +5,10 @@ Mapeando diretamente as fases do RUP com o PMBok pode-se ver que as fases de ini
 ![relação de fases](http://www.techoje.com.br/bolttools/files/image/Hermont%2002.jpg)
 
 ### Fase de Iniciação (RUP)
-Conhecida também como fase de concepção, tem como foco central o escopo do sistema, sendo assim seu objetivo principal é estudar a viabilidade de continuar o projeto e definir os riscos e custos do mesmo.
+<p align = "justify">Conhecida também como fase de concepção, tem como foco central o escopo do sistema, sendo assim seu objetivo principal é estudar a viabilidade de continuar o projeto e definir os riscos e custos do mesmo.</p>
+
 A fase de iniciação do RUP tem como objetivo responder questões como: 
+
  * Qual é a visão e o caso de negócio para o projeto?
  * Ele é viável?
  * Devemos construir ou comprar?
@@ -14,7 +16,8 @@ A fase de iniciação do RUP tem como objetivo responder questões como:
  * Devemos continuar ou parar?
 
 ### Fase de Iniciação (PMBok)
-Apesar de ser um grupo de processos com menos processos (assim como Grupo de Processo de Encerramento), a iniciação tem grande influência, uma vez que grande dos processos posteriores serão influenciados pelos realizados nesta fase. Um erro nessa fase do projeto que não for percebido a tempo, pode levar o mesmo ao fracasso.
+
+<p align = "justify">Apesar de ser um grupo de processos com menos processos (assim como Grupo de Processo de Encerramento), a iniciação tem grande influência, uma vez que grande dos processos posteriores serão influenciados pelos realizados nesta fase. Um erro nessa fase do projeto que não for percebido a tempo, pode levar o mesmo ao fracasso.</p>
 
 ### Quais os processos do PMBok são executados - ilustre
 
