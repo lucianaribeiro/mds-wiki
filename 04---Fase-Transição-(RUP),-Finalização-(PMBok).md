@@ -40,17 +40,17 @@ Os critérios básicos de avaliação para a fase de transição envolvem as res
   
 ### 1.1 Objetivos Principais  
   
-* Teste beta para validar o novo sistema em confronto com as expectativas do usuário
-* Teste beta e operação paralela relativa a um sistema legado que está sendo substituído
-* Conversão de bancos de dados operacionais
-* Treinamento de usuários e equipe de manutenção
-* Introdução a <i>marketing</i>, distribuição e equipe de vendas
-* Engenharia voltada para implantação, como preparação, empacotamento e produção comercial, introdução a vendas, treinamento de pessoal em campo
-* Atividades de ajuste, como correção de erros, melhoria no desempenho e na usabilidade
-* Avaliação das <i>baselines</i> de implantação tendo como base a visão completa e os critérios de aceitação para o produto
-* Obtenção de auto-suportabilidade do usuário
-* Obtenção do consentimento dos envolvidos de que as baselines de implantação estão completas
-* Obtenção do consentimento dos envolvidos de que as baselines de implantação são consistentes com os critérios de avaliação da visão  
+* <p align = "justify">Teste beta para validar o novo sistema em confronto com as expectativas do usuário
+* <p align = "justify">Teste beta e operação paralela relativa a um sistema legado que está sendo substituído
+* <p align = "justify">Conversão de bancos de dados operacionais
+* <p align = "justify">Treinamento de usuários e equipe de manutenção
+* <p align = "justify">Introdução a <i>marketing</i>, distribuição e equipe de vendas
+* <p align = "justify">Engenharia voltada para implantação, como preparação, empacotamento e produção comercial, introdução a vendas, treinamento de pessoal em campo
+* <p align = "justify">Atividades de ajuste, como correção de erros, melhoria no desempenho e na usabilidade
+* <p align = "justify">Avaliação das <i>baselines</i> de implantação tendo como base a visão completa e os critérios de aceitação para o produto
+* <p align = "justify">Obtenção de auto-suportabilidade do usuário
+* <p align = "justify">Obtenção do consentimento dos envolvidos de que as baselines de implantação estão completas
+* <p align = "justify">Obtenção do consentimento dos envolvidos de que as baselines de implantação são consistentes com os critérios de avaliação da visão  
   
 ### 1.2 Atividades básicas
 
