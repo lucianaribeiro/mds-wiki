@@ -53,6 +53,9 @@
 
 <p align = "justify">O quadro de conhecimento indica o conhecimento de cada integrante da equipe em relação à alguma tecnologia utilizada no projeto. A partir desse quadro, devem ser definidas as duplas de pareamento de forma que a distribuição sempre possua o objetivo da melhor disseminação de conhecimento possível dentro da equipe. É esperado que os indicadores do quadro sempre evoluam durante as <i>sprints</i> indicando a evolução do conhecimento dos integrantes da equipe.</p>
 
+### 1.6 Quadro de Commits
+
+<p align = "justify">Um outro indicador que consegue nos trazer melhor ainda a progressão do trabalho da equipe durante a sprint é o quadro de <i>commit</i>. Com esse quadro é possível se ter uma ideia bem melhor da divisão do trabalho entre a semana, pois se tratando do contexto universitário da matéria de GPP-MDS se torna muito difícil em detrimento de inúmeras razões conseguir manter um burndown aceitável. E com esse quadro de commits tudo fica mais transparente.</p>
 
 ## 2. Indicadores de Qualidade de Código
 
