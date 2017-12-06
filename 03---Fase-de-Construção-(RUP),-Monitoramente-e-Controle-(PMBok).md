@@ -104,12 +104,13 @@ ______
 A codificação ocorre predominantemente nessa fase. Nesse momento o maior artefato que será obtido é o próprio sistema, ou seja, ocorre a construção do sistema de <i>software</i> com foco no desenvolvimento de componentes e outros recursos necessários. Lembrando que podem ainda ser produzidos materiais para treinamento e, se necessário, documentação para os usuários (como os manuais de usuários). Existem ainda outras atividades que podem ocorrer em paralelo, como a identificação e correção de defeitos, além da descrição da <i>release</i> atual. O principal resultado de uma iteração no final da fase de construção é que mais funcionalidade é adicionada, o que proporciona um sistema muito mais completo. Os resultados da iteração atual ficam visíveis para os desenvolvedores formarem a base de desenvolvimento para as iterações subsequentes ate chegar no principal artefato da fase, o próprio sistema.
 
 ## Quais os templates usados para gerar os artefatos do PMbok 
-
+<p align = "justify"> O PMBok não define templates padronizados para realizar os artefatos propostos pelo mesmo. </p>
+<p align = "justify"> Porém o mesmo trás em suas seções tópicos que considera relevantes para o artefato em questão,cabendo a cada um adaptar e escolher os tópicos que considera relevante para a realização do seu projeto.</p>
 
 ## Quais os templates usados para gerar os artefatos do RUP?
 
 ## Quais os papéis desempenhados por GPP nessa fase? - descreva
-*
+
 
 ## Quais os papéis desempenhados por MDS nessa fase? descreva 
 
