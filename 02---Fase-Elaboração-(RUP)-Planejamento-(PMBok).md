@@ -19,92 +19,73 @@ Representação da fase de Planejamento, contendo as atividades do PMBok de acor
 
 ##  Quais os processos do PMBok são executados - ilustre
 
-* **Gerenciamento da integração do projeto**
-   * Desenvolver o [Plano de Gerenciamento do Projeto](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Plano-de-Gerenciamento-do-Projeto)
+*  ### Gerenciamento da integração do projeto
 
-Segundo o Guia PMBOK®, desenvolver o plano de gerenciamento de projeto é o processo de documentação das ações necessárias para definição, preparação, integração e coordenação todos os planos auxiliares. É considerado o principal processo de planejamento, por integrar os demais planos complementando-os.
-* **Gerenciamento do escopo do projeto**
-   * Planejar o gerenciamento do escopo
+   * **Desenvolver o [Plano de Gerenciamento do Projeto](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Plano-de-Gerenciamento-do-Projeto)**: Segundo o Guia PMBOK®, desenvolver o plano de gerenciamento de projeto é o processo de documentação das ações necessárias para definição, preparação, integração e coordenação todos os planos auxiliares. É considerado o principal processo de planejamento, por integrar os demais planos complementando-os.
 
-Planejar o gerenciamento do escopo define e documenta como a equipe do projeto definirá, validará e controlará o escopo.
-   * Coletar os requisitos
 
-Coletar os requisitos é o o processo de definir e documentar as necessidades das partes interessadas para atingir os objetivos dos projetos. Os requisitos devem ser obtidos, analisados e registrados em detalhes suficientes para serem medidos durante a execução do projeto além disso eles servem como base para a elaboração da EAP, assim como o planejamento de custos, tempo e qualidade.
-   * Definir o escopo
+* ### Gerenciamento do escopo do projeto
 
-Definir o Escopo é desenvolver uma descrição detalhada do projeto e do produto.
-   * Criar a EAP
+   * <p align = "justify"><b>Planejar o gerenciamento do escopo:</b> Planejar o gerenciamento do escopo define e documenta como a equipe do projeto definirá, validará e controlará o escopo.
 
-Criar a EAP é o processo de subdividir os produtos do projeto e o trabalho do projeto em componentes menores e mais gerenciáveis.
-* **Gerenciamento do tempo do projeto**
-   * Planejar o gerenciamento do cronograma
+   * <p align = "justify"><b>Coletar os requisitos:</b> Coletar os requisitos é o o processo de definir e documentar as necessidades das partes interessadas para atingir os objetivos dos projetos. Os requisitos devem ser obtidos, analisados e registrados em detalhes suficientes para serem medidos durante a execução do projeto além disso eles servem como base para a elaboração da EAP, assim como o planejamento de custos, tempo e qualidade.
 
-Planejar o gerenciamento do cronograma estabelece as políticas, procedimentos e documentação para planejar, desenvolver, gerenciar, executar e controlar o cronograma do projeto.
-   * Definir as Atividades
+   * <p align = "justify"><b>Definir o escopo:</b> Definir o Escopo é desenvolver uma descrição detalhada do projeto e do produto.
 
-Segundo o Guia PMBOK®, Definir as atividades é o processo de identificação das ações específicas a serem realizadas para produzir as entregas do projeto.
-   * Sequenciar as Atividades
+   * <p align = "justify"><b>Criar a EAP:</b> Criar a EAP é o processo de subdividir os produtos do projeto e o trabalho do projeto em componentes menores e mais gerenciáveis.
 
-Sequenciar as Atividades tem como objetivo, identificar e documentar as relações de dependência entre as atividades.
-   * Estimar os recursos das atividades
+* ### Gerenciamento do tempo do projeto
 
-Estimar os recursos da atividade é estimar todos os recursos necessários para a execução de cada atividade determinando o tipo e a quantidade de material, pessoas, equipamentos ou suprimentos.
-   * Estimar as durações das atividades
+   * <p align = "justify"><b>Planejar o gerenciamento do cronograma:</b> Planejar o gerenciamento do cronograma estabelece as políticas, procedimentos e documentação para planejar, desenvolver, gerenciar, executar e controlar o cronograma do projeto.
 
-Estimar a duração da atividade é estimar a quantidade de períodos de trabalho necessários para terminar cada atividade considerando os recursos que foram estimados no processo Estimar os Recursos das Atividades.
-   * Desenvolver o Cronograma
+   * <p align = "justify"><b>Definir as Atividades:</b> Segundo o Guia PMBOK®, Definir as atividades é o processo de identificação das ações específicas a serem realizadas para produzir as entregas do projeto.
 
-Desenvolver o Cronograma é um processo iterativo que envolve analisar a sequência das atividades, sua duração, seus requerimentos de recursos e suas restrições para criar o cronograma do projeto e determinar as datas de início e término de cada atividade.
+   * <p align = "justify"><b>Sequenciar as Atividades:</b> Sequenciar as Atividades tem como objetivo, identificar e documentar as relações de dependência entre as atividades.
 
-* **Gerenciamento dos custos do projeto**
-   * Planejar o gerenciamento dos custos
+   * <p align = "justify"><b>Estimar os recursos das atividades:</b> Estimar os recursos da atividade é estimar todos os recursos necessários para a execução de cada atividade determinando o tipo e a quantidade de material, pessoas, equipamentos ou suprimentos.
 
-Planejar o gerenciamento dos custos estabelece as políticas, procedimentos e documentação para planejar, gerenciar, executar e controlar os custos do projeto.
-   * Estimar os custos
+   * <p align = "justify"><b>Estimar as durações das atividades:</b> Estimar a duração da atividade é estimar a quantidade de períodos de trabalho necessários para terminar cada atividade considerando os recursos que foram estimados no processo Estimar os Recursos das Atividades.
 
-Estimar os Custos tem como objetivo desenvolver uma estimativa dos custos dos recursos necessários para executar as atividades do projeto. Custo é a remuneração dos fatores de produção (mão-de-obra, capital, máquinas, instalações, materiais e serviços) utilizados na preparação e execução de um processo produtivo.
-   * Determinar o orçamento
+   * <p align = "justify"><b>Desenvolver o Cronograma:</b> Desenvolver o Cronograma é um processo iterativo que envolve analisar a sequência das atividades, sua duração, seus requerimentos de recursos e suas restrições para criar o cronograma do projeto e determinar as datas de início e término de cada atividade.
 
-Determinar o orçamento agrega os custos estimados das atividades para estabelecer uma linha de base.
+* ### Gerenciamento dos custos do projeto
 
-* **Gerenciamento da qualidade do projeto**
-   * Planejar o gerenciamento da qualidade
+   * <p align = "justify"><b>Planejar o gerenciamento dos custos:</b> Planejar o gerenciamento dos custos estabelece as políticas, procedimentos e documentação para planejar, gerenciar, executar e controlar os custos do projeto.
 
-Identificar os requisitos e/ou padrões da qualidade relevantes ao projeto e suas entregas e determinar como satisfazê-los.
-Garantir que toda atividade do projeto é aderente com as políticas e padrões da qualidade da empresa e que todas entregas estão em conformidade com seus critérios de aceitação.
+   * <p align = "justify"><b>Estimar os custos:</b> Estimar os Custos tem como objetivo desenvolver uma estimativa dos custos dos recursos necessários para executar as atividades do projeto. Custo é a remuneração dos fatores de produção (mão-de-obra, capital, máquinas, instalações, materiais e serviços) utilizados na preparação e execução de um processo produtivo.
 
-* **Gerenciamento dos recursos humanos do projeto**
-   * Planejar o gerenciamento dos recursos humanos
+   * <p align = "justify"><b>Determinar o orçamento:</b> Determinar o orçamento agrega os custos estimados das atividades para estabelecer uma linha de base.
 
-Planejar o gerenciamento dos recursos humanos ou desenvolver o plano de recursos humanos tem como objetivo identificar e documentar as funções, responsabilidades, competências necessárias e relações hierárquicas.
-* **Gerenciamento das comunicações do projeto**
-   * Planejar o gerenciamento das comunicações
+* ### Gerenciamento da qualidade do projeto
 
-Segundo o Guia PMBOK®, planejar o gerenciamento das comunicações é o processo de determinar as necessidades de informação das partes interessadas no projeto e definir uma abordagem de comunicação.
-* **Gerenciamento dos riscos do projeto**
-   * Planejar o gerenciamento dos riscos
+   * <p align = "justify"><b>Planejar o gerenciamento da qualidade:</b> Identificar os requisitos e/ou padrões da qualidade relevantes ao projeto e suas entregas e determinar como satisfazê-los.Garantir que toda atividade do projeto é aderente com as políticas e padrões da qualidade da empresa e que todas entregas estão em conformidade com seus critérios de aceitação.
 
-Planejar o gerenciamento dos riscos tem como objetivo definir como conduzir as atividades de gerenciamento de riscos para o projeto.
-   * Identificar os riscos
+* ### Gerenciamento dos recursos humanos do projeto
 
-Identificar os riscos tem como objetivo determinar quais risco podem afetar o projeto e documentar suas características.
-   * Realizar a análise qualitativa dos riscos
+   * <p align = "justify"><b>Planejar o gerenciamento dos recursos humanos:</b> Planejar o gerenciamento dos recursos humanos ou desenvolver o plano de recursos humanos tem como objetivo identificar e documentar as funções, responsabilidades, competências necessárias e relações hierárquicas.
 
-Realizar a análise qualitativa de riscos tem como objetivo avaliar a exposição ao risco para priorizar os riscos que serão objeto de análise ou ação adicional.
-   * Realizar a análise quantitativa dos riscos
+* ### Gerenciamento das comunicações do projeto
 
-Realizar a análise quantitativa dos riscos tem como objetivo efetuar a análise numérica do efeito dos riscos identificados nos objetivos gerais do projeto.
-   * Planejar as respostas aos riscos
+   * <p align = "justify"><b>Planejar o gerenciamento das comunicações:</b> Segundo o Guia PMBOK®, planejar o gerenciamento das comunicações é o processo de determinar as necessidades de informação das partes interessadas no projeto e definir uma abordagem de comunicação.
 
-Planejar as respostas aos riscos tem como objetivo desenvolver opções e ações para aumentar as oportunidades e reduzir as ameaças aos objetivos do projeto.
-* **Gerenciamento das aquisições do projeto**
-   * Planejar o gerenciamento das aquisições
+* ### Gerenciamento dos riscos do projeto
 
-Planejar o gerenciamento das aquisições é o primeiro processo das aquisições e descreverá como os demais processos irão ocorrer através do Plano de Gerenciamento das Aquisições.
-* **Gerenciamento das partes interessadas do projeto**
-   * Planejar o gerenciamento das partes interessadas
+   * <p align = "justify"><b>Planejar o gerenciamento dos riscos:</b> Planejar o gerenciamento dos riscos tem como objetivo definir como conduzir as atividades de gerenciamento de riscos para o projeto.
 
-Planejar o gerenciamento das partes interessadas tem como objetivo desenvolver estratégias para quebrar as resistências das partes interessadas e garantir seu engajamento no projeto.
+   * <p align = "justify"><b>Identificar os riscos:</b> Identificar os riscos tem como objetivo determinar quais risco podem afetar o projeto e documentar suas características.
+
+   * <p align = "justify"><b>Realizar a análise qualitativa dos riscos:</b> Realizar a análise qualitativa de riscos tem como objetivo avaliar a exposição ao risco para priorizar os riscos que serão objeto de análise ou ação adicional.
+
+   * <p align = "justify"><b>Realizar a análise quantitativa dos riscos:</b> Realizar a análise quantitativa dos riscos tem como objetivo efetuar a análise numérica do efeito dos riscos identificados nos objetivos gerais do projeto.
+
+   * <p align = "justify"><b>Planejar as respostas aos riscos:</b> Planejar as respostas aos riscos tem como objetivo desenvolver opções e ações para aumentar as oportunidades e reduzir as ameaças aos objetivos do projeto.
+
+* ### Gerenciamento das aquisições do projeto
+
+   * <p align = "justify"><b>Planejar o gerenciamento das aquisições:</b> Planejar o gerenciamento das aquisições é o primeiro processo das aquisições e descreverá como os demais processos irão ocorrer através do Plano de Gerenciamento das Aquisições.
+
+* ### Gerenciamento das partes interessadas do projeto
+   * <p align = "justify"><b>Planejar o gerenciamento das partes interessadas:</b> Planejar o gerenciamento das partes interessadas tem como objetivo desenvolver estratégias para quebrar as resistências das partes interessadas e garantir seu engajamento no projeto.
 ______________________________________________
 
 * (GPP) Como construir uma EAP (Estrutura analítica de Projeto) - Tutorial
