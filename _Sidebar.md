@@ -75,4 +75,4 @@
 
 [Teste Automatizado Cucumber Rails](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Teste-Automatizado-Cucumber-Rails)
 
-[Diário de Bordo: Testando AngularJS](https://github.com/fga-gpp-mds/2016.2-Observatorio-de-Residuos-Frontend/wiki/Di%C3%A1rio-de-Bordo%3A-Testando-AngularJS)
+[Testando AngularJS com Jasmine](https://github.com/fga-gpp-mds/2016.2-Observatorio-de-Residuos-Frontend/wiki/Di%C3%A1rio-de-Bordo%3A-Testando-AngularJS)
