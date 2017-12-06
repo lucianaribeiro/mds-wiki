@@ -39,23 +39,23 @@ Após ter feito as configurações de integração contínua, caso deseje utiliz
 
 * Passo 1: Na dashboard do heroku selecione a opção "New" e depois "Create new App":
 
-![Image]()
+![Image](img/automacao/heroku-01.png)
 
 * Passo 2: Digite o nome do seu app e selecione a região, por default será United States
 
-![Image]()
+![Image](img/automacao/heroku-02.png)
 
 * Passo 3: Verifique qual a api-key do usuário, selecione "Account Settings" e clique em "Reveal"
 
-![Image]()
+![Image](img/automacao/heroku-03.png)
 
-* Passo 4: Agora no travis.ci, entre no local onde a integração contínua está configurada e selecione a opção "More Settings"
+* Passo 4: Agora no travis.ci, entre no local onde a integração contínua está configurada e selecione a opção "More Options" e depois "Settings".
 
-![Image]()
+![Image](img/automacao/travis-01.png)
 
 * Passo 5: Adicione a api-key do heroku como uma variável de ambiente, "Environment Variables":
 
-![Image]()
+![Image](travis-02.png)
 
 * Passo 6: Configure o arquivo .travis.yml com deploy, onde o provider é o heroku que já é integrado com o travis, a api-key é a variável de ambiente do usuário criador do app, o app é aquele criado no heroku e a branch a ser executada o deploy, normalmente a master. Exemplo:
 
