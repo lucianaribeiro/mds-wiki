@@ -24,14 +24,31 @@ A comunicação com um container é normalmente feita via porta exposta. No exem
 A ordem de mapeamento é sempre a porta do host para a do container `"host:conatainer"`.
 
 ### volumes
-
+```yml
+services:
+  nginx:
+    image: nginx
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+```
 ### depends_on
-
-### network
-Ao criar os containers o `compose` cria também uma rede padrão e nela insere todos os serviços definidos no arquivo `yml`.
-Como encontrar o ip de um container na rede?
+```yml
+  web:
+    build: .
+    ports:
+      - "8000:8000"
+    depends_on:
+      - redis
+```
 
 ### command
+```yml
+  web:
+    build: .
+    command: python3 manage.py runserver 0.0.0.0:8000
+```
 
 ### environment
 ```yml
