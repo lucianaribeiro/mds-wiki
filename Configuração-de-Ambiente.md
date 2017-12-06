@@ -1,4 +1,4 @@
-#Tutorial de Instalação do Ionic  
+# Tutorial de Instalação do Ionic  
 
 O tutorial leva em consideração o sistema operacional Ubuntu, na versão 16.04. Outras versões do Ubuntu devem funcionar bem. Se você está usando Debian, o passo a passo não deverá ser muito diferente.  
 Acessar o site do [Node.js](https://nodejs.org/en/), e fazer o download da ferramenta. A versão v4.5.0 LTS servirá bem.  
