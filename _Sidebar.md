@@ -56,9 +56,21 @@
 
 [Integração Contínua com Travis CI](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Integra%C3%A7%C3%A3o-Cont%C3%ADnua-Travis-CI)
 
-[Disponibilizando a Aplicação com o Proxy Reverso Nginx Reverse](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Colocando-a-aplica%C3%A7%C3%A3o-em-produ%C3%A7%C3%A3o-com-NGINX)
+[Disponibilizando a Aplicação com o Proxy Reverso Nginx](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Colocando-a-aplica%C3%A7%C3%A3o-em-produ%C3%A7%C3%A3o-com-NGINX)
 
 # Tutoriais
+[Tutorial Git](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Git)
+
 [Tutorial de Instalação do Ionic](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Configura%C3%A7%C3%A3o-de-Ambiente)
 
 [Android Integração contínua com Circle CI](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Android---Circle-Continuous-Integration-(Unit-Tests,-UI-Tests,-Coverage-build-pass-rule,-beta-deploy-and-production-deploy-automated))
+
+[Configuração de Ambiente para React Native](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Configura%C3%A7%C3%A3o-de-Ambiente-para-React-Native)
+
+[Tutorial Instalação Ruby on Rails](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Rails)
+
+[Tutorial REST API em Node.js](https://github.com/fga-gpp-mds/00-Disciplina/wiki/REST-API-em-Node.js-e-RethinkDB)
+
+[Teste Automatizado Cucumber JS](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Teste-Automatizado-Cucumber-JS)
+
+[Teste Automatizado Cucumber Rails](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Teste-Automatizado-Cucumber-Rails)
