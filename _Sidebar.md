@@ -45,3 +45,15 @@
 
 [Integração Contínua Deploy Contínuo](./Integra%C3%A7%C3%A3o-Cont%C3%ADnua---Deploy-Cont%C3%ADnuo)
 
+# DevOps
+[Automações](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Automa%C3%A7%C3%B5es)
+
+[Automação de Ambiente com Docker](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Configuracao-de-ambiente-virtual-utilizando-docker)
+
+[Automação de Ambiente com Vagrant](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Configura%C3%A7%C3%A3o-de-um-ambiente-virtual-utilizando-o-Vagrant)
+
+[Deploy Contínuo na Plataforma Heroku](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Deploy-Cont%C3%ADnuo)
+
+[Integração Contínua com Travis CI](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Integra%C3%A7%C3%A3o-Cont%C3%ADnua-Travis-CI)
+
+[Disponibilizando a Aplicação com o Proxy Reverso Nginx Reverse](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Colocando-a-aplica%C3%A7%C3%A3o-em-produ%C3%A7%C3%A3o-com-NGINX)
