@@ -50,6 +50,8 @@
 
 [Automação de Ambiente com Docker](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Configuracao-de-ambiente-virtual-utilizando-docker)
 
+[Orquestração de Containers com Docker Compose](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Docker-Compose)
+
 [Automação de Ambiente com Vagrant](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Configura%C3%A7%C3%A3o-de-um-ambiente-virtual-utilizando-o-Vagrant)
 
 [Deploy Contínuo na Plataforma Heroku](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Deploy-Cont%C3%ADnuo)
