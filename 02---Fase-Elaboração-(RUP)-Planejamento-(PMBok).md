@@ -88,7 +88,7 @@ Representação da fase de Planejamento, contendo as atividades do PMBok de acor
    * <p align = "justify"><b>Planejar o gerenciamento das partes interessadas:</b> Planejar o gerenciamento das partes interessadas tem como objetivo desenvolver estratégias para quebrar as resistências das partes interessadas e garantir seu engajamento no projeto.
 ______________________________________________
 
-* (GPP) Como construir uma EAP (Estrutura analítica de Projeto) - Tutorial
+## (GPP) Como construir uma EAP (Estrutura analítica de Projeto) - Tutorial
 
 <p align="justify">Segundo o PMBOK, "A EAP é a decomposição hierárquica do escopo total do trabalho a ser executado pela equipe do projeto a fim de alcançar os objetivos do projeto e criar as entregas exigidas", ou seja, ela nada mais é que uma representação gráfica que ilustra a divisão e subdivisão de todo o escopo do seu projeto em pacotes de trabalho entregáveis.</p>
 
