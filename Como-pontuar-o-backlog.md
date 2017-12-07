@@ -23,9 +23,27 @@
 
 <p align = "justify">Para atribuir peso, faça o seguinte:</p>
 
-* – Se for uma grande história (ou seja, a equipe acredita que aquela história irá demandar um esforço grande) a coloque em uma extremidade da mesa, lado esquerdo, por exemplo;
-* – Se for uma pequena história coloque na outra extremidade da mesa;
-* – Se for uma história média, coloque no meio.
+* Se for uma grande história (ou seja, a equipe acredita que aquela história irá demandar um esforço grande) a coloque em uma extremidade da mesa, lado esquerdo, por exemplo;
+* Se for uma pequena história coloque na outra extremidade da mesa;
+* Se for uma história média, coloque no meio.
 
 
+## Passo #4: Estime por esforço relativo
 
+<p align = "justify">Agora pegue uma 2° história e pergunte para a equipe se o esforço para faze-la é mais ou menos o mesmo da história que está na mesa.</p>
+
+<p align = "justify">Por exemplo, supondo que a 1° história foi considerada de tamanho G (grande), pergunte a equipe se o esforço para implementar essa 2° história selecionada é similar a 1° história que é do tamanho G.</p>
+
+<p align = "justify">Se a resposta for sim, a coloque sobre a mesa na mesma extremidade das cartas de esforço grande.</p>
+
+<p align = "justify">Usando esta técnica, é possível passar por 100 ou mais histórias de usuário dentro do Product Backlog e estimar o seu esforço relativo em menos de uma hora.</p>
+
+## Passo #5: Pontue as histórias
+
+<p align = "justify">Agora, se você prefere utilizar Story Points, siga o que vou lhe explicar agora!</p>
+
+<p align = "justify">Pegue um grupo de histórias, pode ser o com esforço “pequeno” (P) que são, teoricamente, mais fáceis.</p>
+
+<p align = "justify">Junto com a equipe, comece dando a pontuação de 1 para todas daquele grupo, depois passe uma por uma e analise se a pontuação está coerente.</p>
+
+<p align = "justify">Por exemplo, se você avaliou a primeira história e deu 2 pontos para ela, a segunda você irá comparar com essa, se você perceber que a história atual é duas vezes mais trabalhosa, você dá a pontuação de 4 pontos para a mesma, se for três vezes mais trabalhosa você dá a pontuação de 6.</p>
