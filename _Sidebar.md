@@ -33,6 +33,8 @@
 
 [Como pontuar o backlog](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Como-pontuar-o-backlog)
 
+[Como melhorar a comunicação](https://github.com/fga-gpp-mds/00-Disciplina/wiki/Com)
+
 # Programação Extrema (XP)
 [Pair Programming](./Pair-Programming)
 
