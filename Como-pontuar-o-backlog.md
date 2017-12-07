@@ -47,3 +47,7 @@
 <p align = "justify">Junto com a equipe, comece dando a pontuação de 1 para todas daquele grupo, depois passe uma por uma e analise se a pontuação está coerente.</p>
 
 <p align = "justify">Por exemplo, se você avaliou a primeira história e deu 2 pontos para ela, a segunda você irá comparar com essa, se você perceber que a história atual é duas vezes mais trabalhosa, você dá a pontuação de 4 pontos para a mesma, se for três vezes mais trabalhosa você dá a pontuação de 6.</p>
+
+## Fonte
+
+[Cultura ágil](https://www.culturaagil.com.br/5-passos-para-estimar-seu-backlog-em-menos-de-1-hora/)
