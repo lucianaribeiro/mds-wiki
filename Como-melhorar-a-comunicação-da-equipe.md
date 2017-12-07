@@ -1,6 +1,6 @@
 ## Comunicação
 
-<p align="justify">Se algum membro está contribuindo negativamente para o andamento do projeto, o Scrum Master não tem o poder de puni-lo. Uma boa prática é evidenciar os problemas ocorridos, convencer o membro que sua contribuição poderia ser melhor para o projeto e ser solícito para praticar as mudanças necessárias para uma melhoria na sua postura.</p>
+<p align="justify">Se algum membro está contribuindo negativamente para o andamento do projeto, o Scrum Master não tem o poder de puní-lo. Uma boa prática é evidenciar os problemas ocorridos, convencer o membro que sua contribuição poderia ser melhor para o projeto e ser solícito para praticar as mudanças necessárias para uma melhoria na sua postura.</p>
 
 <p align="justify">O daily meeting é definido pelo Scrum como o momento diário onde o time conversa sobre o que aconteceu no dia anterior, o que está acontecendo e quais os entraves para o andamento das atividades. É preciso entender que essa definição não pode ser encarada como os 15 minutos destinados à conversação em 8 horas de trabalho diário. O daily meeting não pode ser o único momento onde as pessoas conversam durante um dia de trabalho. Esse momento deve ser encarado como o momento onde toda equipe compartilha o estado atual de um determinado projeto.</p>
 
