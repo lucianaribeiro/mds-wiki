@@ -10,4 +10,13 @@
 
 <p align="justify">Algumas premissas devem ser consideradas para que o processo de comunicação ocorra de forma natural durante esses momentos. A primeira premissa é que a retrospectiva não é um momento para eleger culpados por eventuais falhas ocorridas. Uma boa prática é evitar citar nomes durante esse momento, seja ao relatar casos de sucesso ou ao relatar problemas. Tudo que aconteceu durante o sprint deve ser responsabilidade do time como um todo, não importando as individualidades de cada integrante.</p>
 
+## Dailys
 
+<p align="justify">As equipes ainda veem no ScrumMaster um papel gerencial e tendem a se reportarem diretamente a este papel durante a reunião diária, quando, na verdade, a equipe deveria somente ter foco no que foi feito desde a reunião anterior e no que será feito a seguir, sendo uma cerimônia de sincronização da equipe e para a equipe.</p>
+
+<p align="justify">Para evitar esta tendência das equipes: </p>
+
+* Se você é um ScrumMaster, não faça contato visual com quem estiver falando durante a reunião diária. Não manter este contato visual, contribui para que os comentários não sejam status direcionados somente ao Scrum Master.
+* O Scrum Master pode faltar ocasionalmente da reunião e deixar um membro da equipe como facilitador ou permitir que a própria equipe se organize;
+* Muitas equipes se reúnem em um círculo ou semi-círculo. O Scrum Master poderia se posicionar fora dessa formação; (ajuda a evitar o contato visual)
+* O Scrum Master deve posicionar-se como um observador silencioso, informando a equipe que isso é um exercício para lembrá-los de que estão se auto-organizando e que a reunião diária do Scrum é quase que exclusiva da equipe.
