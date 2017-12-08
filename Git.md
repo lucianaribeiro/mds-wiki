@@ -114,6 +114,9 @@ Um problema que se pode identificar ainda ao se parear utilizando apenas um comp
 
 > git commit --author="Author Name <email@address.com>"
 
+* Author Name: Nome do autor registrado no git
+* <email@address.com>: Email do autor registrado no git
+
 <p align = "justify">Ao se utilizar essa tag, o commit irá contar agora para o author colocado, conseguindo driblar então o sistema de ter que reconfigurar o usuário.
 
 # Enviar commits para um repositório
