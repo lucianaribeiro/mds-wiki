@@ -15,11 +15,11 @@ version: '3'
 
 services:
   redis:
-    image: .
+    build: .
     ports:
       - "6379:6379"
 ```
-No exemplo, cria-se um serviço `redis` utilizando o `Dockerfile` que se encontra na mesma pasta que o docker-compose.yml indicado pelo caractere `.`. Poderia-se também utilizar a imagem oficial do redis disponivel no docker hub, basta substituir o `image: .` por `image: redis`, onde o valor `redis` na chave refere-se ao nome da imagem.
+No exemplo, cria-se um serviço `redis` utilizando o `Dockerfile` que se encontra na mesma pasta que o docker-compose.yml indicado pelo caractere `.`. Poderia-se também utilizar a imagem oficial do redis disponivel no docker hub, basta substituir o `build: .` por `image: redis`, onde o valor `redis` na chave refere-se ao nome da imagem.
 
 ### 2.2. Chaves básicas
 #### 2.2.1. ports
