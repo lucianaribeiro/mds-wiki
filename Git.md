@@ -108,6 +108,14 @@ Exemplo:
     
 <p align = "justify">Feito isso basta salvar o arquivo e seu commit será efetuado com sucesso.  
 
+git commit --author="Author Name <email@address.com>"
+
+<p align = "justify">Um problema que se pode identificar ainda ao se parear utilizando apenas um computador é o de que os commits só vão para o usuário configurado, e logo nos gráficos referentes aos commits, só esse usuário configurado - geralmente o dono do computado - recebe commits. Esse problema pode ser solucionado reconfigurando os usuário registrado na máquina como dito em (Configurações básicas)[#Configurações básicas], o que pode ser um overhead bem grande, ou apenas utilizando a tag --author conforme demonstrado abaixo:
+
+> git commit --author="Author Name <email@address.com>"
+
+<p align = "justify">Ao se utilizar essa tag, o commit irá contar agora para o author colocado, conseguindo driblar então o sistema de ter que reconfigurar o usuário.
+
 # Enviar commits para um repositório
 
 <p align = "justify">Para enviar os commits feitos para o repositório desejado, utiliza-se o comando <i>push</i>. Este comando tem a seguinte assinatura: <i>git push local_remote_name remote_branch_name</i>, onde <i>local_remote_name</i> indica o nome do repositório local em que o repositório git se encontra e <i>remote_branch_name</i> indica o nome da branch em que deve ser enviado o conjunto de commits.
