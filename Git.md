@@ -108,9 +108,7 @@ Exemplo:
     
 <p align = "justify">Feito isso basta salvar o arquivo e seu commit será efetuado com sucesso.  
 
-git commit --author="Author Name <email@address.com>"
-
-<p align = "justify">Um problema que se pode identificar ainda ao se parear utilizando apenas um computador é o de que os commits só vão para o usuário configurado, e logo nos gráficos referentes aos commits, só esse usuário configurado - geralmente o dono do computado - recebe commits. Esse problema pode ser solucionado reconfigurando os usuário registrado na máquina como dito em (Configurações básicas)[#Configurações básicas], o que pode ser um overhead bem grande, ou apenas utilizando a tag --author conforme demonstrado abaixo:
+<p align = "justify">Um problema que se pode identificar ainda ao se parear utilizando apenas um computador é o de que os commits só vão para o usuário configurado, e logo nos gráficos referentes aos commits, só esse usuário configurado - geralmente o dono do computado - recebe commits. Esse problema pode ser solucionado reconfigurando os usuário registrado na máquina como dito em [Configurações básicas](#configura%C3%A7%C3%B5es-b%C3%A1sicas), o que pode ser um overhead bem grande, ou apenas utilizando a tag --author conforme demonstrado abaixo:
 
 > git commit --author="Author Name <email@address.com>"
 
