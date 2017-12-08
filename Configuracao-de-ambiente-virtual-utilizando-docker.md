@@ -6,7 +6,7 @@
 
 ### Instalação
 
-* [Instale o Doker](https://docs.docker.com/engine/installation)
+* [Instale o Docker](https://docs.docker.com/engine/installation)
 
 ### Utilização
 
