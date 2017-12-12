@@ -18,11 +18,35 @@
 
    <p align="justify">&emsp;&emsp;Para descrever a mudança que a action fará no estado é preciso criar reducers. Elas são responsáveis por receber as actions e aplicá-las ao estado, sempre retornando um novo state.</p>
 
+   #### Conceitos importantes
+
+   1. ##### State
+
+      <p align="justify">&emsp;&emsp;State (estado) é o conjunto de dados guardados durante o momento em que sua aplicação está rodando.</p>
+
+   2. ##### Actions
+
+      <p align="justify">&emsp;&emsp;Actions (ações) são objetos que transmitem o que será enviado de cada iteração na aplicação para a store. As actions, obrigatoriamente, precisam possuir um tipo (type) que indica o tipo de iteração e o parâmetro.</p>
+
+   3. ##### Reducers
+
+      <p align="justify">&emsp;&emsp;Como explicado anteriormente, o papel da reducer é receber as actions e aplicar as modificações que elas trazem no state.</p>
+
+   4. ##### Store
+
+      <p align="justify">&emsp;&emsp;A store é responsável por manter o state da aplicação, permitindo a leitura do mesmo e que mudanças só sejam feitas através de reducers.</p>
+
+   #### Conclusão
+
+   <p align="justify">&emsp;&emsp;Com Redux é possível construir aplicações mais eficientes e ele facilita a implementação de funcionalidades mais complexas. Embora a curva de aprendizado seja maior, o ganho de produtividade no desenvolvimento de aplicativos será visível, uma vez que o seu entendimento seja alcançado.</p>
+
+
 #### Bibliografia
 
 GIL, Renan; Afina, o que é redux?; Disponível em: <http://geofusion.tech/afinal-o-que-e-o-redux/>;
 
 IANAKIARA, Diogenes; 5 motivos para usar Redux; Disponível em: <https://blog.getty.io/5-motivos-para-aprender-redux-6ac730f3f1f2>;
 
+DACAL, Vinícius; Conhecendo o básico de Redux; Disponível em <https://imasters.com.br/desenvolvimento/conhecendo-o-basico-do-redux/?trace=1519021197>;
 
-
+SOSA, Henrique; Bem-vindo ao Redux; Disponível em : <https://tableless.com.br/bem-vindo-ao-redux/>;
